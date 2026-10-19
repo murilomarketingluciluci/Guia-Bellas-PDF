@@ -22,3 +22,13 @@ O diário `principal.jsonl` registra comandos literais e resultados subsequentes
 ## Cobertura do registro
 
 As chamadas iniciais de inspeção, criação de arquivos via `apply_patch`, consultas web e esperas do terminal estão resumidas aqui; o transcript da conversa contém seus parâmetros literais. O diário contém os comandos operacionais executados pelo wrapper e resultados literais. Não se declara cobertura literal de toda a sessão dentro deste pacote. Nenhuma credencial foi incluída nos registros.
+
+## Resultado e ponto de corte
+
+Repositório criado e primeiro envio concluído: https://github.com/murilomarketingluciluci/Guia-Bellas-PDF, visibilidade `PUBLIC`, branch `main`. Commit inicial `92e66b08cc374b61858c233a57a73dc9e93e5f5b`, confirmado igual no GitHub. Árvore remota completa com 1.780 arquivos, sem truncamento. Upload LFS: 45 objetos únicos, aproximadamente 1,2 GB, para 49 caminhos; verificação `git lfs fsck` aprovada. Nenhum arquivo foi excluído por `.gitignore` neste envio.
+
+Ocorrências preservadas no diário: `git add` falhou por caminho longo e foi repetido com `core.longpaths=true` local; primeira verificação LFS falhou porque `HEAD` ainda não existia e passou após o commit. A saída de progresso do upload foi truncada na ferramenta, mas o diário e `.git/publicacao_upload.log` preservam a saída recebida pelo executor.
+
+Ponto de corte do diário versionado: após confirmação do primeiro envio em 19/10/2026. Etapa final prevista: commit desta documentação, push e verificação de igualdade dos hashes e ausência de mudanças locais. Para evitar alteração circular do diário a cada commit, essa etapa utiliza uma cópia idêntica de `executar.ps1` em `.git/publicacao_auditoria/`, cujo JSONL local registra comandos e resultados finais e não é publicado. Este arquivo descreve o plano dessa etapa, não antecipa seu sucesso.
+
+Índice de evidências: `principal.jsonl` (ações/resultados), `inventario_publicacao.json` (snapshot de hashes anterior ao envio, sujeito às alterações dos próprios registros), `verificacao_credenciais.json` (varredura sem ocorrências), `verificar_publicacao.py` e `executar.ps1` (scripts executados), `.git/publicacao_upload.log` e `.git/publicacao_auditoria/principal.jsonl` (evidências locais de fechamento). Revisão feita pelo agente principal, sem revisão visual de APN porque nenhuma arte foi alterada.
