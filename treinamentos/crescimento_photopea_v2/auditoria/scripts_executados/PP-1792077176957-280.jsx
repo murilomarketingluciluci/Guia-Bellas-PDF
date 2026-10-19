@@ -1,0 +1,1 @@
+var d=app.activeDocument;d.layerSets.getByName('12 - Agradecimento').artLayers.getByName('p12-agradecimento').textItem.contents='OBRIGADA!';for(var i=0;i<d.layerSets.length;i++)d.layerSets[i].visible=d.layerSets[i].name.indexOf('01 -')===0;d.saveToOE('psd');

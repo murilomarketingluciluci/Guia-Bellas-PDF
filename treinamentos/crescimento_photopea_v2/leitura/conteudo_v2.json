@@ -1,0 +1,438 @@
+{
+  "schema_version": "1.0",
+  "project": "crescimento_photopea_v2",
+  "status": "conteudo_lido_visualmente",
+  "editorial_scope": "Preservar argumento, números, nomes, referências e conclusões; corrigir somente português evidente e normalizar caixa/quebras para diagramação.",
+  "independence": "Transcrição nova feita diretamente dos 9 PNGs originais. Nenhum PSD, manifesto, prova ou treinamento anterior de Crescimento foi lido ou reutilizado.",
+  "source_provenance": {
+    "type": "PNGs originais fornecidos",
+    "external_historical_path": "C:/Users/Murilo/Documents/Projetos/Acelera/Slides Telão 13-09 domingo aracaju-se/apn luciane",
+    "operational_reference": "O diretório absoluto acima é apenas proveniência externa. Após a cópia autorizada pelo agente principal, usar caminhos relativos de assets no manifesto de produção.",
+    "files": "01.png a 09.png",
+    "read_method": "Inspeção visual integral via view_image; 1920×1080; sem OCR e sem consulta externa."
+  },
+  "transcription_note": "literal mantém palavras/pontuação e caixa vistas na imagem; quebras de linha são reconstrução de blocos, não geometria literal da fonte. text contém redação para composição. Números de episódios estão em number.",
+  "source_furniture": {
+    "all_pages": {
+      "top_right": "ACELERA A!",
+      "bottom_left": "ARACAJU - SE",
+      "bottom_right": "Marca LUCI|LUCI",
+      "top_left": "Três ícones de globo"
+    },
+    "note": "Elementos de identidade histórica da fonte, não conteúdo do treinamento a transportar para a capa Bellas. A marca vetorial não foi tratada como transcrição textual autoritativa."
+  },
+  "pages": [
+    {
+      "page": 1,
+      "file": "01.png",
+      "blocks": [
+        {
+          "id": "p01-titulo",
+          "role": "titulo",
+          "literal": "CRESCIMENTO",
+          "text": "Crescimento"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "file": "02.png",
+      "blocks": [
+        {
+          "id": "p02-titulo",
+          "role": "titulo",
+          "literal": "TODO MUNDO QUER CRESCER",
+          "text": "Todo mundo quer crescer"
+        },
+        {
+          "id": "p02-premissa",
+          "role": "premissa",
+          "literal": "MAS CRESCIMENTO EXIGE PREPARAÇÃO",
+          "text": "Mas crescimento exige preparação"
+        },
+        {
+          "id": "p02-01",
+          "role": "item",
+          "number": "01",
+          "literal": "ESTAR ALICERÇADO",
+          "text": "Estar alicerçado"
+        },
+        {
+          "id": "p02-02",
+          "role": "item",
+          "number": "02",
+          "literal": "ESTAR PREPARADO",
+          "text": "Estar preparado"
+        },
+        {
+          "id": "p02-03",
+          "role": "item",
+          "number": "03",
+          "literal": "ESTAR DISPOSTO A APRENDER",
+          "text": "Estar disposto a aprender"
+        },
+        {
+          "id": "p02-04",
+          "role": "item",
+          "number": "04",
+          "literal": "ESTAR DISPOSTO A ENSINAR",
+          "text": "Estar disposto a ensinar"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "file": "03.png",
+      "blocks": [
+        {
+          "id": "p03-titulo",
+          "role": "titulo",
+          "literal": "JESUS SABIA\nPARA QUE VEIO",
+          "text": "Jesus sabia para que veio"
+        },
+        {
+          "id": "p03-proposito",
+          "role": "corpo",
+          "literal": "Ele tinha um propósito.",
+          "text": "Ele tinha um propósito."
+        },
+        {
+          "id": "p03-direcao",
+          "role": "fecho",
+          "literal": "E nada mudou a Sua direção.",
+          "text": "E nada mudou a Sua direção."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "file": "04.png",
+      "blocks": [
+        {
+          "id": "p04-titulo",
+          "role": "titulo",
+          "literal": "TENTARAM MUDAR SUA DIREÇÃO",
+          "text": "Tentaram mudar Sua direção"
+        },
+        {
+          "id": "p04-01",
+          "role": "episodio",
+          "number": "01",
+          "literal": "SATANÁS\nTentou desviá-lo no deserto\nMateus 4:1-11",
+          "title": "Satanás",
+          "text": "Tentou desviá-lo no deserto",
+          "reference": "Mateus 4:1-11"
+        },
+        {
+          "id": "p04-02",
+          "role": "episodio",
+          "number": "02",
+          "literal": "PEDRO\nTentou afastá-lo do caminho da cruz\nMateus 16:21-23",
+          "title": "Pedro",
+          "text": "Tentou afastá-lo do caminho da cruz",
+          "reference": "Mateus 16:21-23"
+        },
+        {
+          "id": "p04-03",
+          "role": "episodio",
+          "number": "03",
+          "literal": "A MULTIDÃO\nQuis fazê-lo rei à força\nJoão 6:14-15",
+          "title": "A multidão",
+          "text": "Quis fazê-lo rei à força",
+          "reference": "João 6:14-15"
+        },
+        {
+          "id": "p04-04",
+          "role": "episodio",
+          "number": "04",
+          "literal": "SUA PRÓPRIA FAMÍLIA\nTentou contê-lo\nMarcos 3:20-21",
+          "title": "Sua própria família",
+          "text": "Tentou contê-lo",
+          "reference": "Marcos 3:20-21"
+        },
+        {
+          "id": "p04-05",
+          "role": "episodio",
+          "number": "05",
+          "literal": "SUA PRÓPRIA TERRA\nRejeitou quem Ele era\nLucas 4:16-30",
+          "title": "Sua própria terra",
+          "text": "Rejeitou quem Ele era",
+          "reference": "Lucas 4:16-30"
+        },
+        {
+          "id": "p04-06",
+          "role": "episodio",
+          "number": "06",
+          "literal": "LÍDERES RELIGIOSOS\nConfrontaram e tramaram contra Ele\nMateus 12:14",
+          "title": "Líderes religiosos",
+          "text": "Confrontaram e tramaram contra Ele",
+          "reference": "Mateus 12:14"
+        },
+        {
+          "id": "p04-07",
+          "role": "episodio",
+          "number": "07",
+          "literal": "FARISEUS E HERODIANOS\nTentaram apanhá-lo em Suas palavras\nMarcos 12:13-17",
+          "title": "Fariseus e herodianos",
+          "text": "Tentaram apanhá-lo em Suas palavras",
+          "reference": "Marcos 12:13-17"
+        },
+        {
+          "id": "p04-08",
+          "role": "episodio",
+          "number": "08",
+          "literal": "OS DISCÍPULOS\nTentaram afastar crianças dEle\nMarcos 10:13-16",
+          "title": "Os discípulos",
+          "text": "Tentaram afastar crianças dEle",
+          "reference": "Marcos 10:13-16"
+        },
+        {
+          "id": "p04-09",
+          "role": "episodio",
+          "number": "09",
+          "literal": "TIAGO E JOÃO\nBuscaram posição e grandeza\nMarcos 10:35-45",
+          "title": "Tiago e João",
+          "text": "Buscaram posição e grandeza",
+          "reference": "Marcos 10:35-45"
+        },
+        {
+          "id": "p04-10",
+          "role": "episodio",
+          "number": "10",
+          "literal": "A MULTIDÃO\nPressionava para que Ele permanecesse\nLucas 4:42-43",
+          "title": "A multidão",
+          "text": "Pressionava para que Ele permanecesse",
+          "reference": "Lucas 4:42-43"
+        },
+        {
+          "id": "p04-11",
+          "role": "episodio",
+          "number": "11",
+          "literal": "GETSÊMANI\nEnfrentou a angústia do caminho\nMateus 26:36-46",
+          "title": "Getsêmani",
+          "text": "Enfrentou a angústia do caminho",
+          "reference": "Mateus 26:36-46"
+        },
+        {
+          "id": "p04-12",
+          "role": "episodio",
+          "number": "12",
+          "literal": "NA CRUZ\nProvocaram: “salva-te a ti mesmo”\nMateus 27:39-43",
+          "title": "Na cruz",
+          "text": "Provocaram: “Salva-te a ti mesmo”",
+          "reference": "Mateus 27:39-43"
+        },
+        {
+          "id": "p04-fecho",
+          "role": "fecho",
+          "literal": "E AINDA ASSIM, ELE NÃO PERDEU O PROPÓSITO!",
+          "text": "E, ainda assim, Ele não perdeu o propósito!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "file": "05.png",
+      "blocks": [
+        {
+          "id": "p05-titulo",
+          "role": "titulo",
+          "literal": "ELE FOI\nATÉ O FIM!",
+          "text": "Ele foi até o fim!"
+        },
+        {
+          "id": "p05-citacao",
+          "role": "citacao",
+          "literal": "“Está consumado.”",
+          "text": "“Está consumado.”",
+          "reference": "João 19:30",
+          "reference_literal": "JOÃO 19:30"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "file": "06.png",
+      "blocks": [
+        {
+          "id": "p06-titulo",
+          "role": "titulo",
+          "literal": "JESUS PREPAROU\nPESSOAS",
+          "text": "Jesus preparou pessoas"
+        },
+        {
+          "id": "p06-cadeia",
+          "role": "corpo",
+          "literal": "E essas pessoas prepararam outras",
+          "text": "E essas pessoas prepararam outras"
+        },
+        {
+          "id": "p06-fecho",
+          "role": "fecho",
+          "literal": "ATÉ CHEGAR EM NÓS",
+          "text": "Até chegar a nós"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "file": "07.png",
+      "blocks": [
+        {
+          "id": "p07-titulo",
+          "role": "titulo",
+          "literal": "ESTAMOS CRESCENDO",
+          "text": "Estamos crescendo"
+        },
+        {
+          "id": "p07-consequencia",
+          "role": "corpo",
+          "literal": "E quanto mais crescemos,\nmais pessoas precisamos preparar",
+          "text": "E, quanto mais crescemos, mais pessoas precisamos preparar."
+        },
+        {
+          "id": "p07-proposito",
+          "role": "corpo",
+          "literal": "PORQUE O NOSSO MAIOR PROPÓSITO\nSÃO PESSOAS",
+          "text": "Porque o nosso maior propósito são pessoas."
+        },
+        {
+          "id": "p07-fecho",
+          "role": "fecho",
+          "literal": "O propósito não pode parar em nós",
+          "text": "O propósito não pode parar em nós."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "file": "08.png",
+      "blocks": [
+        {
+          "id": "p08-titulo",
+          "role": "titulo",
+          "literal": "JESUS PREPAROU PESSOAS",
+          "text": "Jesus preparou pessoas"
+        },
+        {
+          "id": "p08-tempo",
+          "role": "corpo",
+          "literal": "MAS NEM TODAS PRECISARAM DE ANOS\nAO LADO DELE PARA COMEÇAR A MULTIPLICAR",
+          "text": "Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar."
+        },
+        {
+          "id": "p08-exemplo",
+          "role": "corpo",
+          "literal": "A mulher samaritana encontrou Jesus\n— e levou outros até Ele",
+          "text": "A mulher samaritana encontrou Jesus — e levou outros até Ele.",
+          "reference": "João 4",
+          "reference_literal": "JOÃO 4"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "file": "09.png",
+      "blocks": [
+        {
+          "id": "p09-titulo",
+          "role": "titulo",
+          "literal": "ELA ENCONTROU JESUS\nE LEVOU OUTROS ATÉ ELE",
+          "text": "Ela encontrou Jesus e levou outros até Ele"
+        },
+        {
+          "id": "p09-convite",
+          "role": "citacao",
+          "literal": "“VENHAM VER...”",
+          "text": "“Venham ver...”"
+        },
+        {
+          "id": "p09-testemunho",
+          "role": "corpo",
+          "literal": "Muitos samaritanos CRERAM em Jesus\npor causa do TESTEMUNHO daquela mulher",
+          "text": "Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher.",
+          "reference": "João 4:29, 39",
+          "reference_literal": "JOÃO 4:29, 39"
+        },
+        {
+          "id": "p09-fecho",
+          "role": "fecho",
+          "literal": "QUEM RECEBE NÃO GUARDA PARA SI",
+          "text": "Quem recebe não guarda para si."
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "source": "p01/p02/p03/p04/p05/p06/p07/p08/p09",
+      "type": "apresentacao",
+      "change": "Conversão de caixa alta de títulos/itens para caixa mista; remoção de quebras puramente gráficas. Nenhum argumento alterado."
+    },
+    {
+      "source": "p04-12",
+      "before": "Provocaram: “salva-te a ti mesmo”",
+      "after": "Provocaram: “Salva-te a ti mesmo”",
+      "reason": "Inicial maiúscula em fala direta."
+    },
+    {
+      "source": "p04-fecho",
+      "before": "E AINDA ASSIM, ELE NÃO PERDEU O PROPÓSITO!",
+      "after": "E, ainda assim, Ele não perdeu o propósito!",
+      "reason": "Pontuação de locução intercalada; caixa normalizada."
+    },
+    {
+      "source": "p06-fecho",
+      "before": "ATÉ CHEGAR EM NÓS",
+      "after": "Até chegar a nós",
+      "reason": "Regência normativa de chegar; significado e conclusão preservados."
+    },
+    {
+      "source": "p07-consequencia",
+      "before": "E quanto mais crescemos, mais pessoas precisamos preparar",
+      "after": "E, quanto mais crescemos, mais pessoas precisamos preparar.",
+      "reason": "Pontuação do segmento intercalado e ponto final."
+    },
+    {
+      "source": "p07-proposito/p07-fecho/p08-tempo/p08-exemplo/p09-testemunho/p09-fecho",
+      "type": "pontuacao",
+      "change": "Ponto final nos períodos corridos; palavra dEle no corpo de p08 para coerência com a grafia reverencial já presente na fonte. Nomes, sentido e referências preservados."
+    }
+  ],
+  "coverage": {
+    "source_pages_read": 9,
+    "source_pages_total": 9,
+    "preparation_items": 4,
+    "episodes": 12,
+    "episode_numbers": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ],
+    "episode_references": 12,
+    "other_reference_blocks": 3,
+    "other_references": [
+      "João 19:30",
+      "João 4",
+      "João 4:29, 39"
+    ],
+    "all_conclusions_present": true,
+    "unreadable_content": [],
+    "source_to_production_mapping": "A preencher no manifesto final; não existe prova final aprovada nesta etapa.",
+    "final_proof_review": "pendente"
+  },
+  "limitations": [
+    "Não foi realizada validação factual/teológica das referências ou das afirmações; o escopo é fidelidade editorial ao material recebido.",
+    "A topografia de linhas do campo literal é representação de blocos, não transcrição de coordenadas ou espaçamentos.",
+    "Aprovação visual/editorial das provas finais ainda pendente."
+  ]
+}

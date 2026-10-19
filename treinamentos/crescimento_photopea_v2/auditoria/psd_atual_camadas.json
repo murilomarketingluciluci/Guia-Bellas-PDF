@@ -1,0 +1,4249 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "resolution": {
+    "horizontal": 4718592,
+    "vertical": 4718592,
+    "horizontal_unit": 1,
+    "vertical_unit": 1,
+    "width_unit": 2,
+    "height_unit": 2,
+    "horizontal_ppi": 72.0,
+    "vertical_ppi": 72.0
+  },
+  "note": "Tamanhos são valores de camada; interprete junto a transform/resolução, não apenas como pt visuais.",
+  "layers": [
+    {
+      "path": "Background",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "12 - Agradecimento",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/FOTO FIXA ORIGINAL - 5",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        -102,
+        -39,
+        1920,
+        1098
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/FOTO FIXA ORIGINAL - 6",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/Retângulo 5 copiar",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/01 - LOGO PRINCIPAL KJL",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/Retângulo 572",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/Retângulo 572 copiar",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/Retângulo 572 copiar 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/p12-agradecimento",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        638,
+        494,
+        1279,
+        584
+      ],
+      "text": "OBRIGADA!",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 10,
+          "font_size_layer": 123.30260638374024,
+          "leading": "123.30260638374024",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        629.0,
+        582.3026063837402
+      ]
+    },
+    {
+      "path": "12 - Agradecimento/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 15.205094957203775,
+          "leading": "123.30260638374024",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        95.0,
+        69.20509495720377
+      ]
+    },
+    {
+      "path": "01 - Capa",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -110,
+        -18,
+        2093,
+        1451
+      ]
+    },
+    {
+      "path": "01 - Capa/FUNDO",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "01 - Capa/FOTO FIXA ORIGINAL - 28",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        -110,
+        -18,
+        2093,
+        1451
+      ]
+    },
+    {
+      "path": "01 - Capa/Camada 1 copiar",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "01 - Capa/ETIQUETA TREINAMENTO",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        936,
+        336,
+        1585,
+        387
+      ]
+    },
+    {
+      "path": "01 - Capa/p01-titulo",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        936,
+        428,
+        1646,
+        524
+      ],
+      "text": "Crescimento",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 130.70151814288087,
+          "leading": "156.84",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        928.0,
+        521.7015181428809
+      ]
+    },
+    {
+      "path": "01 - Capa/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "01 - Capa/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "01 - Capa/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "01 - Capa/TREINAMENTO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1017,
+        349,
+        1506,
+        375
+      ],
+      "text": "TREINAMENTO",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 34.87644495378766,
+          "leading": "123.30260638374024",
+          "tracking": "640",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1016.0,
+        373.87644495378765
+      ]
+    },
+    {
+      "path": "11 - Venham ver",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "11 - Venham ver/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "11 - Venham ver/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "11 - Venham ver/B BELLAS - marca d’água",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "11 - Venham ver/filete-fecho",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        250,
+        715,
+        1670,
+        718
+      ]
+    },
+    {
+      "path": "11 - Venham ver/p09-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        250,
+        215,
+        970,
+        344
+      ],
+      "text": "Ela encontrou Jesus\re levou outros até Ele\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 22,
+          "font_size_layer": 66.0,
+          "leading": "79",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 20,
+          "font_size_layer": 66.0,
+          "leading": "79",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 66.0,
+          "leading": "79",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        247.0,
+        264.0
+      ]
+    },
+    {
+      "path": "11 - Venham ver/p09-convite",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        250,
+        390,
+        888,
+        458
+      ],
+      "text": "“Venham ver...”",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 16,
+          "font_size_layer": 90.0,
+          "leading": "104",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        244.0,
+        456.0
+      ]
+    },
+    {
+      "path": "11 - Venham ver/p09-testemunho",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        255,
+        520,
+        1124,
+        610
+      ],
+      "text": "Muitos samaritanos creram em Jesus\rpor causa do testemunho daquela mulher.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 75,
+          "font_size_layer": 42.0,
+          "leading": "52",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        252.0,
+        551.0
+      ]
+    },
+    {
+      "path": "11 - Venham ver/p09-testemunho-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        255,
+        655,
+        445,
+        681
+      ],
+      "text": "João 4:29, 39",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 14,
+          "font_size_layer": 28.0,
+          "leading": "32.48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        255.0,
+        676.0
+      ]
+    },
+    {
+      "path": "11 - Venham ver/p09-fecho",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        250,
+        750,
+        1018,
+        793
+      ],
+      "text": "Quem recebe não guarda para si.",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 32,
+          "font_size_layer": 46.0,
+          "leading": "56",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        248.0,
+        785.0
+      ]
+    },
+    {
+      "path": "11 - Venham ver/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "11 - Venham ver/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "11 - Venham ver/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/FOTO - foto_agua_poco",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1230,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/filete-exemplo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        150,
+        635,
+        1050,
+        638
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/p08-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        145,
+        260,
+        714,
+        415
+      ],
+      "text": "Jesus preparou\rpessoas\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 76.0,
+          "leading": "88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 76.0,
+          "leading": "88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 76.0,
+          "leading": "88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        143.0,
+        314.0
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/p08-tempo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        460,
+        940,
+        547
+      ],
+      "text": "Mas nem todas precisaram de anos\rao lado dEle para começar a multiplicar.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 74,
+          "font_size_layer": 40.0,
+          "leading": "50",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        149.0,
+        490.0
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/p08-exemplo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        675,
+        896,
+        756
+      ],
+      "text": "A mulher samaritana encontrou Jesus\r— e levou outros até Ele.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 62,
+          "font_size_layer": 40.0,
+          "leading": "50",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        149.0,
+        705.0
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/p08-exemplo-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        830,
+        245,
+        852
+      ],
+      "text": "João 4",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 7,
+          "font_size_layer": 28.0,
+          "leading": "32.48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        851.0
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "10 - Começar a multiplicar/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/FOTO - foto_pessoas_encontro_v2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        700,
+        1080
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/B BELLAS - marca d’água",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/p07-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        835,
+        255,
+        1509,
+        308
+      ],
+      "text": "Estamos crescendo\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 70.0,
+          "leading": "81",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 9,
+          "font_size_layer": 70.0,
+          "leading": "81",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 70.0,
+          "leading": "81",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        829.0,
+        307.0
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/p07-consequencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        840,
+        410,
+        1522,
+        495
+      ],
+      "text": "E, quanto mais crescemos,\rmais pessoas precisamos preparar.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 60,
+          "font_size_layer": 40.0,
+          "leading": "49",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        837.0,
+        439.0
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/p07-proposito",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        840,
+        585,
+        1601,
+        686
+      ],
+      "text": "Porque o nosso maior propósito\rsão pessoas.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 44,
+          "font_size_layer": 48.0,
+          "leading": "57",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        838.0,
+        621.0
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/p07-fecho",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        840,
+        775,
+        1501,
+        809
+      ],
+      "text": "O propósito não pode parar em nós.",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 35,
+          "font_size_layer": 36.0,
+          "leading": "45",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        839.0,
+        803.0
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "09 - Crescer para preparar/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/eixo-transmissao",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        190,
+        410,
+        1710,
+        413
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/p06-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        475,
+        643,
+        612
+      ],
+      "text": "Jesus preparou\rpessoas\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 66.0,
+          "leading": "79",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 66.0,
+          "leading": "79",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 66.0,
+          "leading": "79",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        148.0,
+        522.0
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/p06-cadeia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        485,
+        1167,
+        580
+      ],
+      "text": "E essas pessoas\rprepararam outras",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 34,
+          "font_size_layer": 45.0,
+          "leading": "55",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        757.0,
+        517.0
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/p06-fecho",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1430,
+        475,
+        1773,
+        599
+      ],
+      "text": "Até chegar\ra nós",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 62.0,
+          "leading": "75",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1429.0,
+        523.0
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/marco-01",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        340,
+        398,
+        364,
+        422
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/marco-02",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1000,
+        398,
+        1024,
+        422
+      ]
+    },
+    {
+      "path": "08 - Pessoas que preparam pessoas/marco-03",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1600,
+        398,
+        1624,
+        422
+      ]
+    },
+    {
+      "path": "07 - Até o fim",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "07 - Até o fim/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 - Até o fim/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "07 - Até o fim/B BELLAS - marca d’água",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "07 - Até o fim/p05-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        260,
+        342,
+        1001,
+        416
+      ],
+      "text": "Ele foi até o fim!\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 92.0,
+          "leading": "106",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 10,
+          "font_size_layer": 92.0,
+          "leading": "106",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 92.0,
+          "leading": "106",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        251.0,
+        414.0
+      ]
+    },
+    {
+      "path": "07 - Até o fim/p05-citacao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        265,
+        490,
+        968,
+        548
+      ],
+      "text": "“Está consumado.”",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 18,
+          "font_size_layer": 78.0,
+          "leading": "90",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        259.0,
+        547.0
+      ]
+    },
+    {
+      "path": "07 - Até o fim/p05-citacao-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        270,
+        590,
+        437,
+        614
+      ],
+      "text": "João 19:30",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 11,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        270.0,
+        613.0
+      ]
+    },
+    {
+      "path": "07 - Até o fim/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "07 - Até o fim/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "07 - Até o fim/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/FOTO - foto_permanencia_rochas",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        600,
+        1080
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/p04-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        709,
+        180,
+        1210,
+        310
+      ],
+      "text": "Tentaram mudar\rSua direção\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 62.0,
+          "leading": "73",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 62.0,
+          "leading": "73",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 62.0,
+          "leading": "73",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        707.0,
+        226.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/p04-fecho",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        905,
+        1431,
+        937
+      ],
+      "text": "E, ainda assim, Ele não perdeu o propósito!",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 44,
+          "font_size_layer": 33.0,
+          "leading": "40",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        708.0,
+        931.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        620,
+        358,
+        658,
+        382
+      ],
+      "text": "09",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        618.0,
+        381.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        355,
+        918,
+        386
+      ],
+      "text": "Tiago e João",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 13,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        709.0,
+        380.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        393,
+        1166,
+        422
+      ],
+      "text": "Buscaram posição e grandeza",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 28,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        707.0,
+        416.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        432,
+        908,
+        451
+      ],
+      "text": "Marcos 10:35-45",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 25.0,
+          "leading": "29",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        708.0,
+        450.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-faixa",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        342,
+        1795,
+        460
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        342,
+        560,
+        460
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        620,
+        488,
+        650,
+        512
+      ],
+      "text": "10",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        620.0,
+        511.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        485,
+        888,
+        511
+      ],
+      "text": "A multidão",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        710.0,
+        510.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        523,
+        1319,
+        551
+      ],
+      "text": "Pressionava para que Ele permanecesse",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 38,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        707.0,
+        546.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        562,
+        883,
+        581
+      ],
+      "text": "Lucas 4:42-43",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 14,
+          "font_size_layer": 25.0,
+          "leading": "29",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        708.0,
+        580.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-faixa",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        472,
+        1795,
+        590
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        472,
+        560,
+        590
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        620,
+        618,
+        638,
+        640
+      ],
+      "text": "11",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        620.0,
+        640.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        615,
+        880,
+        641
+      ],
+      "text": "Getsêmani",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 10,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        709.0,
+        640.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        653,
+        1215,
+        682
+      ],
+      "text": "Enfrentou a angústia do caminho",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 32,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        707.0,
+        676.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        692,
+        915,
+        711
+      ],
+      "text": "Mateus 26:36-46",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 25.0,
+          "leading": "29",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        708.0,
+        710.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-faixa",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        602,
+        1795,
+        720
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        602,
+        560,
+        720
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        620,
+        748,
+        647,
+        771
+      ],
+      "text": "12",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        620.0,
+        771.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        745,
+        830,
+        769
+      ],
+      "text": "Na cruz",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 8,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        708.0,
+        768.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        783,
+        1238,
+        807
+      ],
+      "text": "Provocaram: “Salva-te a ti mesmo”",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 34,
+          "font_size_layer": 31.0,
+          "leading": "35.96",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        707.0,
+        806.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        710,
+        822,
+        912,
+        841
+      ],
+      "text": "Mateus 27:39-43",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 25.0,
+          "leading": "29",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        708.0,
+        840.0
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-faixa",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        732,
+        1795,
+        850
+      ]
+    },
+    {
+      "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        555,
+        732,
+        560,
+        850
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/B BELLAS - marca d’água",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/p04-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        139,
+        350,
+        697,
+        495
+      ],
+      "text": "Tentaram mudar\rSua direção\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 69.0,
+          "leading": "82",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 69.0,
+          "leading": "82",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 69.0,
+          "leading": "82",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        137.0,
+        401.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/05 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        850,
+        210,
+        889,
+        234
+      ],
+      "text": "05",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        848.0,
+        233.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        210,
+        1233,
+        244
+      ],
+      "text": "Sua própria terra",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 18,
+          "font_size_layer": 35.0,
+          "leading": "40.6",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        934.0,
+        238.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        258,
+        1278,
+        288
+      ],
+      "text": "Rejeitou quem Ele era",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 22,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        932.0,
+        282.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        301,
+        1116,
+        322
+      ],
+      "text": "Lucas 4:16-30",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 14,
+          "font_size_layer": 27.0,
+          "leading": "31.32",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        321.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        820,
+        210,
+        823,
+        340
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/06 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        850,
+        375,
+        890,
+        399
+      ],
+      "text": "06",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        848.0,
+        398.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        375,
+        1246,
+        409
+      ],
+      "text": "Líderes religiosos",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 19,
+          "font_size_layer": 35.0,
+          "leading": "40.6",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        403.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        423,
+        1514,
+        448
+      ],
+      "text": "Confrontaram e tramaram contra Ele",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 35,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        447.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        466,
+        1096,
+        487
+      ],
+      "text": "Mateus 12:14",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 13,
+          "font_size_layer": 27.0,
+          "leading": "31.32",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        486.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        820,
+        375,
+        823,
+        505
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/07 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        850,
+        540,
+        888,
+        564
+      ],
+      "text": "07",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        848.0,
+        563.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        540,
+        1319,
+        567
+      ],
+      "text": "Fariseus e herodianos",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 22,
+          "font_size_layer": 35.0,
+          "leading": "40.6",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        566.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        588,
+        1533,
+        618
+      ],
+      "text": "Tentaram apanhá-lo em Suas palavras",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 36,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        934.0,
+        612.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        631,
+        1130,
+        652
+      ],
+      "text": "Marcos 12:13-17",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 27.0,
+          "leading": "31.32",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        651.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        820,
+        540,
+        823,
+        670
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/08 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        850,
+        705,
+        890,
+        729
+      ],
+      "text": "08",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        848.0,
+        728.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        705,
+        1170,
+        739
+      ],
+      "text": "Os discípulos",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 14,
+          "font_size_layer": 35.0,
+          "leading": "40.6",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        934.0,
+        733.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        753,
+        1419,
+        782
+      ],
+      "text": "Tentaram afastar crianças dEle",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 31,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        934.0,
+        777.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        935,
+        796,
+        1134,
+        817
+      ],
+      "text": "Marcos 10:13-16",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 27.0,
+          "leading": "31.32",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        933.0,
+        816.0
+      ]
+    },
+    {
+      "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        820,
+        705,
+        823,
+        835
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/p04-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        140,
+        198,
+        1230,
+        270
+      ],
+      "text": "Tentaram mudar Sua direção\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 76.0,
+          "leading": "88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 76.0,
+          "leading": "88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 76.0,
+          "leading": "88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        137.0,
+        256.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/01 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        180,
+        350,
+        209,
+        374
+      ],
+      "text": "01",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        178.0,
+        373.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        270,
+        350,
+        410,
+        379
+      ],
+      "text": "Satanás",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 8,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        269.0,
+        378.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        350,
+        1228,
+        377
+      ],
+      "text": "Tentou desviá-lo no deserto",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 28,
+          "font_size_layer": 34.0,
+          "leading": "39.44",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        759.0,
+        376.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        398,
+        930,
+        419
+      ],
+      "text": "Mateus 4:1-11",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 14,
+          "font_size_layer": 28.0,
+          "leading": "32.48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        758.0,
+        418.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        155,
+        350,
+        159,
+        446
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/02 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        180,
+        480,
+        217,
+        504
+      ],
+      "text": "02",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        178.0,
+        503.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        270,
+        480,
+        375,
+        508
+      ],
+      "text": "Pedro",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        267.0,
+        507.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        480,
+        1374,
+        507
+      ],
+      "text": "Tentou afastá-lo do caminho da cruz",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 36,
+          "font_size_layer": 34.0,
+          "leading": "39.44",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        759.0,
+        506.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        528,
+        972,
+        549
+      ],
+      "text": "Mateus 16:21-23",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 28.0,
+          "leading": "32.48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        758.0,
+        548.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        155,
+        480,
+        159,
+        576
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/03 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        180,
+        610,
+        218,
+        634
+      ],
+      "text": "03",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        178.0,
+        633.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        270,
+        610,
+        471,
+        639
+      ],
+      "text": "A multidão",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        270.0,
+        638.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        610,
+        1136,
+        642
+      ],
+      "text": "Quis fazê-lo rei à força",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 25,
+          "font_size_layer": 34.0,
+          "leading": "39.44",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        758.0,
+        636.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        658,
+        927,
+        679
+      ],
+      "text": "João 6:14-15",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 13,
+          "font_size_layer": 28.0,
+          "leading": "32.48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        760.0,
+        678.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        155,
+        610,
+        159,
+        706
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/04 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        180,
+        740,
+        221,
+        764
+      ],
+      "text": "04",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 32.0,
+          "leading": "37.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        178.0,
+        763.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-nome",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        270,
+        740,
+        613,
+        774
+      ],
+      "text": "Sua própria família",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 20,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        269.0,
+        768.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-acao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        740,
+        1023,
+        766
+      ],
+      "text": "Tentou contê-lo",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 34.0,
+          "leading": "39.44",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        759.0,
+        765.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-referencia",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        760,
+        788,
+        963,
+        809
+      ],
+      "text": "Marcos 3:20-21",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 28.0,
+          "leading": "32.48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        758.0,
+        808.0
+      ]
+    },
+    {
+      "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        155,
+        740,
+        159,
+        836
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/FOTO - foto_direcao_arcada",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1230,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/p03-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        145,
+        335,
+        693,
+        498
+      ],
+      "text": "Jesus sabia\rpara que veio\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 80.0,
+          "leading": "91",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 13,
+          "font_size_layer": 80.0,
+          "leading": "91",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.7019607843137254, 0.44313725490196076, 0.5568627450980392]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 80.0,
+          "leading": "91",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        143.0,
+        394.0
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/p03-proposito",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        565,
+        660,
+        607
+      ],
+      "text": "Ele tinha um propósito.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 24,
+          "font_size_layer": 45.0,
+          "leading": "54",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        146.0,
+        599.0
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/p03-direcao",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        635,
+        808,
+        678
+      ],
+      "text": "E nada mudou a Sua direção.",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 28,
+          "font_size_layer": 45.0,
+          "leading": "54",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        147.0,
+        670.0
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "03 - Propósito e direção/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "02 - Preparação",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "02 - Preparação/FUNDO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "02 - Preparação/MARCAS E CABECALHO APROVADOS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "02 - Preparação/B BELLAS - marca d’água",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "02 - Preparação/p02-titulo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        140,
+        290,
+        590,
+        437
+      ],
+      "text": "Todo mundo\rquer crescer\r",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 11,
+          "font_size_layer": 72.0,
+          "leading": "82",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 12,
+          "font_size_layer": 72.0,
+          "leading": "82",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 2,
+          "font_size_layer": 72.0,
+          "leading": "82",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        137.0,
+        343.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/p02-premissa",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        145,
+        505,
+        485,
+        589
+      ],
+      "text": "Mas crescimento\rexige preparação",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 33,
+          "font_size_layer": 40.0,
+          "leading": "48",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        143.0,
+        534.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/COR APROVADA 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "02 - Preparação/COR APROVADA 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "02 - Preparação/COR APROVADA 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "02 - Preparação/01 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "02 - Preparação/01 - bloco editável/p02-01-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        920,
+        265,
+        952,
+        292
+      ],
+      "text": "01",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        918.0,
+        291.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/01 - bloco editável/p02-01",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1050,
+        263,
+        1386,
+        302
+      ],
+      "text": "Estar alicerçado",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 17,
+          "font_size_layer": 43.0,
+          "leading": "51",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1046.0,
+        295.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/01 - bloco editável/p02-01-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1015,
+        255,
+        1018,
+        355
+      ]
+    },
+    {
+      "path": "02 - Preparação/02 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "02 - Preparação/02 - bloco editável/p02-02-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        920,
+        405,
+        962,
+        432
+      ],
+      "text": "02",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        918.0,
+        431.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/02 - bloco editável/p02-02",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1050,
+        403,
+        1388,
+        442
+      ],
+      "text": "Estar preparado",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 43.0,
+          "leading": "51",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1046.0,
+        435.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/02 - bloco editável/p02-02-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1015,
+        395,
+        1018,
+        495
+      ]
+    },
+    {
+      "path": "02 - Preparação/03 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "02 - Preparação/03 - bloco editável/p02-03-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        920,
+        545,
+        963,
+        572
+      ],
+      "text": "03",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        918.0,
+        571.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/03 - bloco editável/p02-03",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1050,
+        543,
+        1352,
+        633
+      ],
+      "text": "Estar disposto\ra aprender",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 26,
+          "font_size_layer": 43.0,
+          "leading": "51",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1048.0,
+        575.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/03 - bloco editável/p02-03-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1015,
+        535,
+        1018,
+        635
+      ]
+    },
+    {
+      "path": "02 - Preparação/04 - bloco editável",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "02 - Preparação/04 - bloco editável/p02-04-numero",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        920,
+        685,
+        966,
+        712
+      ],
+      "text": "04",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 3,
+          "font_size_layer": 36.0,
+          "leading": "41.76",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 0.984313725490196, 0.6627450980392157, 0.7647058823529411]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        918.0,
+        711.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/04 - bloco editável/p02-04",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1050,
+        683,
+        1352,
+        767
+      ],
+      "text": "Estar disposto\ra ensinar",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 25,
+          "font_size_layer": 43.0,
+          "leading": "51",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1, 1, 1, 1]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1048.0,
+        715.0
+      ]
+    },
+    {
+      "path": "02 - Preparação/04 - bloco editável/p02-04-filete",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1015,
+        675,
+        1018,
+        775
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "checks": {
+    "source_snapshots_verified": 4,
+    "operational_rows_verified": 459,
+    "readable_tool_arguments_verified": 187,
+    "tool_call_rows_verified": 227,
+    "tool_return_rows_verified": 230,
+    "context_literals_copied_without_normalization": 33,
+    "literal_anchors_match_main_and_agent_context": 7,
+    "production_files_unchanged": 28,
+    "image_prompts_literally_match_sent_prompts": 4,
+    "generated_images_match_selected_assets": 4
+  },
+  "not_certified": [
+    "Equivalência de texto claro a payload cifrado.",
+    "Mensagens fora do contexto disponível.",
+    "Execução física de ações externas não registradas.",
+    "Identidade efetiva do backend a partir de configuração."
+  ]
+}

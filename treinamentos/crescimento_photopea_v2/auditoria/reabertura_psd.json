@@ -1,0 +1,2335 @@
+{
+  "psd_sha256": "ced7857b6168c1a5f008f6775b433191a62bd5562b202f93267ef1ba74470bb7",
+  "source": "actual saved PSD reopened via Photopea ArrayBuffer",
+  "pages": [
+    {
+      "name": "01 - Capa",
+      "layers": [
+        {
+          "name": "TREINAMENTO",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1017,
+            349,
+            1506,
+            375
+          ]
+        },
+        {
+          "name": "COR APROVADA 3",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p01-titulo",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            936,
+            428,
+            1646,
+            524
+          ]
+        },
+        {
+          "name": "ETIQUETA TREINAMENTO",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            936,
+            336,
+            1585,
+            387
+          ]
+        },
+        {
+          "name": "Camada 1 copiar",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FOTO FIXA ORIGINAL - 28",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 25.88235294117647,
+          "bounds": [
+            -118,
+            -737,
+            2093,
+            1451
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "01 - Capa",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "02 - Preparação",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p02-premissa",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            145,
+            505,
+            485,
+            589
+          ]
+        },
+        {
+          "name": "p02-titulo",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            140,
+            290,
+            590,
+            437
+          ]
+        },
+        {
+          "name": "B BELLAS - marca d’água",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 5.098039215686274,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "02 - Preparação",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        },
+        {
+          "name": "p02-04-filete",
+          "path": "02 - Preparação/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1015,
+            675,
+            1018,
+            775
+          ]
+        },
+        {
+          "name": "p02-04",
+          "path": "02 - Preparação/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1050,
+            683,
+            1352,
+            767
+          ]
+        },
+        {
+          "name": "p02-04-numero",
+          "path": "02 - Preparação/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            920,
+            685,
+            966,
+            712
+          ]
+        },
+        {
+          "name": "p02-03-filete",
+          "path": "02 - Preparação/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1015,
+            535,
+            1018,
+            635
+          ]
+        },
+        {
+          "name": "p02-03",
+          "path": "02 - Preparação/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1050,
+            543,
+            1352,
+            633
+          ]
+        },
+        {
+          "name": "p02-03-numero",
+          "path": "02 - Preparação/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            920,
+            545,
+            963,
+            572
+          ]
+        },
+        {
+          "name": "p02-02-filete",
+          "path": "02 - Preparação/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1015,
+            395,
+            1018,
+            495
+          ]
+        },
+        {
+          "name": "p02-02",
+          "path": "02 - Preparação/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1050,
+            403,
+            1388,
+            442
+          ]
+        },
+        {
+          "name": "p02-02-numero",
+          "path": "02 - Preparação/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            920,
+            405,
+            962,
+            432
+          ]
+        },
+        {
+          "name": "p02-01-filete",
+          "path": "02 - Preparação/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1015,
+            255,
+            1018,
+            355
+          ]
+        },
+        {
+          "name": "p02-01",
+          "path": "02 - Preparação/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1050,
+            263,
+            1386,
+            302
+          ]
+        },
+        {
+          "name": "p02-01-numero",
+          "path": "02 - Preparação/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            920,
+            265,
+            952,
+            292
+          ]
+        }
+      ]
+    },
+    {
+      "name": "03 - Propósito e direção",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p03-direcao",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            635,
+            808,
+            678
+          ]
+        },
+        {
+          "name": "p03-proposito",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            565,
+            660,
+            607
+          ]
+        },
+        {
+          "name": "p03-titulo",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            145,
+            335,
+            693,
+            498
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FOTO - foto_direcao_arcada",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1230,
+            0,
+            1920,
+            1080
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "03 - Propósito e direção",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "04 - Oposições 01 a 04",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "04 - Oposições 01 a 04",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "04 - Oposições 01 a 04",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "04 - Oposições 01 a 04",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p04-titulo",
+          "path": "04 - Oposições 01 a 04",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            140,
+            198,
+            1230,
+            270
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "04 - Oposições 01 a 04",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "04 - Oposições 01 a 04",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        },
+        {
+          "name": "p04-04-filete",
+          "path": "04 - Oposições 01 a 04/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            155,
+            740,
+            159,
+            836
+          ]
+        },
+        {
+          "name": "p04-04-referencia",
+          "path": "04 - Oposições 01 a 04/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            788,
+            963,
+            809
+          ]
+        },
+        {
+          "name": "p04-04-acao",
+          "path": "04 - Oposições 01 a 04/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            740,
+            1023,
+            766
+          ]
+        },
+        {
+          "name": "p04-04-nome",
+          "path": "04 - Oposições 01 a 04/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            270,
+            740,
+            613,
+            774
+          ]
+        },
+        {
+          "name": "p04-04-numero",
+          "path": "04 - Oposições 01 a 04/04 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            180,
+            740,
+            221,
+            764
+          ]
+        },
+        {
+          "name": "p04-03-filete",
+          "path": "04 - Oposições 01 a 04/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            155,
+            610,
+            159,
+            706
+          ]
+        },
+        {
+          "name": "p04-03-referencia",
+          "path": "04 - Oposições 01 a 04/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            658,
+            927,
+            679
+          ]
+        },
+        {
+          "name": "p04-03-acao",
+          "path": "04 - Oposições 01 a 04/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            610,
+            1136,
+            642
+          ]
+        },
+        {
+          "name": "p04-03-nome",
+          "path": "04 - Oposições 01 a 04/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            270,
+            610,
+            471,
+            639
+          ]
+        },
+        {
+          "name": "p04-03-numero",
+          "path": "04 - Oposições 01 a 04/03 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            180,
+            610,
+            218,
+            634
+          ]
+        },
+        {
+          "name": "p04-02-filete",
+          "path": "04 - Oposições 01 a 04/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            155,
+            480,
+            159,
+            576
+          ]
+        },
+        {
+          "name": "p04-02-referencia",
+          "path": "04 - Oposições 01 a 04/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            528,
+            972,
+            549
+          ]
+        },
+        {
+          "name": "p04-02-acao",
+          "path": "04 - Oposições 01 a 04/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            480,
+            1374,
+            507
+          ]
+        },
+        {
+          "name": "p04-02-nome",
+          "path": "04 - Oposições 01 a 04/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            270,
+            480,
+            375,
+            508
+          ]
+        },
+        {
+          "name": "p04-02-numero",
+          "path": "04 - Oposições 01 a 04/02 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            180,
+            480,
+            217,
+            504
+          ]
+        },
+        {
+          "name": "p04-01-filete",
+          "path": "04 - Oposições 01 a 04/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            155,
+            350,
+            159,
+            446
+          ]
+        },
+        {
+          "name": "p04-01-referencia",
+          "path": "04 - Oposições 01 a 04/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            398,
+            930,
+            419
+          ]
+        },
+        {
+          "name": "p04-01-acao",
+          "path": "04 - Oposições 01 a 04/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            350,
+            1228,
+            377
+          ]
+        },
+        {
+          "name": "p04-01-nome",
+          "path": "04 - Oposições 01 a 04/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            270,
+            350,
+            410,
+            379
+          ]
+        },
+        {
+          "name": "p04-01-numero",
+          "path": "04 - Oposições 01 a 04/01 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            180,
+            350,
+            209,
+            374
+          ]
+        }
+      ]
+    },
+    {
+      "name": "05 - Oposições 05 a 08",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p04-titulo",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            139,
+            350,
+            697,
+            495
+          ]
+        },
+        {
+          "name": "B BELLAS - marca d’água",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 5.098039215686274,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "05 - Oposições 05 a 08",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        },
+        {
+          "name": "p04-08-filete",
+          "path": "05 - Oposições 05 a 08/08 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            820,
+            705,
+            823,
+            835
+          ]
+        },
+        {
+          "name": "p04-08-referencia",
+          "path": "05 - Oposições 05 a 08/08 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            796,
+            1134,
+            817
+          ]
+        },
+        {
+          "name": "p04-08-acao",
+          "path": "05 - Oposições 05 a 08/08 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            753,
+            1419,
+            782
+          ]
+        },
+        {
+          "name": "p04-08-nome",
+          "path": "05 - Oposições 05 a 08/08 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            705,
+            1170,
+            739
+          ]
+        },
+        {
+          "name": "p04-08-numero",
+          "path": "05 - Oposições 05 a 08/08 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            850,
+            705,
+            890,
+            729
+          ]
+        },
+        {
+          "name": "p04-07-filete",
+          "path": "05 - Oposições 05 a 08/07 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            820,
+            540,
+            823,
+            670
+          ]
+        },
+        {
+          "name": "p04-07-referencia",
+          "path": "05 - Oposições 05 a 08/07 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            631,
+            1130,
+            652
+          ]
+        },
+        {
+          "name": "p04-07-acao",
+          "path": "05 - Oposições 05 a 08/07 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            588,
+            1533,
+            618
+          ]
+        },
+        {
+          "name": "p04-07-nome",
+          "path": "05 - Oposições 05 a 08/07 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            540,
+            1319,
+            567
+          ]
+        },
+        {
+          "name": "p04-07-numero",
+          "path": "05 - Oposições 05 a 08/07 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            850,
+            540,
+            888,
+            564
+          ]
+        },
+        {
+          "name": "p04-06-filete",
+          "path": "05 - Oposições 05 a 08/06 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            820,
+            375,
+            823,
+            505
+          ]
+        },
+        {
+          "name": "p04-06-referencia",
+          "path": "05 - Oposições 05 a 08/06 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            466,
+            1096,
+            487
+          ]
+        },
+        {
+          "name": "p04-06-acao",
+          "path": "05 - Oposições 05 a 08/06 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            423,
+            1514,
+            448
+          ]
+        },
+        {
+          "name": "p04-06-nome",
+          "path": "05 - Oposições 05 a 08/06 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            375,
+            1246,
+            409
+          ]
+        },
+        {
+          "name": "p04-06-numero",
+          "path": "05 - Oposições 05 a 08/06 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            850,
+            375,
+            890,
+            399
+          ]
+        },
+        {
+          "name": "p04-05-filete",
+          "path": "05 - Oposições 05 a 08/05 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            820,
+            210,
+            823,
+            340
+          ]
+        },
+        {
+          "name": "p04-05-referencia",
+          "path": "05 - Oposições 05 a 08/05 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            301,
+            1116,
+            322
+          ]
+        },
+        {
+          "name": "p04-05-acao",
+          "path": "05 - Oposições 05 a 08/05 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            258,
+            1278,
+            288
+          ]
+        },
+        {
+          "name": "p04-05-nome",
+          "path": "05 - Oposições 05 a 08/05 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            935,
+            210,
+            1233,
+            244
+          ]
+        },
+        {
+          "name": "p04-05-numero",
+          "path": "05 - Oposições 05 a 08/05 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            850,
+            210,
+            889,
+            234
+          ]
+        }
+      ]
+    },
+    {
+      "name": "06 - Oposições 09 a 12 e permanência",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p04-fecho",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            905,
+            1431,
+            937
+          ]
+        },
+        {
+          "name": "p04-titulo",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            709,
+            180,
+            1210,
+            310
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FOTO - foto_permanencia_rochas",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            600,
+            1080
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "06 - Oposições 09 a 12 e permanência",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        },
+        {
+          "name": "p04-12-referencia",
+          "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            822,
+            912,
+            841
+          ]
+        },
+        {
+          "name": "p04-12-acao",
+          "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            783,
+            1238,
+            807
+          ]
+        },
+        {
+          "name": "p04-12-nome",
+          "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            745,
+            830,
+            769
+          ]
+        },
+        {
+          "name": "p04-12-numero",
+          "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            620,
+            748,
+            647,
+            771
+          ]
+        },
+        {
+          "name": "p04-12-filete",
+          "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            732,
+            560,
+            850
+          ]
+        },
+        {
+          "name": "p04-12-faixa",
+          "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            732,
+            1795,
+            850
+          ]
+        },
+        {
+          "name": "p04-11-referencia",
+          "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            692,
+            915,
+            711
+          ]
+        },
+        {
+          "name": "p04-11-acao",
+          "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            653,
+            1215,
+            682
+          ]
+        },
+        {
+          "name": "p04-11-nome",
+          "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            615,
+            880,
+            641
+          ]
+        },
+        {
+          "name": "p04-11-numero",
+          "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            620,
+            618,
+            638,
+            640
+          ]
+        },
+        {
+          "name": "p04-11-filete",
+          "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            602,
+            560,
+            720
+          ]
+        },
+        {
+          "name": "p04-11-faixa",
+          "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            602,
+            1795,
+            720
+          ]
+        },
+        {
+          "name": "p04-10-referencia",
+          "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            562,
+            883,
+            581
+          ]
+        },
+        {
+          "name": "p04-10-acao",
+          "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            523,
+            1319,
+            551
+          ]
+        },
+        {
+          "name": "p04-10-nome",
+          "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            485,
+            888,
+            511
+          ]
+        },
+        {
+          "name": "p04-10-numero",
+          "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            620,
+            488,
+            650,
+            512
+          ]
+        },
+        {
+          "name": "p04-10-filete",
+          "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            472,
+            560,
+            590
+          ]
+        },
+        {
+          "name": "p04-10-faixa",
+          "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            472,
+            1795,
+            590
+          ]
+        },
+        {
+          "name": "p04-09-referencia",
+          "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            432,
+            908,
+            451
+          ]
+        },
+        {
+          "name": "p04-09-acao",
+          "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            393,
+            1166,
+            422
+          ]
+        },
+        {
+          "name": "p04-09-nome",
+          "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            710,
+            355,
+            918,
+            386
+          ]
+        },
+        {
+          "name": "p04-09-numero",
+          "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            620,
+            358,
+            658,
+            382
+          ]
+        },
+        {
+          "name": "p04-09-filete",
+          "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            342,
+            560,
+            460
+          ]
+        },
+        {
+          "name": "p04-09-faixa",
+          "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            555,
+            342,
+            1795,
+            460
+          ]
+        }
+      ]
+    },
+    {
+      "name": "07 - Até o fim",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p05-citacao-referencia",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            270,
+            590,
+            437,
+            614
+          ]
+        },
+        {
+          "name": "p05-citacao",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            265,
+            490,
+            968,
+            548
+          ]
+        },
+        {
+          "name": "p05-titulo",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            260,
+            342,
+            1001,
+            416
+          ]
+        },
+        {
+          "name": "B BELLAS - marca d’água",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 5.098039215686274,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "07 - Até o fim",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "08 - Pessoas que preparam pessoas",
+      "layers": [
+        {
+          "name": "marco-03",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1600,
+            398,
+            1624,
+            422
+          ]
+        },
+        {
+          "name": "marco-02",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1000,
+            398,
+            1024,
+            422
+          ]
+        },
+        {
+          "name": "marco-01",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            340,
+            398,
+            364,
+            422
+          ]
+        },
+        {
+          "name": "COR APROVADA 3",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p06-fecho",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1430,
+            475,
+            1773,
+            599
+          ]
+        },
+        {
+          "name": "p06-cadeia",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            760,
+            485,
+            1167,
+            580
+          ]
+        },
+        {
+          "name": "p06-titulo",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            475,
+            643,
+            612
+          ]
+        },
+        {
+          "name": "eixo-transmissao",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            190,
+            410,
+            1710,
+            413
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "08 - Pessoas que preparam pessoas",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "09 - Crescer para preparar",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p07-fecho",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            840,
+            775,
+            1501,
+            809
+          ]
+        },
+        {
+          "name": "p07-proposito",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            840,
+            585,
+            1601,
+            686
+          ]
+        },
+        {
+          "name": "p07-consequencia",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            840,
+            410,
+            1522,
+            495
+          ]
+        },
+        {
+          "name": "p07-titulo",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            835,
+            255,
+            1509,
+            308
+          ]
+        },
+        {
+          "name": "B BELLAS - marca d’água",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 5.098039215686274,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FOTO - foto_pessoas_encontro_v2",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            700,
+            1080
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "09 - Crescer para preparar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "10 - Começar a multiplicar",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p08-exemplo-referencia",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            830,
+            245,
+            852
+          ]
+        },
+        {
+          "name": "p08-exemplo",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            675,
+            896,
+            756
+          ]
+        },
+        {
+          "name": "p08-tempo",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            460,
+            940,
+            547
+          ]
+        },
+        {
+          "name": "p08-titulo",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            145,
+            260,
+            714,
+            415
+          ]
+        },
+        {
+          "name": "filete-exemplo",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            150,
+            635,
+            1050,
+            638
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FOTO - foto_agua_poco",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1230,
+            0,
+            1920,
+            1080
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "10 - Começar a multiplicar",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "11 - Venham ver",
+      "layers": [
+        {
+          "name": "COR APROVADA 3",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 2",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "COR APROVADA 1",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "p09-fecho",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            250,
+            750,
+            1018,
+            793
+          ]
+        },
+        {
+          "name": "p09-testemunho-referencia",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            255,
+            655,
+            445,
+            681
+          ]
+        },
+        {
+          "name": "p09-testemunho",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            255,
+            520,
+            1124,
+            610
+          ]
+        },
+        {
+          "name": "p09-convite",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            250,
+            390,
+            888,
+            458
+          ]
+        },
+        {
+          "name": "p09-titulo",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            250,
+            215,
+            970,
+            344
+          ]
+        },
+        {
+          "name": "filete-fecho",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            250,
+            715,
+            1670,
+            718
+          ]
+        },
+        {
+          "name": "B BELLAS - marca d’água",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 5.098039215686274,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "name": "MARCAS E CABECALHO APROVADOS",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "11 - Venham ver",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "name": "12 - Agradecimento",
+      "layers": [
+        {
+          "name": "EMPREENDEDORISMO FEMININO",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            96,
+            58,
+            742,
+            70
+          ]
+        },
+        {
+          "name": "p12-agradecimento",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            638,
+            494,
+            1279,
+            584
+          ]
+        },
+        {
+          "name": "LOGO",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            55,
+            991,
+            212,
+            1020
+          ]
+        },
+        {
+          "name": "Retângulo 572 copiar 2",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1834,
+            53,
+            1863,
+            83
+          ]
+        },
+        {
+          "name": "Retângulo 572 copiar",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1796,
+            53,
+            1825,
+            83
+          ]
+        },
+        {
+          "name": "Retângulo 572",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1756,
+            53,
+            1786,
+            83
+          ]
+        },
+        {
+          "name": "01 - LOGO PRINCIPAL KJL",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            1704,
+            981,
+            1859,
+            1029
+          ]
+        },
+        {
+          "name": "Retângulo 5 copiar",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            -111,
+            62,
+            75,
+            66
+          ]
+        },
+        {
+          "name": "FOTO FIXA ORIGINAL - 6",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 27.84313725490196,
+          "bounds": [
+            -141,
+            -59,
+            2111,
+            1437
+          ]
+        },
+        {
+          "name": "FOTO FIXA ORIGINAL - 5",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 27.84313725490196,
+          "bounds": [
+            -102,
+            -39,
+            1920,
+            1098
+          ]
+        },
+        {
+          "name": "FUNDO",
+          "path": "12 - Agradecimento",
+          "visible": true,
+          "opacity": 100,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    }
+  ],
+  "api_action_id": "PP-1792077405461-359"
+}

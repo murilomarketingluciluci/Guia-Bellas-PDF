@@ -1,0 +1,1 @@
+var d=app.activeDocument;for(var i=0;i<d.layerSets.length;i++)d.layerSets[i].visible=d.layerSets[i].name.indexOf('12 -')===0;d.saveToOE('png');

@@ -1,0 +1,1 @@
+try{var d=app.activeDocument;d.resizeImage(720,1080);d.crop([15,0,705,1080]);app.echoToOE('CROP_OK');app.echoToOE('SIZE:'+d.width.value+','+d.height.value);}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

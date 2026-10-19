@@ -1,0 +1,1290 @@
+{
+  "version": "1.0",
+  "format": "16:9",
+  "coordinate_system": "[x,y,w,h] normalized 0..1; origin top-left",
+  "basis": "26 archetypes from 227 pages / 15 PDF sources; 6 modified by later user photo rule",
+  "important": "Historical layout geometry only. For new APNs reuse the approved Optima cover (change title only) and approved thank-you page; size placeholder boxes with real Gotham text and approve map before image direction. Compare final color to approved PNGs.",
+  "rules": {
+    "cover_photo": false,
+    "photo_rule": "Every raster photo occupies the entire height while touching a side edge, or fills the whole canvas. No inset/fragmented photo.",
+    "theme_variation": "Mix light pink and dark mauve pages according to content rhythm; do not set every page to the same background."
+  },
+  "palette_approximate": {
+    "rosa_claro": "#FBA9C3",
+    "rosa_luz": "#FCB1C8",
+    "rosa_barra": "#FFADCD",
+    "malva": "#BC718C",
+    "malva_escuro": "#A96281",
+    "creme": "#FFF4F7",
+    "branco": "#FFFFFF",
+    "foto": "#4A251F",
+    "foto_luz": "#673C37",
+    "texto_escuro": "#B3718E",
+    "cinza": "#EEDDE4",
+    "malva_escuro_mockup_optima": "#9E5D79"
+  },
+  "layouts": [
+    {
+      "id": "01",
+      "title": "Capa com título lateral",
+      "references": "guiar 01; financas 01; posicionamento 01",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.27,
+            0.32,
+            0.5,
+            0.24
+          ],
+          "label": "H1 / TÍTULO"
+        },
+        {
+          "kind": "line",
+          "box": [
+            0.27,
+            0.58,
+            0.28,
+            0.025
+          ],
+          "label": ""
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.27,
+            0.64,
+            0.38,
+            0.1
+          ],
+          "label": "SUBTÍTULO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": true
+    },
+    {
+      "id": "02",
+      "title": "Capa tipográfica central",
+      "references": "base 01; oito_passos 01",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.12,
+            0.3,
+            0.76,
+            0.28
+          ],
+          "label": "H1 / TÍTULO"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.24,
+            0.62,
+            0.52,
+            0.08
+          ],
+          "label": "SUBTÍTULO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": true
+    },
+    {
+      "id": "03",
+      "title": "Frase central de impacto",
+      "references": "mulheres 02; guiar 05; etiqueta 02",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.16,
+            0.34,
+            0.68,
+            0.27
+          ],
+          "label": "FRASE / H1"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "04",
+      "title": "Título e parágrafo à esquerda",
+      "references": "base 03; etiqueta 06; guiar 06",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.07,
+            0.22,
+            0.52,
+            0.22
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "line",
+          "box": [
+            0.07,
+            0.47,
+            0.43,
+            0.014
+          ],
+          "label": ""
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.07,
+            0.54,
+            0.59,
+            0.24
+          ],
+          "label": "PARÁGRAFO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "05",
+      "title": "Título e foto lateral direita",
+      "references": "financas 13; mulheres 04; namorados 04",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.06,
+            0.3,
+            0.46,
+            0.22
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.06,
+            0.57,
+            0.4,
+            0.18
+          ],
+          "label": "PARÁGRAFO"
+        },
+        {
+          "kind": "photo",
+          "box": [
+            0.6,
+            0,
+            0.4,
+            1
+          ],
+          "label": "FOTO FULL BLEED"
+        }
+      ],
+      "status": "adaptado",
+      "change_from_historical": "Foto antes recortada. Agora faixa direita de altura total, tocando topo, base e lado direito.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "06",
+      "title": "Foto à esquerda, texto à direita",
+      "references": "etiqueta 03; spa 03; mulheres 10",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "photo",
+          "box": [
+            0,
+            0,
+            0.4,
+            1
+          ],
+          "label": "FOTO"
+        },
+        {
+          "kind": "h1",
+          "box": [
+            0.49,
+            0.22,
+            0.43,
+            0.22
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.49,
+            0.52,
+            0.4,
+            0.22
+          ],
+          "label": "PARÁGRAFO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "07",
+      "title": "Foto lateral com bullets sobrepostos",
+      "references": "anexo Rosangela 14; namorados 09",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "photo",
+          "box": [
+            0,
+            0,
+            0.42,
+            1
+          ],
+          "label": "FOTO"
+        },
+        {
+          "kind": "h1",
+          "box": [
+            0.5,
+            0.17,
+            0.42,
+            0.18
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.36,
+            0.42,
+            0.53,
+            0.085
+          ],
+          "label": "BULLET 1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.36,
+            0.53,
+            0.53,
+            0.085
+          ],
+          "label": "BULLET 2"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.36,
+            0.64,
+            0.53,
+            0.085
+          ],
+          "label": "BULLET 3"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.36,
+            0.75,
+            0.53,
+            0.085
+          ],
+          "label": "BULLET 4"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "08",
+      "title": "Texto à esquerda, foto lateral direita",
+      "references": "base 07; spa 02; financas 08",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.06,
+            0.22,
+            0.43,
+            0.2
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.06,
+            0.49,
+            0.43,
+            0.23
+          ],
+          "label": "PARÁGRAFO"
+        },
+        {
+          "kind": "photo",
+          "box": [
+            0.62,
+            0,
+            0.38,
+            1
+          ],
+          "label": "FOTO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "09",
+      "title": "Título e faixa fotográfica direita",
+      "references": "anexo Rosangela 07-10; namorados 03",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.06,
+            0.22,
+            0.43,
+            0.23
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.06,
+            0.51,
+            0.32,
+            0.1
+          ],
+          "label": "SUBTÍTULO"
+        },
+        {
+          "kind": "photo",
+          "box": [
+            0.53,
+            0,
+            0.47,
+            1
+          ],
+          "label": "FOTO FULL BLEED"
+        }
+      ],
+      "status": "adaptado",
+      "change_from_historical": "Colagem histórica de três fotos substituída por uma faixa direita de altura total.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "10",
+      "title": "Foto de fundo com título sobreposto",
+      "references": "obesidade 05; oito_passos 04; matcha 01",
+      "background": "photo",
+      "items": [
+        {
+          "kind": "overlay",
+          "box": [
+            0,
+            0,
+            0.48,
+            1
+          ],
+          "label": ""
+        },
+        {
+          "kind": "h1",
+          "box": [
+            0.06,
+            0.28,
+            0.41,
+            0.26
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.06,
+            0.63,
+            0.35,
+            0.13
+          ],
+          "label": "SUBTÍTULO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "11",
+      "title": "Título e duas colunas de texto",
+      "references": "guiar 04; obesidade 03; etiqueta 04",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.07,
+            0.18,
+            0.68,
+            0.2
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "line",
+          "box": [
+            0.07,
+            0.42,
+            0.82,
+            0.012
+          ],
+          "label": ""
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.08,
+            0.5,
+            0.38,
+            0.31
+          ],
+          "label": "COLUNA 1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.54,
+            0.5,
+            0.38,
+            0.31
+          ],
+          "label": "COLUNA 2"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "12",
+      "title": "Checklist em uma coluna",
+      "references": "financas 06; oito_passos 25; base 13",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.06,
+            0.12,
+            0.65,
+            0.17
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.14,
+            0.34,
+            0.73,
+            0.075
+          ],
+          "label": "ITEM 1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.14,
+            0.445,
+            0.73,
+            0.075
+          ],
+          "label": "ITEM 2"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.14,
+            0.55,
+            0.73,
+            0.075
+          ],
+          "label": "ITEM 3"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.14,
+            0.655,
+            0.73,
+            0.075
+          ],
+          "label": "ITEM 4"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.14,
+            0.76,
+            0.73,
+            0.075
+          ],
+          "label": "ITEM 5"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "13",
+      "title": "Checklist em duas colunas",
+      "references": "anexo Rosangela 12; oito_passos 02",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.23,
+            0.12,
+            0.54,
+            0.17
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.06,
+            0.34,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.53,
+            0.34,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 2"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.06,
+            0.48000000000000004,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 3"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.53,
+            0.48000000000000004,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 4"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.06,
+            0.6200000000000001,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 5"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.53,
+            0.6200000000000001,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 6"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.06,
+            0.76,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 7"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.53,
+            0.76,
+            0.41,
+            0.09
+          ],
+          "label": "ITEM 8"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "14",
+      "title": "Comparação em três cards",
+      "references": "obesidade 11; oito_passos 06, 19",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.1,
+            0.12,
+            0.8,
+            0.17
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.07,
+            0.39,
+            0.26,
+            0.44
+          ],
+          "label": "CARD 1"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.37,
+            0.39,
+            0.26,
+            0.44
+          ],
+          "label": "CARD 2"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.6699999999999999,
+            0.39,
+            0.26,
+            0.44
+          ],
+          "label": "CARD 3"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "15",
+      "title": "Quatro cards em grade",
+      "references": "oito_passos 20, 23; colageno 22",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.11,
+            0.09,
+            0.78,
+            0.15
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.08,
+            0.32,
+            0.38,
+            0.21
+          ],
+          "label": "CARD 1"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.52,
+            0.32,
+            0.38,
+            0.21
+          ],
+          "label": "CARD 2"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.08,
+            0.5900000000000001,
+            0.38,
+            0.21
+          ],
+          "label": "CARD 3"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.52,
+            0.5900000000000001,
+            0.38,
+            0.21
+          ],
+          "label": "CARD 4"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "16",
+      "title": "Processo horizontal com ícones",
+      "references": "esfoliante 08; oito_passos 31",
+      "background": "light",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.17,
+            0.12,
+            0.66,
+            0.18
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "step",
+          "box": [
+            0.09,
+            0.41,
+            0.16,
+            0.36
+          ],
+          "label": "PASSO 1"
+        },
+        {
+          "kind": "step",
+          "box": [
+            0.31,
+            0.41,
+            0.16,
+            0.36
+          ],
+          "label": "PASSO 2"
+        },
+        {
+          "kind": "step",
+          "box": [
+            0.53,
+            0.41,
+            0.16,
+            0.36
+          ],
+          "label": "PASSO 3"
+        },
+        {
+          "kind": "step",
+          "box": [
+            0.75,
+            0.41,
+            0.16,
+            0.36
+          ],
+          "label": "PASSO 4"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "17",
+      "title": "Produto em faixa esquerda com benefícios",
+      "references": "colageno 05-06; shake 05; matcha 02",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.46,
+            0.13,
+            0.45,
+            0.19
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.48,
+            0.39,
+            0.41,
+            0.08
+          ],
+          "label": "BENEFÍCIO 1"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.48,
+            0.51,
+            0.41,
+            0.08
+          ],
+          "label": "BENEFÍCIO 2"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.48,
+            0.63,
+            0.41,
+            0.08
+          ],
+          "label": "BENEFÍCIO 3"
+        },
+        {
+          "kind": "bullet",
+          "box": [
+            0.48,
+            0.75,
+            0.41,
+            0.08
+          ],
+          "label": "BENEFÍCIO 4"
+        },
+        {
+          "kind": "photo",
+          "box": [
+            0,
+            0,
+            0.4,
+            1
+          ],
+          "label": "FOTO DE PRODUTO FULL BLEED"
+        }
+      ],
+      "status": "adaptado",
+      "change_from_historical": "Produto isolado no miolo substituído por fotografia de produto em faixa esquerda de altura total.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "18",
+      "title": "Cena de produto em tela cheia",
+      "references": "colageno 14; shake 03; matcha 01",
+      "background": "photo",
+      "items": [
+        {
+          "kind": "photo",
+          "box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "label": "FOTO COM PRODUTO COMPOSTO NA CENA"
+        },
+        {
+          "kind": "overlay",
+          "box": [
+            0,
+            0,
+            0.31,
+            1
+          ],
+          "label": ""
+        },
+        {
+          "kind": "h1",
+          "box": [
+            0.05,
+            0.27,
+            0.25,
+            0.19
+          ],
+          "label": "H1"
+        }
+      ],
+      "status": "adaptado",
+      "change_from_historical": "Produto isolado substituído por uma fotografia composta de tela cheia; título em área livre da foto.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "19",
+      "title": "Variantes em quatro cards de texto",
+      "references": "shake 04; colageno 16; obesidade 12",
+      "background": "light",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.11,
+            0.1,
+            0.78,
+            0.16
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.08,
+            0.35,
+            0.17,
+            0.42
+          ],
+          "label": "VARIANTE 1 — TEXTO"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.31,
+            0.35,
+            0.17,
+            0.42
+          ],
+          "label": "VARIANTE 2 — TEXTO"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.54,
+            0.35,
+            0.17,
+            0.42
+          ],
+          "label": "VARIANTE 3 — TEXTO"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.77,
+            0.35,
+            0.17,
+            0.42
+          ],
+          "label": "VARIANTE 4 — TEXTO"
+        }
+      ],
+      "status": "adaptado",
+      "change_from_historical": "Quatro fotos pequenas substituídas por quatro cards tipográficos de variantes, sem fotos.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "20",
+      "title": "Gráfico ou diagrama central",
+      "references": "financas 11, 14; obesidade 17",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.08,
+            0.1,
+            0.66,
+            0.17
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "chart",
+          "box": [
+            0.16,
+            0.36,
+            0.68,
+            0.48
+          ],
+          "label": "GRÁFICO / DIAGRAMA"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "21",
+      "title": "Antes e depois em duas metades",
+      "references": "financas 13-14; obesidade 17",
+      "background": "mauve",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.13,
+            0.1,
+            0.74,
+            0.15
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.07,
+            0.34,
+            0.39,
+            0.5
+          ],
+          "label": "ANTES"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.54,
+            0.34,
+            0.39,
+            0.5
+          ],
+          "label": "DEPOIS"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "22",
+      "title": "Citação ou pergunta em destaque",
+      "references": "mulheres 05; financas 16; posicionamento 07",
+      "background": "core",
+      "items": [
+        {
+          "kind": "quote",
+          "box": [
+            0.13,
+            0.28,
+            0.74,
+            0.36
+          ],
+          "label": "CITAÇÃO / PERGUNTA"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.31,
+            0.7,
+            0.38,
+            0.07
+          ],
+          "label": "FONTE / APOIO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "23",
+      "title": "Texto denso / perguntas frequentes",
+      "references": "colageno 15, 23-24; base 16",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.07,
+            0.11,
+            0.62,
+            0.16
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.07,
+            0.35,
+            0.84,
+            0.14
+          ],
+          "label": "BLOCO 1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.07,
+            0.55,
+            0.84,
+            0.14
+          ],
+          "label": "BLOCO 2"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.07,
+            0.75,
+            0.84,
+            0.11
+          ],
+          "label": "BLOCO 3"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "24",
+      "title": "Foto lateral e dois painéis",
+      "references": "matcha 03; colageno 12; anexo Rosangela 08",
+      "background": "light",
+      "items": [
+        {
+          "kind": "photo",
+          "box": [
+            0,
+            0,
+            0.43,
+            1
+          ],
+          "label": "FOTO FULL BLEED"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.48,
+            0.15,
+            0.46,
+            0.31
+          ],
+          "label": "TÍTULO + TEXTO"
+        },
+        {
+          "kind": "panel",
+          "box": [
+            0.48,
+            0.52,
+            0.46,
+            0.31
+          ],
+          "label": "BULLETS"
+        }
+      ],
+      "status": "adaptado",
+      "change_from_historical": "Mosaico de fotos substituído por uma faixa esquerda de altura total e dois blocos à direita.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "25",
+      "title": "Painel claro com foto de detalhe",
+      "references": "esfoliante 04, 07; spa 05",
+      "background": "light",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.07,
+            0.17,
+            0.4,
+            0.19
+          ],
+          "label": "H1"
+        },
+        {
+          "kind": "text",
+          "box": [
+            0.07,
+            0.44,
+            0.4,
+            0.31
+          ],
+          "label": "PARÁGRAFO"
+        },
+        {
+          "kind": "photo",
+          "box": [
+            0.52,
+            0,
+            0.48,
+            1
+          ],
+          "label": "DETALHE / FOTO"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    },
+    {
+      "id": "26",
+      "title": "Encerramento mínimo",
+      "references": "base 18; financas 17; anexo Rosangela 15",
+      "background": "core",
+      "items": [
+        {
+          "kind": "h1",
+          "box": [
+            0.22,
+            0.38,
+            0.56,
+            0.22
+          ],
+          "label": "OBRIGADA!"
+        }
+      ],
+      "status": "conforme",
+      "change_from_historical": "Sem mudança geométrica relevante.",
+      "evidence": "arquétipo inferido dos PDFs; geometria esquemática, não régua do PSD",
+      "cover_allowed": false
+    }
+  ]
+}

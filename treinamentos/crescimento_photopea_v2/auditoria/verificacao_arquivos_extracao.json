@@ -1,0 +1,1744 @@
+{
+  "timestamp_manifest": "2026-10-15T14:27:52.452602+00:00",
+  "manifest_sha256": "a26de6d473473d592647c51cb3dd5a2571fd241935f0ac94693df3083a2c9042",
+  "checks": [
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/002_AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/003_fundo.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_SoCo.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/004_BG.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_iOpa.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.mask_user.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.embedded.psb",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_iOpa.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.mask_user.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.embedded.jpg",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/007_texto.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lfx2.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lrFX.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_TySh.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/009_PADRAO.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/010_empreendedorismo_feminio.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_vscg.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_vsms.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_vowv.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_vogk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_vstk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tag_lyvr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/011_Retangulo_5_copiar.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_TySh.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.embedded.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/014_ELEMENTOS_CORES.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vscg.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lfx2.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lrFX.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vsms.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vowv.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vogk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vstk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_sn2P.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lyvr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_vscg.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lfx2.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lrFX.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_vsms.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_vowv.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_vogk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_vstk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_sn2P.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tag_lyvr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/016_Retangulo_572_copiar.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_vscg.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lfx2.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lrFX.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_vsms.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_vowv.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_vogk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_vstk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_sn2P.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tag_lyvr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/017_Retangulo_572_copiar_2.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_SoCo.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/020_BG_copiar.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lfx2.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lrFX.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_iOpa.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.mask_user.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.embedded.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/022_Camada_2_copiar.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.embedded.psb",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/025_Camada_1_copiar_2.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.embedded.psb",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_iOpa.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_PlLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_SoLd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.mask_user.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.embedded.jpg",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/029_Camada_1_copiar.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lsct.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lyvr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_TySh.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_vscg.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_vsms.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_vowv.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_vogk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_vstk.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tag_lyvr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/032_Retangulo_6.cache.png",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_TySh.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_luni.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lnsr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lyid.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_clbl.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_infx.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_knko.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lspf.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lclr.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_shmd.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_fxrp.bin",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tagged_blocks.json",
+      "passed": true
+    },
+    {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.cache.png",
+      "passed": true
+    }
+  ],
+  "passed": 432,
+  "failed": 0,
+  "root_blendcodes": [
+    "norm",
+    "pass",
+    "pass",
+    "pass",
+    "pass"
+  ],
+  "source_unchanged": true
+}

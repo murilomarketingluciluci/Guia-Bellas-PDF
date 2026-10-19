@@ -1,0 +1,1 @@
+app.activeDocument.resizeImage(720,1080);app.echoToOE('RESIZED');

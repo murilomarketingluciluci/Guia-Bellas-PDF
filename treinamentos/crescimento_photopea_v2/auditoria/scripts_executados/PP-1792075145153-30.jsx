@@ -1,0 +1,1 @@
+app.activeDocument.crop([15,0,705,1080]);app.echoToOE('CROPPED');

@@ -1,0 +1,1 @@
+try{var d=app.activeDocument;var g=d.layerSets.add();g.name='ROOT_TEST';g.move(d,ElementPlacement.PLACEATBEGINNING);app.echoToOE('MOVED');for(var i=0;i<d.layerSets.length;i++)app.echoToOE(d.layerSets[i].name);}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

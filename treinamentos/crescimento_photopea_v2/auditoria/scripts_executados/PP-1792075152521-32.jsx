@@ -1,0 +1,1 @@
+app.echoToOE('MASTER:'+app.documents[0].name);app.activeDocument.layers[0].duplicate(app.documents[0],ElementPlacement.PLACEATBEGINNING);app.echoToOE('DUP_OK');

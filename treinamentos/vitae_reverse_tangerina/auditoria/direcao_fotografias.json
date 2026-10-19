@@ -1,0 +1,51 @@
+{
+  "prompts_exact": "auditoria/prompts/fotos_01.json",
+  "generator": "image_gen built-in",
+  "request": "e as fotos pq não produziu?",
+  "concepts": [
+    {
+      "selected": "Modelo principal sentada apresentando o pote; aproximacao humana no inicio.",
+      "options": [
+        "Modelo apresentando o pote sentada",
+        "Modelo ao lado do produto em aparador",
+        "Detalhe das maos com embalagem"
+      ],
+      "page": 2
+    },
+    {
+      "selected": "Outra mulher adulta em gesto de cuidado; variar faixa etaria e manter enquadramento amplo.",
+      "options": [
+        "Mulher adulta tocando suavemente a pele",
+        "Modelo observando rosto no espelho",
+        "Retrato fechado de textura da pele"
+      ],
+      "page": 4
+    },
+    {
+      "selected": "Principal preparando a bebida; torna o modo de uso visivel.",
+      "options": [
+        "Modelo preparando a bebida",
+        "Close de maos e scoop",
+        "Modelo com bebida pronta"
+      ],
+      "page": 6
+    },
+    {
+      "selected": "Pote fechado em bancada seca; variar pessoa e objeto e dar contexto de conservacao.",
+      "options": [
+        "Pote fechado em bancada seca",
+        "Maos fechando a tampa",
+        "Pote em prateleira neutra"
+      ],
+      "page": 7
+    }
+  ],
+  "timestamp": "2026-10-15T15:48:55.0662242-03:00",
+  "photo_references": [
+    "fonte/produto_referencia.png",
+    "fonte/modelo_referencia.png"
+  ],
+  "phase": "fotografias",
+  "approval_map": "pending; nao inferida como aprovacao visual",
+  "photo_authorization": "Criacao previamente solicitada com referencias, reafirmada pela cobranca atual."
+}

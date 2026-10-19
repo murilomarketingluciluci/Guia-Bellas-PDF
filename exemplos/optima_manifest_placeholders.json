@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0",
+  "stage": "planejamento",
+  "project": "Optima — exemplo de placeholders Bellas",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "template": {
+    "psd": "../referencias/molde_v1_0_base.psd",
+    "groups": {
+      "cover": "molde claro",
+      "light": "molde claro",
+      "dark": "molde escuro"
+    },
+    "fixed_artwork": "Preservar do template; não redesenhar."
+  },
+  "slides": [
+    {
+      "number": 1,
+      "name": "Capa — Optima",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.14895833333333333,
+            0.26851851851851855,
+            0.7020833333333333,
+            0.2759259259259259
+          ],
+          "placeholder": "H1 · NOME DO PRODUTO"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08854166666666667,
+            0.6370370370370371,
+            0.25625,
+            0.12222222222222222
+          ],
+          "placeholder": "PONTO 1 · CURTO"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.371875,
+            0.6370370370370371,
+            0.25625,
+            0.12222222222222222
+          ],
+          "placeholder": "PONTO 2 · CURTO"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.6552083333333333,
+            0.6370370370370371,
+            0.25625,
+            0.12222222222222222
+          ],
+          "placeholder": "PONTO 3 · CURTO"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Contexto",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06979166666666667,
+            0.11666666666666667,
+            0.75,
+            0.15185185185185185
+          ],
+          "placeholder": "H1 · CONTEXTO"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.3333333333333333,
+            0.8583333333333333,
+            0.14444444444444443
+          ],
+          "placeholder": "BULLET 1 · PARÁGRAFO MÉDIO"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.5,
+            0.8583333333333333,
+            0.12407407407407407
+          ],
+          "placeholder": "BULLET 2 · PARÁGRAFO CURTO"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06979166666666667,
+            0.6462962962962963,
+            0.8583333333333333,
+            0.10555555555555556
+          ],
+          "placeholder": "BULLET 3 · FRASE CURTA"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.774074074074074,
+            0.8583333333333333,
+            0.10555555555555556
+          ],
+          "placeholder": "BULLET 4 · PARÁGRAFO CURTO"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Evidências",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.1111111111111111,
+            0.7270833333333333,
+            0.14444444444444443
+          ],
+          "placeholder": "H1 · TEMA"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06875,
+            0.3333333333333333,
+            0.41041666666666665,
+            0.4962962962962963
+          ],
+          "placeholder": "BLOCO 1 · 8 A 10 LINHAS"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.521875,
+            0.3333333333333333,
+            0.41041666666666665,
+            0.4962962962962963
+          ],
+          "placeholder": "BLOCO 2 · 8 A 10 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Evidências — continuação",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0.0,
+            0.3802083333333333,
+            1.0
+          ],
+          "asset": "../referencias/exemplos/foto_04_pele_v2.png",
+          "fit": "cover"
+        },
+        {
+          "role": "h1",
+          "rect": [
+            0.421875,
+            0.11666666666666667,
+            0.5104166666666666,
+            0.15555555555555556
+          ],
+          "placeholder": "H1 · CONTINUAÇÃO"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.421875,
+            0.3333333333333333,
+            0.5104166666666666,
+            0.25
+          ],
+          "placeholder": "BLOCO 1 · 5 A 6 LINHAS"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.421875,
+            0.6129629629629629,
+            0.5104166666666666,
+            0.2759259259259259
+          ],
+          "placeholder": "BLOCO 2 · 6 A 7 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Ressalva",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06979166666666667,
+            0.11666666666666667,
+            0.7604166666666666,
+            0.14074074074074075
+          ],
+          "placeholder": "H1 · TEMA"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.3277777777777778,
+            0.5416666666666666,
+            0.48518518518518516
+          ],
+          "placeholder": "PARÁGRAFO LONGO · 10 A 12 LINHAS"
+        },
+        {
+          "role": "callout",
+          "rect": [
+            0.6541666666666667,
+            0.43703703703703706,
+            0.27708333333333335,
+            0.26666666666666666
+          ],
+          "placeholder": "CHAMADA / RESSALVA"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Magnésio — introdução",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0.0,
+            0.3645833333333333,
+            1.0
+          ],
+          "asset": "../referencias/exemplos/foto_06_produto_v2.png",
+          "fit": "cover"
+        },
+        {
+          "role": "h1",
+          "rect": [
+            0.4083333333333333,
+            0.11296296296296296,
+            0.5229166666666667,
+            0.1537037037037037
+          ],
+          "placeholder": "H1 · INGREDIENTE"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.4083333333333333,
+            0.3333333333333333,
+            0.5229166666666667,
+            0.20555555555555555
+          ],
+          "placeholder": "BLOCO 1 · 4 A 5 LINHAS"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.4083333333333333,
+            0.5685185185185185,
+            0.5229166666666667,
+            0.3055555555555556
+          ],
+          "placeholder": "BLOCO 2 · 7 A 8 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Magnésio — benefícios",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.6458333333333334,
+            0.0,
+            0.3541666666666667,
+            1.0
+          ],
+          "asset": "../referencias/exemplos/foto_07_produto_v2.png",
+          "fit": "cover"
+        },
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.1111111111111111,
+            0.53125,
+            0.14629629629629629
+          ],
+          "placeholder": "H1 · INGREDIENTE"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08125,
+            0.34074074074074073,
+            0.5364583333333334,
+            0.12962962962962962
+          ],
+          "placeholder": "BENEFÍCIO 1 · 2 A 3 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08125,
+            0.512962962962963,
+            0.5364583333333334,
+            0.12962962962962962
+          ],
+          "placeholder": "BENEFÍCIO 2 · 2 A 3 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08125,
+            0.6851851851851852,
+            0.5364583333333334,
+            0.12962962962962962
+          ],
+          "placeholder": "BENEFÍCIO 3 · 2 A 3 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Óleo de soja",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06979166666666667,
+            0.11481481481481481,
+            0.759375,
+            0.14444444444444443
+          ],
+          "placeholder": "H1 · INGREDIENTE"
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.0625,
+            0.3574074074074074,
+            0.284375,
+            0.4777777777777778
+          ],
+          "placeholder": "PROPRIEDADE 1 · TÍTULO + 3 LINHAS"
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.375,
+            0.3574074074074074,
+            0.284375,
+            0.4777777777777778
+          ],
+          "placeholder": "PROPRIEDADE 2 · TÍTULO + 3 LINHAS"
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.6875,
+            0.3574074074074074,
+            0.284375,
+            0.4777777777777778
+          ],
+          "placeholder": "PROPRIEDADE 3 · TÍTULO + 3 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Pele hidratada",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06145833333333333,
+            0.0962962962962963,
+            0.8708333333333333,
+            0.1648148148148148
+          ],
+          "placeholder": "H1 · ATÉ 2 LINHAS"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.31296296296296294,
+            0.8572916666666667,
+            0.14814814814814814
+          ],
+          "placeholder": "BLOCO 1 · TÍTULO + 4 A 5 LINHAS"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.4962962962962963,
+            0.8572916666666667,
+            0.14814814814814814
+          ],
+          "placeholder": "BLOCO 2 · TÍTULO + 4 A 5 LINHAS"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.6796296296296296,
+            0.8572916666666667,
+            0.14814814814814814
+          ],
+          "placeholder": "BLOCO 3 · TÍTULO + 4 A 5 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Tempo de adaptação",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06875,
+            0.1111111111111111,
+            0.7458333333333333,
+            0.14814814814814814
+          ],
+          "placeholder": "H1 · PROCESSO"
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.31851851851851853,
+            0.590625,
+            0.45740740740740743
+          ],
+          "placeholder": "EXPLICAÇÃO · 9 A 11 LINHAS"
+        },
+        {
+          "role": "callout",
+          "rect": [
+            0.6916666666666667,
+            0.39444444444444443,
+            0.240625,
+            0.2796296296296296
+          ],
+          "placeholder": "DURAÇÃO / DADO"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Por que acontece",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.10555555555555556,
+            0.8125,
+            0.1537037037037037
+          ],
+          "placeholder": "H1 · ATÉ 2 LINHAS"
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.065625,
+            0.35,
+            0.284375,
+            0.48703703703703705
+          ],
+          "placeholder": "MOTIVO 1 · TÍTULO + 4 A 5 LINHAS"
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.3770833333333333,
+            0.35,
+            0.284375,
+            0.48703703703703705
+          ],
+          "placeholder": "MOTIVO 2 · TÍTULO + 4 A 5 LINHAS"
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.6885416666666667,
+            0.35,
+            0.284375,
+            0.48703703703703705
+          ],
+          "placeholder": "MOTIVO 3 · TÍTULO + 4 A 5 LINHAS"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Dicas",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.1037037037037037,
+            0.5729166666666666,
+            0.15
+          ],
+          "placeholder": "H1 · ORIENTAÇÕES"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06666666666666667,
+            0.3296296296296296,
+            0.428125,
+            0.13518518518518519
+          ],
+          "placeholder": "ITEM 1 · 1 A 2 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.5354166666666667,
+            0.3296296296296296,
+            0.428125,
+            0.13518518518518519
+          ],
+          "placeholder": "ITEM 2 · 1 A 2 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06666666666666667,
+            0.512962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "placeholder": "ITEM 3 · 1 A 2 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.5354166666666667,
+            0.512962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "placeholder": "ITEM 4 · 1 A 2 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06666666666666667,
+            0.6962962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "placeholder": "ITEM 5 · 1 A 2 LINHAS"
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.5354166666666667,
+            0.6962962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "placeholder": "ITEM 6 · 1 A 2 LINHAS"
+        }
+      ]
+    }
+  ],
+  "note": "Coordenadas normalizadas da grade Optima 960x540; placeholder, não texto final nem tipografia validada do PSD."
+}

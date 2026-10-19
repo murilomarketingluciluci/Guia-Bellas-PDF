@@ -1,0 +1,37 @@
+{
+  "source_file": "C:\\Users\\Murilo\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+  "recovered_at": "2026-10-15T14:48:22.680389+00:00",
+  "cutoff_line": 1342,
+  "selected_calls": 11,
+  "tool_counts": {
+    "collaboration.spawn_agent": 3,
+    "collaboration.send_message": 2,
+    "collaboration.followup_task": 6
+  },
+  "excluded_ambiguous_calls": [],
+  "parse_errors": [],
+  "metadata_latest_before_cutoff": [
+    {
+      "source_line": 1303,
+      "timestamp": "2026-10-15T13:58:27.188Z",
+      "record_type": "turn_context",
+      "metadata": {
+        "model": "gpt-6.1-sol",
+        "effort": "high"
+      }
+    }
+  ],
+  "metadata_after_cutoff": [
+    {
+      "source_line": 1993,
+      "timestamp": "2026-10-15T14:27:39.588Z",
+      "record_type": "turn_context",
+      "metadata": {
+        "model": "gpt-6.1-sol",
+        "effort": "high"
+      }
+    }
+  ],
+  "metadata_scope": "Somente campos escalares model/reasoning_effort/effort/service_tier de session_meta/turn_context; não foram extraídas mensagens ou conteúdo de análise.",
+  "recovery_sha256": "20b1d1084bccc34f10d66956048761623a12c0645e8b852cb30022bdb848725a"
+}

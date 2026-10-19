@@ -1,0 +1,806 @@
+{
+  "stage": "planejamento",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "nine_numbered_psd_groups",
+      "passed": true,
+      "details": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "no_local_hidden_text_9",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_7",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_7",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_7_h1_Conservação",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Para garantir a eficácia e a q",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Proteja da luz",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Conservar ao abrigo da luz.",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Evite calor e umidade",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Manter em local seco e fresco.",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Após aberto",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_7_body_Conservar bem fechado e consum",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_5",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_5",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_5_h1_Unhas e cabelos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_5_body_Saúde das unhas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_5_body_Fortalece as unhas, reduzindo ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_5_body_Crescimento capilar",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_5_body_Influencia positivamente o cre",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_5_body_Resultados clinicamente compro",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_5_body_Benefícios respaldados por pes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_3",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_3_h1_Ingredientes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_3_body_Cada porção de VITAE REVERSE D",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_3_body_Colágeno Verisol",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_3_callout_2,5 g",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_3_body_por porção diária, clinicament",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_3_body_Vitaminas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_3_body_Alto teor de vitaminas A, E, C",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_4",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_4_h1_Benefícios para\na pele",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_4_body_Hidratação da pele",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_4_body_Melhora a hidratação, conferin",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_4_body_Elasticidade e firmeza",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_4_body_Contribui para a elasticidade ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_4_body_Redução da celulite",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_4_body_Promove uma pele mais firme e ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_8",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_8",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_8_h1_Precauções",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_8_body_Este produto não deve ser cons",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_8_body_Consulte um profissional de sa",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_8_body_A Luci Luci é dedicada a ofere",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_8_body_VITAE REVERSE DRINK foi criado",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_6",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_6",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_6_h1_Como usar?",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_Para obter os melhores resulta",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_01",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_Diluir 15 g (3 medidas dosador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_02",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_Agite bem antes de consumir pa",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_03",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_Consumir diariamente para melh",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_04",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_6_body_Produto indicado para pessoas ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_2",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_2",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "actual_text_2_h1_Fórmula mais\ncompleta!",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_2_body_O VITAE REVERSE DRINK é uma be",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_2_body_Este suplemento alimentar em p",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "actual_text_2_body_Com alto teor de vitaminas e m",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_local_hidden_text_1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "single_h1_1",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "gotham_only",
+      "passed": true,
+      "details": [
+        "Gotham-Bold",
+        "Gotham-Book",
+        "Gotham-Light",
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "name": "pagina_01_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_01_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_01_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_02_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_02_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_02_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_03_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_03_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_03_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_04_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_04_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_04_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_05_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_05_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_05_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_06_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_06_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_06_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_07_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_07_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_07_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_08_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_08_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_08_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_09_canvas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_09_icc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pagina_09_opaque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "thanks_approved_pixels",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cover_fixed_pixels",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "coverage_44_blocks",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_2_H1 | Fórmula mais completa!",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_2_BODY | O VITAE REVERSE DRINK é uma ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_2_BODY | Este suplemento alimentar em",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_2_BODY | Com alto teor de vitaminas e",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_H1 | Ingredientes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_BODY | Cada porção de VITAE REVERSE",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_BODY | Colágeno Verisol",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_CALLOUT | 2,5 g",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_BODY | por porção diária, clinicame",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_BODY | Vitaminas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_3_BODY | Alto teor de vitaminas A, E,",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_H1 | Benefícios para a pele",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_BODY | Hidratação da pele",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_BODY | Melhora a hidratação, confer",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_BODY | Elasticidade e firmeza",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_BODY | Contribui para a elasticidad",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_BODY | Redução da celulite",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_4_BODY | Promove uma pele mais firme ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_H1 | Unhas e cabelos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_BODY | Saúde das unhas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_BODY | Fortalece as unhas, reduzind",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_BODY | Crescimento capilar",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_BODY | Influencia positivamente o c",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_BODY | Resultados clinicamente comp",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_5_BODY | Benefícios respaldados por p",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_H1 | Como usar?",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | Para obter os melhores resul",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | 01",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | Diluir 15 g (3 medidas dosad",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | 02",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | Agite bem antes de consumir ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | 03",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | Consumir diariamente para me",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | 04",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_6_BODY | Produto indicado para pessoa",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_H1 | Conservação",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Para garantir a eficácia e a",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Proteja da luz",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Conservar ao abrigo da luz.",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Evite calor e umidade",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Manter em local seco e fresc",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Após aberto",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_7_BODY | Conservar bem fechado e cons",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_8_H1 | Precauções",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_8_BODY | Este produto não deve ser co",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_8_BODY | Consulte um profissional de ",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_8_BODY | A Luci Luci é dedicada a ofe",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "bounds_8_BODY | VITAE REVERSE DRINK foi cria",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_nine_pages",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_2",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_5",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_6",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_7",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_8",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "pdf_rgb_9",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "check_count": 155,
+  "pages": 9,
+  "content_blocks": 44,
+  "approval": "pending",
+  "photos": "placeholders only",
+  "psd_sha256": "670ace26100a3af833516f269ac367d4dbfd4d70850e1e314d1f4392309ccac0",
+  "limitations": [
+    "Sem geracao de fotos ou arte final nesta etapa.",
+    "A verificacao editorial confronta o PSD com a transcricao visual; nao verifica a veracidade de alegacoes de saude."
+  ]
+}

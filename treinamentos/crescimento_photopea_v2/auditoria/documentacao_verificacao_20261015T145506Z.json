@@ -1,0 +1,27 @@
+{
+  "snapshot_at_utc": "2026-10-15T14:55:06.782700+00:00",
+  "status": "documentation_intermediate_only_not_final_qa",
+  "documents": [
+    {
+      "file": "auditoria/SESSAO.md",
+      "sha256": "1179bc52c2cf817ccea2497d98bf1100730785a21c39fe6d99cddda602860fd3",
+      "bytes": 16486,
+      "local_links": 0,
+      "missing_links": [],
+      "literal_prompts_present": true
+    },
+    {
+      "file": "auditoria/INDICE_EVIDENCIAS.md",
+      "sha256": "e1491b3a0ac9e9ab7be3dde233df40882e8f24c8dda9e32e14be9e8d154ff3ea",
+      "bytes": 17025,
+      "local_links": 0,
+      "missing_links": [],
+      "literal_prompts_present": true
+    }
+  ],
+  "source_copy_hashes_9_of_9": true,
+  "recovered_wrapper_records": 11,
+  "ciphertext_messages": 11,
+  "plaintext_recovered": 0,
+  "scope": "Somente revisão dos documentos, arquivos de evidência e hashes. Nenhum bridge, manifest ou script de montagem acessado/modificado."
+}

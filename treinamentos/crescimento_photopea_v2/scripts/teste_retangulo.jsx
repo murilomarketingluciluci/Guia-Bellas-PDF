@@ -1,0 +1,5 @@
+try {
+var d=new ActionDescriptor();var r=new ActionReference();r.putClass(stringIDToTypeID('contentLayer'));d.putReference(charIDToTypeID('null'),r);
+var u=new ActionDescriptor(),f=new ActionDescriptor(),c=new ActionDescriptor();c.putDouble(charIDToTypeID('Rd  '),179);c.putDouble(charIDToTypeID('Grn '),113);c.putDouble(charIDToTypeID('Bl  '),142);f.putObject(charIDToTypeID('Clr '),charIDToTypeID('RGBC'),c);u.putObject(charIDToTypeID('Type'),stringIDToTypeID('solidColorLayer'),f);
+var b=new ActionDescriptor();b.putUnitDouble(charIDToTypeID('Top '),charIDToTypeID('#Pxl'),100);b.putUnitDouble(charIDToTypeID('Left'),charIDToTypeID('#Pxl'),100);b.putUnitDouble(charIDToTypeID('Btom'),charIDToTypeID('#Pxl'),200);b.putUnitDouble(charIDToTypeID('Rght'),charIDToTypeID('#Pxl'),500);u.putObject(charIDToTypeID('Shp '),charIDToTypeID('Rctn'),b);d.putObject(charIDToTypeID('Usng'),stringIDToTypeID('contentLayer'),u);executeAction(charIDToTypeID('Mk  '),d,DialogModes.NO);app.activeDocument.activeLayer.name='RETANGULO_CHAR';app.activeDocument.activeLayer.opacity=100;app.echoToOE('RECT_OK');
+}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-10-15T15:16:51.302925+00:00",
+  "report": "leitura/QA_VISUAL_V2.md",
+  "sha256": "532a1f3b64372450627bbe4dc6dcb0b99de56617970bd28b5a44fd824591f90e",
+  "links_verified": 15,
+  "missing": [],
+  "status": "partial_visual_review_page11_pending_in_snapshot",
+  "no_psd_or_api_edit": true
+}

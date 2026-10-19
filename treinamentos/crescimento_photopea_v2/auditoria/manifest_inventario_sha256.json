@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-10-15T14:31:59.184928+00:00",
+  "files": {
+    "manifest_photopea.json": "3fd0d8722563e557e376b68e1305710a1de02ce9dd78f34e8fed591fe6b88bf1",
+    "leitura/manifest_photopea_validacao.json": "214ec961eecce9f6a8b84a4ec7690f78cc2c3d6600a35598ab801c3b9f57e643",
+    "scripts/criar_manifest_photopea.py": "76ab5a1c7bd5edb7d72fafcb7329ba8db5694e2d4299cc2600dddce011fc9480",
+    "scripts/criar_manifest_photopea_v1_falha.py": "77ff82a95409387755139283bb394c1ef6b782c88b456b38280cada51c371a00"
+  },
+  "assets_state_at_check": [
+    {
+      "asset": "assets/foto_direcao_arcada.png",
+      "exists": true,
+      "box": [
+        1230,
+        0,
+        690,
+        1080
+      ]
+    },
+    {
+      "asset": "assets/foto_permanencia_rochas.png",
+      "exists": true,
+      "box": [
+        0,
+        0,
+        600,
+        1080
+      ]
+    },
+    {
+      "asset": "assets/foto_pessoas_encontro.png",
+      "exists": true,
+      "box": [
+        0,
+        0,
+        700,
+        1080
+      ]
+    },
+    {
+      "asset": "assets/foto_agua_poco.png",
+      "exists": true,
+      "box": [
+        1230,
+        0,
+        690,
+        1080
+      ]
+    }
+  ],
+  "no_editor_access": true,
+  "scope": "Somente criação de manifest a partir de conteúdo_v2 e direção v2; sem consultar versão anterior."
+}

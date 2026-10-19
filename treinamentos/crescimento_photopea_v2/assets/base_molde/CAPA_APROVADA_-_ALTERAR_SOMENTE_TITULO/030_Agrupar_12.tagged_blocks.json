@@ -1,0 +1,128 @@
+[
+  {
+    "key": "luni",
+    "parsed": "Agrupar 12",
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_luni.bin",
+      "bytes": 24,
+      "sha256": "2e3615331f2f4a00eda0beceee8e7deb5a1ee54243cce50bde3f6d77bc22b816",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "bHNldA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "5709f001af6590e113e19b86f85a7587ad70e788aa320f3dd4c3962b3a5db46a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1129,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "9398f5ba4e891aad6b360580f39712e0d71ca33f475d036a595e3b17218e2492",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lsct",
+    "parsed": {
+      "kind": 1,
+      "signature": {
+        "bytes_base64": "OEJJTQ==",
+        "length": 4
+      },
+      "blend_mode": {
+        "bytes_base64": "cGFzcw==",
+        "length": 4
+      },
+      "sub_type": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lsct.bin",
+      "bytes": 16,
+      "sha256": "a7ab2cb8bad15ed5a9a6a068e46c599382055ceb184a926a8e6cfd4052d5e0c3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.5628557
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "75d746edc10b77f7697e3188a8daf2c00a2859f9e30385019a7c04f2f638f2b4",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        30.91234347048328,
+        64.95149230957031
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "6173c751b7ed0656645513673dc5344f419571517d021aa5d809be4bc673eff3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyvr",
+    "parsed": 80,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/030_Agrupar_12.tag_lyvr.bin",
+      "bytes": 4,
+      "sha256": "16ab79353cdbc2bef69a106f68d5f6b5adc70bce130df5a523212826ef117d3f",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

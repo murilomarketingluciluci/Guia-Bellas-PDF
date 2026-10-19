@@ -1,0 +1,117 @@
+{
+  "checks": [
+    {
+      "path": "assets/foto_02_preparacao.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "assets/foto_03_caminho.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "assets/foto_08_mentoria.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "assets/foto_09_equipe.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/crescimento_luciane_bellas.pdf",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/crescimento_luciane_bellas.psd",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_01.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_02.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_03.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_04.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_05.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_06.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_07.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_08.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_09.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_10.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_11.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/provas_png/pagina_12.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "entrega/visao_geral.jpg",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/01.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/02.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/03.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/04.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/05.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/06.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/07.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/08.png",
+      "sha256_matches_production_snapshot": true
+    },
+    {
+      "path": "fonte/09.png",
+      "sha256_matches_production_snapshot": true
+    }
+  ],
+  "all_match": true
+}

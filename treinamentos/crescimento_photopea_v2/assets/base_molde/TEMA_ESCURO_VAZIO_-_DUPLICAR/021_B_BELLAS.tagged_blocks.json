@@ -1,0 +1,1113 @@
+[
+  {
+    "key": "lfx2",
+    "parsed": {
+      "bytes:53636c20": 100.0,
+      "bytes:6d61737465724658537769746368": true,
+      "bytes:64726f70536861646f774d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:436c7220": {
+            "bytes:52642020": 0.0,
+            "bytes:47726e20": 0.0,
+            "bytes:426c2020": 0.0
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:75676c67": true,
+          "bytes:6c61676c": 90.0,
+          "bytes:4473746e": 8.0,
+          "bytes:436b6d74": 19.0,
+          "bytes:626c7572": 30.0,
+          "bytes:4e6f7365": 0.0,
+          "bytes:416e7441": false,
+          "bytes:54726e53": {
+            "bytes:4e6d2020": "Линейный\u0000",
+            "bytes:43727620": [
+              {
+                "bytes:48727a6e": 0.0,
+                "bytes:56727463": 0.0
+              },
+              {
+                "bytes:48727a6e": 255.0,
+                "bytes:56727463": 255.0
+              }
+            ]
+          },
+          "bytes:6c61796572436f6e6365616c73": true
+        }
+      ],
+      "bytes:696e6e6572536861646f774d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bGluZWFyQnVybg==",
+              "length": 10
+            }
+          },
+          "bytes:436c7220": {
+            "bytes:52642020": 112.000000923872,
+            "bytes:47726e20": 22.84046608954668,
+            "bytes:426c2020": 22.84046608954668
+          },
+          "bytes:4f706374": 14.0,
+          "bytes:75676c67": true,
+          "bytes:6c61676c": 90.0,
+          "bytes:4473746e": 7.0,
+          "bytes:436b6d74": 0.0,
+          "bytes:626c7572": 4.0,
+          "bytes:4e6f7365": 0.0,
+          "bytes:416e7441": false,
+          "bytes:54726e53": {
+            "bytes:4e6d2020": "Линейный\u0000",
+            "bytes:43727620": [
+              {
+                "bytes:48727a6e": 0.0,
+                "bytes:56727463": 0.0
+              },
+              {
+                "bytes:48727a6e": 255.0,
+                "bytes:56727463": 255.0
+              }
+            ]
+          }
+        }
+      ],
+      "bytes:4f72476c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 229.00039672851562,
+          "bytes:47726e20": 153.99765014648438,
+          "bytes:426c2020": 43.99932861328125
+        },
+        "bytes:4f706374": 28.0,
+        "bytes:476c7754": {
+          "typeID": {
+            "bytes_base64": "QkVURQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:436b6d74": 0.0,
+        "bytes:626c7572": 8.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:5368644e": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Линейный\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:496e7072": 50.0
+      },
+      "bytes:536f4669": {
+        "bytes:656e6162": true,
+        "bytes:70726573656e74": true,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 231.0003662109375,
+          "bytes:47726e20": 167.0013427734375,
+          "bytes:426c2020": 193.00094604492188
+        },
+        "bytes:4f706374": 100.0
+      },
+      "bytes:6772616469656e7446696c6c4d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:47726164": {
+            "bytes:4e6d2020": "Personalizado\u0000",
+            "bytes:47726446": {
+              "typeID": {
+                "bytes_base64": "R3JkRg==",
+                "length": 4
+              },
+              "enum": {
+                "bytes_base64": "Q3N0Uw==",
+                "length": 4
+              }
+            },
+            "bytes:496e7472": 4096.0,
+            "bytes:436c7273": [
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 228.0000016093254,
+                  "bytes:47726e20": 127.08171084523201,
+                  "bytes:426c2020": 12.521400656551123
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 242.00000077486038,
+                  "bytes:47726e20": 203.84825438261032,
+                  "bytes:426c2020": 109.14007678627968
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 1295,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 228.0000016093254,
+                  "bytes:47726e20": 127.08171084523201,
+                  "bytes:426c2020": 12.521400656551123
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 2165,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 242.00000077486038,
+                  "bytes:47726e20": 203.84825438261032,
+                  "bytes:426c2020": 109.14007678627968
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 2969,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 228.0000016093254,
+                  "bytes:47726e20": 127.08171084523201,
+                  "bytes:426c2020": 12.521400656551123
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ],
+            "bytes:54726e73": [
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ]
+          },
+          "bytes:416e676c": 6.0,
+          "bytes:54797065": {
+            "typeID": {
+              "bytes_base64": "R3JkVA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "TG5yIA==",
+              "length": 4
+            }
+          },
+          "bytes:52767273": false,
+          "bytes:44746872": false,
+          "bytes:67733939": {
+            "typeID": {
+              "bytes_base64": "Z3JhZGllbnRJbnRlcnBvbGF0aW9uTWV0aG9kVHlwZQ==",
+              "length": 31
+            },
+            "enum": {
+              "bytes_base64": "U21vbw==",
+              "length": 4
+            }
+          },
+          "bytes:416c676e": true,
+          "bytes:53636c20": 150.0,
+          "bytes:4f667374": {
+            "bytes:48727a6e": -2.5782688766114297,
+            "bytes:56727463": 2.148997134670491
+          }
+        }
+      ],
+      "bytes:6672616d6546584d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:5374796c": {
+            "typeID": {
+              "bytes_base64": "RlN0bA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "T3V0Rg==",
+              "length": 4
+            }
+          },
+          "bytes:506e7454": {
+            "typeID": {
+              "bytes_base64": "RnJGbA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "U0Nscg==",
+              "length": 4
+            }
+          },
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:537a2020": 49.0,
+          "bytes:436c7220": {
+            "bytes:52642020": 255.0,
+            "bytes:47726e20": 255.0,
+            "bytes:426c2020": 255.0
+          },
+          "bytes:6f7665727072696e74": false
+        }
+      ],
+      "bytes:4972476c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "ZGFya2VyQ29sb3I=",
+            "length": 11
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:726564466c6f6174": -0.004291268531233072,
+          "bytes:677265656e466c6f6174": -0.004295273683965206,
+          "bytes:626c7565466c6f6174": -0.004294047597795725
+        },
+        "bytes:4f706374": 75.0,
+        "bytes:476c7754": {
+          "typeID": {
+            "bytes_base64": "QkVURQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:436b6d74": 2.0,
+        "bytes:626c7572": 60.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:5368644e": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Линейный\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:496e7072": 50.0,
+        "bytes:676c7753": {
+          "typeID": {
+            "bytes_base64": "SUdTcg==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U3JjRQ==",
+            "length": 4
+          }
+        }
+      },
+      "bytes:6562626c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:68676c4d": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "c2NyZWVu",
+            "length": 6
+          }
+        },
+        "bytes:68676c43": {
+          "bytes:726564466c6f6174": 1.0000046491622925,
+          "bytes:677265656e466c6f6174": 0.9999988675117493,
+          "bytes:626c7565466c6f6174": 1.000003695487976
+        },
+        "bytes:68676c4f": 50.0,
+        "bytes:7364774d": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bXVsdGlwbHk=",
+            "length": 8
+          }
+        },
+        "bytes:73647743": {
+          "bytes:726564466c6f6174": -0.004291268531233072,
+          "bytes:677265656e466c6f6174": -0.004295273683965206,
+          "bytes:626c7565466c6f6174": -0.004294047597795725
+        },
+        "bytes:7364774f": 50.0,
+        "bytes:62766c54": {
+          "typeID": {
+            "bytes_base64": "YnZsVA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:62766c53": {
+          "typeID": {
+            "bytes_base64": "QkVTbA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SW5yQg==",
+            "length": 4
+          }
+        },
+        "bytes:75676c67": true,
+        "bytes:6c61676c": 90.0,
+        "bytes:4c616c64": 30.0,
+        "bytes:73726752": 22.0,
+        "bytes:626c7572": 60.0,
+        "bytes:62766c44": {
+          "typeID": {
+            "bytes_base64": "QkVTcw==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SW4gIA==",
+            "length": 4
+          }
+        },
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Линейный\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:616e7469616c696173476c6f7373": false,
+        "bytes:5366746e": 0.0,
+        "bytes:7573655368617065": false,
+        "bytes:75736554657874757265": false
+      },
+      "bytes:43684658": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bXVsdGlwbHk=",
+            "length": 8
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:726564466c6f6174": -0.004291268531233072,
+          "bytes:677265656e466c6f6174": -0.004295273683965206,
+          "bytes:626c7565466c6f6174": -0.004294047597795725
+        },
+        "bytes:416e7441": true,
+        "bytes:496e7672": true,
+        "bytes:4f706374": 40.0,
+        "bytes:6c61676c": 90.0,
+        "bytes:4473746e": 60.0,
+        "bytes:626c7572": 60.0,
+        "bytes:4d706753": {
+          "bytes:4e6d2020": "$$$/Contours/Defaults/ConeInverted=Cone - Inverted\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 255.0
+            },
+            {
+              "bytes:48727a6e": 127.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        }
+      },
+      "bytes:6e756d4d6f64696679696e674658": 1
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lfx2.bin",
+      "bytes": 6256,
+      "sha256": "26f69052b71f2fa81156084837af90a3a2265bf3063decbc64a80b0239908e6e",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lrFX",
+    "parsed": {
+      "bytes:636d6e53": {
+        "version": 0,
+        "visible": 1
+      },
+      "bytes:64736477": {
+        "version": 2,
+        "blur": 1966080,
+        "intensity": 0,
+        "angle": 5898240,
+        "distance": 524288,
+        "color": {
+          "id": 0,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "enabled": 0,
+        "use_global_angle": 1,
+        "opacity": 255,
+        "native_color": {
+          "id": 0,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "bytes:69736477": {
+        "version": 2,
+        "blur": 262144,
+        "intensity": 0,
+        "angle": 5898240,
+        "distance": 458752,
+        "color": {
+          "id": 0,
+          "values": [
+            28784,
+            5870,
+            5870,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bGJybg==",
+          "length": 4
+        },
+        "enabled": 0,
+        "use_global_angle": 1,
+        "opacity": 36,
+        "native_color": {
+          "id": 0,
+          "values": [
+            28784,
+            5870,
+            5870,
+            0
+          ]
+        }
+      },
+      "bytes:6f676c77": {
+        "version": 2,
+        "blur": 524288,
+        "intensity": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            58853,
+            39577,
+            11308,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "enabled": 0,
+        "opacity": 71,
+        "native_color": {
+          "id": 0,
+          "values": [
+            58853,
+            39577,
+            11308,
+            0
+          ]
+        }
+      },
+      "bytes:69676c77": {
+        "version": 2,
+        "blur": 3932160,
+        "intensity": 0,
+        "color": {
+          "id": 18,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "ZGtDbA==",
+          "length": 4
+        },
+        "enabled": 0,
+        "opacity": 191,
+        "invert": 1,
+        "native_color": {
+          "id": 18,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "bytes:6265766c": {
+        "version": 2,
+        "angle": 5898240,
+        "depth": 865075,
+        "blur": 3932160,
+        "highlight_blend_mode": {
+          "bytes_base64": "c2Nybg==",
+          "length": 4
+        },
+        "shadow_blend_mode": {
+          "bytes_base64": "bXVsIA==",
+          "length": 4
+        },
+        "highlight_color": {
+          "id": 18,
+          "values": [
+            16384,
+            16383,
+            16384,
+            129
+          ]
+        },
+        "shadow_color": {
+          "id": 18,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "bevel_style": 2,
+        "highlight_opacity": 128,
+        "shadow_opacity": 128,
+        "enabled": 0,
+        "use_global_angle": 1,
+        "direction": 0,
+        "real_highlight_color": {
+          "id": 18,
+          "values": [
+            16384,
+            16383,
+            16384,
+            129
+          ]
+        },
+        "real_shadow_color": {
+          "id": 18,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "bytes:736f6669": {
+        "version": 2,
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "color": {
+          "id": 0,
+          "values": [
+            59367,
+            42919,
+            49601,
+            0
+          ]
+        },
+        "opacity": 255,
+        "enabled": 1,
+        "native_color": {
+          "id": 0,
+          "values": [
+            59367,
+            42919,
+            49601,
+            0
+          ]
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lrFX.bin",
+      "bytes": 396,
+      "sha256": "5d2530543dd66054b282d8f0768c664ee7fb1d76b3bee0ed024f34e6c298056b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "luni",
+    "parsed": "B BELLAS",
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_luni.bin",
+      "bytes": 20,
+      "sha256": "b716f3490ca9367d668c4a359db11704e493034adc4d59bb668c6cfe6b3c83ae",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "cmVuZA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "69bc823df4bd52d72a5988b55ab0f238f5d17b28344132b01b2463e388bb9424",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1120,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "2af5fcbf415e72fe8921614b74fed37c8c23bc2bf6a9757075cb06985b3be9de",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "iOpa",
+    "parsed": 209,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_iOpa.bin",
+      "bytes": 4,
+      "sha256": "101247b4e62b039809b64a0d314a36e8cae22b9161ce3d12158d124dc85c1ec0",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.537628
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "6c15b7d887917f9a5d7a64b39f89d9543fbd6b3bd566d6a0ba5a0569bcfeebfd",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "PlLd",
+    "parsed": {
+      "kind": {
+        "bytes_base64": "cGxjTA==",
+        "length": 4
+      },
+      "version": 3,
+      "uuid": {
+        "bytes_base64": "NTBmM2MyY2EtYzIyOS1mZTRhLTgxNjktMTY0ZWM5Nzk2Y2Yz",
+        "length": 36
+      },
+      "page": 1,
+      "total_pages": 1,
+      "anti_alias": 16,
+      "layer_type": 2,
+      "transform": [
+        1309.0,
+        -236.0,
+        1928.0,
+        -236.0000000000001,
+        1928.0,
+        617.0000000000001,
+        1309.0,
+        617.0000000000001
+      ],
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycE5vbmU=",
+            "length": 8
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:626f756e6473": {
+          "bytes:546f7020": 0.0,
+          "bytes:4c656674": 0.0,
+          "bytes:42746f6d": 1278.0,
+          "bytes:52676874": 929.0
+        },
+        "bytes:754f72646572": 4,
+        "bytes:764f72646572": 4
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_PlLd.bin",
+      "bytes": 480,
+      "sha256": "a0ad38d23b3790df67b4775871d333341b2c5fe800780f694721e14453ff18b5",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "SoLd",
+    "parsed": {
+      "kind": {
+        "bytes_base64": "c29MRA==",
+        "length": 4
+      },
+      "version": 4,
+      "data": {
+        "bytes:49646e74": "50f3c2ca-c229-fe4a-8169-164ec9796cf3\u0000",
+        "bytes:706c61636564": "f7f5f41c-5ae5-c64e-8d69-2466c75c9b9a\u0000",
+        "bytes:50674e6d": 1,
+        "bytes:746f74616c5061676573": 1,
+        "bytes:43726f70": 1,
+        "bytes:6672616d6553746570": {
+          "bytes:6e756d657261746f72": 0,
+          "bytes:64656e6f6d696e61746f72": 600
+        },
+        "bytes:6475726174696f6e": {
+          "bytes:6e756d657261746f72": 0,
+          "bytes:64656e6f6d696e61746f72": 600
+        },
+        "bytes:6672616d65436f756e74": 1,
+        "bytes:416e6e74": 16,
+        "bytes:54797065": 2,
+        "bytes:54726e66": [
+          1309.0,
+          -236.0,
+          1928.0,
+          -236.0000000000001,
+          1928.0,
+          617.0000000000001,
+          1309.0,
+          617.0000000000001
+        ],
+        "bytes:6e6f6e416666696e655472616e73666f726d": [
+          1309.0,
+          -236.0,
+          1928.0,
+          -236.0000000000001,
+          1928.0,
+          617.0000000000001,
+          1309.0,
+          617.0000000000001
+        ],
+        "bytes:77617270": {
+          "bytes:776172705374796c65": {
+            "typeID": {
+              "bytes_base64": "d2FycFN0eWxl",
+              "length": 9
+            },
+            "enum": {
+              "bytes_base64": "d2FycE5vbmU=",
+              "length": 8
+            }
+          },
+          "bytes:7761727056616c7565": 0.0,
+          "bytes:776172705065727370656374697665": 0.0,
+          "bytes:7761727050657273706563746976654f74686572": 0.0,
+          "bytes:77617270526f74617465": {
+            "typeID": {
+              "bytes_base64": "T3JudA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "SHJ6bg==",
+              "length": 4
+            }
+          },
+          "bytes:626f756e6473": {
+            "bytes:546f7020": 0.0,
+            "bytes:4c656674": 0.0,
+            "bytes:42746f6d": 1278.0,
+            "bytes:52676874": 929.0
+          },
+          "bytes:754f72646572": 4,
+          "bytes:764f72646572": 4
+        },
+        "bytes:537a2020": {
+          "bytes:57647468": 929.0,
+          "bytes:48676874": 1278.0
+        },
+        "bytes:52736c74": 72.0,
+        "bytes:636f6d70": -1,
+        "bytes:636f6d70496e666f": {
+          "bytes:636f6d704944": -1,
+          "bytes:6f726967696e616c436f6d704944": -1
+        },
+        "bytes:436c4d67": {
+          "bytes:706c616365644c617965724f43494f436f6e76657273696f6e": {
+            "typeID": {
+              "bytes_base64": "cGxhY2VkTGF5ZXJPQ0lPQ29udmVyc2lvbg==",
+              "length": 25
+            },
+            "enum": {
+              "bytes_base64": "cGxhY2VkTGF5ZXJPQ0lPQ29udmVydEVtYmVkZGVk",
+              "length": 30
+            }
+          }
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_SoLd.bin",
+      "bytes": 1388,
+      "sha256": "9022712da45d5140e891b96f44d10fa87e7d65daa94d6a6614c37e96ea9b6f72",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        4833.900179693725,
+        186.24341849783832
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "64f8e687e491c50f44dc562fa577a2652e3ae7d00579faeef9d899f1ccca9047",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

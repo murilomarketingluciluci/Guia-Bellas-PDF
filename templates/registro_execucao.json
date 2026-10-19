@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "example_only": true,
+  "action_id": "identificador-estavel-da-acao",
+  "timestamp": "YYYY-MM-DDThh:mm:ss-03:00",
+  "agent": "principal-ou-subagente",
+  "event": "planned|started|result|decision|correction|checkpoint",
+  "objective": "Objetivo operacional e justificativa breve, sem raciocínio privado.",
+  "tool": "Nome exato da ferramenta, quando houver.",
+  "parameters_exact": {},
+  "prompt_exact_file": null,
+  "script_version_file": null,
+  "call_id": null,
+  "inputs": [],
+  "outputs_expected": [],
+  "outputs_observed": [],
+  "status": "planned|running|succeeded|failed|unknown",
+  "exit_code": null,
+  "evidence": [],
+  "sha256": {},
+  "limitations": []
+}

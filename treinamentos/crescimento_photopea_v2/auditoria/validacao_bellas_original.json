@@ -1,0 +1,14 @@
+{
+  "status": "failed",
+  "problems": [
+    "manifesto: template.psd deve apontar só para C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Criador de PDF Agente\\referencias\\molde_bellas_aprovado_capa_temas_agradecimento.psd",
+    "capa diverge da referência fora da área do título",
+    "agradecimento diverge da referência aprovada"
+  ],
+  "details": {
+    "psd_page_groups": 12,
+    "hidden_text_layers": [],
+    "png_count": 12,
+    "pdf_pages": 12
+  }
+}

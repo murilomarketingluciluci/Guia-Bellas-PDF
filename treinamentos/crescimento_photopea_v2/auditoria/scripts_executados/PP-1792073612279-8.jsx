@@ -1,0 +1,1 @@
+app.echoToOE(JSON.stringify({documents:app.documents.length,fonts:app.fonts.length}));

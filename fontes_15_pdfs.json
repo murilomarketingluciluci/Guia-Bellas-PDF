@@ -1,0 +1,111 @@
+{
+  "count": 15,
+  "pages": 227,
+  "files": [
+    {
+      "alias": "base",
+      "source_name": "FORTALECENDO A BASE PARA VOAR MAIS ALTO.pdf",
+      "pages": 18,
+      "contact_sheet": "referencias/contatos_15_pdfs/base.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/base.pdf"
+    },
+    {
+      "alias": "colageno",
+      "source_name": "COLÁGENO NÃO É TUDO IGUAL - BELLAS LIVE 10-06.pdf",
+      "pages": 25,
+      "contact_sheet": "referencias/contatos_15_pdfs/colageno.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/colageno.pdf"
+    },
+    {
+      "alias": "esfoliante",
+      "source_name": "Esfoliante 3 em 1 - TREINAMENTO BELLAS.pdf",
+      "pages": 10,
+      "contact_sheet": "referencias/contatos_15_pdfs/esfoliante.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/esfoliante.pdf"
+    },
+    {
+      "alias": "etiqueta",
+      "source_name": "ETIQUETA PROFISSIONAL E SOCIAL.pdf",
+      "pages": 9,
+      "contact_sheet": "referencias/contatos_15_pdfs/etiqueta.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/etiqueta.pdf"
+    },
+    {
+      "alias": "financas",
+      "source_name": "INTELIGENCIA FINANCEIRA Live Bellas 24-06.pdf",
+      "pages": 17,
+      "contact_sheet": "referencias/contatos_15_pdfs/financas.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/financas.pdf"
+    },
+    {
+      "alias": "guiar",
+      "source_name": "COMO GUIAR O CLIENTE ATÉ O PRODUTO FINAL.pdf",
+      "pages": 13,
+      "contact_sheet": "referencias/contatos_15_pdfs/guiar.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/guiar.pdf"
+    },
+    {
+      "alias": "matcha",
+      "source_name": "Treinamento Matcha - Versão Bellas.pdf",
+      "pages": 8,
+      "contact_sheet": "referencias/contatos_15_pdfs/matcha.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/matcha.pdf"
+    },
+    {
+      "alias": "mulheres",
+      "source_name": "mulheres que prosperam.pdf",
+      "pages": 11,
+      "contact_sheet": "referencias/contatos_15_pdfs/mulheres.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/mulheres.pdf"
+    },
+    {
+      "alias": "namorados",
+      "source_name": "Como vender mais neste dia dos namorados [TREINAMENTO BELLAS].pdf",
+      "pages": 13,
+      "contact_sheet": "referencias/contatos_15_pdfs/namorados.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/namorados.pdf"
+    },
+    {
+      "alias": "obesidade",
+      "source_name": "TREINAMENTO BELLAS - OBESIDADE NO BRASIL.pdf",
+      "pages": 18,
+      "contact_sheet": "referencias/contatos_15_pdfs/obesidade.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/obesidade.pdf"
+    },
+    {
+      "alias": "oito_passos",
+      "source_name": "8 PASSOS PARA O SUCESSO - BELLAS.pdf",
+      "pages": 35,
+      "contact_sheet": "referencias/contatos_15_pdfs/oito_passos.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/oito_passos.pdf"
+    },
+    {
+      "alias": "posicionamento",
+      "source_name": "LIVE BELLAS POSICIONAMENTO ELEGANTE - APRESENTAÇÃO.pdf",
+      "pages": 12,
+      "contact_sheet": "referencias/contatos_15_pdfs/posicionamento.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/posicionamento.pdf"
+    },
+    {
+      "alias": "shake",
+      "source_name": "TREINAMENTO-SHAKE-BELLAS.pdf",
+      "pages": 11,
+      "contact_sheet": "referencias/contatos_15_pdfs/shake.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/shake.pdf"
+    },
+    {
+      "alias": "spa",
+      "source_name": "TREINAMENTO BELLAS - SPA DAS MÃOS.pdf",
+      "pages": 12,
+      "contact_sheet": "referencias/contatos_15_pdfs/spa.jpg",
+      "full_pdf_in_package": "referencias/pdfs_15/spa.pdf"
+    },
+    {
+      "alias": "anexo Rosangela",
+      "source_name": "APN LIVE 09-09 ROSANGELA.pdf (arquivo anexado)",
+      "pages": 15,
+      "contact_sheet": "referencias/contatos_15_pdfs/APN LIVE 09-09 ROSANGELA.jpg",
+      "full_pdf_in_package": "referencias/rosangela_original.pdf"
+    }
+  ]
+}

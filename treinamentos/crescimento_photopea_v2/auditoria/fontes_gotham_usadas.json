@@ -1,0 +1,29 @@
+{
+  "provenance": "C:/Users/Murilo/Downloads/Gotham.zip",
+  "fonts": [
+    {
+      "asset": "assets/fonts/Gotham-Book.otf",
+      "member": "Gotham/Gotham Book/Gotham Book.otf",
+      "bytes": 128020,
+      "sha256": "d3c79bd7ec9e3b465f0b821cf931be66542bff3694f7c70e0aeae0f6d7036756"
+    },
+    {
+      "asset": "assets/fonts/Gotham-Bold.otf",
+      "member": "Gotham/Gotham Bold/Gotham Bold.otf",
+      "bytes": 127472,
+      "sha256": "88b3795f97ee469c9e30430b54d35c11cdf28c96e3e71d0122e37e6bf025c0b8"
+    },
+    {
+      "asset": "assets/fonts/Gotham-Light.otf",
+      "member": "Gotham/Gotham Light/Gotham Light.otf",
+      "bytes": 125704,
+      "sha256": "eb5f2c3557023f9aebd1315f78deceb2f5852d3680124fe1e96effc075df3170"
+    },
+    {
+      "asset": "assets/fonts/Gotham-Medium.otf",
+      "member": "Gotham/Gotham Medium/Gotham Medium.otf",
+      "bytes": 128768,
+      "sha256": "e8183507b37f3df80ea253b144745ed58784f5b4465b5216fbf9e314df592d06"
+    }
+  ]
+}

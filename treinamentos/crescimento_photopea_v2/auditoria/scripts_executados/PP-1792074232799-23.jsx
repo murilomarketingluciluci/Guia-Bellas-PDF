@@ -1,0 +1,1 @@
+app.echoToOE("DOCS="+app.documents.length+" LAYERS="+app.activeDocument.layers.length+" NAME="+app.activeDocument.name);

@@ -1,0 +1,1 @@
+for(var i=0;i<app.activeDocument.layerSets.length;i++)app.echoToOE('GROUP:'+app.activeDocument.layerSets[i].name);app.echoToOE('ACTIVE:'+app.activeDocument.activeLayer.name);

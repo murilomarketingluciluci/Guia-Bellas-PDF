@@ -1,0 +1,845 @@
+{
+  "schema_version": "1.0",
+  "stage": "final",
+  "project": "Optima - conteúdo real integral para produção Bellas",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "template": {
+    "psd": "../referencias/molde_v1_0_base.psd",
+    "groups": {
+      "cover": "molde claro",
+      "light": "molde claro",
+      "dark": "molde escuro"
+    },
+    "fixed_artwork": "Preservar do template; não redesenhar."
+  },
+  "slides": [
+    {
+      "number": 1,
+      "name": "Capa — Optima",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.14895833333333333,
+            0.26851851851851855,
+            0.7020833333333333,
+            0.2759259259259259
+          ],
+          "text": "DESODORANTE OPTIMA",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 1,
+            "block": 0
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08854166666666667,
+            0.6370370370370371,
+            0.25625,
+            0.12222222222222222
+          ],
+          "text": "LIVRE DE ALUMÍNIO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 1,
+            "block": 1
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.371875,
+            0.6370370370370371,
+            0.25625,
+            0.12222222222222222
+          ],
+          "text": "TOQUE SECO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 1,
+            "block": 2
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.6552083333333333,
+            0.6370370370370371,
+            0.25625,
+            0.12222222222222222
+          ],
+          "text": "NANOTECNOLOGIA",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 1,
+            "block": 3
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Contexto",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06979166666666667,
+            0.11666666666666667,
+            0.75,
+            0.15185185185185185
+          ],
+          "text": "ALUMÍNIO - METAL PESADO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 2,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.3333333333333333,
+            0.8583333333333333,
+            0.14444444444444443
+          ],
+          "text": "Alumínio é o componente mais utilizado nos desodorantes, pois é responsável por criar uma “barreira\" nos nossos poros e glândulas sudoríparas. Não deixa transpirar, irritação, escurecimento (24/48hrs)",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 2,
+            "block": 1
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.5,
+            0.8583333333333333,
+            0.12407407407407407
+          ],
+          "text": "Alumínio está presente no nosso dia a dia: desodorantes, maquiagens, esmaltes, panelas, gel dental, embalagens, água…",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 2,
+            "block": 2
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06979166666666667,
+            0.6462962962962963,
+            0.8583333333333333,
+            0.10555555555555556
+          ],
+          "text": "Alumínio é TÓXICO - outros metais pesados também - COBRE",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 2,
+            "block": 3
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.774074074074074,
+            0.8583333333333333,
+            0.10555555555555556
+          ],
+          "text": "Primeiro ponto importante: até hoje, estudos científicos NÃO comprovam que o alumínio em desodorantes causa doenças graves como câncer ou Alzheimer. Mas… existem motivos plausíveis para preocupação, e por isso ele vem sendo cada vez mais estudado.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 2,
+            "block": 4
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Evidências",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.1111111111111111,
+            0.7270833333333333,
+            0.14444444444444443
+          ],
+          "text": "O QUE A CIÊNCIA SABE",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 3,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06875,
+            0.3333333333333333,
+            0.41041666666666665,
+            0.4962962962962963
+          ],
+          "text": "IRRITAÇÃO E SENSIBILIDADE DA PELE: O alumínio é um antitranspirante pois bloqueia os poros temporariamente, podendo causar irritações, inflamação local, coceira, dermatite, ressecamentos… Amplamente documentado em estudos dermatológicos",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 3,
+            "block": 1
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.521875,
+            0.3333333333333333,
+            0.41041666666666665,
+            0.4962962962962963
+          ],
+          "text": "ALTERAÇÃO DO MICROBIOMA DAS AXILAS: Antitranspirantes com alumínio, mudam o ambiente natural da pele alterando o pH, os tipos de bactérias presentes e o equilíbrio da microbiota. Podendo causar aumento no mau odor quando a pessoa deixa de usar alumínio, maior sensibilidade e um desequilíbrio da flora natural da pele… Diversos estudos microbiológicos mostrando essas alterações",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 3,
+            "block": 2
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Evidências — continuação",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0.0,
+            0.3802083333333333,
+            1.0
+          ],
+          "asset": "assets/foto_04_730x1080_v2.png",
+          "fit": "cover"
+        },
+        {
+          "role": "h1",
+          "rect": [
+            0.421875,
+            0.11666666666666667,
+            0.5104166666666666,
+            0.15555555555555556
+          ],
+          "text": "O QUE A CIÊNCIA SABE",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 4,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.421875,
+            0.3333333333333333,
+            0.5104166666666666,
+            0.25
+          ],
+          "text": "ABSORÇÃO DO ALUMÍNIO PELA PELE: Estudos mostram que uma quantidade muito pequena de alumínio pode ser absorvida pela pele, mas essa absorção aumenta quando: A pele está recém depilada, há irritação e microlesões. Ainda não existem estudos que comprovem dano sistêmico, mas não é totalmente seguro.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 4,
+            "block": 1
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.421875,
+            0.6129629629629629,
+            0.5104166666666666,
+            0.2759259259259259
+          ],
+          "text": "ASSOCIAÇÃO COM CÂNCER DE MAMA: Essa é a principal preocupação quando se fala de desodorante com alumínio, mas o que a ciência diz hoje? Não há evidencias conclusivas de que o alumínio cause câncer, mas diversos estudos encontraram alumínio acumulado em tecidos mamários especialmente na região das axilas. Ainda continua sendo objeto de estudo",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 4,
+            "block": 2
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Ressalva",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06979166666666667,
+            0.11666666666666667,
+            0.7604166666666666,
+            0.14074074074074075
+          ],
+          "text": "O QUE A CIÊNCIA SABE",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 5,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06979166666666667,
+            0.3277777777777778,
+            0.5416666666666666,
+            0.48518518518518516
+          ],
+          "text": "ASSOCIAÇÃO COM O ALZHEIMER: Estudos modernos não encontraram relações diretas, PORÉM o cérebro de pacientes com Alzheimer apresenta alumínio, e isso mantém o tema em constante estudo. Muito se fala da relação do alumínio com o Alzheimer, demência, Parkinson… pois o alumínio afeta nosso sistema nervoso, faz mal pro nosso cérebro… em pacientes com essas doenças, se encontrou quantidades de alumínio no cérebro deles, mas não temos um estudo conclusivo sobre o caso.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 5,
+            "block": 1
+          }
+        },
+        {
+          "role": "callout",
+          "rect": [
+            0.6541666666666667,
+            0.43703703703703706,
+            0.27708333333333335,
+            0.26666666666666666
+          ],
+          "text": "EVITAR DESODORANTES COM ALUMÍNIO EM AEROSOL",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 5,
+            "block": 2
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Magnésio — introdução",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0.0,
+            0.3645833333333333,
+            1.0
+          ],
+          "asset": "assets/foto_06_700x1080_v2.png",
+          "fit": "cover"
+        },
+        {
+          "role": "h1",
+          "rect": [
+            0.4083333333333333,
+            0.11296296296296296,
+            0.5229166666666667,
+            0.1537037037037037
+          ],
+          "text": "MAGNÉSIO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 6,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.4083333333333333,
+            0.3333333333333333,
+            0.5229166666666667,
+            0.20555555555555555
+          ],
+          "text": "O hidróxido de magnésio é um dos componentes mais usados em desodorantes sem alumínio! O nosso é NANOENCAPSULADO!",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 6,
+            "block": 1
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.4083333333333333,
+            0.5685185185185185,
+            0.5229166666666667,
+            0.3055555555555556
+          ],
+          "text": "NEUTRALIZA O MAU ODOR (sem impedir a transpiração): A transpiração é importante para o nosso corpo, pois elimina toxinas, regula a temperatura do nosso corpo… E o mau cheiro não vem do suor em si, mas das bactérias que se alimentam dele. O hidróxido de magnésio equilibra o pH da pele (que o alumínio desregula), deixando o ambiente menos favorável para a proliferação dessas bactérias, diminuindo portanto o odor. 8/10HRS de efeito",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 6,
+            "block": 2
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Magnésio — benefícios",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.6458333333333334,
+            0.0,
+            0.3541666666666667,
+            1.0
+          ],
+          "asset": "assets/foto_07_680x1080_v2.png",
+          "fit": "cover"
+        },
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.1111111111111111,
+            0.53125,
+            0.14629629629629629
+          ],
+          "text": "MAGNÉSIO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 7,
+            "block": 0
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08125,
+            0.34074074074074073,
+            0.5364583333333334,
+            0.12962962962962962
+          ],
+          "text": "MAIS SUAVE PARA PELE: Tem uma atuação mais equilibrada no nosso corpo, sendo ideal para peles mais sensíveis, não causando irritação como o alumínio",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 7,
+            "block": 1
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08125,
+            0.512962962962963,
+            0.5364583333333334,
+            0.12962962962962962
+          ],
+          "text": "NÃO ENTOPE OS POROS: Por não ser antitranspirante, ele não bloqueia a transpiração, ou seja, você continua suando (natural e saudável) porém sem cheiro. Ajuda a controlar as glândulas sudoríparas",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 7,
+            "block": 2
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.08125,
+            0.6851851851851852,
+            0.5364583333333334,
+            0.12962962962962962
+          ],
+          "text": "NÃO MANCHA AS ROUPAS: aquelas manchas brancas e/ou amareladas se dão pelo alumínio",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 7,
+            "block": 3
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Óleo de soja",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06979166666666667,
+            0.11481481481481481,
+            0.759375,
+            0.14444444444444443
+          ],
+          "text": "ÓLEO DE SOJA",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 8,
+            "block": 0
+          }
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.0625,
+            0.3574074074074074,
+            0.284375,
+            0.4777777777777778
+          ],
+          "text": "HIDRATAÇÃO PROFUNDA DA PELE: O óleo de soja é rico em Vitamina E, Ômega 6 e 9 e fosfolipídeos. Esses nutrientes ajudam a hidratar, amaciar e restaurar a barreira da pele.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 8,
+            "block": 1
+          }
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.375,
+            0.3574074074074074,
+            0.284375,
+            0.4777777777777778
+          ],
+          "text": "AÇÃO ANTI-INFLAMATÓRIA E CALMANTE",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 8,
+            "block": 2
+          }
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.6875,
+            0.3574074074074074,
+            0.284375,
+            0.4777777777777778
+          ],
+          "text": "AJUDA A CONTROLAR ODORES: hidrata a pele, mantém o pH equilibrado e reduz a inflamação/irritação/vermelhidão.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 8,
+            "block": 3
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Pele hidratada",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06145833333333333,
+            0.0962962962962963,
+            0.8708333333333333,
+            0.1648148148148148
+          ],
+          "text": "PELE HIDRATADA MELHORA O EFEITO DO DESODORANTE SEM ALUMÍNIO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 9,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.31296296296296294,
+            0.8572916666666667,
+            0.14814814814814814
+          ],
+          "text": "MENOS ATRITO E IRRITAÇÃO: Sem o alumínio a axila continua suando, o que é natural. Se a pele está ressecada ela se irrita mais fácil e fica mais sensível ao atrito com a roupa. Irritação + suor é a combinação perfeita para o mau odor.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 9,
+            "block": 1
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.4962962962962963,
+            0.8572916666666667,
+            0.14814814814814814
+          ],
+          "text": "PH MAIS EQUILIBRADO: A pele ressecada tende a desregular o pH e com isso o mau odor aumenta. Com a hidratação, o pH da pele fica mais estável deixando o ambiente menos favorável para as bactérias que causam mau odor.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 9,
+            "block": 2
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.6796296296296296,
+            0.8572916666666667,
+            0.14814814814814814
+          ],
+          "text": "MELHORA A AÇÃO DOS ATIVOS NATURAIS: Pele hidratada permite que os ativos do desodorante sem alumínio funcionem melhor",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 9,
+            "block": 3
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Tempo de adaptação",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06875,
+            0.1111111111111111,
+            0.7458333333333333,
+            0.14814814814814814
+          ],
+          "text": "TEMPO DE ADAPTAÇÃO",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 10,
+            "block": 0
+          }
+        },
+        {
+          "role": "body",
+          "rect": [
+            0.06770833333333333,
+            0.31851851851851853,
+            0.590625,
+            0.45740740740740743
+          ],
+          "text": "Os antitranspirantes com alumínio, funcionam bloqueando os poros, reduzindo a produção de suor. Quando você para de aplicar o alumínio o corpo volta ao funcionamento natural. Com isso temos um AUMENTO TEMPORÁRIO DO SUOR, AUMENTO TEMPORÁRIO DO ODOR, BACTÉRIAS SE REORGANIZANDO, CORPO VOLTANDO AO RITMO NATURAL DAS GLÂNDULAS SUDORÍPARAS.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 10,
+            "block": 1
+          }
+        },
+        {
+          "role": "callout",
+          "rect": [
+            0.6916666666666667,
+            0.39444444444444443,
+            0.240625,
+            0.2796296296296296
+          ],
+          "text": "Normalmente de 4 a 8 semanas",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 10,
+            "block": 2
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Por que acontece",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.10555555555555556,
+            0.8125,
+            0.1537037037037037
+          ],
+          "text": "POR QUE ESSE PROCESSO ACONTECE?",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 11,
+            "block": 0
+          }
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.065625,
+            0.35,
+            0.284375,
+            0.48703703703703705
+          ],
+          "text": "OS POROS ESTAVAM BLOQUEADOS POR ANOS: Seu corpo precisa reaprender a regular o fluxo de suor natural",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 11,
+            "block": 1
+          }
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.3770833333333333,
+            0.35,
+            0.284375,
+            0.48703703703703705
+          ],
+          "text": "A MICROBIOTA DA AXÍLA MUDA: Antitranspirantes (alumínio) alteram o ambiente da pele. Quando você para de fornecer alumínio para essas bactérias elas precisam se readaptar, e isso gera mais odor temporariamente",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 11,
+            "block": 2
+          }
+        },
+        {
+          "role": "card",
+          "rect": [
+            0.6885416666666667,
+            0.35,
+            0.284375,
+            0.48703703703703705
+          ],
+          "text": "PELE RESSECADA OU SENSIBILIZADA: Sem hidratação adequeada, o cheiro tende a piorar até a pele se recuperar.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 11,
+            "block": 3
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Dicas",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "rect": [
+            0.06770833333333333,
+            0.1037037037037037,
+            0.5729166666666666,
+            0.15
+          ],
+          "text": "DICAS",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 0
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06666666666666667,
+            0.3296296296296296,
+            0.428125,
+            0.13518518518518519
+          ],
+          "text": "HIDRATE AS AXILAS",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 1
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.5354166666666667,
+            0.3296296296296296,
+            0.428125,
+            0.13518518518518519
+          ],
+          "text": "REPASSE AO LONGO DO DIA",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 2
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06666666666666667,
+            0.512962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "text": "USE OS HIDRATANTES COM ALOE VERA",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 3
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.5354166666666667,
+            0.512962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "text": "BEBA ALOE VERA",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 4
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.06666666666666667,
+            0.6962962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "text": "USE PRODUTOS COM CLORELA, ESPIRULINA, SELÊNIO.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 5
+          }
+        },
+        {
+          "role": "bullet",
+          "rect": [
+            0.5354166666666667,
+            0.6962962962962963,
+            0.428125,
+            0.13518518518518519
+          ],
+          "text": "VITAMINA C, COENZIMA Q10, ASTAXANTINA, TRANS-RESVERATROL PODEM AJUDAR.",
+          "source": {
+            "file": "../referencias/optima_conteudo_original.pdf",
+            "page": 12,
+            "block": 6
+          }
+        }
+      ]
+    }
+  ],
+  "note": "Manifesto de entrada historico: contem 12 telas, geometria preliminar e capa antiga; nao inclui a pagina de agradecimento adicionada pelo usuario. Use os 13 PNGs aprovados e o registro final como referencia visual. O conteudo original foi preservado conforme o escopo editorial da epoca.",
+  "production_status": "historico_12_telas_nao_reproduz_arte_aprovada_13_paginas",
+  "source": "../referencias/optima_conteudo_original.pdf"
+}

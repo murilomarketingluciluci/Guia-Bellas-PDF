@@ -1,0 +1,105 @@
+[
+  {
+    "key": "luni",
+    "parsed": "TEMA CLARO VAZIO - DUPLICAR",
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_luni.bin",
+      "bytes": 58,
+      "sha256": "0f759decd1807bdd86493c195325eb1cc0d8365ca1c0f8390938ff8f7a2d8304",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 54,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "0cc6a4ccca98a6360d42fde83780517edbfc32b300cd3ba0e0a5453a8166697a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lsct",
+    "parsed": {
+      "kind": 1,
+      "signature": {
+        "bytes_base64": "OEJJTQ==",
+        "length": 4
+      },
+      "blend_mode": {
+        "bytes_base64": "cGFzcw==",
+        "length": 4
+      },
+      "sub_type": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lsct.bin",
+      "bytes": 16,
+      "sha256": "a7ab2cb8bad15ed5a9a6a068e46c599382055ceb184a926a8e6cfd4052d5e0c3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011483.0885305
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "54e723421f282604456c549838961ac5c9434fc405f26cab4bc39194ef67d33b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        0.0,
+        0.0
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/023_TEMA_CLARO_VAZIO_-_DUPLICAR.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "374708fff7719dd5979ec875d56cd2286f6d3cf7ec317a3b25632aab28ec37bb",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

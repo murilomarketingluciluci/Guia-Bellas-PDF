@@ -1,0 +1,30 @@
+[
+  {
+    "page": 2,
+    "source": "assets/foto_02_apresentacao_v3.png",
+    "asset": "assets/foto_02_apresentacao_v3_srgb.png",
+    "sha256": "85ba28b9a905084d4432dd1cdb0a5976e3ef95854f454887c86837c277feb6b7",
+    "profile": "original profile retained or sRGB explicitly embedded; RGB unchanged"
+  },
+  {
+    "page": 4,
+    "source": "assets/foto_04_pele.png",
+    "asset": "assets/foto_04_pele_srgb.png",
+    "sha256": "80b779cae00807a30b0a0a211749551aff6f60810ddf9347178bff210c0b9207",
+    "profile": "original profile retained or sRGB explicitly embedded; RGB unchanged"
+  },
+  {
+    "page": 6,
+    "source": "assets/foto_06_preparo_v2.png",
+    "asset": "assets/foto_06_preparo_v2_srgb.png",
+    "sha256": "d3cc37af30a4f51846a815fc0f680fc8aa89d000467eae7bc99fa96d24d1bff7",
+    "profile": "original profile retained or sRGB explicitly embedded; RGB unchanged"
+  },
+  {
+    "page": 7,
+    "source": "assets/foto_07_conservacao.png",
+    "asset": "assets/foto_07_conservacao_srgb.png",
+    "sha256": "82033244ea342b14c6d2ba1d0a1430c2ab7bed2e72d7e08a479dc73f6c277aa5",
+    "profile": "original profile retained or sRGB explicitly embedded; RGB unchanged"
+  }
+]

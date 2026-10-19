@@ -1,0 +1,105 @@
+[
+  {
+    "key": "luni",
+    "parsed": "CAPA APROVADA - ALTERAR SOMENTE TITULO",
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_luni.bin",
+      "bytes": 80,
+      "sha256": "559ce7830ad961dbd6044107065d78864c6cf5681e19dab3f7a04366601963da",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 38,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "0f65dd2d76efb602f9554514892751d5cf336a56c3888aa8cb122e970016949a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lsct",
+    "parsed": {
+      "kind": 1,
+      "signature": {
+        "bytes_base64": "OEJJTQ==",
+        "length": 4
+      },
+      "blend_mode": {
+        "bytes_base64": "cGFzcw==",
+        "length": 4
+      },
+      "sub_type": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lsct.bin",
+      "bytes": 16,
+      "sha256": "a7ab2cb8bad15ed5a9a6a068e46c599382055ceb184a926a8e6cfd4052d5e0c3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011482.92961
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "b1b1b181cbb9b9918ec6e6b4b0a1f878393f446d5de61ad4ccdc3464a99fdd7b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        0.0,
+        0.0
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/026_CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "374708fff7719dd5979ec875d56cd2286f6d3cf7ec317a3b25632aab28ec37bb",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

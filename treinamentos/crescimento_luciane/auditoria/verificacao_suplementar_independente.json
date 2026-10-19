@@ -1,0 +1,252 @@
+{
+  "independent_pdf_render": [
+    {
+      "page": 1,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 2,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 3,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 4,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 5,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 6,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 7,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 8,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 9,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 10,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 11,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "page": 12,
+      "render_rgb_equals_png": true,
+      "size": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "psd_header": {
+    "signature": "8BPS",
+    "version": 1,
+    "canvas": [
+      1920,
+      1080
+    ],
+    "channels": 3,
+    "depth": 8,
+    "color_mode": 3
+  },
+  "visible_variable_text_layers": 86,
+  "photos_inventory_manifest_crosscheck": [
+    {
+      "page": 2,
+      "asset": "assets/foto_02_preparacao.png",
+      "smart_object_reported": true,
+      "bounds_match_manifest": true
+    },
+    {
+      "page": 3,
+      "asset": "assets/foto_03_caminho.png",
+      "smart_object_reported": true,
+      "bounds_match_manifest": true
+    },
+    {
+      "page": 8,
+      "asset": "assets/foto_08_mentoria.png",
+      "smart_object_reported": true,
+      "bounds_match_manifest": true
+    },
+    {
+      "page": 9,
+      "asset": "assets/foto_09_equipe.png",
+      "smart_object_reported": true,
+      "bounds_match_manifest": true
+    }
+  ],
+  "card_groups": [
+    {
+      "page": 2,
+      "name": "CARD | atitude_4",
+      "members": 3,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 2,
+      "name": "CARD | atitude_3",
+      "members": 3,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 2,
+      "name": "CARD | atitude_2",
+      "members": 3,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 2,
+      "name": "CARD | atitude_1",
+      "members": 3,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 4,
+      "name": "CARD | episodio_04",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 4,
+      "name": "CARD | episodio_03",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 4,
+      "name": "CARD | episodio_02",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 4,
+      "name": "CARD | episodio_01",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 5,
+      "name": "CARD | episodio_08",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 5,
+      "name": "CARD | episodio_07",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 5,
+      "name": "CARD | episodio_06",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 5,
+      "name": "CARD | episodio_05",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 6,
+      "name": "CARD | episodio_12",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 6,
+      "name": "CARD | episodio_11",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 6,
+      "name": "CARD | episodio_10",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    },
+    {
+      "page": 6,
+      "name": "CARD | episodio_09",
+      "members": 6,
+      "has_number": true,
+      "has_text": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-10-15T14:07:46.338905+00:00",
+  "validator_sha256": "6803dd4322c9cf56530e9cdcff9c04f62da16706118edf10bcdfdf2c8d334ee1",
+  "status": "failed",
+  "visual_approval": false,
+  "checks": [
+    {
+      "check": "exists_manifest",
+      "passed": false,
+      "evidence": "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\manifesto_final.json"
+    },
+    {
+      "check": "exists_psd",
+      "passed": false,
+      "evidence": "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\entrega\\inexistente.psd"
+    },
+    {
+      "check": "exists_png_dir",
+      "passed": false,
+      "evidence": "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\entrega\\inexistente"
+    },
+    {
+      "check": "exists_pdf",
+      "passed": false,
+      "evidence": "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\entrega\\inexistente.pdf"
+    }
+  ],
+  "errors": [
+    "exists_manifest",
+    "exists_psd",
+    "exists_png_dir",
+    "exists_pdf"
+  ],
+  "warnings": [],
+  "inventory": {}
+}

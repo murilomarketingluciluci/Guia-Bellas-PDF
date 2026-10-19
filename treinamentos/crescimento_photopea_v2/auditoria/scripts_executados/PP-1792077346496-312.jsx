@@ -1,0 +1,1 @@
+var d=app.activeDocument;function showChildren(g){for(var i=0;i<g.layerSets.length;i++){g.layerSets[i].visible=true;showChildren(g.layerSets[i]);}}for(var i=0;i<d.layerSets.length;i++)showChildren(d.layerSets[i]);for(var i=0;i<d.layerSets.length;i++)d.layerSets[i].visible=d.layerSets[i].name.indexOf('01 -')===0;d.saveToOE('psd');

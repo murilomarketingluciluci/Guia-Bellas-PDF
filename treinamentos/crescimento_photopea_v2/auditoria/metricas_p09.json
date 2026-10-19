@@ -1,0 +1,7 @@
+{
+  "id": "PP-1792075643243-123",
+  "echoes": [
+    "METRICS:[{\"name\":\"p07-titulo\",\"text\":\"Estamos crescendo\",\"bounds\":[835,255,1502,308],\"font\":\"Gotham-Book\"},{\"name\":\"p07-consequencia\",\"text\":\"E, quanto mais crescemos,\\rmais pessoas precisamos preparar.\",\"bounds\":[840,410,1522,495],\"font\":\"Gotham-Book\"},{\"name\":\"p07-proposito\",\"text\":\"Porque o nosso maior propósito\\rsão pessoas.\",\"bounds\":[840,585,1601,686],\"font\":\"Gotham-Book\"},{\"name\":\"p07-fecho\",\"text\":\"O propósito não pode parar em nós.\",\"bounds\":[840,775,1501,809],\"font\":\"Gotham-Bold\"}]"
+  ],
+  "files": []
+}

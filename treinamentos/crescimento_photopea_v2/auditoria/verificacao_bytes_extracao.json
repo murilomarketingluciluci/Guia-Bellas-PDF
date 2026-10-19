@@ -1,0 +1,177 @@
+{
+  "checks": [
+    {
+      "layer": "Plano de Fundo",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/BG",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/LUCI LUCI-443",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/LUCI LUCI-443",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/texto/obrigada!",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/texto/obrigada!",
+      "test": "text_and_transform",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "test": "text_and_transform",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/Retângulo 572",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/Retângulo 572 copiar",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/Retângulo 572 copiar 2",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/LOGO",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "TEMA ESCURO VAZIO - DUPLICAR/BG copiar",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "TEMA ESCURO VAZIO - DUPLICAR/B BELLAS",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "TEMA ESCURO VAZIO - DUPLICAR/B BELLAS",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "TEMA ESCURO VAZIO - DUPLICAR/Camada 2 copiar",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "TEMA CLARO VAZIO - DUPLICAR/FUNDO copiar 2",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "TEMA CLARO VAZIO - DUPLICAR/FUNDO copiar 2",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "TEMA CLARO VAZIO - DUPLICAR/Camada 1 copiar 2",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/FUNDO copiar",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/FUNDO copiar",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/LUCI LUCI-443",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/LUCI LUCI-443",
+      "test": "embedded_payload_bytes",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Camada 1 copiar",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Desodorante Optima",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Desodorante Optima",
+      "test": "text_and_transform",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Retângulo 6",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/TREINAMENTO",
+      "test": "raw_cache_pixels",
+      "passed": true
+    },
+    {
+      "layer": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/TREINAMENTO",
+      "test": "text_and_transform",
+      "passed": true
+    }
+  ],
+  "passed": 34,
+  "failed": 0,
+  "source_sha256_now": "357e5af012e7077c074f843f3809daf4978cf51bb794f692efe3da276d90271a"
+}

@@ -1,0 +1,905 @@
+[
+  {
+    "key": "TySh",
+    "parsed": {
+      "version": 1,
+      "transform": [
+        1.1669778405614362,
+        0.0,
+        0.0,
+        1.1669778405614364,
+        928.9123434704834,
+        523.8476115135069
+      ],
+      "text_version": 50,
+      "text_data": {
+        "bytes:54787420": "Desodorante\rOptimaPlus\u0000",
+        "bytes:746578744772696464696e67": {
+          "typeID": {
+            "bytes_base64": "dGV4dEdyaWRkaW5n",
+            "length": 12
+          },
+          "enum": {
+            "bytes_base64": "Tm9uZQ==",
+            "length": 4
+          }
+        },
+        "bytes:4f726e74": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:416e7441": {
+          "typeID": {
+            "bytes_base64": "QW5udA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "QW5Dcg==",
+            "length": 4
+          }
+        },
+        "bytes:54784d50": false,
+        "bytes:626f756e6473": {
+          "bytes:4c656674": 0.0,
+          "bytes:546f7020": -95.198974609375,
+          "bytes:52676874": 655.0740356445312,
+          "bytes:42746f6d": 161.421630859375
+        },
+        "bytes:626f756e64696e67426f78": {
+          "bytes:4c656674": 7.11899995803833,
+          "bytes:546f7020": -81.78801727294922,
+          "bytes:52676874": 647.7030029296875,
+          "bytes:42746f6d": 144.09701538085938
+        },
+        "bytes:54657874496e646578": 3,
+        "bytes:456e67696e6544617461": {
+          "EngineDict": {
+            "Editor": {
+              "Text": "Desodorante\rOptimaPlus\r"
+            },
+            "ParagraphRun": {
+              "DefaultRunData": {
+                "ParagraphSheet": {
+                  "DefaultStyleSheet": 0,
+                  "Properties": {}
+                },
+                "Adjustments": {
+                  "Axis": [
+                    1.0,
+                    0.0,
+                    1.0
+                  ],
+                  "XY": [
+                    0.0,
+                    0.0
+                  ]
+                }
+              },
+              "RunArray": [
+                {
+                  "ParagraphSheet": {
+                    "DefaultStyleSheet": 0,
+                    "Properties": {
+                      "Justification": 0,
+                      "FirstLineIndent": 0.0,
+                      "StartIndent": 0.0,
+                      "EndIndent": 0.0,
+                      "SpaceBefore": 0.0,
+                      "SpaceAfter": 0.0,
+                      "AutoHyphenate": false,
+                      "HyphenatedWordSize": 6,
+                      "PreHyphen": 2,
+                      "PostHyphen": 2,
+                      "ConsecutiveHyphens": 8,
+                      "Zone": 36.0,
+                      "WordSpacing": [
+                        0.8,
+                        1.0,
+                        1.33
+                      ],
+                      "LetterSpacing": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "GlyphSpacing": [
+                        1.0,
+                        1.0,
+                        1.0
+                      ],
+                      "AutoLeading": 1.2,
+                      "LeadingType": 0,
+                      "Hanging": false,
+                      "Burasagari": false,
+                      "KinsokuOrder": 0,
+                      "EveryLineComposer": false
+                    }
+                  },
+                  "Adjustments": {
+                    "Axis": [
+                      1.0,
+                      0.0,
+                      1.0
+                    ],
+                    "XY": [
+                      0.0,
+                      0.0
+                    ]
+                  }
+                },
+                {
+                  "ParagraphSheet": {
+                    "DefaultStyleSheet": 0,
+                    "Properties": {
+                      "Justification": 0,
+                      "FirstLineIndent": 0.0,
+                      "StartIndent": 0.0,
+                      "EndIndent": 0.0,
+                      "SpaceBefore": 0.0,
+                      "SpaceAfter": 0.0,
+                      "AutoHyphenate": false,
+                      "HyphenatedWordSize": 6,
+                      "PreHyphen": 2,
+                      "PostHyphen": 2,
+                      "ConsecutiveHyphens": 8,
+                      "Zone": 36.0,
+                      "WordSpacing": [
+                        0.8,
+                        1.0,
+                        1.33
+                      ],
+                      "LetterSpacing": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "GlyphSpacing": [
+                        1.0,
+                        1.0,
+                        1.0
+                      ],
+                      "AutoLeading": 1.2,
+                      "LeadingType": 0,
+                      "Hanging": false,
+                      "Burasagari": false,
+                      "KinsokuOrder": 0,
+                      "EveryLineComposer": false
+                    }
+                  },
+                  "Adjustments": {
+                    "Axis": [
+                      1.0,
+                      0.0,
+                      1.0
+                    ],
+                    "XY": [
+                      0.0,
+                      0.0
+                    ]
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                12,
+                11
+              ],
+              "IsJoinable": 1
+            },
+            "StyleRun": {
+              "DefaultRunData": {
+                "StyleSheet": {
+                  "StyleSheetData": {}
+                }
+              },
+              "RunArray": [
+                {
+                  "StyleSheet": {
+                    "StyleSheetData": {
+                      "Font": 1,
+                      "FontSize": 112.0,
+                      "FauxBold": false,
+                      "FauxItalic": false,
+                      "AutoLeading": true,
+                      "Leading": 134.40001,
+                      "HorizontalScale": 1.0,
+                      "VerticalScale": 1.0,
+                      "Tracking": -70,
+                      "AutoKerning": true,
+                      "Kerning": 0,
+                      "BaselineShift": 0.0,
+                      "FontCaps": 0,
+                      "FontBaseline": 0,
+                      "Underline": false,
+                      "Strikethrough": false,
+                      "Ligatures": true,
+                      "DLigatures": false,
+                      "BaselineDirection": 1,
+                      "Tsume": 0.0,
+                      "StyleRunAlignment": 2,
+                      "Language": 10,
+                      "NoBreak": false,
+                      "FillColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          1.0,
+                          1.0,
+                          1.0
+                        ]
+                      },
+                      "StrokeColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          0.0,
+                          0.0,
+                          0.0
+                        ]
+                      },
+                      "YUnderline": 1,
+                      "HindiNumbers": false,
+                      "Kashida": 1
+                    }
+                  }
+                },
+                {
+                  "StyleSheet": {
+                    "StyleSheetData": {
+                      "Font": 0,
+                      "FontSize": 126.0,
+                      "FauxBold": false,
+                      "FauxItalic": false,
+                      "AutoLeading": false,
+                      "Leading": 124.0,
+                      "HorizontalScale": 1.0,
+                      "VerticalScale": 1.0,
+                      "Tracking": -70,
+                      "AutoKerning": true,
+                      "Kerning": 0,
+                      "BaselineShift": 0.0,
+                      "FontCaps": 0,
+                      "FontBaseline": 0,
+                      "Underline": false,
+                      "Strikethrough": false,
+                      "Ligatures": true,
+                      "DLigatures": false,
+                      "BaselineDirection": 1,
+                      "Tsume": 0.0,
+                      "StyleRunAlignment": 2,
+                      "Language": 10,
+                      "NoBreak": false,
+                      "FillColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          1.0,
+                          1.0,
+                          1.0
+                        ]
+                      },
+                      "StrokeColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          0.0,
+                          0.0,
+                          0.0
+                        ]
+                      },
+                      "YUnderline": 1,
+                      "HindiNumbers": false,
+                      "Kashida": 1
+                    }
+                  }
+                },
+                {
+                  "StyleSheet": {
+                    "StyleSheetData": {
+                      "Font": 1,
+                      "FontSize": 126.0,
+                      "FauxBold": false,
+                      "FauxItalic": false,
+                      "AutoLeading": false,
+                      "Leading": 124.0,
+                      "HorizontalScale": 1.0,
+                      "VerticalScale": 1.0,
+                      "Tracking": -70,
+                      "AutoKerning": true,
+                      "Kerning": 0,
+                      "BaselineShift": 0.0,
+                      "FontCaps": 0,
+                      "FontBaseline": 0,
+                      "Underline": false,
+                      "Strikethrough": false,
+                      "Ligatures": true,
+                      "DLigatures": false,
+                      "BaselineDirection": 1,
+                      "Tsume": 0.0,
+                      "StyleRunAlignment": 2,
+                      "Language": 10,
+                      "NoBreak": false,
+                      "FillColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          1.0,
+                          1.0,
+                          1.0
+                        ]
+                      },
+                      "StrokeColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          0.0,
+                          0.0,
+                          0.0
+                        ]
+                      },
+                      "YUnderline": 1,
+                      "HindiNumbers": false,
+                      "Kashida": 1
+                    }
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                12,
+                6,
+                5
+              ],
+              "IsJoinable": 2
+            },
+            "GridInfo": {
+              "GridIsOn": false,
+              "ShowGrid": false,
+              "GridSize": 18.0,
+              "GridLeading": 22.0,
+              "GridColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "GridLeadingFillColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "AlignLineHeightToGridFlags": false
+            },
+            "AntiAlias": 1,
+            "UseFractionalGlyphWidths": true,
+            "Rendered": {
+              "Version": 1,
+              "Shapes": {
+                "WritingDirection": 0,
+                "Children": [
+                  {
+                    "ShapeType": 0,
+                    "Procession": 0,
+                    "Lines": {
+                      "WritingDirection": 0,
+                      "Children": []
+                    },
+                    "Cookie": {
+                      "Photoshop": {
+                        "ShapeType": 0,
+                        "PointBase": [
+                          0.0,
+                          0.0
+                        ],
+                        "Base": {
+                          "ShapeType": 0,
+                          "TransformPoint0": [
+                            1.0,
+                            0.0
+                          ],
+                          "TransformPoint1": [
+                            0.0,
+                            1.0
+                          ],
+                          "TransformPoint2": [
+                            0.0,
+                            0.0
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "ResourceDict": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 3,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Bold",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "Gotham-Book",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          },
+          "DocumentResources": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 3,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Bold",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "Gotham-Book",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          }
+        }
+      },
+      "warp_version": 1,
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycE5vbmU=",
+            "length": 8
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        }
+      },
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_TySh.bin",
+      "bytes": 12044,
+      "sha256": "356f71c02a9c8d4b70b3e33dde4769f2367feda5fe96171ef40a7a7cd18cfdf2",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "luni",
+    "parsed": "Desodorante Optima",
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_luni.bin",
+      "bytes": 40,
+      "sha256": "bbe587c61893cab52400874452a1544f1665dd343010b0542830bc48caaaf69a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 691,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "f9bbb97383f699a1936df12b880070ea62822436e046432931180910d642060e",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.5605984
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "38603430d6f4dc7a42fd7bafa73ed36483cb3c6714073564ee043fe51d744acd",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        637.1678833301241,
+        78.06207641903814
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/031_Desodorante_Optima.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "f8862cc19242e08f7215e4aba1d2cc41140ccc32be5f1f0f71d3a817872b11e9",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

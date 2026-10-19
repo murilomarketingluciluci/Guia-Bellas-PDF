@@ -1,0 +1,752 @@
+[
+  {
+    "key": "TySh",
+    "parsed": {
+      "version": 1,
+      "transform": [
+        1.0257777927584604,
+        0.0,
+        0.0,
+        1.0257777927584606,
+        1016.0313434285217,
+        374.29978129293784
+      ],
+      "text_version": 50,
+      "text_data": {
+        "bytes:54787420": "TREINAMENTO\u0000",
+        "bytes:746578744772696464696e67": {
+          "typeID": {
+            "bytes_base64": "dGV4dEdyaWRkaW5n",
+            "length": 12
+          },
+          "enum": {
+            "bytes_base64": "Tm9uZQ==",
+            "length": 4
+          }
+        },
+        "bytes:4f726e74": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:416e7441": {
+          "typeID": {
+            "bytes_base64": "QW5udA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "QW5Dcg==",
+            "length": 4
+          }
+        },
+        "bytes:54784d50": false,
+        "bytes:626f756e6473": {
+          "bytes:4c656674": 0.0,
+          "bytes:546f7020": -28.899688720703125,
+          "bytes:52676874": 478.68603515625,
+          "bytes:42746f6d": 8.296112060546875
+        },
+        "bytes:626f756e64696e67426f78": {
+          "bytes:4c656674": 1.5130001306533813,
+          "bytes:546f7020": -24.488506317138672,
+          "bytes:52676874": 476.3995666503906,
+          "bytes:42746f6d": 0.5525041818618774
+        },
+        "bytes:54657874496e646578": 2,
+        "bytes:456e67696e6544617461": {
+          "EngineDict": {
+            "Editor": {
+              "Text": "TREINAMENTO\r"
+            },
+            "ParagraphRun": {
+              "DefaultRunData": {
+                "ParagraphSheet": {
+                  "DefaultStyleSheet": 0,
+                  "Properties": {}
+                },
+                "Adjustments": {
+                  "Axis": [
+                    1.0,
+                    0.0,
+                    1.0
+                  ],
+                  "XY": [
+                    0.0,
+                    0.0
+                  ]
+                }
+              },
+              "RunArray": [
+                {
+                  "ParagraphSheet": {
+                    "DefaultStyleSheet": 0,
+                    "Properties": {
+                      "Justification": 0,
+                      "FirstLineIndent": 0.0,
+                      "StartIndent": 0.0,
+                      "EndIndent": 0.0,
+                      "SpaceBefore": 0.0,
+                      "SpaceAfter": 0.0,
+                      "AutoHyphenate": false,
+                      "HyphenatedWordSize": 6,
+                      "PreHyphen": 2,
+                      "PostHyphen": 2,
+                      "ConsecutiveHyphens": 8,
+                      "Zone": 36.0,
+                      "WordSpacing": [
+                        0.8,
+                        1.0,
+                        1.33
+                      ],
+                      "LetterSpacing": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "GlyphSpacing": [
+                        1.0,
+                        1.0,
+                        1.0
+                      ],
+                      "AutoLeading": 1.2,
+                      "LeadingType": 0,
+                      "Hanging": false,
+                      "Burasagari": false,
+                      "KinsokuOrder": 0,
+                      "EveryLineComposer": false
+                    }
+                  },
+                  "Adjustments": {
+                    "Axis": [
+                      1.0,
+                      0.0,
+                      1.0
+                    ],
+                    "XY": [
+                      0.0,
+                      0.0
+                    ]
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                12
+              ],
+              "IsJoinable": 1
+            },
+            "StyleRun": {
+              "DefaultRunData": {
+                "StyleSheet": {
+                  "StyleSheetData": {}
+                }
+              },
+              "RunArray": [
+                {
+                  "StyleSheet": {
+                    "StyleSheetData": {
+                      "Font": 0,
+                      "FontSize": 34.0,
+                      "FauxBold": false,
+                      "FauxItalic": false,
+                      "AutoLeading": true,
+                      "Leading": 0.01,
+                      "HorizontalScale": 1.0,
+                      "VerticalScale": 1.0,
+                      "Tracking": 640,
+                      "AutoKerning": true,
+                      "Kerning": 0,
+                      "BaselineShift": 0.0,
+                      "FontCaps": 0,
+                      "FontBaseline": 0,
+                      "Underline": false,
+                      "Strikethrough": false,
+                      "Ligatures": true,
+                      "DLigatures": false,
+                      "BaselineDirection": 1,
+                      "Tsume": 0.0,
+                      "StyleRunAlignment": 2,
+                      "Language": 10,
+                      "NoBreak": false,
+                      "FillColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          1.0,
+                          1.0,
+                          1.0
+                        ]
+                      },
+                      "StrokeColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          0.07059,
+                          0.23138,
+                          0.25098
+                        ]
+                      },
+                      "YUnderline": 1,
+                      "HindiNumbers": false,
+                      "Kashida": 1
+                    }
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                12
+              ],
+              "IsJoinable": 2
+            },
+            "GridInfo": {
+              "GridIsOn": false,
+              "ShowGrid": false,
+              "GridSize": 18.0,
+              "GridLeading": 22.0,
+              "GridColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "GridLeadingFillColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "AlignLineHeightToGridFlags": false
+            },
+            "AntiAlias": 1,
+            "UseFractionalGlyphWidths": true,
+            "Rendered": {
+              "Version": 1,
+              "Shapes": {
+                "WritingDirection": 0,
+                "Children": [
+                  {
+                    "ShapeType": 0,
+                    "Procession": 0,
+                    "Lines": {
+                      "WritingDirection": 0,
+                      "Children": []
+                    },
+                    "Cookie": {
+                      "Photoshop": {
+                        "ShapeType": 0,
+                        "PointBase": [
+                          0.0,
+                          0.0
+                        ],
+                        "Base": {
+                          "ShapeType": 0,
+                          "TransformPoint0": [
+                            1.0,
+                            0.0
+                          ],
+                          "TransformPoint1": [
+                            0.0,
+                            1.0
+                          ],
+                          "TransformPoint2": [
+                            0.0,
+                            0.0
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "ResourceDict": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 2,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Book",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          },
+          "DocumentResources": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 2,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Book",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          }
+        }
+      },
+      "warp_version": 1,
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycE5vbmU=",
+            "length": 8
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        }
+      },
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_TySh.bin",
+      "bytes": 9448,
+      "sha256": "db3c694af8b043b273625c628cc167c83aaeb46c6c3830a8b70915c12463cd7d",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "luni",
+    "parsed": "TREINAMENTO",
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_luni.bin",
+      "bytes": 26,
+      "sha256": "8caf4eac5ae46170f0a97a84e1bd24707c2c8974ba12ae63515fdee3bece3946",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "cmVuZA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "69bc823df4bd52d72a5988b55ab0f238f5d17b28344132b01b2463e388bb9424",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1127,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "1ca41985527d82f158059e7db2ffe7a68595cf25674a57bbdf58303c2b7223a3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.5628386
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "a83adce836bfb338f9c3ef749078d9acb5ce5e1e1b76d984056fcface40f32f3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        -92.18783447758273,
+        59.99831810151386
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/033_TREINAMENTO.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "73f3f6ae98b10515b9897c09849a3ebfab7719f7fc85d9f87fbd72b94b6b5240",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

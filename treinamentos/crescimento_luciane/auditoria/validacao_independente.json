@@ -1,0 +1,5592 @@
+{
+  "generated_utc": "2026-10-14T21:29:49.007834+00:00",
+  "status": "verificacoes_mecanicas_passaram",
+  "final_approval": false,
+  "checks": [
+    {
+      "check": "manifesto final válido",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "arquivo relativo manifest.template.psd",
+      "passed": true,
+      "detail": "../../referencias/molde_bellas_aprovado_capa_temas_agradecimento.psd"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[0].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/01.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[0].source_file",
+      "passed": true,
+      "detail": "fonte/01.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[0].asset",
+      "passed": true,
+      "detail": "assets/foto_02_preparacao.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[4].source.file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[5].source.file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].elements[6].source.file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[1].source_file",
+      "passed": true,
+      "detail": "fonte/02.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[2].elements[0].asset",
+      "passed": true,
+      "detail": "assets/foto_03_caminho.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[2].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/03.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[2].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/03.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[2].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/03.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[2].source_file",
+      "passed": true,
+      "detail": "fonte/03.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[4].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[5].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[6].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[7].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[8].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[9].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[10].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[11].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].elements[12].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[3].source_file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[4].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[5].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[6].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[7].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[8].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[9].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[10].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[11].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].elements[12].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[4].source_file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[4].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[5].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[6].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[7].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[8].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[9].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[10].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[11].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[12].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].elements[13].source.file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[5].source_file",
+      "passed": true,
+      "detail": "fonte/04.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[6].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/05.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[6].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/05.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[6].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/05.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[6].source_file",
+      "passed": true,
+      "detail": "fonte/05.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[7].elements[0].asset",
+      "passed": true,
+      "detail": "assets/foto_08_mentoria.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[7].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/06.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[7].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/06.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[7].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/06.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[7].source_file",
+      "passed": true,
+      "detail": "fonte/06.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[8].elements[0].asset",
+      "passed": true,
+      "detail": "assets/foto_09_equipe.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[8].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/07.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[8].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/07.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[8].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/07.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[8].elements[4].source.file",
+      "passed": true,
+      "detail": "fonte/07.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[8].source_file",
+      "passed": true,
+      "detail": "fonte/07.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[9].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/08.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[9].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/08.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[9].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/08.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[9].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/08.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[9].source_file",
+      "passed": true,
+      "detail": "fonte/08.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[10].elements[0].source.file",
+      "passed": true,
+      "detail": "fonte/09.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[10].elements[1].source.file",
+      "passed": true,
+      "detail": "fonte/09.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[10].elements[2].source.file",
+      "passed": true,
+      "detail": "fonte/09.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[10].elements[3].source.file",
+      "passed": true,
+      "detail": "fonte/09.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[10].elements[4].source.file",
+      "passed": true,
+      "detail": "fonte/09.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[10].source_file",
+      "passed": true,
+      "detail": "fonte/09.png"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[11].elements[0].source.file",
+      "passed": true,
+      "detail": "../../exemplos/optima_final/optima_apn_bellas_final.psd"
+    },
+    {
+      "check": "arquivo relativo manifest.slides[11].source_file",
+      "passed": true,
+      "detail": "../../exemplos/optima_final/optima_apn_bellas_final.psd"
+    },
+    {
+      "check": "contagem manifesto/inventário",
+      "passed": true,
+      "detail": [
+        12,
+        12
+      ]
+    },
+    {
+      "check": "canvas do PSD e manifesto 1920×1080",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "inventário do PSD salvo e reaberto",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PSD final presente",
+      "passed": true,
+      "detail": "entrega/crescimento_luciane_bellas.psd"
+    },
+    {
+      "check": "hash do PSD coincide com inventário reaberto",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "todos os grupos de topo correspondem às páginas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01 grupo numerado",
+      "passed": true,
+      "detail": "01 Capa"
+    },
+    {
+      "check": "página 01 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 01 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/Agrupar 12 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/Agrupar 12 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/TREINAMENTO sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/TREINAMENTO sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/Retângulo 6 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/Retângulo 6 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/H1 | Crescimento sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/H1 | Crescimento sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/H1 | Crescimento Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 01/H1 | Crescimento fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/H1 | Crescimento bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        937,
+        428,
+        1647,
+        524
+      ]
+    },
+    {
+      "check": "página 01/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/Camada 1 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/Camada 1 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/LUCI LUCI-443 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/LUCI LUCI-443 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/FUNDO copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01/FUNDO copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 01 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Crescimento"
+    },
+    {
+      "check": "capa apenas título variável",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "capa sem foto nova",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02 grupo numerado",
+      "passed": true,
+      "detail": "02 Crescer exige preparação"
+    },
+    {
+      "check": "página 02 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 02 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_4 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_4 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a ensinar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a ensinar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a ensinar Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a ensinar fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a ensinar bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        912,
+        834,
+        1302,
+        867
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 04 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 04 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 04 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 04 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 04 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        828,
+        835,
+        864,
+        858
+      ]
+    },
+    {
+      "check": "página 02/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_3 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_3 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a aprender sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a aprender sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a aprender Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a aprender fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar disposto a aprender bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        912,
+        731,
+        1335,
+        764
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 03 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 03 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 03 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 03 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 03 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        828,
+        732,
+        862,
+        755
+      ]
+    },
+    {
+      "check": "página 02/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar preparado sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar preparado sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar preparado Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 02/CARD | Estar preparado fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar preparado bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        912,
+        628,
+        1176,
+        661
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 02 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 02 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 02 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 02 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 02 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        828,
+        629,
+        861,
+        652
+      ]
+    },
+    {
+      "check": "página 02/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_1 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | atitude_1 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar alicerçado sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar alicerçado sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar alicerçado Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 02/CARD | Estar alicerçado fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/CARD | Estar alicerçado bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        912,
+        525,
+        1173,
+        558
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 01 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 01 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 01 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 02/NUMBER | 01 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/NUMBER | 01 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        828,
+        526,
+        853,
+        549
+      ]
+    },
+    {
+      "check": "página 02/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/BODY | Mas crescimento exige preparação sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/BODY | Mas crescimento exige preparação sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/BODY | Mas crescimento exige preparação Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 02/BODY | Mas crescimento exige preparação fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/BODY | Mas crescimento exige preparação bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        805,
+        387,
+        1398,
+        422
+      ]
+    },
+    {
+      "check": "página 02/H1 | Todo mundo quer crescer sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/H1 | Todo mundo quer crescer sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/H1 | Todo mundo quer crescer Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 02/H1 | Todo mundo quer crescer fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/H1 | Todo mundo quer crescer bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        800,
+        158,
+        1327,
+        345
+      ]
+    },
+    {
+      "check": "página 02/Camada 1 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/Camada 1 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/PHOTO | assets/foto_02_preparacao.png sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/PHOTO | assets/foto_02_preparacao.png sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/PHOTO | assets/foto_02_preparacao.png fotografia final",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/FUNDO sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02/FUNDO sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 02 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Todo mundo\nquer crescer"
+    },
+    {
+      "check": "página 02 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mas crescimento exige preparação"
+    },
+    {
+      "check": "página 02 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Estar alicerçado"
+    },
+    {
+      "check": "página 02 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Estar preparado"
+    },
+    {
+      "check": "página 02 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Estar disposto a aprender"
+    },
+    {
+      "check": "página 02 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Estar disposto a ensinar"
+    },
+    {
+      "check": "página 03 grupo numerado",
+      "passed": true,
+      "detail": "03 Propósito e direção"
+    },
+    {
+      "check": "página 03 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 03 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/CALLOUT | E nada mudou a Sua direção. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/CALLOUT | E nada mudou a Sua direção. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/CALLOUT | E nada mudou a Sua direção. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 03/CALLOUT | E nada mudou a Sua direção. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/CALLOUT | E nada mudou a Sua direção. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        660,
+        479,
+        769
+      ]
+    },
+    {
+      "check": "página 03/BODY | Ele tinha um propósito. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/BODY | Ele tinha um propósito. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/BODY | Ele tinha um propósito. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 03/BODY | Ele tinha um propósito. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/BODY | Ele tinha um propósito. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        516,
+        625,
+        560
+      ]
+    },
+    {
+      "check": "página 03/H1 | Jesus sabia para que veio sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/H1 | Jesus sabia para que veio sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/H1 | Jesus sabia para que veio Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 03/H1 | Jesus sabia para que veio fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/H1 | Jesus sabia para que veio bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        135,
+        205,
+        741,
+        408
+      ]
+    },
+    {
+      "check": "página 03/Camada 2 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/Camada 2 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/B BELLAS sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/B BELLAS sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/PHOTO | assets/foto_03_caminho.png sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/PHOTO | assets/foto_03_caminho.png sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/PHOTO | assets/foto_03_caminho.png fotografia final",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/BG copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03/BG copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 03 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Jesus sabia\npara que veio"
+    },
+    {
+      "check": "página 03 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Ele tinha um propósito."
+    },
+    {
+      "check": "página 03 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "E nada mudou\na Sua direção."
+    },
+    {
+      "check": "página 04 grupo numerado",
+      "passed": true,
+      "detail": "04 Direção - episódios 01 a 04"
+    },
+    {
+      "check": "página 04 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 04 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_04 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_04 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Marcos 3:20-21 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Marcos 3:20-21 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Marcos 3:20-21 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Marcos 3:20-21 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Marcos 3:20-21 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        826,
+        1260,
+        847
+      ]
+    },
+    {
+      "check": "página 04/BODY | Tentou contê-lo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou contê-lo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou contê-lo Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Tentou contê-lo fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou contê-lo bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        747,
+        1310,
+        772
+      ]
+    },
+    {
+      "check": "página 04/CARD | Sua própria família sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Sua própria família sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Sua própria família Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 04/CARD | Sua própria família fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Sua própria família bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        688,
+        1395,
+        723
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 04 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 04 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 04 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 04 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 04 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1004,
+        690,
+        1045,
+        716
+      ]
+    },
+    {
+      "check": "página 04/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_03 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_03 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | João 6:14-15 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | João 6:14-15 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | João 6:14-15 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 04/BODY | João 6:14-15 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | João 6:14-15 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        826,
+        396,
+        847
+      ]
+    },
+    {
+      "check": "página 04/BODY | Quis fazê-lo rei à força sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Quis fazê-lo rei à força sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Quis fazê-lo rei à força Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Quis fazê-lo rei à força fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Quis fazê-lo rei à força bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        747,
+        567,
+        777
+      ]
+    },
+    {
+      "check": "página 04/CARD | A multidão sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | A multidão sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | A multidão Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 04/CARD | A multidão fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | A multidão bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        688,
+        434,
+        717
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 03 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 03 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 03 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 03 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 03 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        169,
+        690,
+        208,
+        716
+      ]
+    },
+    {
+      "check": "página 04/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_02 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_02 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 16:21-23 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 16:21-23 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 16:21-23 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Mateus 16:21-23 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 16:21-23 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        583,
+        1269,
+        604
+      ]
+    },
+    {
+      "check": "página 04/BODY | Tentou afastá-lo do caminho da cruz sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou afastá-lo do caminho da cruz sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou afastá-lo do caminho da cruz Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Tentou afastá-lo do caminho da cruz fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou afastá-lo do caminho da cruz bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        504,
+        1611,
+        530
+      ]
+    },
+    {
+      "check": "página 04/CARD | Pedro sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Pedro sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Pedro Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 04/CARD | Pedro fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Pedro bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        445,
+        1181,
+        473
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 02 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 02 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 02 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 02 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 02 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1004,
+        447,
+        1043,
+        473
+      ]
+    },
+    {
+      "check": "página 04/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_01 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | episodio_01 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 4:1-11 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 4:1-11 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 4:1-11 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Mateus 4:1-11 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Mateus 4:1-11 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        583,
+        397,
+        604
+      ]
+    },
+    {
+      "check": "página 04/BODY | Tentou desviá-lo no deserto sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou desviá-lo no deserto sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou desviá-lo no deserto Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/BODY | Tentou desviá-lo no deserto fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/BODY | Tentou desviá-lo no deserto bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        504,
+        650,
+        530
+      ]
+    },
+    {
+      "check": "página 04/CARD | Satanás sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Satanás sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Satanás Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 04/CARD | Satanás fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/CARD | Satanás bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        445,
+        378,
+        475
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 01 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 01 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 01 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 04/NUMBER | 01 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/NUMBER | 01 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        169,
+        447,
+        198,
+        473
+      ]
+    },
+    {
+      "check": "página 04/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/H1 | Tentaram mudar Sua direção sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/H1 | Tentaram mudar Sua direção sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/H1 | Tentaram mudar Sua direção Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 04/H1 | Tentaram mudar Sua direção fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/H1 | Tentaram mudar Sua direção bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        140,
+        145,
+        791,
+        327
+      ]
+    },
+    {
+      "check": "página 04/Camada 1 copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/Camada 1 copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/FUNDO copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04/FUNDO copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentaram mudar\nSua direção"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Satanás"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentou desviá-lo no deserto"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mateus 4:1-11"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Pedro"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentou afastá-lo do caminho da cruz"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mateus 16:21-23"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "A multidão"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Quis fazê-lo rei à força"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "João 6:14-15"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Sua própria família"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentou contê-lo"
+    },
+    {
+      "check": "página 04 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Marcos 3:20-21"
+    },
+    {
+      "check": "página 05 grupo numerado",
+      "passed": true,
+      "detail": "05 Direção - episódios 05 a 08"
+    },
+    {
+      "check": "página 05 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 05 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_08 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_08 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 10:13-16 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 10:13-16 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 10:13-16 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Marcos 10:13-16 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 10:13-16 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        826,
+        1265,
+        847
+      ]
+    },
+    {
+      "check": "página 05/BODY | Tentaram afastar crianças dEle sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Tentaram afastar crianças dEle sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Tentaram afastar crianças dEle Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Tentaram afastar crianças dEle fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Tentaram afastar crianças dEle bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        747,
+        1524,
+        777
+      ]
+    },
+    {
+      "check": "página 05/CARD | Os discípulos sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Os discípulos sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Os discípulos Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 05/CARD | Os discípulos fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Os discípulos bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        688,
+        1303,
+        723
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 08 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 08 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 08 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 08 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 08 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1004,
+        690,
+        1044,
+        716
+      ]
+    },
+    {
+      "check": "página 05/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_07 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_07 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 12:13-17 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 12:13-17 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 12:13-17 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Marcos 12:13-17 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Marcos 12:13-17 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        826,
+        426,
+        847
+      ]
+    },
+    {
+      "check": "página 05/BODY | Tentaram apanhá-lo em Suas palavras sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Tentaram apanhá-lo em Suas palavras sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Tentaram apanhá-lo em Suas palavras Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Tentaram apanhá-lo em Suas palavras fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Tentaram apanhá-lo em Suas palavras bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        747,
+        797,
+        778
+      ]
+    },
+    {
+      "check": "página 05/CARD | Fariseus e herodianos sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Fariseus e herodianos sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Fariseus e herodianos Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 05/CARD | Fariseus e herodianos fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Fariseus e herodianos bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        688,
+        608,
+        716
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 07 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 07 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 07 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 07 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 07 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        169,
+        690,
+        207,
+        716
+      ]
+    },
+    {
+      "check": "página 05/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_06 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_06 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Mateus 12:14 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Mateus 12:14 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Mateus 12:14 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Mateus 12:14 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Mateus 12:14 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        583,
+        1230,
+        604
+      ]
+    },
+    {
+      "check": "página 05/BODY | Confrontaram e tramaram contra Ele sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Confrontaram e tramaram contra Ele sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Confrontaram e tramaram contra Ele Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Confrontaram e tramaram contra Ele fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Confrontaram e tramaram contra Ele bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        504,
+        1614,
+        530
+      ]
+    },
+    {
+      "check": "página 05/CARD | Líderes religiosos sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Líderes religiosos sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Líderes religiosos Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 05/CARD | Líderes religiosos fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Líderes religiosos bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        445,
+        1372,
+        480
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 06 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 06 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 06 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 06 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 06 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1004,
+        447,
+        1044,
+        473
+      ]
+    },
+    {
+      "check": "página 05/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_05 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | episodio_05 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Lucas 4:16-30 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Lucas 4:16-30 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Lucas 4:16-30 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Lucas 4:16-30 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Lucas 4:16-30 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        583,
+        413,
+        604
+      ]
+    },
+    {
+      "check": "página 05/BODY | Rejeitou quem Ele era sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Rejeitou quem Ele era sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Rejeitou quem Ele era Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/BODY | Rejeitou quem Ele era fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BODY | Rejeitou quem Ele era bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        504,
+        562,
+        534
+      ]
+    },
+    {
+      "check": "página 05/CARD | Sua própria terra sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Sua própria terra sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Sua própria terra Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 05/CARD | Sua própria terra fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/CARD | Sua própria terra bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        445,
+        528,
+        480
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 05 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 05 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 05 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 05/NUMBER | 05 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/NUMBER | 05 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        169,
+        447,
+        208,
+        473
+      ]
+    },
+    {
+      "check": "página 05/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/H1 | Tentaram mudar Sua direção sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/H1 | Tentaram mudar Sua direção sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/H1 | Tentaram mudar Sua direção Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 05/H1 | Tentaram mudar Sua direção fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/H1 | Tentaram mudar Sua direção bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        140,
+        145,
+        791,
+        327
+      ]
+    },
+    {
+      "check": "página 05/Camada 2 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/Camada 2 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/B BELLAS sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/B BELLAS sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BG copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05/BG copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentaram mudar\nSua direção"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Sua própria terra"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Rejeitou quem Ele era"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Lucas 4:16-30"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Líderes religiosos"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Confrontaram e tramaram contra Ele"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mateus 12:14"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Fariseus e herodianos"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentaram apanhá-lo em Suas palavras"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Marcos 12:13-17"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Os discípulos"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentaram afastar crianças dEle"
+    },
+    {
+      "check": "página 05 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Marcos 10:13-16"
+    },
+    {
+      "check": "página 06 grupo numerado",
+      "passed": true,
+      "detail": "06 Direção - episódios 09 a 12"
+    },
+    {
+      "check": "página 06 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 06 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CALLOUT | E, ainda assim, Ele não perdeu o propósito! sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CALLOUT | E, ainda assim, Ele não perdeu o propósito! sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CALLOUT | E, ainda assim, Ele não perdeu o propósito! Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 06/CALLOUT | E, ainda assim, Ele não perdeu o propósito! fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CALLOUT | E, ainda assim, Ele não perdeu o propósito! bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        915,
+        844,
+        950
+      ]
+    },
+    {
+      "check": "página 06/CARD | episodio_12 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_12 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 27:39-43 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 27:39-43 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 27:39-43 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Mateus 27:39-43 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 27:39-43 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        826,
+        1282,
+        847
+      ]
+    },
+    {
+      "check": "página 06/BODY | Provocaram: “Salva-te a ti mesmo” sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Provocaram: “Salva-te a ti mesmo” sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Provocaram: “Salva-te a ti mesmo” Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Provocaram: “Salva-te a ti mesmo” fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Provocaram: “Salva-te a ti mesmo” bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        747,
+        1581,
+        772
+      ]
+    },
+    {
+      "check": "página 06/CARD | Na cruz sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Na cruz sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Na cruz Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 06/CARD | Na cruz fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Na cruz bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        688,
+        1208,
+        715
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 12 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 12 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 12 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 12 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 12 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1004,
+        690,
+        1032,
+        714
+      ]
+    },
+    {
+      "check": "página 06/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_11 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_11 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 26:36-46 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 26:36-46 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 26:36-46 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Mateus 26:36-46 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Mateus 26:36-46 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        826,
+        450,
+        847
+      ]
+    },
+    {
+      "check": "página 06/BODY | Enfrentou a angústia do caminho sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Enfrentou a angústia do caminho sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Enfrentou a angústia do caminho Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Enfrentou a angústia do caminho fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Enfrentou a angústia do caminho bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        747,
+        727,
+        778
+      ]
+    },
+    {
+      "check": "página 06/CARD | Getsêmani sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Getsêmani sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Getsêmani Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 06/CARD | Getsêmani fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Getsêmani bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        688,
+        426,
+        717
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 11 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 11 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 11 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 11 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 11 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        169,
+        690,
+        187,
+        714
+      ]
+    },
+    {
+      "check": "página 06/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_10 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_10 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Lucas 4:42-43 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Lucas 4:42-43 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Lucas 4:42-43 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Lucas 4:42-43 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Lucas 4:42-43 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        583,
+        1253,
+        604
+      ]
+    },
+    {
+      "check": "página 06/BODY | Pressionava para que Ele permanecesse sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Pressionava para que Ele permanecesse sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Pressionava para que Ele permanecesse Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Pressionava para que Ele permanecesse fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Pressionava para que Ele permanecesse bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        504,
+        1660,
+        534
+      ]
+    },
+    {
+      "check": "página 06/CARD | A multidão sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | A multidão sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | A multidão Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 06/CARD | A multidão fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | A multidão bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1083,
+        445,
+        1269,
+        474
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 10 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 10 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 10 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 10 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 10 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1004,
+        447,
+        1036,
+        473
+      ]
+    },
+    {
+      "check": "página 06/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_09 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | episodio_09 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Marcos 10:35-45 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Marcos 10:35-45 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Marcos 10:35-45 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Marcos 10:35-45 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Marcos 10:35-45 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        583,
+        444,
+        604
+      ]
+    },
+    {
+      "check": "página 06/BODY | Buscaram posição e grandeza sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Buscaram posição e grandeza sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Buscaram posição e grandeza Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/BODY | Buscaram posição e grandeza fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/BODY | Buscaram posição e grandeza bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        504,
+        682,
+        535
+      ]
+    },
+    {
+      "check": "página 06/CARD | Tiago e João sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Tiago e João sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Tiago e João Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 06/CARD | Tiago e João fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/CARD | Tiago e João bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        248,
+        445,
+        464,
+        479
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 09 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 09 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 09 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 06/NUMBER | 09 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/NUMBER | 09 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        169,
+        447,
+        209,
+        473
+      ]
+    },
+    {
+      "check": "página 06/Filete sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Filete sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/H1 | Tentaram mudar Sua direção sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/H1 | Tentaram mudar Sua direção sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/H1 | Tentaram mudar Sua direção Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 06/H1 | Tentaram mudar Sua direção fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/H1 | Tentaram mudar Sua direção bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        140,
+        145,
+        791,
+        327
+      ]
+    },
+    {
+      "check": "página 06/Camada 1 copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/Camada 1 copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/FUNDO copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06/FUNDO copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tentaram mudar\nSua direção"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Tiago e João"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Buscaram posição e grandeza"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Marcos 10:35-45"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "A multidão"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Pressionava para que Ele permanecesse"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Lucas 4:42-43"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Getsêmani"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Enfrentou a angústia do caminho"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mateus 26:36-46"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Na cruz"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Provocaram: “Salva-te a ti mesmo”"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mateus 27:39-43"
+    },
+    {
+      "check": "página 06 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "E, ainda assim, Ele não perdeu o propósito!"
+    },
+    {
+      "check": "página 07 grupo numerado",
+      "passed": true,
+      "detail": "07 Até o fim"
+    },
+    {
+      "check": "página 07 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 07 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/Filete de citação sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/Filete de citação sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/BODY | João 19:30 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/BODY | João 19:30 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/BODY | João 19:30 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 07/BODY | João 19:30 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/BODY | João 19:30 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        878,
+        710,
+        1042,
+        737
+      ]
+    },
+    {
+      "check": "página 07/QUOTE | “Está consumado.” sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/QUOTE | “Está consumado.” sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/QUOTE | “Está consumado.” Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Light"
+      ]
+    },
+    {
+      "check": "página 07/QUOTE | “Está consumado.” fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/QUOTE | “Está consumado.” bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        642,
+        519,
+        1278,
+        578
+      ]
+    },
+    {
+      "check": "página 07/H1 | Ele foi até o fim! sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/H1 | Ele foi até o fim! sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/H1 | Ele foi até o fim! Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 07/H1 | Ele foi até o fim! fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/H1 | Ele foi até o fim! bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        524,
+        243,
+        1396,
+        343
+      ]
+    },
+    {
+      "check": "página 07/Camada 2 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/Camada 2 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/B BELLAS sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/B BELLAS sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/BG copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07/BG copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 07 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Ele foi até o fim!"
+    },
+    {
+      "check": "página 07 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "“Está consumado.”"
+    },
+    {
+      "check": "página 07 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "João 19:30"
+    },
+    {
+      "check": "página 08 grupo numerado",
+      "passed": true,
+      "detail": "08 Preparar outras pessoas"
+    },
+    {
+      "check": "página 08 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 08 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/CALLOUT | Até chegar em nós sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/CALLOUT | Até chegar em nós sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/CALLOUT | Até chegar em nós Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 08/CALLOUT | Até chegar em nós fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/CALLOUT | Até chegar em nós bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        847,
+        789,
+        1297,
+        840
+      ]
+    },
+    {
+      "check": "página 08/Faixa de destaque sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/Faixa de destaque sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/BODY | E essas pessoas prepararam outras sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/BODY | E essas pessoas prepararam outras sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/BODY | E essas pessoas prepararam outras Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 08/BODY | E essas pessoas prepararam outras fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/BODY | E essas pessoas prepararam outras bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        820,
+        504,
+        1208,
+        607
+      ]
+    },
+    {
+      "check": "página 08/H1 | Jesus preparou pessoas sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/H1 | Jesus preparou pessoas sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/H1 | Jesus preparou pessoas Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 08/H1 | Jesus preparou pessoas fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/H1 | Jesus preparou pessoas bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        815,
+        183,
+        1452,
+        371
+      ]
+    },
+    {
+      "check": "página 08/Camada 1 copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/Camada 1 copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/PHOTO | assets/foto_08_mentoria.png sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/PHOTO | assets/foto_08_mentoria.png sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/PHOTO | assets/foto_08_mentoria.png fotografia final",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/FUNDO copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08/FUNDO copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 08 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Jesus preparou\npessoas"
+    },
+    {
+      "check": "página 08 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "E essas pessoas\nprepararam outras"
+    },
+    {
+      "check": "página 08 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Até chegar em nós"
+    },
+    {
+      "check": "página 09 grupo numerado",
+      "passed": true,
+      "detail": "09 Crescimento tem pessoas como propósito"
+    },
+    {
+      "check": "página 09 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 09 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | O propósito não pode parar em nós. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | O propósito não pode parar em nós. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | O propósito não pode parar em nós. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 09/BODY | O propósito não pode parar em nós. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | O propósito não pode parar em nós. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        861,
+        750,
+        895
+      ]
+    },
+    {
+      "check": "página 09/CALLOUT | Porque o nosso maior propósito são pessoas. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/CALLOUT | Porque o nosso maior propósito são pessoas. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/CALLOUT | Porque o nosso maior propósito são pessoas. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 09/CALLOUT | Porque o nosso maior propósito são pessoas. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/CALLOUT | Porque o nosso maior propósito são pessoas. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        628,
+        658,
+        736
+      ]
+    },
+    {
+      "check": "página 09/BODY | E quanto mais crescemos, mais pessoas precisamos preparar. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | E quanto mais crescemos, mais pessoas precisamos preparar. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | E quanto mais crescemos, mais pessoas precisamos preparar. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 09/BODY | E quanto mais crescemos, mais pessoas precisamos preparar. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BODY | E quanto mais crescemos, mais pessoas precisamos preparar. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        438,
+        765,
+        528
+      ]
+    },
+    {
+      "check": "página 09/H1 | Estamos crescendo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/H1 | Estamos crescendo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/H1 | Estamos crescendo Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 09/H1 | Estamos crescendo fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/H1 | Estamos crescendo bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        140,
+        164,
+        585,
+        339
+      ]
+    },
+    {
+      "check": "página 09/Camada 2 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/Camada 2 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/B BELLAS sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/B BELLAS sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/PHOTO | assets/foto_09_equipe.png sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/PHOTO | assets/foto_09_equipe.png sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/PHOTO | assets/foto_09_equipe.png fotografia final",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BG copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09/BG copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 09 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Estamos\ncrescendo"
+    },
+    {
+      "check": "página 09 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "E quanto mais crescemos,\nmais pessoas precisamos preparar."
+    },
+    {
+      "check": "página 09 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Porque o nosso maior\npropósito são pessoas."
+    },
+    {
+      "check": "página 09 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "O propósito não pode parar em nós."
+    },
+    {
+      "check": "página 10 grupo numerado",
+      "passed": true,
+      "detail": "10 Começar a multiplicar"
+    },
+    {
+      "check": "página 10 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 10 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/Divisão entre ideia e relato sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/Divisão entre ideia e relato sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | João 4 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | João 4 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | João 4 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 10/BODY | João 4 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | João 4 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1210,
+        670,
+        1310,
+        695
+      ]
+    },
+    {
+      "check": "página 10/CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium",
+        "Gotham-Medium",
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 10/CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        1210,
+        475,
+        1662,
+        622
+      ]
+    },
+    {
+      "check": "página 10/BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 10/BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        481,
+        979,
+        584
+      ]
+    },
+    {
+      "check": "página 10/H1 | Jesus preparou pessoas sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/H1 | Jesus preparou pessoas sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/H1 | Jesus preparou pessoas Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 10/H1 | Jesus preparou pessoas fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/H1 | Jesus preparou pessoas bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        140,
+        167,
+        777,
+        356
+      ]
+    },
+    {
+      "check": "página 10/Camada 1 copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/Camada 1 copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/FUNDO copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10/FUNDO copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 10 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Jesus preparou\npessoas"
+    },
+    {
+      "check": "página 10 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Mas nem todas precisaram de anos\nao lado dEle para começar a multiplicar."
+    },
+    {
+      "check": "página 10 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "A mulher samaritana\nencontrou Jesus e levou\noutros até Ele."
+    },
+    {
+      "check": "página 10 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "João 4"
+    },
+    {
+      "check": "página 11 grupo numerado",
+      "passed": true,
+      "detail": "11 Quem recebe compartilha"
+    },
+    {
+      "check": "página 11 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 11 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/CONTENT sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/CONTENT sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/CALLOUT | Quem recebe não guarda para si. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/CALLOUT | Quem recebe não guarda para si. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/CALLOUT | Quem recebe não guarda para si. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 11/CALLOUT | Quem recebe não guarda para si. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/CALLOUT | Quem recebe não guarda para si. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        904,
+        904,
+        953
+      ]
+    },
+    {
+      "check": "página 11/BODY | João 4:29, 39 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BODY | João 4:29, 39 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BODY | João 4:29, 39 Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "check": "página 11/BODY | João 4:29, 39 fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BODY | João 4:29, 39 bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        150,
+        791,
+        332,
+        819
+      ]
+    },
+    {
+      "check": "página 11/BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher. sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher. sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher. Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Book"
+      ]
+    },
+    {
+      "check": "página 11/BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher. fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher. bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        150,
+        638,
+        1019,
+        728
+      ]
+    },
+    {
+      "check": "página 11/QUOTE | “Venham ver...” sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/QUOTE | “Venham ver...” sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/QUOTE | “Venham ver...” Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Light"
+      ]
+    },
+    {
+      "check": "página 11/QUOTE | “Venham ver...” fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/QUOTE | “Venham ver...” bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        145,
+        448,
+        682,
+        512
+      ]
+    },
+    {
+      "check": "página 11/H1 | Ela encontrou Jesus e levou outros até Ele sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/H1 | Ela encontrou Jesus e levou outros até Ele sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/H1 | Ela encontrou Jesus e levou outros até Ele Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Book",
+        "Gotham-Book",
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "check": "página 11/H1 | Ela encontrou Jesus e levou outros até Ele fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/H1 | Ela encontrou Jesus e levou outros até Ele bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        140,
+        152,
+        961,
+        314
+      ]
+    },
+    {
+      "check": "página 11/Camada 2 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/Camada 2 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/B BELLAS sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/B BELLAS sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BG copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11/BG copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 11 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Ela encontrou Jesus\ne levou outros até Ele"
+    },
+    {
+      "check": "página 11 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "“Venham ver...”"
+    },
+    {
+      "check": "página 11 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Muitos samaritanos creram em Jesus por causa\ndo testemunho daquela mulher."
+    },
+    {
+      "check": "página 11 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "João 4:29, 39"
+    },
+    {
+      "check": "página 11 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "Quem recebe não guarda para si."
+    },
+    {
+      "check": "página 12 grupo numerado",
+      "passed": true,
+      "detail": "12 Agradecimento"
+    },
+    {
+      "check": "página 12 H1 único e editável",
+      "passed": true,
+      "detail": 1
+    },
+    {
+      "check": "página 12 texto variável editável presente",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/PADRÃO sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/PADRÃO sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/LOGO sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/LOGO sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 572 copiar 2 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 572 copiar 2 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 572 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 572 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 572 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 572 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/ELEMENTOS CORES sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/ELEMENTOS CORES sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/01 - LOGO PRINCIPAL KJL sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/01 - LOGO PRINCIPAL KJL sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/empreendedorismo feminio sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/empreendedorismo feminio sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/EMPREENDEDORISMO FEMININO sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/EMPREENDEDORISMO FEMININO sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 5 copiar sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/Retângulo 5 copiar sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/texto sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/texto sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/H1 | Agradecimento aprovado sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/H1 | Agradecimento aprovado sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/H1 | Agradecimento aprovado Gotham em todos os intervalos",
+      "passed": true,
+      "detail": [
+        "Gotham-Light"
+      ]
+    },
+    {
+      "check": "página 12/H1 | Agradecimento aprovado fonte sem substituição",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/H1 | Agradecimento aprovado bounds dentro do canvas",
+      "passed": true,
+      "detail": [
+        387,
+        243,
+        1532,
+        836
+      ]
+    },
+    {
+      "check": "página 12/fundo sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/fundo sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/LUCI LUCI-443 sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/LUCI LUCI-443 sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/BG sem texto placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12/BG sem foto/camada placeholder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "página 12 texto do manifesto em camada editável",
+      "passed": true,
+      "detail": "obrigada!"
+    },
+    {
+      "check": "contagem PNGs/manifesto",
+      "passed": true,
+      "detail": [
+        12,
+        12
+      ]
+    },
+    {
+      "check": "pagina_01.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_01.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_02.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_02.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_03.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_03.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_04.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_04.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_05.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_05.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_06.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_06.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_07.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_07.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_08.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_08.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_09.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_09.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_10.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_10.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_11.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_11.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pagina_12.png 1920×1080/16:9",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "check": "pagina_12.png opaco",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "contagem PDF/PNGs/manifesto",
+      "passed": true,
+      "detail": [
+        12,
+        12,
+        12
+      ]
+    },
+    {
+      "check": "PDF página 1 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 1 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 1 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 1 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 1 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 2 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 2 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 2 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 2 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 2 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 3 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 3 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 3 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 3 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 3 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 4 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 4 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 4 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 4 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 4 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 5 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 5 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 5 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 5 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 5 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 6 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 6 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 6 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 6 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 6 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 7 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 7 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 7 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 7 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 7 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 8 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 8 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 8 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 8 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 8 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 9 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 9 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 9 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 9 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 9 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 10 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 10 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 10 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 10 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 10 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 11 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 11 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 11 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 11 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 11 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 12 16:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 12 imagem única sem reamostragem",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 12 espaço RGB",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 12 RGB exato ao PNG",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF página 12 imagem ocupa a página",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "cover referência de comparação disponível",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "cover dimensões da referência",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "capa máscara limitada aos títulos",
+      "passed": true,
+      "detail": {
+        "masks": [
+          [
+            920,
+            415,
+            1870,
+            735
+          ]
+        ],
+        "fraction": 0.14721788194444443
+      }
+    },
+    {
+      "check": "cover pixels fixos idênticos à referência",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "thanks referência de comparação disponível",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "thanks dimensões da referência",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "thanks pixels fixos idênticos à referência",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "revisão visual de todas as páginas registrada",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "renderização do PDF inspecionada",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "problems": [],
+  "limitations": [
+    "Resultado mecânico não comprova aprovação visual: todas as páginas e a renderização do PDF devem ser inspecionadas.",
+    "Anatomia, fotografia contínua, áreas seguras de 15%, proporções, contraste, alinhamento óptico e fidelidade editorial exigem revisão independente.",
+    "Fonte reportada em inventário exige inventário produzido do PSD reaberto; o JSON isolado não prova a origem."
+  ],
+  "files": [
+    {
+      "path": "treinamentos/crescimento_luciane/manifesto_final.json",
+      "bytes": 55824,
+      "sha256": "47efdfbdbfa33a228458a654feb3968f6493e3c8fddcadcfa9f7145007af280e"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/inventario_final.json",
+      "bytes": 120061,
+      "sha256": "d85974d72441f1cda6894ba441e4edcabc2d486da47390411f3486c8fd78604e"
+    },
+    {
+      "path": "referencias/molde_bellas_aprovado_capa_temas_agradecimento.psd",
+      "bytes": 39725793,
+      "sha256": "357e5af012e7077c074f843f3809daf4978cf51bb794f692efe3da276d90271a"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/01.png",
+      "bytes": 2114249,
+      "sha256": "a8d9ff8737ae68794a919ded671cde2504aa2b3bcbc7714655adad43bcd375b6"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/assets/foto_02_preparacao.png",
+      "bytes": 1900720,
+      "sha256": "2f1a0f8614c2037e3e5c7477ca012c834b46c142940db5660cdfdfc53dadffc2"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/02.png",
+      "bytes": 1416574,
+      "sha256": "251cfd39196454253c9ff828f33a3f15ada01423c12ce980aeeb7e6cb6d333ed"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/assets/foto_03_caminho.png",
+      "bytes": 3180350,
+      "sha256": "26a44220d654d26d93ea609082ea0c2cd81ecfc2e0fee218279d3aa5193ff31f"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/03.png",
+      "bytes": 2084270,
+      "sha256": "863a7815608aabc0771dbe86bc00a3b34e8cfc53539976527e7a537aaf397a76"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/04.png",
+      "bytes": 1316090,
+      "sha256": "85b69a31c30f0682b95be0828a1e0b0c42eff45e6af47f570504569f4522854f"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/05.png",
+      "bytes": 2076868,
+      "sha256": "db916cfe3515bfdd56d69c77df33879f1ffc44a151209197580d4b498d45669f"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/assets/foto_08_mentoria.png",
+      "bytes": 1905634,
+      "sha256": "92a5483c4eb9e77d2a15b3636086e3026280b9f7323d38526bf992ec75077aa8"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/06.png",
+      "bytes": 2103040,
+      "sha256": "43f346a3769d4a85bb682b52191851bf1ada34986065230d3e427046b78f8050"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/assets/foto_09_equipe.png",
+      "bytes": 2045256,
+      "sha256": "9897d686b2f8d47f94976d6d79fc5c44a1f05002d123af8909e84f4550c46b35"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/07.png",
+      "bytes": 1995683,
+      "sha256": "5bdb6871ed735672248d292c5a6b64f479bd794df1a8a04a2863725f2eebdf02"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/08.png",
+      "bytes": 1933248,
+      "sha256": "51a409ee42201bbfcc7729fff086ce636c3c3bcb09de15846d5a870cfa98b8d2"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/fonte/09.png",
+      "bytes": 1947771,
+      "sha256": "a8981bc330357732ec161e27331e55c8e3a96c66eedde4f7ccbd85f01e4abe20"
+    },
+    {
+      "path": "exemplos/optima_final/optima_apn_bellas_final.psd",
+      "bytes": 74480885,
+      "sha256": "f8dc1744b388e1f14824afc9a7507487123142d09f22c8dac57562df7d95f6e5"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/crescimento_luciane_bellas.psd",
+      "bytes": 70637599,
+      "sha256": "b0b5f912c29e4dde6ae65c6008189f5d5056b539fa26c9aa936b70c1ee119f26"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_01.png",
+      "bytes": 418922,
+      "sha256": "466bfc24c6c549d9e375632e391a800d2e39bf5d818e80a4be314548d5f5290b"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_02.png",
+      "bytes": 1096373,
+      "sha256": "12c430e15090c73b4d977a317ae1ef08d9c58ca8d1791921ed9a43a04f63a059"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_03.png",
+      "bytes": 1562646,
+      "sha256": "fc7c6ca437cd692e54ea36e6cce13fa04b4ec1c3e5e41ff0cf15371b75a67f3e"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_04.png",
+      "bytes": 68966,
+      "sha256": "40876a058cf17d7df87d68470b015601359b2897d5962ba046c7c1407b399dfb"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_05.png",
+      "bytes": 74668,
+      "sha256": "9b32f0aacc3438543506ecb4a4ecce5b41df91e845da459fccb5f7bc118bcb91"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_06.png",
+      "bytes": 76932,
+      "sha256": "7d31f61e499425bc98c4e8968fd2cf916be8c7374ce0987f98245a7fbc390f0b"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_07.png",
+      "bytes": 51759,
+      "sha256": "095dfcd36c6c82635c17adb93da510d37ac48c4ea7338c2f77f67e864a6f3c52"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_08.png",
+      "bytes": 1123235,
+      "sha256": "988d77fe6d5ae0cd31f710845d6f84472273f7c7bf0278b0cd3afc6621dae29a"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_09.png",
+      "bytes": 1149656,
+      "sha256": "955934b4d1e3d3c21f6a2929dc88427ed19be3bd8a4986850cf1e5f00c7647f2"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_10.png",
+      "bytes": 63516,
+      "sha256": "0725768bbecec0039fe62fd2353585f9f518097ebf1c0e27092bc8bb12a1726c"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_11.png",
+      "bytes": 72449,
+      "sha256": "03f8ef6dcf0ad15e70594575ceeabdf50bf16c185057152dc3629f8f910ed5e0"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/provas_png/pagina_12.png",
+      "bytes": 580060,
+      "sha256": "7d10a53a94225d13004bc508bbc048ecbe9909ce3bfceaf6b74189718cd6e185"
+    },
+    {
+      "path": "treinamentos/crescimento_luciane/entrega/crescimento_luciane_bellas.pdf",
+      "bytes": 7777219,
+      "sha256": "0f1a3b2dbd6b63144b5a10c4115e78a147ea0455cb3fad553da537e1bd27a1b5"
+    },
+    {
+      "path": "exemplos/optima_final/pngs_aprovados/pagina_01.png",
+      "bytes": 498600,
+      "sha256": "c5a1d4992f78df5c9eee912c2380836a0d7f294a0267f74f12be7e80d05fdad4"
+    },
+    {
+      "path": "exemplos/optima_final/pngs_aprovados/pagina_13.png",
+      "bytes": 688528,
+      "sha256": "63e7d7675aabfbb1473b7741a3ec546affea54f7568ff7a8f2e803903f71f60e"
+    }
+  ]
+}

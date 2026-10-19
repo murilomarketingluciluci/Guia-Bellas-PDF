@@ -1,0 +1,323 @@
+{
+  "blocks": [
+    {
+      "id": "p1_titulo",
+      "page": 1,
+      "text": "Vitae Reverse Drink",
+      "kind": "identity",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p2_titulo",
+      "page": 2,
+      "text": "Fórmula mais completa!",
+      "kind": "heading",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p2_1",
+      "page": 2,
+      "text": "O VITAE REVERSE DRINK é uma bebida refrescante multivitamínica com colágeno Verisol como principal ativo.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p2_2",
+      "page": 2,
+      "text": "Este suplemento alimentar em pó foi desenvolvido para proporcionar uma rotina diária mais saudável, oferecendo benefícios para a pele, cabelos e unhas.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p2_3",
+      "page": 2,
+      "text": "Com alto teor de vitaminas e minerais essenciais, o VITAE REVERSE DRINK é a escolha ideal para quem busca beleza e bem-estar de dentro para fora.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p3_titulo",
+      "page": 3,
+      "text": "Como usar?",
+      "kind": "heading",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p3_intro",
+      "page": 3,
+      "text": "Para obter os melhores resultados siga as dicas a seguir:",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p3_1",
+      "page": 3,
+      "text": "Diluir 15 g (3 medidas dosadoras) em 250 ml de água.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p3_2",
+      "page": 3,
+      "text": "Agite bem antes de consumir para garantir a mistura adequada dos ingredientes.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p3_3",
+      "page": 3,
+      "text": "Consumir diariamente para melhores resultados.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p3_4",
+      "page": 3,
+      "text": "Produto indicado para pessoas com idade superior a 19 anos.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p4_titulo",
+      "page": 4,
+      "text": "Ingredientes",
+      "kind": "heading",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p4_intro",
+      "page": 4,
+      "text": "Cada porção de VITAE REVERSE DRINK contém uma combinação poderosa de ingredientes essenciais:",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p4_colageno_titulo",
+      "page": 4,
+      "text": "Colágeno Verisol",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p4_colageno",
+      "page": 4,
+      "text": "2,5 g por porção diária, clinicamente comprovado para benefícios na pele.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p4_vitaminas_titulo",
+      "page": 4,
+      "text": "Vitaminas",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p4_vitaminas",
+      "page": 4,
+      "text": "Alto teor de vitaminas A, E, C, B1, B2, B5, B6, B7, B9, B12.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_titulo",
+      "page": 5,
+      "text": "Benefícios",
+      "kind": "heading",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_unhas_titulo",
+      "page": 5,
+      "text": "Saúde das unhas",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_unhas",
+      "page": 5,
+      "text": "Fortalece as unhas, reduzindo quebras.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_pele_titulo",
+      "page": 5,
+      "text": "Hidratação da pele",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_pele",
+      "page": 5,
+      "text": "Melhora a hidratação, conferindo uma aparência mais saudável e radiante.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_elasticidade_titulo",
+      "page": 5,
+      "text": "Elasticidade e firmeza",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_elasticidade",
+      "page": 5,
+      "text": "Contribui para a elasticidade da pele, reduzindo rugas e flacidez.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_cabelos_titulo",
+      "page": 5,
+      "text": "Crescimento capilar",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_cabelos",
+      "page": 5,
+      "text": "Influencia positivamente o crescimento e a saúde dos cabelos.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_celulite_titulo",
+      "page": 5,
+      "text": "Redução da celulite",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_celulite",
+      "page": 5,
+      "text": "Promove uma pele mais firme e suave.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_pesquisas_titulo",
+      "page": 5,
+      "text": "Resultados clinicamente comprovados",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p5_pesquisas",
+      "page": 5,
+      "text": "Benefícios respaldados por pesquisas clínicas.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_titulo",
+      "page": 6,
+      "text": "Conservação",
+      "kind": "heading",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_intro",
+      "page": 6,
+      "text": "Para garantir a eficácia e a qualidade do seu suplemento, siga as instruções de conservação:",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_luz_titulo",
+      "page": 6,
+      "text": "Proteja da luz",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_luz",
+      "page": 6,
+      "text": "Conservar ao abrigo da luz.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_calor_titulo",
+      "page": 6,
+      "text": "Evite calor e umidade",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_calor",
+      "page": 6,
+      "text": "Manter em local seco e fresco.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_aberto_titulo",
+      "page": 6,
+      "text": "Após aberto",
+      "kind": "label",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p6_aberto",
+      "page": 6,
+      "text": "Conservar bem fechado e consumir em até 60 dias.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p7_titulo",
+      "page": 7,
+      "text": "Precauções",
+      "kind": "heading",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p7_1",
+      "page": 7,
+      "text": "Este produto não deve ser consumido por gestantes, lactantes e crianças.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p7_2",
+      "page": 7,
+      "text": "Consulte um profissional de saúde antes de iniciar o uso.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p7_3",
+      "page": 7,
+      "text": "A Luci Luci é dedicada a oferecer produtos de alta qualidade que promovem o bem-estar e a beleza dos nossos clientes.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p7_4",
+      "page": 7,
+      "text": "VITAE REVERSE DRINK foi criado para proporcionar uma rotina de beleza eficaz e conveniente.",
+      "kind": "content",
+      "transcription": "visual_manual_from_poppler_render"
+    },
+    {
+      "id": "p8_marcas",
+      "page": 8,
+      "text": "Vitae Reverse Drink | Luci Luci",
+      "kind": "identity",
+      "transcription": "visual_manual_from_poppler_render"
+    }
+  ],
+  "transcription_method": "Leitura visual de todas as oito páginas raster; sem OCR automático.",
+  "normalizations": [
+    "Espaços em 15 g, 2,5 g e 250 ml.",
+    "Caixa de títulos ajustada, hashtag decorativa removida.",
+    "Tangerina no título identifica a variante fornecida."
+  ],
+  "excluded_as_decoration": [
+    "Texto decorativo repetido COMO USAR?",
+    "Grafismos, logos repetidos e microtexto ilegível nos renders de embalagem não são fonte de dose."
+  ],
+  "source_pdf": "fonte/treinamento_original.pdf"
+}

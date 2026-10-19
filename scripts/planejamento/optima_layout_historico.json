@@ -1,0 +1,552 @@
+{
+  "template_path": "../../referencias/molde_v1_0_base.psd",
+  "output_psd": "../../exemplos/planejamento/optima_placeholders_regerado.psd",
+  "proof_dir": "../../exemplos/planejamento/provas_regeradas",
+  "scale": 2,
+  "palette": {
+    "h1_light": "B67591",
+    "h1_dark": "FAD8E5",
+    "body_light": "FFF4F7",
+    "body_dark": "FFE7F0",
+    "bullet_light": "FFADCD",
+    "bullet_dark": "F3B6CE",
+    "callout_light": "A96281",
+    "callout_dark": "E59CB8",
+    "card_light": "FFFFFF",
+    "card_dark": "FAD8E5",
+    "text_dark": "713B53",
+    "white": "FFFFFF"
+  },
+  "photos": {
+    "04": "../../exemplos/assets/foto_04_730x1080_v2.png",
+    "06": "../../exemplos/assets/foto_06_700x1080_v2.png",
+    "07": "../../exemplos/assets/foto_07_680x1080_v2.png"
+  },
+  "pages": [
+    {
+      "id": "01",
+      "name": "Capa",
+      "theme": "light",
+      "blocks": [
+        [
+          "h1",
+          143,
+          145,
+          674,
+          149,
+          "H1 • NOME DO PRODUTO",
+          48
+        ],
+        [
+          "bullet",
+          85,
+          344,
+          246,
+          66,
+          "PONTO 1 • CURTO",
+          26
+        ],
+        [
+          "bullet",
+          357,
+          344,
+          246,
+          66,
+          "PONTO 2 • CURTO",
+          26
+        ],
+        [
+          "bullet",
+          629,
+          344,
+          246,
+          66,
+          "PONTO 3 • CURTO",
+          26
+        ]
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Contexto",
+      "theme": "light",
+      "blocks": [
+        [
+          "h1",
+          67,
+          63,
+          720,
+          82,
+          "H1 • CONTEXTO",
+          42
+        ],
+        [
+          "body",
+          67,
+          180,
+          824,
+          78,
+          "BULLET 1 • PARÁGRAFO MÉDIO",
+          30
+        ],
+        [
+          "body",
+          67,
+          270,
+          824,
+          67,
+          "BULLET 2 • PARÁGRAFO CURTO",
+          28
+        ],
+        [
+          "bullet",
+          67,
+          349,
+          824,
+          57,
+          "BULLET 3 • FRASE CURTA",
+          28
+        ],
+        [
+          "body",
+          67,
+          418,
+          824,
+          57,
+          "BULLET 4 • PARÁGRAFO CURTO",
+          27
+        ]
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Evidências",
+      "theme": "dark",
+      "blocks": [
+        [
+          "h1",
+          65,
+          60,
+          698,
+          78,
+          "H1 • TEMA",
+          42
+        ],
+        [
+          "body",
+          66,
+          180,
+          394,
+          268,
+          "BLOCO 1 • 8 A 10 LINHAS",
+          34
+        ],
+        [
+          "body",
+          501,
+          180,
+          394,
+          268,
+          "BLOCO 2 • 8 A 10 LINHAS",
+          34
+        ]
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Foto e continuação",
+      "theme": "light",
+      "photo": [
+        0,
+        0,
+        365,
+        540
+      ],
+      "blocks": [
+        [
+          "h1",
+          405,
+          63,
+          490,
+          84,
+          "H1 • CONTINUAÇÃO",
+          40
+        ],
+        [
+          "body",
+          405,
+          180,
+          490,
+          135,
+          "BLOCO 1 • 5 A 6 LINHAS",
+          31
+        ],
+        [
+          "body",
+          405,
+          331,
+          490,
+          149,
+          "BLOCO 2 • 6 A 7 LINHAS",
+          31
+        ]
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Argumento e ressalva",
+      "theme": "dark",
+      "blocks": [
+        [
+          "h1",
+          67,
+          63,
+          730,
+          76,
+          "H1 • TEMA",
+          42
+        ],
+        [
+          "body",
+          67,
+          177,
+          520,
+          262,
+          "PARÁGRAFO LONGO • 10 A 12 LINHAS",
+          34
+        ],
+        [
+          "callout",
+          628,
+          236,
+          266,
+          144,
+          "CHAMADA / RESSALVA",
+          31
+        ]
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Produto e ingrediente",
+      "theme": "light",
+      "photo": [
+        0,
+        0,
+        350,
+        540
+      ],
+      "blocks": [
+        [
+          "h1",
+          392,
+          61,
+          502,
+          83,
+          "H1 • INGREDIENTE",
+          42
+        ],
+        [
+          "body",
+          392,
+          180,
+          502,
+          111,
+          "BLOCO 1 • 4 A 5 LINHAS",
+          31
+        ],
+        [
+          "body",
+          392,
+          307,
+          502,
+          165,
+          "BLOCO 2 • 7 A 8 LINHAS",
+          31
+        ]
+      ]
+    },
+    {
+      "id": "07",
+      "name": "Benefícios do ingrediente",
+      "theme": "light",
+      "photo": [
+        620,
+        0,
+        340,
+        540
+      ],
+      "blocks": [
+        [
+          "h1",
+          65,
+          60,
+          510,
+          79,
+          "H1 • INGREDIENTE",
+          42
+        ],
+        [
+          "bullet",
+          78,
+          184,
+          515,
+          70,
+          "BENEFÍCIO 1 • 2 A 3 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          78,
+          277,
+          515,
+          70,
+          "BENEFÍCIO 2 • 2 A 3 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          78,
+          370,
+          515,
+          70,
+          "BENEFÍCIO 3 • 2 A 3 LINHAS",
+          27
+        ]
+      ]
+    },
+    {
+      "id": "08",
+      "name": "Propriedades",
+      "theme": "dark",
+      "blocks": [
+        [
+          "h1",
+          67,
+          62,
+          729,
+          78,
+          "H1 • INGREDIENTE",
+          42
+        ],
+        [
+          "card",
+          60,
+          193,
+          273,
+          258,
+          "PROPRIEDADE 1\nTÍTULO + 3 LINHAS",
+          29
+        ],
+        [
+          "card",
+          360,
+          193,
+          273,
+          258,
+          "PROPRIEDADE 2\nTÍTULO + 3 LINHAS",
+          29
+        ],
+        [
+          "card",
+          660,
+          193,
+          273,
+          258,
+          "PROPRIEDADE 3\nTÍTULO + 3 LINHAS",
+          29
+        ]
+      ]
+    },
+    {
+      "id": "09",
+      "name": "Relação entre fatores",
+      "theme": "light",
+      "blocks": [
+        [
+          "h1",
+          59,
+          52,
+          836,
+          89,
+          "H1 • ATÉ 2 LINHAS",
+          42
+        ],
+        [
+          "body",
+          65,
+          169,
+          823,
+          80,
+          "BLOCO 1 • TÍTULO + 4 A 5 LINHAS",
+          28
+        ],
+        [
+          "body",
+          65,
+          268,
+          823,
+          80,
+          "BLOCO 2 • TÍTULO + 4 A 5 LINHAS",
+          28
+        ],
+        [
+          "body",
+          65,
+          367,
+          823,
+          80,
+          "BLOCO 3 • TÍTULO + 4 A 5 LINHAS",
+          28
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Processo e duração",
+      "theme": "dark",
+      "blocks": [
+        [
+          "h1",
+          66,
+          60,
+          716,
+          80,
+          "H1 • PROCESSO",
+          42
+        ],
+        [
+          "body",
+          65,
+          172,
+          567,
+          247,
+          "EXPLICAÇÃO • 9 A 11 LINHAS",
+          34
+        ],
+        [
+          "callout",
+          664,
+          213,
+          231,
+          151,
+          "DURAÇÃO / DADO",
+          33
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Motivos",
+      "theme": "light",
+      "blocks": [
+        [
+          "h1",
+          65,
+          57,
+          780,
+          83,
+          "H1 • ATÉ 2 LINHAS",
+          42
+        ],
+        [
+          "card",
+          63,
+          189,
+          273,
+          263,
+          "MOTIVO 1\nTÍTULO + 4 A 5 LINHAS",
+          29
+        ],
+        [
+          "card",
+          362,
+          189,
+          273,
+          263,
+          "MOTIVO 2\nTÍTULO + 4 A 5 LINHAS",
+          29
+        ],
+        [
+          "card",
+          661,
+          189,
+          273,
+          263,
+          "MOTIVO 3\nTÍTULO + 4 A 5 LINHAS",
+          29
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Orientações",
+      "theme": "light",
+      "blocks": [
+        [
+          "h1",
+          65,
+          56,
+          550,
+          81,
+          "H1 • ORIENTAÇÕES",
+          42
+        ],
+        [
+          "bullet",
+          64,
+          178,
+          411,
+          73,
+          "ITEM 1 • 1 A 2 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          514,
+          178,
+          411,
+          73,
+          "ITEM 2 • 1 A 2 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          64,
+          277,
+          411,
+          73,
+          "ITEM 3 • 1 A 2 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          514,
+          277,
+          411,
+          73,
+          "ITEM 4 • 1 A 2 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          64,
+          376,
+          411,
+          73,
+          "ITEM 5 • 1 A 2 LINHAS",
+          27
+        ],
+        [
+          "bullet",
+          514,
+          376,
+          411,
+          73,
+          "ITEM 6 • 1 A 2 LINHAS",
+          27
+        ]
+      ]
+    }
+  ]
+}

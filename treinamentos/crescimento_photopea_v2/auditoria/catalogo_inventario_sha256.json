@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-10-15T14:13:03.235882+00:00",
+  "files": {
+    "leitura/direcao_catalogo_v2.md": "79fd7367765be0119a2021314dfed6724f16a6eee9c40bf15926fa1231c1296e",
+    "leitura/layouts_propostos_v2.json": "8b82ab5b26e39fe676e4100e247df036e88ddbd90cab22283b5da16ae97d3f1a",
+    "leitura/render_catalogo_v2.py": "eb63e48e5ca6feaf6e097021b4e62757fb8776bced4b58c07efc44e5ef7209e0",
+    "leitura/catalogo_integral/renders_index.json": "264d31518e7d4c530560fc0e878760c25faf9e41043e96a419c6ea87ea42feae"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "PP-1792075649950-138",
+  "echoes": [
+    "METRICS:[{\"name\":\"p08-titulo\",\"text\":\"Jesus preparou\\rpessoas\",\"bounds\":[145,260,714,415],\"font\":\"Gotham-Book\"},{\"name\":\"p08-tempo\",\"text\":\"Mas nem todas precisaram de anos\\rao lado dEle para começar a multiplicar.\",\"bounds\":[150,460,940,547],\"font\":\"Gotham-Book\"},{\"name\":\"p08-exemplo\",\"text\":\"A mulher samaritana encontrou Jesus\\r— e levou outros até Ele.\",\"bounds\":[150,675,896,756],\"font\":\"Gotham-Book\"},{\"name\":\"p08-exemplo-referencia\",\"text\":\"João 4\",\"bounds\":[150,830,245,852],\"font\":\"Gotham-Medium\"}]"
+  ],
+  "files": []
+}

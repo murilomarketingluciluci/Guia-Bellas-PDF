@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-1.png"
+    },
+    {
+      "page": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-2.png"
+    },
+    {
+      "page": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-3.png"
+    },
+    {
+      "page": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-4.png"
+    },
+    {
+      "page": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-5.png"
+    },
+    {
+      "page": 6,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-6.png"
+    },
+    {
+      "page": 7,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-7.png"
+    },
+    {
+      "page": 8,
+      "rect": [
+        0.0,
+        0.0,
+        1440.0,
+        810.0
+      ],
+      "text": "",
+      "images": 1,
+      "render": "C:\\Users\\Murilo\\Documents\\Codex\\2026-10-15\\c-users-murilo-documents-projetos-bellas\\work\\vitae\\fonte_paginas\\pagina-8.png"
+    }
+  ],
+  "source_sha256": "cdd5709997ce06f2b880082703d094be479d3782b57cfd52b6044eda61d12187"
+}

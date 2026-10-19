@@ -1,0 +1,144 @@
+{
+  "checks": [
+    {
+      "test": "four_templates",
+      "passed": true
+    },
+    {
+      "test": "23_unique_leaves",
+      "passed": true
+    },
+    {
+      "test": "cache_4",
+      "passed": true
+    },
+    {
+      "test": "cache_5",
+      "passed": true
+    },
+    {
+      "test": "cache_6",
+      "passed": true
+    },
+    {
+      "test": "cache_8",
+      "passed": true
+    },
+    {
+      "test": "font_run_8_0",
+      "passed": true
+    },
+    {
+      "test": "cache_11",
+      "passed": true
+    },
+    {
+      "test": "cache_12",
+      "passed": true
+    },
+    {
+      "test": "font_run_12_0",
+      "passed": true
+    },
+    {
+      "test": "cache_13",
+      "passed": true
+    },
+    {
+      "test": "cache_15",
+      "passed": true
+    },
+    {
+      "test": "cache_16",
+      "passed": true
+    },
+    {
+      "test": "cache_17",
+      "passed": true
+    },
+    {
+      "test": "cache_18",
+      "passed": true
+    },
+    {
+      "test": "cache_20",
+      "passed": true
+    },
+    {
+      "test": "cache_21",
+      "passed": true
+    },
+    {
+      "test": "cache_22",
+      "passed": true
+    },
+    {
+      "test": "cache_24",
+      "passed": true
+    },
+    {
+      "test": "cache_25",
+      "passed": true
+    },
+    {
+      "test": "cache_27",
+      "passed": true
+    },
+    {
+      "test": "cache_28",
+      "passed": true
+    },
+    {
+      "test": "cache_29",
+      "passed": true
+    },
+    {
+      "test": "cache_31",
+      "passed": true
+    },
+    {
+      "test": "font_run_31_0",
+      "passed": true
+    },
+    {
+      "test": "font_run_31_12",
+      "passed": true
+    },
+    {
+      "test": "font_run_31_18",
+      "passed": true
+    },
+    {
+      "test": "cache_32",
+      "passed": true
+    },
+    {
+      "test": "cache_33",
+      "passed": true
+    },
+    {
+      "test": "font_run_33_0",
+      "passed": true
+    },
+    {
+      "test": "cache_1",
+      "passed": true
+    },
+    {
+      "test": "all_432_source_assets_unchanged",
+      "passed": true
+    },
+    {
+      "test": "source_manifest_unchanged",
+      "passed": true
+    },
+    {
+      "test": "original_psd_unchanged",
+      "passed": true
+    }
+  ],
+  "passed": 34,
+  "failed": 0,
+  "output_sha256": "6d468f30928a8747f49d0ad5df27923b766d2ef3f645de3202a74b5f3806f7c4",
+  "bytes": 77970
+}

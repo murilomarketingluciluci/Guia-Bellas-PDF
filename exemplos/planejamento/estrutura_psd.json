@@ -1,0 +1,2550 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "resolution": {
+    "horizontal": 4718592,
+    "vertical": 4718592,
+    "horizontal_unit": 1,
+    "vertical_unit": 1,
+    "width_unit": 2,
+    "height_unit": 2,
+    "horizontal_ppi": 72.0,
+    "vertical_ppi": 72.0
+  },
+  "note": "Tamanhos são valores de camada; interprete junto a transform/resolução, não apenas como pt visuais.",
+  "layers": [
+    {
+      "path": "Plano de Fundo",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "molde claro",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "molde claro/FUNDO",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "molde claro/Camada 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "12 — Orientações",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "12 — Orientações/FUNDO copiar 8",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "12 — Orientações/Camada 1 copiar 8",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "12 — Orientações/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        112,
+        1230,
+        274
+      ]
+    },
+    {
+      "path": "12 — Orientações/1 | H1 • ORIENTAÇÕES",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        274,
+        101,
+        1089,
+        194
+      ],
+      "text": "H1 • ORIENTAÇÕES",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        118.0
+      ]
+    },
+    {
+      "path": "12 — Orientações/2 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        128,
+        356,
+        950,
+        502
+      ]
+    },
+    {
+      "path": "12 — Orientações/2 | ITEM 1 • 1 A 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        250,
+        362,
+        830,
+        402
+      ],
+      "text": "ITEM 1 • 1 A 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 22,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        151.99999999999997,
+        362.0
+      ]
+    },
+    {
+      "path": "12 — Orientações/3 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1028,
+        356,
+        1850,
+        502
+      ]
+    },
+    {
+      "path": "12 — Orientações/3 | ITEM 2 • 1 A 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1144,
+        362,
+        1736,
+        402
+      ],
+      "text": "ITEM 2 • 1 A 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 22,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1052.0000000000002,
+        362.0
+      ]
+    },
+    {
+      "path": "12 — Orientações/4 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        128,
+        554,
+        950,
+        700
+      ]
+    },
+    {
+      "path": "12 — Orientações/4 | ITEM 3 • 1 A 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        244,
+        560,
+        836,
+        600
+      ],
+      "text": "ITEM 3 • 1 A 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 22,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        151.99999999999997,
+        559.9999999999999
+      ]
+    },
+    {
+      "path": "12 — Orientações/5 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1028,
+        554,
+        1850,
+        700
+      ]
+    },
+    {
+      "path": "12 — Orientações/5 | ITEM 4 • 1 A 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1142,
+        560,
+        1738,
+        600
+      ],
+      "text": "ITEM 4 • 1 A 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 22,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1052.0000000000002,
+        559.9999999999999
+      ]
+    },
+    {
+      "path": "12 — Orientações/6 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        128,
+        752,
+        950,
+        898
+      ]
+    },
+    {
+      "path": "12 — Orientações/6 | ITEM 5 • 1 A 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        244,
+        758,
+        837,
+        798
+      ],
+      "text": "ITEM 5 • 1 A 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 22,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        151.99999999999997,
+        758.0
+      ]
+    },
+    {
+      "path": "12 — Orientações/7 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1028,
+        752,
+        1850,
+        898
+      ]
+    },
+    {
+      "path": "12 — Orientações/7 | ITEM 6 • 1 A 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1143,
+        758,
+        1737,
+        798
+      ],
+      "text": "ITEM 6 • 1 A 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 22,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1052.0000000000002,
+        758.0
+      ]
+    },
+    {
+      "path": "11 — Motivos",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "11 — Motivos/FUNDO copiar 7",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "11 — Motivos/Camada 1 copiar 7",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "11 — Motivos/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        114,
+        1690,
+        280
+      ]
+    },
+    {
+      "path": "11 — Motivos/1 | H1 • ATÉ 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        520,
+        104,
+        1303,
+        182
+      ],
+      "text": "H1 • ATÉ 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 18,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        120.0
+      ]
+    },
+    {
+      "path": "11 — Motivos/2 | CARD | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        126,
+        378,
+        672,
+        904
+      ]
+    },
+    {
+      "path": "11 — Motivos/2 | MOTIVO 1\nTÍTULO + 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        207,
+        511,
+        590,
+        668
+      ],
+      "text": "MOTIVO 1\rTÍTULO + 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 31,
+          "font_size_layer": 50.0,
+          "leading": "60.0",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        511.0
+      ]
+    },
+    {
+      "path": "11 — Motivos/3 | CARD | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        724,
+        378,
+        1270,
+        904
+      ]
+    },
+    {
+      "path": "11 — Motivos/3 | MOTIVO 2\nTÍTULO + 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        805,
+        511,
+        1188,
+        668
+      ],
+      "text": "MOTIVO 2\rTÍTULO + 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 31,
+          "font_size_layer": 50.0,
+          "leading": "60.0",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        743.0,
+        511.0
+      ]
+    },
+    {
+      "path": "11 — Motivos/4 | CARD | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1322,
+        378,
+        1868,
+        904
+      ]
+    },
+    {
+      "path": "11 — Motivos/4 | MOTIVO 3\nTÍTULO + 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1403,
+        511,
+        1786,
+        668
+      ],
+      "text": "MOTIVO 3\rTÍTULO + 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 31,
+          "font_size_layer": 50.0,
+          "leading": "60.0",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1341.0,
+        511.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/FUNDO copiar 6",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/Camada 1 copiar 6",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        118,
+        104,
+        1790,
+        282
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/1 | H1 • ATÉ 2 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        564,
+        94,
+        1347,
+        172
+      ],
+      "text": "H1 • ATÉ 2 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 18,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        142.0,
+        110.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        338,
+        1776,
+        498
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/2 | BLOCO 1 • TÍTULO + 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        470,
+        334,
+        1438,
+        386
+      ],
+      "text": "BLOCO 1 • TÍTULO + 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 32,
+          "font_size_layer": 56.0,
+          "leading": "66.08",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        344.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/3 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        536,
+        1776,
+        696
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/3 | BLOCO 2 • TÍTULO + 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        464,
+        532,
+        1444,
+        584
+      ],
+      "text": "BLOCO 2 • TÍTULO + 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 32,
+          "font_size_layer": 56.0,
+          "leading": "66.08",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        542.0000000000001
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/4 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        734,
+        1776,
+        894
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/4 | BLOCO 3 • TÍTULO + 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        464,
+        730,
+        1444,
+        782
+      ],
+      "text": "BLOCO 3 • TÍTULO + 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 32,
+          "font_size_layer": 56.0,
+          "leading": "66.08",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        740.0
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/FUNDO copiar 5",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/FOTO 07 | substituir imagem",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1240,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/Camada 1 copiar 5",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        120,
+        1150,
+        278
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/1 | H1 • INGREDIENTE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        249,
+        127,
+        1034,
+        188
+      ],
+      "text": "H1 • INGREDIENTE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        126.0
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/2 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        156,
+        368,
+        1186,
+        508
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/2 | BENEFÍCIO 1 • 2 A 3 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        289,
+        364,
+        1056,
+        414
+      ],
+      "text": "BENEFÍCIO 1 • 2 A 3 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        180.0,
+        373.99999999999994
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/3 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        156,
+        554,
+        1186,
+        694
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/3 | BENEFÍCIO 2 • 2 A 3 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        283,
+        550,
+        1062,
+        600
+      ],
+      "text": "BENEFÍCIO 2 • 2 A 3 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        180.0,
+        559.9999999999999
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/4 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        156,
+        740,
+        1186,
+        880
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/4 | BENEFÍCIO 3 • 2 A 3 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        283,
+        736,
+        1062,
+        786
+      ],
+      "text": "BENEFÍCIO 3 • 2 A 3 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        180.0,
+        746.0
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/FUNDO copiar 4",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/FOTO 06 | substituir imagem",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        700,
+        1080
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/Camada 1 copiar 4",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        784,
+        122,
+        1788,
+        288
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/1 | H1 • INGREDIENTE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        895,
+        129,
+        1680,
+        190
+      ],
+      "text": "H1 • INGREDIENTE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        808.0,
+        128.00000000000003
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        784,
+        360,
+        1788,
+        582
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/2 | BLOCO 1 • 4 A 5 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        907,
+        389,
+        1668,
+        435
+      ],
+      "text": "BLOCO 1 • 4 A 5 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 23,
+          "font_size_layer": 62.0,
+          "leading": "73.16",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        808.0,
+        388.8500000000001
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/3 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        784,
+        614,
+        1788,
+        944
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/3 | BLOCO 2 • 7 A 8 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        902,
+        697,
+        1672,
+        743
+      ],
+      "text": "BLOCO 2 • 7 A 8 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 23,
+          "font_size_layer": 62.0,
+          "leading": "73.16",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        808.0,
+        696.85
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/FUNDO copiar 3",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/FOTO 04 | substituir imagem",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        730,
+        1080
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/Camada 1 copiar 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        810,
+        126,
+        1790,
+        294
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/1 | H1 • CONTINUAÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        897,
+        116,
+        1705,
+        204
+      ],
+      "text": "H1 • CONTINUAÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 80.0,
+          "leading": "94.4",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        834.0,
+        132.0
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        810,
+        360,
+        1790,
+        630
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/2 | BLOCO 1 • 5 A 6 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        921,
+        413,
+        1681,
+        459
+      ],
+      "text": "BLOCO 1 • 5 A 6 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 23,
+          "font_size_layer": 62.0,
+          "leading": "73.16",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        834.0,
+        412.85
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/3 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        810,
+        662,
+        1790,
+        960
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/3 | BLOCO 2 • 6 A 7 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        915,
+        729,
+        1687,
+        775
+      ],
+      "text": "BLOCO 2 • 6 A 7 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 23,
+          "font_size_layer": 62.0,
+          "leading": "73.16",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        834.0,
+        728.85
+      ]
+    },
+    {
+      "path": "02 — Contexto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "02 — Contexto/FUNDO copiar 2",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "02 — Contexto/Camada 1 copiar 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "02 — Contexto/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        126,
+        1574,
+        290
+      ]
+    },
+    {
+      "path": "02 — Contexto/1 | H1 • CONTEXTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        518,
+        133,
+        1192,
+        194
+      ],
+      "text": "H1 • CONTEXTO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 14,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        132.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        360,
+        1782,
+        516
+      ]
+    },
+    {
+      "path": "02 — Contexto/2 | BULLET 1 • PARÁGRAFO MÉDIO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        475,
+        355,
+        1443,
+        411
+      ],
+      "text": "BULLET 1 • PARÁGRAFO MÉDIO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 60.0,
+          "leading": "70.8",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        366.00000000000006
+      ]
+    },
+    {
+      "path": "02 — Contexto/3 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        540,
+        1782,
+        674
+      ]
+    },
+    {
+      "path": "02 — Contexto/3 | BULLET 2 • PARÁGRAFO CURTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        496,
+        535,
+        1422,
+        588
+      ],
+      "text": "BULLET 2 • PARÁGRAFO CURTO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 56.0,
+          "leading": "66.08",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        546.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/4 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        698,
+        1782,
+        812
+      ]
+    },
+    {
+      "path": "02 — Contexto/4 | BULLET 3 • FRASE CURTA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        589,
+        705,
+        1331,
+        746
+      ],
+      "text": "BULLET 3 • FRASE CURTA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 23,
+          "font_size_layer": 56.0,
+          "leading": "66.08",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        704.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/5 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        836,
+        1782,
+        950
+      ]
+    },
+    {
+      "path": "02 — Contexto/5 | BULLET 4 • PARÁGRAFO CURTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        511,
+        832,
+        1407,
+        882
+      ],
+      "text": "BULLET 4 • PARÁGRAFO CURTO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 54.0,
+          "leading": "63.72",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        842.0
+      ]
+    },
+    {
+      "path": "01 — Capa",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "01 — Capa/FUNDO copiar",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "01 — Capa/Camada 1 copiar",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "01 — Capa/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        286,
+        290,
+        1634,
+        588
+      ]
+    },
+    {
+      "path": "01 — Capa/1 | H1 • NOME DO PRODUTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        347,
+        313,
+        1576,
+        384
+      ],
+      "text": "H1 • NOME DO PRODUTO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 21,
+          "font_size_layer": 96.0,
+          "leading": "113.28",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        310.00000000000006,
+        311.8
+      ]
+    },
+    {
+      "path": "01 — Capa/2 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        170,
+        688,
+        662,
+        820
+      ]
+    },
+    {
+      "path": "01 — Capa/2 | PONTO 1 • CURTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        283,
+        694,
+        548,
+        794
+      ],
+      "text": "PONTO 1 • CURTO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 16,
+          "font_size_layer": 52.0,
+          "leading": "61.36",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        187.0,
+        694.0000000000001
+      ]
+    },
+    {
+      "path": "01 — Capa/3 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        714,
+        688,
+        1206,
+        820
+      ]
+    },
+    {
+      "path": "01 — Capa/3 | PONTO 2 • CURTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        822,
+        694,
+        1098,
+        794
+      ],
+      "text": "PONTO 2 • CURTO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 16,
+          "font_size_layer": 52.0,
+          "leading": "61.36",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        731.0,
+        694.0000000000001
+      ]
+    },
+    {
+      "path": "01 — Capa/4 | BULLET | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1258,
+        688,
+        1750,
+        820
+      ]
+    },
+    {
+      "path": "01 — Capa/4 | PONTO 3 • CURTO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1366,
+        694,
+        1642,
+        794
+      ],
+      "text": "PONTO 3 • CURTO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 16,
+          "font_size_layer": 52.0,
+          "leading": "61.36",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1275.0,
+        694.0000000000001
+      ]
+    },
+    {
+      "path": "molde escuro",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "molde escuro/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "molde escuro/Camada 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "10 — Processo e duração",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/BG copiar 4",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Camada 2 copiar 4",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        132,
+        120,
+        1564,
+        280
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/1 | H1 • PROCESSO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        517,
+        127,
+        1182,
+        188
+      ],
+      "text": "H1 • PROCESSO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 14,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        156.0,
+        126.0
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        344,
+        1264,
+        838
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/2 | EXPLICAÇÃO • 9 A 11 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        195,
+        489,
+        1202,
+        563
+      ],
+      "text": "EXPLICAÇÃO • 9 A 11 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 68.0,
+          "leading": "80.24",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        500.8999999999999
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/3 | CALLOUT | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1328,
+        426,
+        1790,
+        728
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/3 | DURAÇÃO / DADO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1362,
+        477,
+        1763,
+        617
+      ],
+      "text": "DURAÇÃO / DADO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 15,
+          "font_size_layer": 66.0,
+          "leading": "77.88",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1344.0,
+        489.55
+      ]
+    },
+    {
+      "path": "08 — Propriedades",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BG copiar 3",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "08 — Propriedades/Camada 2 copiar 3",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "08 — Propriedades/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        124,
+        1592,
+        280
+      ]
+    },
+    {
+      "path": "08 — Propriedades/1 | H1 • INGREDIENTE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        472,
+        131,
+        1257,
+        192
+      ],
+      "text": "H1 • INGREDIENTE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        130.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/2 | CARD | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        120,
+        386,
+        666,
+        902
+      ]
+    },
+    {
+      "path": "08 — Propriedades/2 | PROPRIEDADE 1\nTÍTULO + 3 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        148,
+        514,
+        637,
+        611
+      ],
+      "text": "PROPRIEDADE 1\rTÍTULO + 3 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 32,
+          "font_size_layer": 50.0,
+          "leading": "60.0",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        139.00000000000003,
+        514.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/3 | CARD | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        720,
+        386,
+        1266,
+        902
+      ]
+    },
+    {
+      "path": "08 — Propriedades/3 | PROPRIEDADE 2\nTÍTULO + 3 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        748,
+        514,
+        1237,
+        611
+      ],
+      "text": "PROPRIEDADE 2\rTÍTULO + 3 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 32,
+          "font_size_layer": 50.0,
+          "leading": "60.0",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        739.0,
+        514.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/4 | CARD | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1320,
+        386,
+        1866,
+        902
+      ]
+    },
+    {
+      "path": "08 — Propriedades/4 | PROPRIEDADE 3\nTÍTULO + 3 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1348,
+        514,
+        1837,
+        611
+      ],
+      "text": "PROPRIEDADE 3\rTÍTULO + 3 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 32,
+          "font_size_layer": 50.0,
+          "leading": "60.0",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1339.0,
+        514.0
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/BG copiar 2",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/Camada 2 copiar 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        126,
+        1594,
+        278
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/1 | H1 • TEMA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        650,
+        133,
+        1083,
+        193
+      ],
+      "text": "H1 • TEMA",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 10,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        132.0
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        134,
+        354,
+        1174,
+        878
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/2 | PARÁGRAFO LONGO • 10 A 12 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        180,
+        514,
+        1132,
+        657
+      ],
+      "text": "PARÁGRAFO LONGO • 10 A 12 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 33,
+          "font_size_layer": 68.0,
+          "leading": "80.24",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        157.99999999999997,
+        525.9
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/3 | CALLOUT | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1256,
+        472,
+        1788,
+        760
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/3 | CHAMADA / RESSALVA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1330,
+        529,
+        1718,
+        653
+      ],
+      "text": "CHAMADA / RESSALVA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 19,
+          "font_size_layer": 62.0,
+          "leading": "73.16",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1275.0,
+        533.85
+      ]
+    },
+    {
+      "path": "03 — Evidências",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "03 — Evidências/BG copiar",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "03 — Evidências/Camada 2 copiar",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "03 — Evidências/1 | H1 | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        130,
+        120,
+        1526,
+        276
+      ]
+    },
+    {
+      "path": "03 — Evidências/1 | H1 • TEMA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        614,
+        127,
+        1047,
+        187
+      ],
+      "text": "H1 • TEMA",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 10,
+          "font_size_layer": 84.0,
+          "leading": "99.12",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        154.00000000000003,
+        126.0
+      ]
+    },
+    {
+      "path": "03 — Evidências/2 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        132,
+        360,
+        920,
+        896
+      ]
+    },
+    {
+      "path": "03 — Evidências/2 | BLOCO 1 • 8 A 10 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        238,
+        539,
+        817,
+        669
+      ],
+      "text": "BLOCO 1 • 8 A 10 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 24,
+          "font_size_layer": 68.0,
+          "leading": "80.24",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        156.0,
+        537.9
+      ]
+    },
+    {
+      "path": "03 — Evidências/3 | BODY | fundo",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1002,
+        360,
+        1790,
+        896
+      ]
+    },
+    {
+      "path": "03 — Evidências/3 | BLOCO 2 • 8 A 10 LINHAS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1101,
+        539,
+        1694,
+        669
+      ],
+      "text": "BLOCO 2 • 8 A 10 LINHAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 24,
+          "font_size_layer": 68.0,
+          "leading": "80.24",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 0.44314, 0.23137, 0.32549]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1026.0000000000002,
+        537.9
+      ]
+    },
+    {
+      "path": "CAPA",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "CAPA/h1 capa",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        779,
+        398,
+        1799,
+        629
+      ],
+      "text": "a arte de apresentar\rseu negócio com um\rcafé bellas",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 25,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 12,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.7175783685141747,
+        -4.660210733600168e-17,
+        0.0,
+        0.7175783685141729,
+        775.7799853065336,
+        460.4469822383997
+      ]
+    },
+    {
+      "path": "CAPA/Camada 1",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "CAPA/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -109,
+        59,
+        2094,
+        1528
+      ]
+    }
+  ]
+}

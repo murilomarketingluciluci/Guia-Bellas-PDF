@@ -1,0 +1,1 @@
+app.echoToOE('GROUPCOUNT:'+app.activeDocument.layerSets.length);for(var i=0;i<app.activeDocument.layerSets.length;i++)app.echoToOE('GROUP:'+app.activeDocument.layerSets[i].name);app.echoToOE('AL:'+app.activeDocument.activeLayer.name);var g=app.activeDocument.layerSets.getByName('03 - Propósito e direção');app.echoToOE('FOUND:'+g);

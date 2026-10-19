@@ -1,0 +1,1930 @@
+{
+  "timestamp": "2026-10-15T12:23:51.646574-03:00",
+  "psd": "entrega\\Crescimento_Photopea_V2.psd",
+  "psd_sha256": "ced7857b6168c1a5f008f6775b433191a62bd5562b202f93267ef1ba74470bb7",
+  "manifest_sha256": "98e986cc2b5c33c7c4862966f0a57ca2078e7b9a8d3a6d67b07f9604b326d457",
+  "source_sha256": "cd6c918de25147bc4dbada2e6bd6ae5b7dc109f072551e01a711f2a52491236f",
+  "native_text_layers": 88,
+  "source_components_checked": 85,
+  "manifest_components_checked": 88,
+  "issues": [],
+  "per_page_native_count": {
+    "1": 2,
+    "2": 10,
+    "3": 3,
+    "4": 17,
+    "5": 17,
+    "6": 18,
+    "7": 3,
+    "8": 3,
+    "9": 4,
+    "10": 4,
+    "11": 5,
+    "12": 2
+  },
+  "checks": [
+    {
+      "page": 1,
+      "name": "p01-titulo",
+      "origin": "p01-titulo",
+      "scope": "source_to_native",
+      "expected": "Crescimento",
+      "actual": [
+        "Crescimento"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-titulo",
+      "origin": "p02-titulo",
+      "scope": "source_to_native",
+      "expected": "Todo mundo quer crescer",
+      "actual": [
+        "Todo mundo\rquer crescer\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-premissa",
+      "origin": "p02-premissa",
+      "scope": "source_to_native",
+      "expected": "Mas crescimento exige preparação",
+      "actual": [
+        "Mas crescimento\rexige preparação"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-01",
+      "origin": "p02-01",
+      "scope": "source_to_native",
+      "expected": "Estar alicerçado",
+      "actual": [
+        "Estar alicerçado"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-01-numero",
+      "origin": "p02-01",
+      "scope": "source_to_native",
+      "expected": "01",
+      "actual": [
+        "01"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-02",
+      "origin": "p02-02",
+      "scope": "source_to_native",
+      "expected": "Estar preparado",
+      "actual": [
+        "Estar preparado"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-02-numero",
+      "origin": "p02-02",
+      "scope": "source_to_native",
+      "expected": "02",
+      "actual": [
+        "02"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-03",
+      "origin": "p02-03",
+      "scope": "source_to_native",
+      "expected": "Estar disposto a aprender",
+      "actual": [
+        "Estar disposto\ra aprender"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-03-numero",
+      "origin": "p02-03",
+      "scope": "source_to_native",
+      "expected": "03",
+      "actual": [
+        "03"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-04",
+      "origin": "p02-04",
+      "scope": "source_to_native",
+      "expected": "Estar disposto a ensinar",
+      "actual": [
+        "Estar disposto\ra ensinar"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-04-numero",
+      "origin": "p02-04",
+      "scope": "source_to_native",
+      "expected": "04",
+      "actual": [
+        "04"
+      ],
+      "match": true
+    },
+    {
+      "page": 3,
+      "name": "p03-titulo",
+      "origin": "p03-titulo",
+      "scope": "source_to_native",
+      "expected": "Jesus sabia para que veio",
+      "actual": [
+        "Jesus sabia\rpara que veio\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 3,
+      "name": "p03-proposito",
+      "origin": "p03-proposito",
+      "scope": "source_to_native",
+      "expected": "Ele tinha um propósito.",
+      "actual": [
+        "Ele tinha um propósito."
+      ],
+      "match": true
+    },
+    {
+      "page": 3,
+      "name": "p03-direcao",
+      "origin": "p03-direcao",
+      "scope": "source_to_native",
+      "expected": "E nada mudou a Sua direção.",
+      "actual": [
+        "E nada mudou a Sua direção."
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-titulo",
+      "origin": "p04-titulo",
+      "scope": "source_to_native",
+      "expected": "Tentaram mudar Sua direção",
+      "actual": [
+        "Tentaram mudar Sua direção\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-titulo",
+      "origin": "p04-titulo",
+      "scope": "source_to_native",
+      "expected": "Tentaram mudar Sua direção",
+      "actual": [
+        "Tentaram mudar\rSua direção\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-titulo",
+      "origin": "p04-titulo",
+      "scope": "source_to_native",
+      "expected": "Tentaram mudar Sua direção",
+      "actual": [
+        "Tentaram mudar\rSua direção\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-numero",
+      "origin": "p04-01",
+      "scope": "source_to_native",
+      "expected": "01",
+      "actual": [
+        "01"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-nome",
+      "origin": "p04-01",
+      "scope": "source_to_native",
+      "expected": "Satanás",
+      "actual": [
+        "Satanás"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-acao",
+      "origin": "p04-01",
+      "scope": "source_to_native",
+      "expected": "Tentou desviá-lo no deserto",
+      "actual": [
+        "Tentou desviá-lo no deserto"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-referencia",
+      "origin": "p04-01",
+      "scope": "source_to_native",
+      "expected": "Mateus 4:1-11",
+      "actual": [
+        "Mateus 4:1-11"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-numero",
+      "origin": "p04-02",
+      "scope": "source_to_native",
+      "expected": "02",
+      "actual": [
+        "02"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-nome",
+      "origin": "p04-02",
+      "scope": "source_to_native",
+      "expected": "Pedro",
+      "actual": [
+        "Pedro"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-acao",
+      "origin": "p04-02",
+      "scope": "source_to_native",
+      "expected": "Tentou afastá-lo do caminho da cruz",
+      "actual": [
+        "Tentou afastá-lo do caminho da cruz"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-referencia",
+      "origin": "p04-02",
+      "scope": "source_to_native",
+      "expected": "Mateus 16:21-23",
+      "actual": [
+        "Mateus 16:21-23"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-numero",
+      "origin": "p04-03",
+      "scope": "source_to_native",
+      "expected": "03",
+      "actual": [
+        "03"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-nome",
+      "origin": "p04-03",
+      "scope": "source_to_native",
+      "expected": "A multidão",
+      "actual": [
+        "A multidão"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-acao",
+      "origin": "p04-03",
+      "scope": "source_to_native",
+      "expected": "Quis fazê-lo rei à força",
+      "actual": [
+        "Quis fazê-lo rei à força"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-referencia",
+      "origin": "p04-03",
+      "scope": "source_to_native",
+      "expected": "João 6:14-15",
+      "actual": [
+        "João 6:14-15"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-numero",
+      "origin": "p04-04",
+      "scope": "source_to_native",
+      "expected": "04",
+      "actual": [
+        "04"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-nome",
+      "origin": "p04-04",
+      "scope": "source_to_native",
+      "expected": "Sua própria família",
+      "actual": [
+        "Sua própria família"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-acao",
+      "origin": "p04-04",
+      "scope": "source_to_native",
+      "expected": "Tentou contê-lo",
+      "actual": [
+        "Tentou contê-lo"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-referencia",
+      "origin": "p04-04",
+      "scope": "source_to_native",
+      "expected": "Marcos 3:20-21",
+      "actual": [
+        "Marcos 3:20-21"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-numero",
+      "origin": "p04-05",
+      "scope": "source_to_native",
+      "expected": "05",
+      "actual": [
+        "05"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-nome",
+      "origin": "p04-05",
+      "scope": "source_to_native",
+      "expected": "Sua própria terra",
+      "actual": [
+        "Sua própria terra"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-acao",
+      "origin": "p04-05",
+      "scope": "source_to_native",
+      "expected": "Rejeitou quem Ele era",
+      "actual": [
+        "Rejeitou quem Ele era"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-referencia",
+      "origin": "p04-05",
+      "scope": "source_to_native",
+      "expected": "Lucas 4:16-30",
+      "actual": [
+        "Lucas 4:16-30"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-numero",
+      "origin": "p04-06",
+      "scope": "source_to_native",
+      "expected": "06",
+      "actual": [
+        "06"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-nome",
+      "origin": "p04-06",
+      "scope": "source_to_native",
+      "expected": "Líderes religiosos",
+      "actual": [
+        "Líderes religiosos"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-acao",
+      "origin": "p04-06",
+      "scope": "source_to_native",
+      "expected": "Confrontaram e tramaram contra Ele",
+      "actual": [
+        "Confrontaram e tramaram contra Ele"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-referencia",
+      "origin": "p04-06",
+      "scope": "source_to_native",
+      "expected": "Mateus 12:14",
+      "actual": [
+        "Mateus 12:14"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-numero",
+      "origin": "p04-07",
+      "scope": "source_to_native",
+      "expected": "07",
+      "actual": [
+        "07"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-nome",
+      "origin": "p04-07",
+      "scope": "source_to_native",
+      "expected": "Fariseus e herodianos",
+      "actual": [
+        "Fariseus e herodianos"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-acao",
+      "origin": "p04-07",
+      "scope": "source_to_native",
+      "expected": "Tentaram apanhá-lo em Suas palavras",
+      "actual": [
+        "Tentaram apanhá-lo em Suas palavras"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-referencia",
+      "origin": "p04-07",
+      "scope": "source_to_native",
+      "expected": "Marcos 12:13-17",
+      "actual": [
+        "Marcos 12:13-17"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-numero",
+      "origin": "p04-08",
+      "scope": "source_to_native",
+      "expected": "08",
+      "actual": [
+        "08"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-nome",
+      "origin": "p04-08",
+      "scope": "source_to_native",
+      "expected": "Os discípulos",
+      "actual": [
+        "Os discípulos"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-acao",
+      "origin": "p04-08",
+      "scope": "source_to_native",
+      "expected": "Tentaram afastar crianças dEle",
+      "actual": [
+        "Tentaram afastar crianças dEle"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-referencia",
+      "origin": "p04-08",
+      "scope": "source_to_native",
+      "expected": "Marcos 10:13-16",
+      "actual": [
+        "Marcos 10:13-16"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-numero",
+      "origin": "p04-09",
+      "scope": "source_to_native",
+      "expected": "09",
+      "actual": [
+        "09"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-nome",
+      "origin": "p04-09",
+      "scope": "source_to_native",
+      "expected": "Tiago e João",
+      "actual": [
+        "Tiago e João"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-acao",
+      "origin": "p04-09",
+      "scope": "source_to_native",
+      "expected": "Buscaram posição e grandeza",
+      "actual": [
+        "Buscaram posição e grandeza"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-referencia",
+      "origin": "p04-09",
+      "scope": "source_to_native",
+      "expected": "Marcos 10:35-45",
+      "actual": [
+        "Marcos 10:35-45"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-numero",
+      "origin": "p04-10",
+      "scope": "source_to_native",
+      "expected": "10",
+      "actual": [
+        "10"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-nome",
+      "origin": "p04-10",
+      "scope": "source_to_native",
+      "expected": "A multidão",
+      "actual": [
+        "A multidão"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-acao",
+      "origin": "p04-10",
+      "scope": "source_to_native",
+      "expected": "Pressionava para que Ele permanecesse",
+      "actual": [
+        "Pressionava para que Ele permanecesse"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-referencia",
+      "origin": "p04-10",
+      "scope": "source_to_native",
+      "expected": "Lucas 4:42-43",
+      "actual": [
+        "Lucas 4:42-43"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-numero",
+      "origin": "p04-11",
+      "scope": "source_to_native",
+      "expected": "11",
+      "actual": [
+        "11"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-nome",
+      "origin": "p04-11",
+      "scope": "source_to_native",
+      "expected": "Getsêmani",
+      "actual": [
+        "Getsêmani"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-acao",
+      "origin": "p04-11",
+      "scope": "source_to_native",
+      "expected": "Enfrentou a angústia do caminho",
+      "actual": [
+        "Enfrentou a angústia do caminho"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-referencia",
+      "origin": "p04-11",
+      "scope": "source_to_native",
+      "expected": "Mateus 26:36-46",
+      "actual": [
+        "Mateus 26:36-46"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-numero",
+      "origin": "p04-12",
+      "scope": "source_to_native",
+      "expected": "12",
+      "actual": [
+        "12"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-nome",
+      "origin": "p04-12",
+      "scope": "source_to_native",
+      "expected": "Na cruz",
+      "actual": [
+        "Na cruz"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-acao",
+      "origin": "p04-12",
+      "scope": "source_to_native",
+      "expected": "Provocaram: “Salva-te a ti mesmo”",
+      "actual": [
+        "Provocaram: “Salva-te a ti mesmo”"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-referencia",
+      "origin": "p04-12",
+      "scope": "source_to_native",
+      "expected": "Mateus 27:39-43",
+      "actual": [
+        "Mateus 27:39-43"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-fecho",
+      "origin": "p04-fecho",
+      "scope": "source_to_native",
+      "expected": "E, ainda assim, Ele não perdeu o propósito!",
+      "actual": [
+        "E, ainda assim, Ele não perdeu o propósito!"
+      ],
+      "match": true
+    },
+    {
+      "page": 7,
+      "name": "p05-titulo",
+      "origin": "p05-titulo",
+      "scope": "source_to_native",
+      "expected": "Ele foi até o fim!",
+      "actual": [
+        "Ele foi até o fim!\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 7,
+      "name": "p05-citacao",
+      "origin": "p05-citacao",
+      "scope": "source_to_native",
+      "expected": "“Está consumado.”",
+      "actual": [
+        "“Está consumado.”"
+      ],
+      "match": true
+    },
+    {
+      "page": 7,
+      "name": "p05-citacao-referencia",
+      "origin": "p05-citacao",
+      "scope": "source_to_native",
+      "expected": "João 19:30",
+      "actual": [
+        "João 19:30"
+      ],
+      "match": true
+    },
+    {
+      "page": 8,
+      "name": "p06-titulo",
+      "origin": "p06-titulo",
+      "scope": "source_to_native",
+      "expected": "Jesus preparou pessoas",
+      "actual": [
+        "Jesus preparou\rpessoas\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 8,
+      "name": "p06-cadeia",
+      "origin": "p06-cadeia",
+      "scope": "source_to_native",
+      "expected": "E essas pessoas prepararam outras",
+      "actual": [
+        "E essas pessoas\rprepararam outras"
+      ],
+      "match": true
+    },
+    {
+      "page": 8,
+      "name": "p06-fecho",
+      "origin": "p06-fecho",
+      "scope": "source_to_native",
+      "expected": "Até chegar a nós",
+      "actual": [
+        "Até chegar\ra nós"
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-titulo",
+      "origin": "p07-titulo",
+      "scope": "source_to_native",
+      "expected": "Estamos crescendo",
+      "actual": [
+        "Estamos crescendo\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-consequencia",
+      "origin": "p07-consequencia",
+      "scope": "source_to_native",
+      "expected": "E, quanto mais crescemos, mais pessoas precisamos preparar.",
+      "actual": [
+        "E, quanto mais crescemos,\rmais pessoas precisamos preparar."
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-proposito",
+      "origin": "p07-proposito",
+      "scope": "source_to_native",
+      "expected": "Porque o nosso maior propósito são pessoas.",
+      "actual": [
+        "Porque o nosso maior propósito\rsão pessoas."
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-fecho",
+      "origin": "p07-fecho",
+      "scope": "source_to_native",
+      "expected": "O propósito não pode parar em nós.",
+      "actual": [
+        "O propósito não pode parar em nós."
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-titulo",
+      "origin": "p08-titulo",
+      "scope": "source_to_native",
+      "expected": "Jesus preparou pessoas",
+      "actual": [
+        "Jesus preparou\rpessoas\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-tempo",
+      "origin": "p08-tempo",
+      "scope": "source_to_native",
+      "expected": "Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar.",
+      "actual": [
+        "Mas nem todas precisaram de anos\rao lado dEle para começar a multiplicar."
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-exemplo",
+      "origin": "p08-exemplo",
+      "scope": "source_to_native",
+      "expected": "A mulher samaritana encontrou Jesus — e levou outros até Ele.",
+      "actual": [
+        "A mulher samaritana encontrou Jesus\r— e levou outros até Ele."
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-exemplo-referencia",
+      "origin": "p08-exemplo",
+      "scope": "source_to_native",
+      "expected": "João 4",
+      "actual": [
+        "João 4"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-titulo",
+      "origin": "p09-titulo",
+      "scope": "source_to_native",
+      "expected": "Ela encontrou Jesus e levou outros até Ele",
+      "actual": [
+        "Ela encontrou Jesus\re levou outros até Ele\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-convite",
+      "origin": "p09-convite",
+      "scope": "source_to_native",
+      "expected": "“Venham ver...”",
+      "actual": [
+        "“Venham ver...”"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-testemunho",
+      "origin": "p09-testemunho",
+      "scope": "source_to_native",
+      "expected": "Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher.",
+      "actual": [
+        "Muitos samaritanos creram em Jesus\rpor causa do testemunho daquela mulher."
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-testemunho-referencia",
+      "origin": "p09-testemunho",
+      "scope": "source_to_native",
+      "expected": "João 4:29, 39",
+      "actual": [
+        "João 4:29, 39"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-fecho",
+      "origin": "p09-fecho",
+      "scope": "source_to_native",
+      "expected": "Quem recebe não guarda para si.",
+      "actual": [
+        "Quem recebe não guarda para si."
+      ],
+      "match": true
+    },
+    {
+      "page": 1,
+      "name": "p01-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Crescimento",
+      "actual": [
+        "Crescimento"
+      ],
+      "match": true
+    },
+    {
+      "page": 1,
+      "name": "TREINAMENTO",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "TREINAMENTO",
+      "actual": [
+        "TREINAMENTO"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Todo mundo\nquer crescer",
+      "actual": [
+        "Todo mundo\rquer crescer\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-premissa",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mas crescimento\nexige preparação",
+      "actual": [
+        "Mas crescimento\rexige preparação"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-01-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "01",
+      "actual": [
+        "01"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-01",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Estar alicerçado",
+      "actual": [
+        "Estar alicerçado"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-02-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "02",
+      "actual": [
+        "02"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-02",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Estar preparado",
+      "actual": [
+        "Estar preparado"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-03-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "03",
+      "actual": [
+        "03"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-03",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Estar disposto\na aprender",
+      "actual": [
+        "Estar disposto\ra aprender"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-04-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "04",
+      "actual": [
+        "04"
+      ],
+      "match": true
+    },
+    {
+      "page": 2,
+      "name": "p02-04",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Estar disposto\na ensinar",
+      "actual": [
+        "Estar disposto\ra ensinar"
+      ],
+      "match": true
+    },
+    {
+      "page": 3,
+      "name": "p03-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Jesus sabia\npara que veio",
+      "actual": [
+        "Jesus sabia\rpara que veio\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 3,
+      "name": "p03-proposito",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Ele tinha um propósito.",
+      "actual": [
+        "Ele tinha um propósito."
+      ],
+      "match": true
+    },
+    {
+      "page": 3,
+      "name": "p03-direcao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "E nada mudou a Sua direção.",
+      "actual": [
+        "E nada mudou a Sua direção."
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentaram mudar Sua direção",
+      "actual": [
+        "Tentaram mudar Sua direção\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "01",
+      "actual": [
+        "01"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Satanás",
+      "actual": [
+        "Satanás"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentou desviá-lo no deserto",
+      "actual": [
+        "Tentou desviá-lo no deserto"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-01-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mateus 4:1-11",
+      "actual": [
+        "Mateus 4:1-11"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "02",
+      "actual": [
+        "02"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Pedro",
+      "actual": [
+        "Pedro"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentou afastá-lo do caminho da cruz",
+      "actual": [
+        "Tentou afastá-lo do caminho da cruz"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-02-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mateus 16:21-23",
+      "actual": [
+        "Mateus 16:21-23"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "03",
+      "actual": [
+        "03"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "A multidão",
+      "actual": [
+        "A multidão"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Quis fazê-lo rei à força",
+      "actual": [
+        "Quis fazê-lo rei à força"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-03-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "João 6:14-15",
+      "actual": [
+        "João 6:14-15"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "04",
+      "actual": [
+        "04"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Sua própria família",
+      "actual": [
+        "Sua própria família"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentou contê-lo",
+      "actual": [
+        "Tentou contê-lo"
+      ],
+      "match": true
+    },
+    {
+      "page": 4,
+      "name": "p04-04-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Marcos 3:20-21",
+      "actual": [
+        "Marcos 3:20-21"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentaram mudar\nSua direção",
+      "actual": [
+        "Tentaram mudar\rSua direção\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "05",
+      "actual": [
+        "05"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Sua própria terra",
+      "actual": [
+        "Sua própria terra"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Rejeitou quem Ele era",
+      "actual": [
+        "Rejeitou quem Ele era"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-05-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Lucas 4:16-30",
+      "actual": [
+        "Lucas 4:16-30"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "06",
+      "actual": [
+        "06"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Líderes religiosos",
+      "actual": [
+        "Líderes religiosos"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Confrontaram e tramaram contra Ele",
+      "actual": [
+        "Confrontaram e tramaram contra Ele"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-06-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mateus 12:14",
+      "actual": [
+        "Mateus 12:14"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "07",
+      "actual": [
+        "07"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Fariseus e herodianos",
+      "actual": [
+        "Fariseus e herodianos"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentaram apanhá-lo em Suas palavras",
+      "actual": [
+        "Tentaram apanhá-lo em Suas palavras"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-07-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Marcos 12:13-17",
+      "actual": [
+        "Marcos 12:13-17"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "08",
+      "actual": [
+        "08"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Os discípulos",
+      "actual": [
+        "Os discípulos"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentaram afastar crianças dEle",
+      "actual": [
+        "Tentaram afastar crianças dEle"
+      ],
+      "match": true
+    },
+    {
+      "page": 5,
+      "name": "p04-08-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Marcos 10:13-16",
+      "actual": [
+        "Marcos 10:13-16"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tentaram mudar\nSua direção",
+      "actual": [
+        "Tentaram mudar\rSua direção\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "09",
+      "actual": [
+        "09"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Tiago e João",
+      "actual": [
+        "Tiago e João"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Buscaram posição e grandeza",
+      "actual": [
+        "Buscaram posição e grandeza"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-09-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Marcos 10:35-45",
+      "actual": [
+        "Marcos 10:35-45"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "10",
+      "actual": [
+        "10"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "A multidão",
+      "actual": [
+        "A multidão"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Pressionava para que Ele permanecesse",
+      "actual": [
+        "Pressionava para que Ele permanecesse"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-10-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Lucas 4:42-43",
+      "actual": [
+        "Lucas 4:42-43"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "11",
+      "actual": [
+        "11"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Getsêmani",
+      "actual": [
+        "Getsêmani"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Enfrentou a angústia do caminho",
+      "actual": [
+        "Enfrentou a angústia do caminho"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-11-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mateus 26:36-46",
+      "actual": [
+        "Mateus 26:36-46"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-numero",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "12",
+      "actual": [
+        "12"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-nome",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Na cruz",
+      "actual": [
+        "Na cruz"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-acao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Provocaram: “Salva-te a ti mesmo”",
+      "actual": [
+        "Provocaram: “Salva-te a ti mesmo”"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-12-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mateus 27:39-43",
+      "actual": [
+        "Mateus 27:39-43"
+      ],
+      "match": true
+    },
+    {
+      "page": 6,
+      "name": "p04-fecho",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "E, ainda assim, Ele não perdeu o propósito!",
+      "actual": [
+        "E, ainda assim, Ele não perdeu o propósito!"
+      ],
+      "match": true
+    },
+    {
+      "page": 7,
+      "name": "p05-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Ele foi até o fim!",
+      "actual": [
+        "Ele foi até o fim!\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 7,
+      "name": "p05-citacao",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "“Está consumado.”",
+      "actual": [
+        "“Está consumado.”"
+      ],
+      "match": true
+    },
+    {
+      "page": 7,
+      "name": "p05-citacao-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "João 19:30",
+      "actual": [
+        "João 19:30"
+      ],
+      "match": true
+    },
+    {
+      "page": 8,
+      "name": "p06-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Jesus preparou\npessoas",
+      "actual": [
+        "Jesus preparou\rpessoas\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 8,
+      "name": "p06-cadeia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "E essas pessoas\nprepararam outras",
+      "actual": [
+        "E essas pessoas\rprepararam outras"
+      ],
+      "match": true
+    },
+    {
+      "page": 8,
+      "name": "p06-fecho",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Até chegar\na nós",
+      "actual": [
+        "Até chegar\ra nós"
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Estamos crescendo",
+      "actual": [
+        "Estamos crescendo\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-consequencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "E, quanto mais crescemos,\nmais pessoas precisamos preparar.",
+      "actual": [
+        "E, quanto mais crescemos,\rmais pessoas precisamos preparar."
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-proposito",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Porque o nosso maior propósito\nsão pessoas.",
+      "actual": [
+        "Porque o nosso maior propósito\rsão pessoas."
+      ],
+      "match": true
+    },
+    {
+      "page": 9,
+      "name": "p07-fecho",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "O propósito não pode parar em nós.",
+      "actual": [
+        "O propósito não pode parar em nós."
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Jesus preparou\npessoas",
+      "actual": [
+        "Jesus preparou\rpessoas\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-tempo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Mas nem todas precisaram de anos\nao lado dEle para começar a multiplicar.",
+      "actual": [
+        "Mas nem todas precisaram de anos\rao lado dEle para começar a multiplicar."
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-exemplo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "A mulher samaritana encontrou Jesus\n— e levou outros até Ele.",
+      "actual": [
+        "A mulher samaritana encontrou Jesus\r— e levou outros até Ele."
+      ],
+      "match": true
+    },
+    {
+      "page": 10,
+      "name": "p08-exemplo-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "João 4",
+      "actual": [
+        "João 4"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-titulo",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Ela encontrou Jesus\ne levou outros até Ele",
+      "actual": [
+        "Ela encontrou Jesus\re levou outros até Ele\r"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-convite",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "“Venham ver...”",
+      "actual": [
+        "“Venham ver...”"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-testemunho",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Muitos samaritanos creram em Jesus\npor causa do testemunho daquela mulher.",
+      "actual": [
+        "Muitos samaritanos creram em Jesus\rpor causa do testemunho daquela mulher."
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-testemunho-referencia",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "João 4:29, 39",
+      "actual": [
+        "João 4:29, 39"
+      ],
+      "match": true
+    },
+    {
+      "page": 11,
+      "name": "p09-fecho",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "Quem recebe não guarda para si.",
+      "actual": [
+        "Quem recebe não guarda para si."
+      ],
+      "match": true
+    },
+    {
+      "page": 12,
+      "name": "p12-agradecimento",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "OBRIGADA!",
+      "actual": [
+        "OBRIGADA!"
+      ],
+      "match": true
+    },
+    {
+      "page": 12,
+      "name": "EMPREENDEDORISMO FEMININO",
+      "origin": "manifest",
+      "scope": "manifest_to_native",
+      "expected": "EMPREENDEDORISMO FEMININO",
+      "actual": [
+        "EMPREENDEDORISMO FEMININO"
+      ],
+      "match": true
+    }
+  ]
+}

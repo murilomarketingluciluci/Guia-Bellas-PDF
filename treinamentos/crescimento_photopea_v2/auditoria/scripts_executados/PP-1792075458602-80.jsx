@@ -1,0 +1,1 @@
+app.echoToOE('ACTIVE:'+app.activeDocument.name);app.echoToOE('AL:'+app.activeDocument.activeLayer.name);var a=[];function walk(g){for(var i=0;i<g.artLayers.length;i++)a.push(g.artLayers[i].name);for(var j=0;j<g.layerSets.length;j++){a.push('GROUP:'+g.layerSets[j].name);walk(g.layerSets[j]);}}walk(app.activeDocument);app.echoToOE(JSON.stringify(a));

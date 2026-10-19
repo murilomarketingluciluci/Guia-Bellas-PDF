@@ -1,0 +1,114 @@
+[
+  {
+    "key": "luni",
+    "parsed": "LOGO",
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_luni.bin",
+      "bytes": 12,
+      "sha256": "7fe852cd441273d2a7fab05f5ef2c0c16db47fe08ab238bbffe2338b66ad3a8d",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1151,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "a7d7abb0553f2a5c9bcb99a66346f352d2bfbe56859ce776601288dd0f207e6e",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.4378164
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "550f135652f13ba0b3be483c8e398963b9674cb394ea1d8de1eb31d88f2d4086",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        -374.7550228045268,
+        952.0850319737776
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/018_LOGO.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "ee61b57f2b64c605198545609918a1bd9fb7d85d84d49483cee1ac571ba2e858",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

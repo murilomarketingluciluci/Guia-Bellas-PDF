@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "path": "leitura/QA_VISUAL_V2_SUPLEMENTO_FINAL.md",
+      "sha256": "6bc5c5b1a1f386374f64d26bf77c024729d384a518866391386c465f8764d13f",
+      "bytes": 10784
+    },
+    {
+      "path": "leitura/QA_VISUAL_V2.md",
+      "sha256": "93721d0cce0742af88ef0811dca01c7815b94ea3e9692cb70b61827f8c43254d",
+      "bytes": 13652
+    },
+    {
+      "path": "leitura/QA_VISUAL_V2_FINAL_metricas.json",
+      "sha256": "94f98e9857fc94ac641ce617ce66b0a1d22b0e4aabbe845b00c5a516b2512c38",
+      "bytes": 8463
+    },
+    {
+      "path": "leitura/medir_qa_visual_final.py",
+      "sha256": "e7a2cf73a78e7f39cb798c7a3da14dcac622442b4732019a1fe5959e44795568",
+      "bytes": 3356
+    }
+  ],
+  "missing_links": [],
+  "artifacts_changed_since_metrics": [],
+  "all_pass": true
+}

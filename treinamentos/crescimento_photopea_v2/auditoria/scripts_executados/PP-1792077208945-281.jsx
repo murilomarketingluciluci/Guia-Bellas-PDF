@@ -1,0 +1,1 @@
+try{var g=app.activeDocument.layerSets.getByName('06 - Oposições 09 a 12 e permanência');var l=g.artLayers.getByName('FOTO - foto_permanencia_rochas');app.activeDocument.activeLayer=l;app.echoToOE('BRIGHTNESS_METHOD:'+typeof l.adjustBrightnessContrast);}catch(e){app.echoToOE('ERROR:'+e.message);}

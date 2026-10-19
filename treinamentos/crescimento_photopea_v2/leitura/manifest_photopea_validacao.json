@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-10-15T14:30:49.186435+00:00",
+  "manifest": "manifest_photopea.json",
+  "sha256": "3fd0d8722563e557e376b68e1305710a1de02ce9dd78f34e8fed591fe6b88bf1",
+  "pages": 12,
+  "source_blocks": 40,
+  "source_blocks_mapped": 40,
+  "episodes": 12,
+  "photos": [
+    3,
+    6,
+    9,
+    10
+  ],
+  "text_layers": 86,
+  "shapes": 26,
+  "all_boxes_within_canvas": true,
+  "h1_single_layer": true,
+  "status": "Validação editorial e estrutural local passou; prova visual/bounds reais ainda pendente."
+}

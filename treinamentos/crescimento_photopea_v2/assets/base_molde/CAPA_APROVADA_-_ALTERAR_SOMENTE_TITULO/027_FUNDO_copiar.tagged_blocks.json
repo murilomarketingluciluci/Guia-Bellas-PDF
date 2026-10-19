@@ -1,0 +1,407 @@
+[
+  {
+    "key": "luni",
+    "parsed": "FUNDO copiar",
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_luni.bin",
+      "bytes": 28,
+      "sha256": "6a18e3af4ef1a9480ec8a72ed5e49b60b2a9142423094d9c2a1b9f45f5202485",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "bGF5cg==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "ae9038026c21b63f0b2dee1f8b40177d24c452e14174e2049d38e70633d3b8f8",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 36,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "e882dd6a247f4ada1f700f1918bd23b7c730ad62af15f5cec8de976cbad09691",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.5549757
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "47dbde8d55533a67cf3f46b510f9b00d00bd6e9861bdcc9dec75f5197c144abe",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "PlLd",
+    "parsed": {
+      "kind": {
+        "bytes_base64": "cGxjTA==",
+        "length": 4
+      },
+      "version": 3,
+      "uuid": {
+        "bytes_base64": "MWQwMDUxZGEtZGRmOC02MTQyLWE3MGUtNDExMTVhMjBmZjZk",
+        "length": 36
+      },
+      "page": 1,
+      "total_pages": 1,
+      "anti_alias": 16,
+      "layer_type": 2,
+      "transform": [
+        0.0,
+        0.0,
+        1920.0,
+        0.0,
+        1920.0,
+        1080.0,
+        0.0,
+        1080.0
+      ],
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycEN1c3RvbQ==",
+            "length": 10
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:626f756e6473": {
+          "bytes:546f7020": 0.0,
+          "bytes:4c656674": 0.0,
+          "bytes:42746f6d": 1080.0,
+          "bytes:52676874": 1920.0
+        },
+        "bytes:754f72646572": 4,
+        "bytes:764f72646572": 4,
+        "bytes:637573746f6d456e76656c6f706557617270": {
+          "bytes:6d657368506f696e7473": {
+            "bytes:48727a6e": {
+              "unit": {
+                "bytes_base64": "I1B4bA==",
+                "length": 4
+              },
+              "values": [
+                0.0,
+                640.0,
+                1280.0,
+                1920.0,
+                0.0,
+                640.0,
+                1280.0,
+                1920.0,
+                0.0,
+                640.0,
+                1280.0,
+                1920.0,
+                0.0,
+                640.0,
+                1280.0,
+                1920.0
+              ]
+            },
+            "bytes:56727463": {
+              "unit": {
+                "bytes_base64": "I1B4bA==",
+                "length": 4
+              },
+              "values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                360.0,
+                360.0,
+                360.0,
+                360.0,
+                720.0,
+                720.0,
+                720.0,
+                720.0,
+                1080.0,
+                1080.0,
+                1080.0,
+                1080.0
+              ]
+            }
+          }
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_PlLd.bin",
+      "bytes": 884,
+      "sha256": "641f595874d5d1cdd5f5e8890c34f36d0e82dcfa27f4b9df478e06375c8cac03",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "SoLd",
+    "parsed": {
+      "kind": {
+        "bytes_base64": "c29MRA==",
+        "length": 4
+      },
+      "version": 4,
+      "data": {
+        "bytes:49646e74": "1d0051da-ddf8-6142-a70e-41115a20ff6d\u0000",
+        "bytes:706c61636564": "b744478f-9a42-7e4b-988b-802d7c2a669a\u0000",
+        "bytes:50674e6d": 1,
+        "bytes:746f74616c5061676573": 1,
+        "bytes:43726f70": 1,
+        "bytes:6672616d6553746570": {
+          "bytes:6e756d657261746f72": 0,
+          "bytes:64656e6f6d696e61746f72": 600
+        },
+        "bytes:6475726174696f6e": {
+          "bytes:6e756d657261746f72": 0,
+          "bytes:64656e6f6d696e61746f72": 600
+        },
+        "bytes:6672616d65436f756e74": 1,
+        "bytes:416e6e74": 16,
+        "bytes:54797065": 2,
+        "bytes:54726e66": [
+          0.0,
+          0.0,
+          1920.0,
+          0.0,
+          1920.0,
+          1080.0,
+          0.0,
+          1080.0
+        ],
+        "bytes:6e6f6e416666696e655472616e73666f726d": [
+          0.0,
+          0.0,
+          1920.0,
+          0.0,
+          1920.0,
+          1080.0,
+          0.0,
+          1080.0
+        ],
+        "bytes:77617270": {
+          "bytes:776172705374796c65": {
+            "typeID": {
+              "bytes_base64": "d2FycFN0eWxl",
+              "length": 9
+            },
+            "enum": {
+              "bytes_base64": "d2FycEN1c3RvbQ==",
+              "length": 10
+            }
+          },
+          "bytes:7761727056616c7565": 0.0,
+          "bytes:776172705065727370656374697665": 0.0,
+          "bytes:7761727050657273706563746976654f74686572": 0.0,
+          "bytes:77617270526f74617465": {
+            "typeID": {
+              "bytes_base64": "T3JudA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "SHJ6bg==",
+              "length": 4
+            }
+          },
+          "bytes:626f756e6473": {
+            "bytes:546f7020": 0.0,
+            "bytes:4c656674": 0.0,
+            "bytes:42746f6d": 1080.0,
+            "bytes:52676874": 1920.0
+          },
+          "bytes:754f72646572": 4,
+          "bytes:764f72646572": 4,
+          "bytes:637573746f6d456e76656c6f706557617270": {
+            "bytes:6d657368506f696e7473": {
+              "bytes:48727a6e": {
+                "unit": {
+                  "bytes_base64": "I1B4bA==",
+                  "length": 4
+                },
+                "values": [
+                  0.0,
+                  640.0,
+                  1280.0,
+                  1920.0,
+                  0.0,
+                  640.0,
+                  1280.0,
+                  1920.0,
+                  0.0,
+                  640.0,
+                  1280.0,
+                  1920.0,
+                  0.0,
+                  640.0,
+                  1280.0,
+                  1920.0
+                ]
+              },
+              "bytes:56727463": {
+                "unit": {
+                  "bytes_base64": "I1B4bA==",
+                  "length": 4
+                },
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  360.0,
+                  360.0,
+                  360.0,
+                  360.0,
+                  720.0,
+                  720.0,
+                  720.0,
+                  720.0,
+                  1080.0,
+                  1080.0,
+                  1080.0,
+                  1080.0
+                ]
+              }
+            }
+          }
+        },
+        "bytes:537a2020": {
+          "bytes:57647468": 1920.0,
+          "bytes:48676874": 1080.0
+        },
+        "bytes:52736c74": 72.0,
+        "bytes:636f6d70": -1,
+        "bytes:636f6d70496e666f": {
+          "bytes:636f6d704944": -1,
+          "bytes:6f726967696e616c436f6d704944": -1
+        },
+        "bytes:436c4d67": {
+          "bytes:706c616365644c617965724f43494f436f6e76657273696f6e": {
+            "typeID": {
+              "bytes_base64": "cGxhY2VkTGF5ZXJPQ0lPQ29udmVyc2lvbg==",
+              "length": 25
+            },
+            "enum": {
+              "bytes_base64": "cGxhY2VkTGF5ZXJPQ0lPQ29udmVydEVtYmVkZGVk",
+              "length": 30
+            }
+          }
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_SoLd.bin",
+      "bytes": 1792,
+      "sha256": "f0bad90b4f041920511e3cd8b8531abd550b4cffe7dcac036162a1e25e94b47b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        110.0,
+        150.0
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "b61f8efbbdcc62908573b219f6d3822e0d7a66d8924a540ce39ca76f3cc6c05a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

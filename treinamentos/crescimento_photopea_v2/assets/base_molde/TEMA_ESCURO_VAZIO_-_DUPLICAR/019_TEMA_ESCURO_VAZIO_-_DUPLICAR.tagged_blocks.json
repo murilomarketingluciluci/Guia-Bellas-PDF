@@ -1,0 +1,105 @@
+[
+  {
+    "key": "luni",
+    "parsed": "TEMA ESCURO VAZIO - DUPLICAR",
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_luni.bin",
+      "bytes": 60,
+      "sha256": "0b491f661edbb491c82226f95033d944b2d4ad675958eea4210d22f68c48bbce",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 73,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "3f08f60bf2a0754139d918d80882ef46cd0257bd2f62ef5d8a1e28175c4360cc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lsct",
+    "parsed": {
+      "kind": 1,
+      "signature": {
+        "bytes_base64": "OEJJTQ==",
+        "length": 4
+      },
+      "blend_mode": {
+        "bytes_base64": "cGFzcw==",
+        "length": 4
+      },
+      "sub_type": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lsct.bin",
+      "bytes": 16,
+      "sha256": "a7ab2cb8bad15ed5a9a6a068e46c599382055ceb184a926a8e6cfd4052d5e0c3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011483.2486246
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "0f3476e1953639602df79a3832d742daf8cb7bb4551364c39f8a588b16c35276",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        0.0,
+        0.0
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/019_TEMA_ESCURO_VAZIO_-_DUPLICAR.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "374708fff7719dd5979ec875d56cd2286f6d3cf7ec317a3b25632aab28ec37bb",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

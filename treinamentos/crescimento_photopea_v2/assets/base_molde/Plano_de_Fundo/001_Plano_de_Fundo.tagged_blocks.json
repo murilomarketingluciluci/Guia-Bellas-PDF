@@ -1,0 +1,127 @@
+[
+  {
+    "key": "luni",
+    "parsed": "Plano de Fundo",
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_luni.bin",
+      "bytes": 32,
+      "sha256": "dc142c19db83e90fc2f958303edce703972ea7659d8a20a9dd73ab02ea10b387",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "YmduZA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "297dce89faafcf2cbb439a22781402c756ed9b693e4dac1d1abb03f003287a0f",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "b40711a88c7039756fb8a73827eabe2c0fe5a0346ca7e0a104adc0fc764f528d",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 13,
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "8092fe01b9ce31a49ce380fc2fe1ee6b6b7d5c15c5f1ecb6ad98c60c4273a435",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.4333603
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "aaee94dd0730c1ac47661ecb0c1d9ac87067f7e3ae54ca2e5f1ca0842d748d94",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        0.0,
+        0.0
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/Plano_de_Fundo/001_Plano_de_Fundo.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "374708fff7719dd5979ec875d56cd2286f6d3cf7ec317a3b25632aab28ec37bb",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

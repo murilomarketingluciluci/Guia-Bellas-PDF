@@ -1,0 +1,1 @@
+try{var g=app.activeDocument.layerSets[0];var l=g.artLayers.getByName('p02-titulo');app.echoToOE(l.textItem.totalTextStyle);}catch(e){app.echoToOE('ERROR:'+e.message);}

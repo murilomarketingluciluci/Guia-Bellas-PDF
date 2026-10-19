@@ -1,0 +1,1 @@
+app.echoToOE(JSON.stringify({documents:app.documents.length,names:app.documents.map(function(d){return d.name;})}));

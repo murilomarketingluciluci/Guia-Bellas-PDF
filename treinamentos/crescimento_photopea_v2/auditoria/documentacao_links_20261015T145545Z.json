@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-10-15T14:55:45.746578+00:00",
+  "status": "documentation_intermediate_only_not_art_qa",
+  "supersedes_link_check_only": "auditoria/documentacao_verificacao_20261015T145506Z.json",
+  "documents": [
+    {
+      "file": "auditoria/SESSAO.md",
+      "sha256": "1179bc52c2cf817ccea2497d98bf1100730785a21c39fe6d99cddda602860fd3",
+      "local_links": 31,
+      "missing_links": []
+    },
+    {
+      "file": "auditoria/INDICE_EVIDENCIAS.md",
+      "sha256": "e1491b3a0ac9e9ab7be3dde233df40882e8f24c8dda9e32e14be9e8d154ff3ea",
+      "local_links": 63,
+      "missing_links": []
+    }
+  ]
+}

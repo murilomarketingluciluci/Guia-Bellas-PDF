@@ -1,0 +1,438 @@
+{
+  "timestamp": "2026-10-15T15:07:53.562786+00:00",
+  "proofs": [
+    {
+      "page": 2,
+      "path": "provas/pagina_02.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "8043f2af43795c2c2bcbe099ff61423be8ca459ba39c4c564569b60d4f8c98ad"
+    },
+    {
+      "page": 3,
+      "path": "provas/pagina_03.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "90c94a594f919b5fe833f0cdd69ab7bdef9b042630529d41d5916764a4eabe5c"
+    },
+    {
+      "page": 4,
+      "path": "provas/pagina_04.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9212e7eb3b290a04e62021297ff459c7dcea90ef0899d11113476eee890033ca"
+    },
+    {
+      "page": 5,
+      "path": "provas/pagina_05.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "a444f0a907768957ac2d59ae79e252a07065525cdb78505cb2ebed02d0013156"
+    },
+    {
+      "page": 6,
+      "path": "provas/pagina_06.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "abc41ff4d9c4b339da3a62514933fa2a0c7bd0905859adbd2583ad6f050357e3"
+    },
+    {
+      "page": 7,
+      "path": "provas/pagina_07.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "39baec8ef21097830a5bef6cbf9c7aa963865987ef0c617e4a5e3e3b353a118e"
+    },
+    {
+      "page": 8,
+      "path": "provas/pagina_08.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "0b8c5e7696127f18ddc276cac62c552045a4a253134fff83aa833d50f673a356"
+    },
+    {
+      "page": 9,
+      "path": "provas/pagina_09.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "ae01128056d7abd69cac1e4ac99029bb489a306a89e0cf23fa72e261de6110b9"
+    },
+    {
+      "page": 10,
+      "path": "provas/pagina_10.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "29abfad010b8d4c653d7205c5293799840a14e3558fc28fea9b8c92d07f2791a"
+    },
+    {
+      "page": 11,
+      "path": "provas/pagina_11.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f3bf8344d093b432b2d5777273da2a659a3873e5d70f7923348e9ee74da832de"
+    }
+  ],
+  "p08_marker_row_probe": {
+    "row_y": 405,
+    "foreground_rgb": [
+      179,
+      113,
+      142
+    ],
+    "segments": [
+      {
+        "x0": 340,
+        "x1_inclusive": 363,
+        "width": 24
+      },
+      {
+        "x0": 1000,
+        "x1_inclusive": 1023,
+        "width": 24
+      },
+      {
+        "x0": 1600,
+        "x1_inclusive": 1623,
+        "width": 24
+      }
+    ],
+    "expected_from_manifest": [
+      {
+        "name": "marco-01",
+        "x": 340,
+        "y": 398,
+        "w": 24,
+        "h": 24,
+        "color": "#B3718E",
+        "opacity": 100
+      },
+      {
+        "name": "marco-02",
+        "x": 1000,
+        "y": 398,
+        "w": 24,
+        "h": 24,
+        "color": "#B3718E",
+        "opacity": 100
+      },
+      {
+        "name": "marco-03",
+        "x": 1600,
+        "y": 398,
+        "w": 24,
+        "h": 24,
+        "color": "#B3718E",
+        "opacity": 100
+      }
+    ]
+  },
+  "p06_header_background_samples": [
+    {
+      "point": [
+        100,
+        50
+      ],
+      "background_rgb": [
+        193,
+        197,
+        204
+      ],
+      "white_contrast_ratio": 1.73
+    },
+    {
+      "point": [
+        250,
+        50
+      ],
+      "background_rgb": [
+        201,
+        202,
+        208
+      ],
+      "white_contrast_ratio": 1.64
+    },
+    {
+      "point": [
+        400,
+        50
+      ],
+      "background_rgb": [
+        183,
+        186,
+        195
+      ],
+      "white_contrast_ratio": 1.94
+    },
+    {
+      "point": [
+        550,
+        50
+      ],
+      "background_rgb": [
+        177,
+        180,
+        190
+      ],
+      "white_contrast_ratio": 2.07
+    },
+    {
+      "point": [
+        100,
+        80
+      ],
+      "background_rgb": [
+        192,
+        196,
+        203
+      ],
+      "white_contrast_ratio": 1.75
+    },
+    {
+      "point": [
+        250,
+        80
+      ],
+      "background_rgb": [
+        198,
+        201,
+        206
+      ],
+      "white_contrast_ratio": 1.66
+    },
+    {
+      "point": [
+        400,
+        80
+      ],
+      "background_rgb": [
+        184,
+        188,
+        196
+      ],
+      "white_contrast_ratio": 1.9
+    },
+    {
+      "point": [
+        550,
+        80
+      ],
+      "background_rgb": [
+        189,
+        191,
+        199
+      ],
+      "white_contrast_ratio": 1.84
+    }
+  ],
+  "p09_manual_bounds_estimate": {
+    "method": "Leitura visual do PNG integral em1920x1080; coordenadas de foco estimadas, não detector automático",
+    "highest_hair_y": 157,
+    "lowest_shoe_y": 944,
+    "uncertainty_px": 5,
+    "top_free_percent_estimate": 14.54,
+    "bottom_free_percent_estimate": 12.59,
+    "required_free_px_each_end": 162,
+    "safe_subject_interval_y": [
+      162,
+      918
+    ]
+  },
+  "p09_shoe_roi_rgb_grid": {
+    "925": {
+      "550": [
+        38,
+        34,
+        32
+      ],
+      "570": [
+        190,
+        178,
+        172
+      ],
+      "590": [
+        194,
+        183,
+        177
+      ],
+      "610": [
+        210,
+        202,
+        196
+      ],
+      "630": [
+        107,
+        102,
+        106
+      ]
+    },
+    "935": {
+      "550": [
+        55,
+        54,
+        55
+      ],
+      "570": [
+        191,
+        177,
+        168
+      ],
+      "590": [
+        208,
+        199,
+        194
+      ],
+      "610": [
+        61,
+        63,
+        66
+      ],
+      "630": [
+        95,
+        99,
+        107
+      ]
+    },
+    "940": {
+      "550": [
+        48,
+        46,
+        43
+      ],
+      "570": [
+        189,
+        173,
+        162
+      ],
+      "590": [
+        154,
+        143,
+        136
+      ],
+      "610": [
+        84,
+        82,
+        85
+      ],
+      "630": [
+        94,
+        96,
+        104
+      ]
+    },
+    "945": {
+      "550": [
+        67,
+        66,
+        69
+      ],
+      "570": [
+        27,
+        27,
+        29
+      ],
+      "590": [
+        70,
+        71,
+        74
+      ],
+      "610": [
+        96,
+        96,
+        100
+      ],
+      "630": [
+        91,
+        93,
+        100
+      ]
+    },
+    "950": {
+      "550": [
+        79,
+        80,
+        84
+      ],
+      "570": [
+        77,
+        76,
+        80
+      ],
+      "590": [
+        89,
+        89,
+        92
+      ],
+      "610": [
+        91,
+        92,
+        97
+      ],
+      "630": [
+        105,
+        108,
+        115
+      ]
+    },
+    "955": {
+      "550": [
+        85,
+        86,
+        89
+      ],
+      "570": [
+        89,
+        90,
+        95
+      ],
+      "590": [
+        88,
+        88,
+        92
+      ],
+      "610": [
+        92,
+        93,
+        100
+      ],
+      "630": [
+        90,
+        92,
+        100
+      ]
+    }
+  },
+  "p09_source_asset_size": [
+    1024,
+    1536
+  ],
+  "p09_photo_box": {
+    "asset": "assets/foto_pessoas_encontro_v2.png",
+    "box": [
+      0,
+      0,
+      700,
+      1080
+    ]
+  },
+  "status": "Visual review and pixel probes only; no PSD/API edit; not final delivery approval"
+}

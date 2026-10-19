@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-10-15T15:13:53.548022+00:00",
+  "snapshot_dir": "leitura/qa_visual_snapshot_20261015T151353Z",
+  "pages": [
+    {
+      "page": 2,
+      "source": "provas/pagina_02.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_02.png",
+      "sha256": "2f31ae6e29d13d512a456e8c61434a9677b2e7f2ec91d3c916225e268dfd9b61"
+    },
+    {
+      "page": 3,
+      "source": "provas/pagina_03.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_03.png",
+      "sha256": "3b751105a0355c0e131936acbc2a5585280aeae96999f41ab781540ac827c912"
+    },
+    {
+      "page": 4,
+      "source": "provas/pagina_04.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_04.png",
+      "sha256": "a95dd7160a63d433b5a781fe5e96efab6a93d1fb5092733a42bfe78eb0fac012"
+    },
+    {
+      "page": 5,
+      "source": "provas/pagina_05.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_05.png",
+      "sha256": "f2f782737e8677f11c88ee042edd180189842578dd2746da7212e46582ce6760"
+    },
+    {
+      "page": 6,
+      "source": "provas/pagina_06.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_06.png",
+      "sha256": "f005e430176cf3cd88df221954929130eee56b7366f9a15b8fab8b4234b7b5f1"
+    },
+    {
+      "page": 7,
+      "source": "provas/pagina_07.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_07.png",
+      "sha256": "f1e27337f1aca81e820315e26591832332c538f1628ff280b66eeb9d4964c9ca"
+    },
+    {
+      "page": 8,
+      "source": "provas/pagina_08.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_08.png",
+      "sha256": "23dd8a1ef8b7fb8e0adcd366d55efd5786eafcdafb8dc6d64a7cadb2680ed82f"
+    },
+    {
+      "page": 9,
+      "source": "provas/pagina_09.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_09.png",
+      "sha256": "410a88d48cb2e66d07500a634551e97c88af1a77f07df1b1d68bc0e840629098"
+    },
+    {
+      "page": 10,
+      "source": "provas/pagina_10.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_10.png",
+      "sha256": "10164bf8b0104fdfb738a0a41fca99b26c9eef9b4478acc77ae3934979c4b3a1"
+    },
+    {
+      "page": 11,
+      "source": "provas/pagina_11.png",
+      "snapshot": "leitura/qa_visual_snapshot_20261015T151353Z/pagina_11.png",
+      "sha256": "410fe07b2d4d7edf8ec9d202b171c02e2476c41ce052737fae62f9564e766442"
+    }
+  ],
+  "manifest_sha256_at_capture": "a36e1fa89870094b9a6421d29898e95350236ae663d46f5a4e67ab5d6f57fd55",
+  "purpose": "Frozen read-only visual review evidence; not final deliverable"
+}

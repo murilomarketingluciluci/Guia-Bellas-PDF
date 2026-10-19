@@ -1,0 +1,385 @@
+{
+  "cutoff_utc": "2026-10-15T15:20:52.566813+00:00",
+  "reviewer": "catalogo_novo_v2",
+  "artifacts": [
+    {
+      "path": "entrega/Crescimento_Photopea_V2.psd",
+      "sha256": "ced7857b6168c1a5f008f6775b433191a62bd5562b202f93267ef1ba74470bb7",
+      "bytes": 44151657
+    },
+    {
+      "path": "entrega/Crescimento_Photopea_V2.pdf",
+      "sha256": "8b091a380833f74827241a89a9b89726226c2ca67a37372e00fc99acea6050d1",
+      "bytes": 7835669
+    },
+    {
+      "path": "manifest_photopea.json",
+      "sha256": "98e986cc2b5c33c7c4862966f0a57ca2078e7b9a8d3a6d67b07f9604b326d457",
+      "bytes": 52774
+    },
+    {
+      "path": "leitura/direcao_catalogo_v2.md",
+      "sha256": "79fd7367765be0119a2021314dfed6724f16a6eee9c40bf15926fa1231c1296e",
+      "bytes": 21564
+    },
+    {
+      "path": "leitura/layouts_propostos_v2.json",
+      "sha256": "8b82ab5b26e39fe676e4100e247df036e88ddbd90cab22283b5da16ae97d3f1a",
+      "bytes": 26143
+    },
+    {
+      "path": "leitura/conteudo_v2.json",
+      "sha256": "cd6c918de25147bc4dbada2e6bd6ae5b7dc109f072551e01a711f2a52491236f",
+      "bytes": 14411
+    },
+    {
+      "path": "auditoria/reabertura_psd.json",
+      "sha256": "88ab492384587518de8ec293b02eb511985746ed5a3b2b6f1ba78110e71d3ad3",
+      "bytes": 53974
+    },
+    {
+      "path": "auditoria/pixels_reabertura.json",
+      "sha256": "20474769942e49156d31a2083dc53d5d37692bda21c86fdab3d3f0f8aedf72cd",
+      "bytes": 985
+    }
+  ],
+  "pngs": [
+    {
+      "path": "entrega/pngs/pagina_01.png",
+      "sha256": "db27b2a5816b9f3c297eee2b56a38d0fe781cf9a37eadcd9c87f0d8a0ed538b8",
+      "bytes": 429460,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_02.png",
+      "sha256": "2f31ae6e29d13d512a456e8c61434a9677b2e7f2ec91d3c916225e268dfd9b61",
+      "bytes": 94479,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_03.png",
+      "sha256": "3b751105a0355c0e131936acbc2a5585280aeae96999f41ab781540ac827c912",
+      "bytes": 1171898,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_04.png",
+      "sha256": "a95dd7160a63d433b5a781fe5e96efab6a93d1fb5092733a42bfe78eb0fac012",
+      "bytes": 89576,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_05.png",
+      "sha256": "f2f782737e8677f11c88ee042edd180189842578dd2746da7212e46582ce6760",
+      "bytes": 112092,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_06.png",
+      "sha256": "9653daedea162ad50c2bd8fe6341b73cde3cd6b09cc2cf1fb6f606c1a9b1ae8d",
+      "bytes": 1180103,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_07.png",
+      "sha256": "f1e27337f1aca81e820315e26591832332c538f1628ff280b66eeb9d4964c9ca",
+      "bytes": 62140,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_08.png",
+      "sha256": "23dd8a1ef8b7fb8e0adcd366d55efd5786eafcdafb8dc6d64a7cadb2680ed82f",
+      "bytes": 54283,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_09.png",
+      "sha256": "410a88d48cb2e66d07500a634551e97c88af1a77f07df1b1d68bc0e840629098",
+      "bytes": 1257147,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_10.png",
+      "sha256": "10164bf8b0104fdfb738a0a41fca99b26c9eef9b4478acc77ae3934979c4b3a1",
+      "bytes": 1396313,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_11.png",
+      "sha256": "a6938b9b1742a0e2c64040180024c8250d11cd0c203ad792e90f58716cb67374",
+      "bytes": 92294,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "entrega/pngs/pagina_12.png",
+      "sha256": "61eaa85498ba5b0cbadf417a8a5abee92bb8e8c496a084057e9edd8081503c4b",
+      "bytes": 619329,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "photo06_header_background_samples": [
+    {
+      "x": 100,
+      "y": 50,
+      "rgb": [
+        136,
+        140,
+        146
+      ],
+      "contrast_white": 3.38
+    },
+    {
+      "x": 250,
+      "y": 50,
+      "rgb": [
+        143,
+        144,
+        150
+      ],
+      "contrast_white": 3.183
+    },
+    {
+      "x": 400,
+      "y": 50,
+      "rgb": [
+        127,
+        130,
+        138
+      ],
+      "contrast_white": 3.844
+    },
+    {
+      "x": 550,
+      "y": 50,
+      "rgb": [
+        122,
+        125,
+        133
+      ],
+      "contrast_white": 4.118
+    },
+    {
+      "x": 100,
+      "y": 80,
+      "rgb": [
+        135,
+        139,
+        145
+      ],
+      "contrast_white": 3.425
+    },
+    {
+      "x": 250,
+      "y": 80,
+      "rgb": [
+        141,
+        143,
+        148
+      ],
+      "contrast_white": 3.236
+    },
+    {
+      "x": 400,
+      "y": 80,
+      "rgb": [
+        128,
+        132,
+        139
+      ],
+      "contrast_white": 3.756
+    },
+    {
+      "x": 550,
+      "y": 80,
+      "rgb": [
+        132,
+        134,
+        142
+      ],
+      "contrast_white": 3.632
+    }
+  ],
+  "page08_shape_runs_x_by_y": {
+    "398": [
+      [
+        340,
+        363
+      ],
+      [
+        1000,
+        1023
+      ],
+      [
+        1600,
+        1623
+      ]
+    ],
+    "409": [
+      [
+        340,
+        363
+      ],
+      [
+        1000,
+        1023
+      ],
+      [
+        1600,
+        1623
+      ]
+    ],
+    "410": [
+      [
+        190,
+        1709
+      ]
+    ],
+    "412": [
+      [
+        190,
+        1709
+      ]
+    ],
+    "413": [
+      [
+        340,
+        363
+      ],
+      [
+        1000,
+        1023
+      ],
+      [
+        1600,
+        1623
+      ]
+    ],
+    "421": [
+      [
+        340,
+        363
+      ],
+      [
+        1000,
+        1023
+      ],
+      [
+        1600,
+        1623
+      ]
+    ]
+  },
+  "page11_closer_white_text_y_after_rule": [
+    751,
+    789
+  ],
+  "page11_rule_manifest_y": 715,
+  "page11_clear_rows_after_rule_estimate": 33,
+  "page09_manual_subject_bounds_y": {
+    "top": 327,
+    "bottom": 820,
+    "uncertainty_px": 6,
+    "top_percent": 30.28,
+    "bottom_percent": 24.07,
+    "required_blank_px": 162,
+    "method": "Leitura manual da imagem integral; valor herdado da inspeção anterior e reconfirmado visualmente no PNG final, não detecção automática."
+  },
+  "thanks_reference_comparison": {
+    "reference_path": "exemplos/optima_final/pngs_aprovados/pagina_13.png",
+    "reference_sha256": "63e7d7675aabfbb1473b7741a3ec546affea54f7568ff7a8f2e803903f71f60e",
+    "same_dimensions": true,
+    "identical_pixel_fraction": 0.17179349922839507,
+    "mean_abs_channel_difference": 0.6888509516460906,
+    "max_channel_difference": 90,
+    "note": "Comparação quantitativa de reconstrução; não interpretar como identidade literal quando houver diferenças de rasterização."
+  },
+  "reopen_comparison_report": {
+    "all_pass": true,
+    "checks": [
+      {
+        "page": 1,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 2,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 3,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 4,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 5,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 6,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 7,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 8,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 9,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 10,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 11,
+        "pixels_identical_after_reopen": true
+      },
+      {
+        "page": 12,
+        "pixels_identical_after_reopen": true
+      }
+    ]
+  }
+}

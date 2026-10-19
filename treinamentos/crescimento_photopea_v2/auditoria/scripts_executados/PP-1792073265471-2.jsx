@@ -1,0 +1,1 @@
+app.echoToOE(JSON.stringify({version:app.version,documents:app.documents.length}));

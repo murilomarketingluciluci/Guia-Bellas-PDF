@@ -1,0 +1,1157 @@
+[
+  {
+    "key": "vscg",
+    "parsed": {
+      "bytes:436c7220": {
+        "bytes:52642020": 184.00000423192978,
+        "bytes:47726e20": 131.3268506526947,
+        "bytes:426c2020": 154.54474478960037
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vscg.bin",
+      "bytes": 116,
+      "sha256": "baa4595c7ed9478fe582b1fc36e42eba5e44df7d710dd0ac0758a2b9d188fe76",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lfx2",
+    "parsed": {
+      "bytes:53636c20": 100.0,
+      "bytes:6d61737465724658537769746368": true,
+      "bytes:44725368": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": true,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 12.00007053092122,
+          "bytes:47726e20": 12.00007053092122,
+          "bytes:426c2020": 12.00007053092122
+        },
+        "bytes:4f706374": 100.0,
+        "bytes:75676c67": false,
+        "bytes:6c61676c": 146.0,
+        "bytes:4473746e": 0.0,
+        "bytes:436b6d74": 5.0,
+        "bytes:626c7572": 250.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:6c61796572436f6e6365616c73": true
+      },
+      "bytes:696e6e6572536861646f774d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:436c7220": {
+            "bytes:52642020": 254.99995440244675,
+            "bytes:47726e20": 48.99916112422943,
+            "bytes:426c2020": 48.99916112422943
+          },
+          "bytes:4f706374": 86.0,
+          "bytes:75676c67": false,
+          "bytes:6c61676c": 35.0,
+          "bytes:4473746e": 26.0,
+          "bytes:436b6d74": 0.0,
+          "bytes:626c7572": 29.0,
+          "bytes:4e6f7365": 0.0,
+          "bytes:416e7441": false,
+          "bytes:54726e53": {
+            "bytes:4e6d2020": "Linear\u0000",
+            "bytes:43727620": [
+              {
+                "bytes:48727a6e": 0.0,
+                "bytes:56727463": 0.0
+              },
+              {
+                "bytes:48727a6e": 255.0,
+                "bytes:56727463": 255.0
+              }
+            ]
+          }
+        }
+      ],
+      "bytes:4f72476c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bGluZWFyQnVybg==",
+            "length": 10
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 0.0,
+          "bytes:47726e20": 0.0,
+          "bytes:426c2020": 0.0
+        },
+        "bytes:4f706374": 3.0,
+        "bytes:476c7754": {
+          "typeID": {
+            "bytes_base64": "QkVURQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:436b6d74": 0.0,
+        "bytes:626c7572": 33.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:5368644e": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:496e7072": 50.0
+      },
+      "bytes:736f6c696446696c6c4d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:436c7220": {
+            "bytes:52642020": 235.00028997659683,
+            "bytes:47726e20": 181.99716210365295,
+            "bytes:426c2020": 209.99678045511246
+          },
+          "bytes:4f706374": 100.0
+        }
+      ],
+      "bytes:6772616469656e7446696c6c4d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:47726164": {
+            "bytes:4e6d2020": "Personalizado\u0000",
+            "bytes:47726446": {
+              "typeID": {
+                "bytes_base64": "R3JkRg==",
+                "length": 4
+              },
+              "enum": {
+                "bytes_base64": "Q3N0Uw==",
+                "length": 4
+              }
+            },
+            "bytes:496e7472": 4096.0,
+            "bytes:436c7273": [
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 171.99736028909683,
+                  "bytes:47726e20": 129.99798595905304,
+                  "bytes:426c2020": 61.9989475607872
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 181.99722290039062,
+                  "bytes:47726e20": 135.00180065631866,
+                  "bytes:426c2020": 161.0014647245407
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 36
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 230.00000149011612,
+                  "bytes:47726e20": 186.70816451311111,
+                  "bytes:426c2020": 209.57977563142776
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 2399,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 181.99722290039062,
+                  "bytes:47726e20": 135.00180065631866,
+                  "bytes:426c2020": 161.0014647245407
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ],
+            "bytes:54726e73": [
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ]
+          },
+          "bytes:416e676c": -90.0,
+          "bytes:54797065": {
+            "typeID": {
+              "bytes_base64": "R3JkVA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "UmZsYw==",
+              "length": 4
+            }
+          },
+          "bytes:52767273": false,
+          "bytes:44746872": false,
+          "bytes:67733939": {
+            "typeID": {
+              "bytes_base64": "Z3JhZGllbnRJbnRlcnBvbGF0aW9uTWV0aG9kVHlwZQ==",
+              "length": 31
+            },
+            "enum": {
+              "bytes_base64": "UGVyYw==",
+              "length": 4
+            }
+          },
+          "bytes:416c676e": true,
+          "bytes:53636c20": 150.0,
+          "bytes:4f667374": {
+            "bytes:48727a6e": 0.0,
+            "bytes:56727463": 0.0
+          }
+        }
+      ],
+      "bytes:6672616d6546584d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:5374796c": {
+            "typeID": {
+              "bytes_base64": "RlN0bA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "SW5zRg==",
+              "length": 4
+            }
+          },
+          "bytes:506e7454": {
+            "typeID": {
+              "bytes_base64": "RnJGbA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "U0Nscg==",
+              "length": 4
+            }
+          },
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:537a2020": 2.0,
+          "bytes:436c7220": {
+            "bytes:52642020": 245.99627673625946,
+            "bytes:47726e20": 239.000244140625,
+            "bytes:426c2020": 225.00045776367188
+          },
+          "bytes:6f7665727072696e74": false
+        }
+      ],
+      "bytes:4972476c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "c2NyZWVu",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 255.0,
+          "bytes:47726e20": 255.0,
+          "bytes:426c2020": 255.0
+        },
+        "bytes:4f706374": 35.0,
+        "bytes:476c7754": {
+          "typeID": {
+            "bytes_base64": "QkVURQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:436b6d74": 0.0,
+        "bytes:626c7572": 42.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:5368644e": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:496e7072": 50.0,
+        "bytes:676c7753": {
+          "typeID": {
+            "bytes_base64": "SUdTcg==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U3JjRQ==",
+            "length": 4
+          }
+        }
+      },
+      "bytes:6562626c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:68676c4d": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:68676c43": {
+          "bytes:52642020": 255.0,
+          "bytes:47726e20": 255.0,
+          "bytes:426c2020": 255.0
+        },
+        "bytes:68676c4f": 100.0,
+        "bytes:7364774d": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:73647743": {
+          "bytes:52642020": 4.85592900775373,
+          "bytes:47726e20": 35.97234293818474,
+          "bytes:426c2020": 87.99997195601463
+        },
+        "bytes:7364774f": 24.0,
+        "bytes:62766c54": {
+          "typeID": {
+            "bytes_base64": "YnZsVA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:62766c53": {
+          "typeID": {
+            "bytes_base64": "QkVTbA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SW5yQg==",
+            "length": 4
+          }
+        },
+        "bytes:75676c67": false,
+        "bytes:6c61676c": 118.0,
+        "bytes:4c616c64": 0.0,
+        "bytes:73726752": 168.0,
+        "bytes:626c7572": 0.0,
+        "bytes:62766c44": {
+          "typeID": {
+            "bytes_base64": "QkVTcw==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SW4gIA==",
+            "length": 4
+          }
+        },
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:616e7469616c696173476c6f7373": false,
+        "bytes:5366746e": 0.0,
+        "bytes:7573655368617065": false,
+        "bytes:75736554657874757265": false
+      },
+      "bytes:43684658": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bXVsdGlwbHk=",
+            "length": 8
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 0.0,
+          "bytes:47726e20": 0.0,
+          "bytes:426c2020": 0.0
+        },
+        "bytes:416e7441": true,
+        "bytes:496e7672": true,
+        "bytes:4f706374": 50.0,
+        "bytes:6c61676c": 90.0,
+        "bytes:4473746e": 209.0,
+        "bytes:626c7572": 209.0,
+        "bytes:4d706753": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        }
+      },
+      "bytes:6e756d4d6f64696679696e674658": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lfx2.bin",
+      "bytes": 5848,
+      "sha256": "48f1a3f00f5ff8e19168ee026f4cc5804a1c4239212d348228b10b5d0b71bdf4",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lrFX",
+    "parsed": {
+      "bytes:636d6e53": {
+        "version": 0,
+        "visible": 1
+      },
+      "bytes:64736477": {
+        "version": 2,
+        "blur": 16384000,
+        "intensity": 0,
+        "angle": 9568256,
+        "distance": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            3084,
+            3084,
+            3084,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "enabled": 0,
+        "use_global_angle": 0,
+        "opacity": 255,
+        "native_color": {
+          "id": 0,
+          "values": [
+            3084,
+            3084,
+            3084,
+            0
+          ]
+        }
+      },
+      "bytes:69736477": {
+        "version": 2,
+        "blur": 1900544,
+        "intensity": 0,
+        "angle": 2293760,
+        "distance": 1703936,
+        "color": {
+          "id": 0,
+          "values": [
+            65535,
+            12592,
+            12592,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "enabled": 0,
+        "use_global_angle": 0,
+        "opacity": 219,
+        "native_color": {
+          "id": 0,
+          "values": [
+            65535,
+            12592,
+            12592,
+            0
+          ]
+        }
+      },
+      "bytes:6f676c77": {
+        "version": 2,
+        "blur": 2162688,
+        "intensity": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bGJybg==",
+          "length": 4
+        },
+        "enabled": 0,
+        "opacity": 8,
+        "native_color": {
+          "id": 0,
+          "values": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "bytes:69676c77": {
+        "version": 2,
+        "blur": 2752512,
+        "intensity": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            65535,
+            65535,
+            65535,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "c2Nybg==",
+          "length": 4
+        },
+        "enabled": 0,
+        "opacity": 89,
+        "invert": 1,
+        "native_color": {
+          "id": 0,
+          "values": [
+            65535,
+            65535,
+            65535,
+            0
+          ]
+        }
+      },
+      "bytes:6265766c": {
+        "version": 2,
+        "angle": 7733248,
+        "depth": 65536,
+        "blur": 0,
+        "highlight_blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "shadow_blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "highlight_color": {
+          "id": 0,
+          "values": [
+            65535,
+            65535,
+            65535,
+            0
+          ]
+        },
+        "shadow_color": {
+          "id": 0,
+          "values": [
+            1248,
+            9246,
+            22616,
+            0
+          ]
+        },
+        "bevel_style": 2,
+        "highlight_opacity": 255,
+        "shadow_opacity": 61,
+        "enabled": 0,
+        "use_global_angle": 0,
+        "direction": 0,
+        "real_highlight_color": {
+          "id": 0,
+          "values": [
+            65535,
+            65535,
+            65535,
+            0
+          ]
+        },
+        "real_shadow_color": {
+          "id": 0,
+          "values": [
+            1248,
+            9246,
+            22616,
+            0
+          ]
+        }
+      },
+      "bytes:736f6669": {
+        "version": 2,
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "color": {
+          "id": 0,
+          "values": [
+            60395,
+            46773,
+            53969,
+            0
+          ]
+        },
+        "opacity": 255,
+        "enabled": 0,
+        "native_color": {
+          "id": 0,
+          "values": [
+            60395,
+            46773,
+            53969,
+            0
+          ]
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lrFX.bin",
+      "bytes": 396,
+      "sha256": "aa270059e93cf1e7ca4fdd216a0e4c63de0508f966f5d37b59fa2d7ffb707c2f",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "vsms",
+    "parsed": {
+      "version": 3,
+      "flags": 0,
+      "path": {
+        "_items": [
+          {},
+          0,
+          {
+            "_items": [
+              {
+                "preceding": [
+                  0.05079507827758789,
+                  0.9156249761581421
+                ],
+                "anchor": [
+                  0.05079507827758789,
+                  0.9156249761581421
+                ],
+                "leaving": [
+                  0.05079507827758789,
+                  0.9156249761581421
+                ]
+              },
+              {
+                "preceding": [
+                  0.05079507827758789,
+                  0.9295743107795715
+                ],
+                "anchor": [
+                  0.05079507827758789,
+                  0.9295743107795715
+                ],
+                "leaving": [
+                  0.05079507827758789,
+                  0.9295743107795715
+                ]
+              },
+              {
+                "preceding": [
+                  0.07559382915496826,
+                  0.9295743107795715
+                ],
+                "anchor": [
+                  0.07559382915496826,
+                  0.9295743107795715
+                ],
+                "leaving": [
+                  0.07559382915496826,
+                  0.9295743107795715
+                ]
+              },
+              {
+                "preceding": [
+                  0.07559382915496826,
+                  0.9156249761581421
+                ],
+                "anchor": [
+                  0.07559382915496826,
+                  0.9156249761581421
+                ],
+                "leaving": [
+                  0.07559382915496826,
+                  0.9156249761581421
+                ]
+              }
+            ],
+            "operation": 1,
+            "_unknown1": 1,
+            "_unknown2": 0,
+            "index": 0,
+            "_unknown3": {
+              "bytes_base64": "AAAAAAAAAAAAAA==",
+              "length": 10
+            }
+          }
+        ]
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vsms.bin",
+      "bytes": 192,
+      "sha256": "57a25e571fa0ce1a2af08340e6515d7eec99f646ca730c86134d9bce1d121075",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "vowv",
+    "parsed": 2,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vowv.bin",
+      "bytes": 4,
+      "sha256": "433ebf5bc03dffa38536673207a21281612cef5faa9bc7a4d5b9be2fdb12cf1a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "vogk",
+    "parsed": {
+      "bytes:6b657944657363726970746f724c697374": [
+        {
+          "bytes:6b65794f726967696e54797065": 1,
+          "bytes:6b65794f726967696e5265736f6c7574696f6e": 72.0,
+          "bytes:6b65794f726967696e536861706542426f78": {
+            "bytes:756e697456616c75655175616456657273696f6e": 1,
+            "bytes:546f7020": 54.85866532178346,
+            "bytes:4c656674": 1758.0,
+            "bytes:42746f6d": 81.64133467821654,
+            "bytes:52676874": 1784.7826693564327
+          },
+          "bytes:6b65794f726967696e426f78436f726e657273": {
+            "bytes:72656374616e676c65436f726e657241": {
+              "bytes:48727a6e": 1758.0,
+              "bytes:56727463": 54.85866532178346
+            },
+            "bytes:72656374616e676c65436f726e657242": {
+              "bytes:48727a6e": 1784.7826693564327,
+              "bytes:56727463": 54.85866532178346
+            },
+            "bytes:72656374616e676c65436f726e657243": {
+              "bytes:48727a6e": 1784.7826693564327,
+              "bytes:56727463": 81.64133467821654
+            },
+            "bytes:72656374616e676c65436f726e657244": {
+              "bytes:48727a6e": 1758.0,
+              "bytes:56727463": 81.64133467821654
+            }
+          },
+          "bytes:54726e66": {
+            "bytes:7878": 1.1159445565180426,
+            "bytes:7879": 0.0,
+            "bytes:7978": 0.0,
+            "bytes:7979": 1.1159445565180448,
+            "bytes:7478": 836.2297963160968,
+            "bytes:7479": -180.60563610352403
+          },
+          "bytes:6b65794f726967696e496e646578": 0
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vogk.bin",
+      "bytes": 872,
+      "sha256": "8bcc17313ce044fb5620c235293af632648dca96ec718cc5d435d35ae27bcc1d",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "luni",
+    "parsed": "Retângulo 572",
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_luni.bin",
+      "bytes": 30,
+      "sha256": "471b62ffd5792609c9e8e00173c77de62764d37dff53bac6495b733fcd6a262a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "c2hhcA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "ec098178cd829fd9686d5e9c33aebc65c1d1e1f1de92967c51603c84bd6510ac",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1148,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "8964812bf0b71ca59d8e1b0f8d01e965960f7788ccae722f53cb7d712f11fbea",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.4377968
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "ebf55cfbdaaa4d2d4a8a9979436f85548e3537d59542f981c763e0d5f5daa765",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "vstk",
+    "parsed": {
+      "bytes:7374726f6b655374796c6556657273696f6e": 2,
+      "bytes:7374726f6b65456e61626c6564": false,
+      "bytes:66696c6c456e61626c6564": true,
+      "bytes:7374726f6b655374796c654c696e655769647468": 3.0,
+      "bytes:7374726f6b655374796c654c696e65446173684f6666736574": 0.0,
+      "bytes:7374726f6b655374796c654d697465724c696d6974": 100.0,
+      "bytes:7374726f6b655374796c654c696e6543617054797065": {
+        "typeID": {
+          "bytes_base64": "c3Ryb2tlU3R5bGVMaW5lQ2FwVHlwZQ==",
+          "length": 22
+        },
+        "enum": {
+          "bytes_base64": "c3Ryb2tlU3R5bGVSb3VuZENhcA==",
+          "length": 19
+        }
+      },
+      "bytes:7374726f6b655374796c654c696e654a6f696e54797065": {
+        "typeID": {
+          "bytes_base64": "c3Ryb2tlU3R5bGVMaW5lSm9pblR5cGU=",
+          "length": 23
+        },
+        "enum": {
+          "bytes_base64": "c3Ryb2tlU3R5bGVSb3VuZEpvaW4=",
+          "length": 20
+        }
+      },
+      "bytes:7374726f6b655374796c654c696e65416c69676e6d656e74": {
+        "typeID": {
+          "bytes_base64": "c3Ryb2tlU3R5bGVMaW5lQWxpZ25tZW50",
+          "length": 24
+        },
+        "enum": {
+          "bytes_base64": "c3Ryb2tlU3R5bGVBbGlnbkNlbnRlcg==",
+          "length": 22
+        }
+      },
+      "bytes:7374726f6b655374796c655363616c654c6f636b": false,
+      "bytes:7374726f6b655374796c655374726f6b6541646a757374": false,
+      "bytes:7374726f6b655374796c654c696e6544617368536574": [],
+      "bytes:7374726f6b655374796c65426c656e644d6f6465": {
+        "typeID": {
+          "bytes_base64": "QmxuTQ==",
+          "length": 4
+        },
+        "enum": {
+          "bytes_base64": "bm9ybWFs",
+          "length": 6
+        }
+      },
+      "bytes:7374726f6b655374796c654f706163697479": 100.0,
+      "bytes:7374726f6b655374796c65436f6e74656e74": {
+        "bytes:436c7220": {
+          "bytes:52642020": 15.003660209476948,
+          "bytes:47726e20": 15.003660209476948,
+          "bytes:426c2020": 13.999820575118065
+        }
+      },
+      "bytes:7374726f6b655374796c655265736f6c7574696f6e": 72.0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_vstk.bin",
+      "bytes": 832,
+      "sha256": "3a2d603b8d94ecdcd2fbb2cbcb13377dacfab05663d0dc4a14c6c13f564ad0ed",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "sn2P",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_sn2P.bin",
+      "bytes": 4,
+      "sha256": "b40711a88c7039756fb8a73827eabe2c0fe5a0346ca7e0a104adc0fc764f528d",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        836.2297963160968,
+        -180.60563610352403
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "17b1fab46e47a59e16dc75a2132c874d2964a89b6119cece8f3170017a32860b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyvr",
+    "parsed": 130,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/015_Retangulo_572.tag_lyvr.bin",
+      "bytes": 4,
+      "sha256": "ae8ab7ce4b4ecb41298617e6006047c15063456a595bb203be3951b6f8529199",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

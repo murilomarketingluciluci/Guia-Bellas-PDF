@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-10-15T12:21:44.345564-03:00",
+  "pdf_sha256": "8b091a380833f74827241a89a9b89726226c2ca67a37372e00fc99acea6050d1",
+  "pdf_pages": 12,
+  "all_reviewed_pngs_embedded_exactly": true,
+  "pages": [
+    {
+      "page": 1,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "db27b2a5816b9f3c297eee2b56a38d0fe781cf9a37eadcd9c87f0d8a0ed538b8"
+    },
+    {
+      "page": 2,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "2f31ae6e29d13d512a456e8c61434a9677b2e7f2ec91d3c916225e268dfd9b61"
+    },
+    {
+      "page": 3,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "3b751105a0355c0e131936acbc2a5585280aeae96999f41ab781540ac827c912"
+    },
+    {
+      "page": 4,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "a95dd7160a63d433b5a781fe5e96efab6a93d1fb5092733a42bfe78eb0fac012"
+    },
+    {
+      "page": 5,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "f2f782737e8677f11c88ee042edd180189842578dd2746da7212e46582ce6760"
+    },
+    {
+      "page": 6,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "9653daedea162ad50c2bd8fe6341b73cde3cd6b09cc2cf1fb6f606c1a9b1ae8d"
+    },
+    {
+      "page": 7,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "f1e27337f1aca81e820315e26591832332c538f1628ff280b66eeb9d4964c9ca"
+    },
+    {
+      "page": 8,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "23dd8a1ef8b7fb8e0adcd366d55efd5786eafcdafb8dc6d64a7cadb2680ed82f"
+    },
+    {
+      "page": 9,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "410a88d48cb2e66d07500a634551e97c88af1a77f07df1b1d68bc0e840629098"
+    },
+    {
+      "page": 10,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "10164bf8b0104fdfb738a0a41fca99b26c9eef9b4478acc77ae3934979c4b3a1"
+    },
+    {
+      "page": 11,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "a6938b9b1742a0e2c64040180024c8250d11cd0c203ad792e90f58716cb67374"
+    },
+    {
+      "page": 12,
+      "image_count": 1,
+      "pdf_image_matches_reviewed_png_rgb": true,
+      "png_sha256": "61eaa85498ba5b0cbadf417a8a5abee92bb8e8c496a084057e9edd8081503c4b"
+    }
+  ],
+  "scope": "Vínculo editorial do PDF às provas PNG lidas; não aprova cor/perfil/template do PSD."
+}

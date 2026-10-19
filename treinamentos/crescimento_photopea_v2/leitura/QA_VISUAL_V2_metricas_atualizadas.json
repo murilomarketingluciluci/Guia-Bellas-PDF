@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-10-15T15:10:22.740655+00:00",
+  "p06_header_samples_current": [
+    {
+      "point": [
+        100,
+        50
+      ],
+      "background_rgb": [
+        166,
+        170,
+        177
+      ],
+      "white_contrast_ratio": 2.33
+    },
+    {
+      "point": [
+        250,
+        50
+      ],
+      "background_rgb": [
+        174,
+        175,
+        181
+      ],
+      "white_contrast_ratio": 2.19
+    },
+    {
+      "point": [
+        400,
+        50
+      ],
+      "background_rgb": [
+        156,
+        159,
+        168
+      ],
+      "white_contrast_ratio": 2.65
+    },
+    {
+      "point": [
+        550,
+        50
+      ],
+      "background_rgb": [
+        150,
+        153,
+        163
+      ],
+      "white_contrast_ratio": 2.84
+    },
+    {
+      "point": [
+        100,
+        80
+      ],
+      "background_rgb": [
+        165,
+        169,
+        176
+      ],
+      "white_contrast_ratio": 2.36
+    },
+    {
+      "point": [
+        250,
+        80
+      ],
+      "background_rgb": [
+        171,
+        174,
+        179
+      ],
+      "white_contrast_ratio": 2.23
+    },
+    {
+      "point": [
+        400,
+        80
+      ],
+      "background_rgb": [
+        157,
+        161,
+        169
+      ],
+      "white_contrast_ratio": 2.59
+    },
+    {
+      "point": [
+        550,
+        80
+      ],
+      "background_rgb": [
+        162,
+        164,
+        172
+      ],
+      "white_contrast_ratio": 2.49
+    }
+  ],
+  "p09_current_manual_bounds": {
+    "highest_hair_y_approx": 327,
+    "lowest_shoe_y_approx": 820,
+    "uncertainty_px": 6,
+    "top_free_percent": 30.28,
+    "bottom_free_percent": 24.07,
+    "required_free_percent": 15,
+    "status": "Meets15% with large margin; visual estimate, not automatic subject detector"
+  },
+  "current_proof_hashes": {
+    "provas/pagina_02.png": "2f31ae6e29d13d512a456e8c61434a9677b2e7f2ec91d3c916225e268dfd9b61",
+    "provas/pagina_03.png": "3b751105a0355c0e131936acbc2a5585280aeae96999f41ab781540ac827c912",
+    "provas/pagina_04.png": "a95dd7160a63d433b5a781fe5e96efab6a93d1fb5092733a42bfe78eb0fac012",
+    "provas/pagina_05.png": "f2f782737e8677f11c88ee042edd180189842578dd2746da7212e46582ce6760",
+    "provas/pagina_06.png": "f005e430176cf3cd88df221954929130eee56b7366f9a15b8fab8b4234b7b5f1",
+    "provas/pagina_07.png": "f1e27337f1aca81e820315e26591832332c538f1628ff280b66eeb9d4964c9ca",
+    "provas/pagina_08.png": "23dd8a1ef8b7fb8e0adcd366d55efd5786eafcdafb8dc6d64a7cadb2680ed82f",
+    "provas/pagina_09.png": "410a88d48cb2e66d07500a634551e97c88af1a77f07df1b1d68bc0e840629098",
+    "provas/pagina_10.png": "10164bf8b0104fdfb738a0a41fca99b26c9eef9b4478acc77ae3934979c4b3a1",
+    "provas/pagina_11.png": "410fe07b2d4d7edf8ec9d202b171c02e2476c41ce052737fae62f9564e766442"
+  },
+  "manifest_sha256": "44d68cfc9dbd300b515aa6efa1c3bc04a11e3a6f06859cfe087c0ab8fbd15d88",
+  "p08_correction": "No long rectangle in raw pixels; three24px markers confirmed at x340..363,1000..1023,1600..1623 across y398..421, with a3px full axis at y410..412"
+}

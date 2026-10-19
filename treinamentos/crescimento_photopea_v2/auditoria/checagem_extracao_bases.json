@@ -1,0 +1,287 @@
+{
+  "top_groups": [
+    {
+      "name": "Plano de Fundo",
+      "kind": "pixel",
+      "order_bottom_to_top": 0
+    },
+    {
+      "name": "AGRADECIMENTO APROVADO - ULTIMA PAGINA",
+      "kind": "group",
+      "order_bottom_to_top": 1
+    },
+    {
+      "name": "TEMA ESCURO VAZIO - DUPLICAR",
+      "kind": "group",
+      "order_bottom_to_top": 2
+    },
+    {
+      "name": "TEMA CLARO VAZIO - DUPLICAR",
+      "kind": "group",
+      "order_bottom_to_top": 3
+    },
+    {
+      "name": "CAPA APROVADA - ALTERAR SOMENTE TITULO",
+      "kind": "group",
+      "order_bottom_to_top": 4
+    }
+  ],
+  "kind_counts": {
+    "pixel": 5,
+    "group": 10,
+    "solidcolorfill": 2,
+    "smartobject": 7,
+    "type": 4,
+    "shape": 5
+  },
+  "smartobjects": [
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "payload": {
+        "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.embedded.psb",
+        "bytes": 5463218,
+        "sha256": "50db4e7004bc3b9635e130ac1fc25a37c1174537fa022d6297c6590604058091",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        -102,
+        -39,
+        1920,
+        1098
+      ],
+      "transform_box": [
+        -102.0,
+        -39.0,
+        1920.0,
+        -39.0,
+        1920.0,
+        1098.0,
+        -102.0,
+        1098.0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/LUCI LUCI-443",
+      "payload": {
+        "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.embedded.jpg",
+        "bytes": 1378050,
+        "sha256": "63ce9b4eaa26d3ae7555fda498ae76cf268e4dcee0819c7566e2bec28e3de037",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        -132,
+        -58,
+        2111,
+        1437
+      ],
+      "transform_box": [
+        -132.0,
+        -58.0,
+        2111.0,
+        -58.0,
+        2111.0,
+        1437.0,
+        -132.0,
+        1436.9999999999995
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "payload": {
+        "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/013_01_-_LOGO_PRINCIPAL_KJL.embedded.png",
+        "bytes": 6392,
+        "sha256": "eca541b4ff863f69b98c42118c21ba78541c3a569fd83d004a1ddb134cdff446",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        1704,
+        981,
+        1859,
+        1029
+      ],
+      "transform_box": [
+        1704.0,
+        981.0,
+        1859.0,
+        981.0,
+        1859.0,
+        1029.0,
+        1704.0,
+        1029.0
+      ]
+    },
+    {
+      "path": "TEMA ESCURO VAZIO - DUPLICAR/B BELLAS",
+      "payload": {
+        "path": "assets/base_molde/TEMA_ESCURO_VAZIO_-_DUPLICAR/021_B_BELLAS.embedded.png",
+        "bytes": 24381,
+        "sha256": "8557fe6ecb81916a5c61d48e18a922ef8f56e8c396ba05b8d14c6211ab6222e4",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        1309,
+        -236,
+        1928,
+        617
+      ],
+      "transform_box": [
+        1309.0,
+        -236.0,
+        1928.0,
+        -236.0000000000001,
+        1928.0,
+        617.0000000000001,
+        1309.0,
+        617.0000000000001
+      ]
+    },
+    {
+      "path": "TEMA CLARO VAZIO - DUPLICAR/FUNDO copiar 2",
+      "payload": {
+        "path": "assets/base_molde/TEMA_CLARO_VAZIO_-_DUPLICAR/024_FUNDO_copiar_2.embedded.psb",
+        "bytes": 1048576,
+        "sha256": "143d927860ddcca566746d714c7233ffa25050e1e1951c368bb2f6cd8fd9a999",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "transform_box": [
+        0.0,
+        0.0,
+        1920.0,
+        0.0,
+        1920.0,
+        1080.0,
+        0.0,
+        1080.0
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/FUNDO copiar",
+      "payload": {
+        "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/027_FUNDO_copiar.embedded.psb",
+        "bytes": 1048576,
+        "sha256": "143d927860ddcca566746d714c7233ffa25050e1e1951c368bb2f6cd8fd9a999",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "transform_box": [
+        0.0,
+        0.0,
+        1920.0,
+        0.0,
+        1920.0,
+        1080.0,
+        0.0,
+        1080.0
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/LUCI LUCI-443",
+      "payload": {
+        "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.embedded.jpg",
+        "bytes": 1378050,
+        "sha256": "63ce9b4eaa26d3ae7555fda498ae76cf268e4dcee0819c7566e2bec28e3de037",
+        "origin": "Exact embedded SmartObject.data bytes; no PSD save or conversion"
+      },
+      "bbox": [
+        -110,
+        -18,
+        2093,
+        1451
+      ],
+      "transform_box": [
+        -110.0,
+        -18.0,
+        2093.0,
+        -18.0,
+        2093.0,
+        1451.0,
+        -110.0000000000004,
+        1451.0
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/texto/obrigada!",
+      "contents": "obrigada!",
+      "transform": [
+        1.4398922098659868,
+        0.0,
+        0.0,
+        1.4398922098659872,
+        629.4256988954323,
+        582.4373745069365
+      ],
+      "run_count": 1,
+      "run_length_sum": 10,
+      "engine_utf16_length": 10
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "contents": "EMPREENDEDORISMO FEMININO",
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ],
+      "run_count": 1,
+      "run_length_sum": 26,
+      "engine_utf16_length": 26
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Desodorante Optima",
+      "contents": "Desodorante\rOptimaPlus",
+      "transform": [
+        1.1669778405614362,
+        0.0,
+        0.0,
+        1.1669778405614364,
+        928.9123434704834,
+        523.8476115135069
+      ],
+      "run_count": 3,
+      "run_length_sum": 23,
+      "engine_utf16_length": 23
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/TREINAMENTO",
+      "contents": "TREINAMENTO",
+      "transform": [
+        1.0257777927584604,
+        0.0,
+        0.0,
+        1.0257777927584606,
+        1016.0313434285217,
+        374.29978129293784
+      ],
+      "run_count": 1,
+      "run_length_sum": 12,
+      "engine_utf16_length": 12
+    }
+  ],
+  "mask_layers": [
+    "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/BG",
+    "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+    "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/LUCI LUCI-443",
+    "TEMA ESCURO VAZIO - DUPLICAR/BG copiar",
+    "TEMA ESCURO VAZIO - DUPLICAR/B BELLAS",
+    "CAPA APROVADA - ALTERAR SOMENTE TITULO/LUCI LUCI-443"
+  ],
+  "unconverted_markers": 0,
+  "manifest_bytes": 360797,
+  "total_asset_bytes": 23863171
+}

@@ -1,0 +1,114 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "groups": [
+    "AGRADECIMENTO APROVADO - ULTIMA PAGINA",
+    "TEMA ESCURO VAZIO - DUPLICAR",
+    "TEMA CLARO VAZIO - DUPLICAR",
+    "CAPA APROVADA - ALTERAR SOMENTE TITULO"
+  ],
+  "text_layers": [
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/texto/obrigada!",
+      "text": "obrigada!",
+      "visible": false,
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "length": 10,
+          "size": 85.63322,
+          "tracking": -70.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "text": "EMPREENDEDORISMO FEMININO",
+      "visible": false,
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "length": 26,
+          "size": 25.0,
+          "tracking": 1060.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Desodorante Optima",
+      "text": "Desodorante\rOptimaPlus",
+      "visible": true,
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "length": 12,
+          "size": 112.0,
+          "tracking": -70.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "font": "Gotham-Bold",
+          "length": 6,
+          "size": 126.0,
+          "tracking": -70.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "font": "Gotham-Book",
+          "length": 5,
+          "size": 126.0,
+          "tracking": -70.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/TREINAMENTO",
+      "text": "TREINAMENTO",
+      "visible": true,
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "length": 12,
+          "size": 34.0,
+          "tracking": 640.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    }
+  ]
+}

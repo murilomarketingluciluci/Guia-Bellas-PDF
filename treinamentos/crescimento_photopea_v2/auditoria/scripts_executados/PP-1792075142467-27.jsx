@@ -1,0 +1,1 @@
+app.echoToOE('DOCS:'+app.documents.length);app.echoToOE('N:'+app.activeDocument.name);app.echoToOE('LAYERS:'+app.activeDocument.layers.length);app.echoToOE('LNAME:'+app.activeDocument.layers[0].name);

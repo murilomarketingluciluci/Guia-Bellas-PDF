@@ -1,0 +1,1 @@
+var b=app.activeDocument.activeLayer.bounds;var a=[];for(var i=0;i<4;i++)a.push(b[i].value);app.echoToOE(JSON.stringify(a));

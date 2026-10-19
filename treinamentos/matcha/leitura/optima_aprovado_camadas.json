@@ -1,0 +1,4452 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "resolution": {
+    "horizontal": 4718592,
+    "vertical": 4718592,
+    "horizontal_unit": 1,
+    "vertical_unit": 1,
+    "width_unit": 2,
+    "height_unit": 2,
+    "horizontal_ppi": 72.0,
+    "vertical_ppi": 72.0
+  },
+  "note": "Tamanhos são valores de camada; interprete junto a transform/resolução, não apenas como pt visuais.",
+  "layers": [
+    {
+      "path": "Plano de Fundo",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "13 - Agradecimento",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/fundo",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/fundo/BG",
+      "kind": "solidcolorfill",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        -102,
+        -39,
+        1920,
+        1098
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/fundo/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/texto",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        638,
+        494,
+        1280,
+        584
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/texto/obrigada!",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        638,
+        494,
+        1280,
+        584
+      ],
+      "text": "obrigada!",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 10,
+          "font_size_layer": 85.63322,
+          "leading": "85.63322",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.4398922098659868,
+        0.0,
+        0.0,
+        1.4398922098659872,
+        629.4256988954323,
+        582.4373745069365
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        53,
+        1863,
+        1029
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        58,
+        742,
+        70
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/Retângulo 572",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1757,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "13 - Agradecimento/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "12 — Orientações",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        -12,
+        1959,
+        1099
+      ]
+    },
+    {
+      "path": "12 — Orientações/FUNDO copiar 8",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "12 — Orientações/Retângulo 2",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1128,
+        -12,
+        1959,
+        1099
+      ]
+    },
+    {
+      "path": "12 — Orientações/FOTO 12 | ritual Optima sem tatuagem",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1129,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "12 — Orientações/Camada 1 copiar 8",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        136,
+        1276,
+        897
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Dicas",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        142,
+        136,
+        398,
+        220
+      ],
+      "text": "Dicas",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 6,
+          "font_size_layer": 116.0,
+          "leading": "139.20001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.9801609305681783,
+        -3.016551073485995e-17,
+        0.0,
+        0.9801609305681787,
+        130.5,
+        217.81717432552526
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 4",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        609,
+        1276,
+        678
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 4/Cartão • HIDRATE AS AXILAS",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        141,
+        609,
+        1276,
+        678
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 4/Ícone de seleção",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        187,
+        627,
+        222,
+        663
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 4/HIDRATE AS AXILAS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        242,
+        634,
+        472,
+        653
+      ],
+      "text": "HIDRATE AS AXILAS",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 18,
+          "font_size_layer": 28.0,
+          "leading": "45.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8763234092058624,
+        -2.6969798920963778e-17,
+        0.0,
+        0.8763234092058624,
+        239.77277231409062,
+        633.8120168312851
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 3",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        279,
+        1276,
+        347
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 3/Cartão • REPASSE AO LONGO DO DIA",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        141,
+        279,
+        1276,
+        347
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 3/Ícone de seleção",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        187,
+        295,
+        222,
+        330
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 3/REPASSE AO LONGO DO DIA",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        242,
+        301,
+        572,
+        320
+      ],
+      "text": "REPASSE AO LONGO DO DIA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 24,
+          "font_size_layer": 28.0,
+          "leading": "42.0",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8763234092058624,
+        -2.6969798920963778e-17,
+        0.0,
+        0.8763234092058624,
+        239.7727723140904,
+        300.80473918950327
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 1",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        718,
+        1276,
+        787
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 1/Cartão • USE HIDRATANTES COM ALOE VER",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        141,
+        718,
+        1276,
+        787
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 1/Ícone de seleção",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        187,
+        735,
+        222,
+        771
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 1/USE HIDRATANTES COM ALOE VERA",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        242,
+        742,
+        662,
+        761
+      ],
+      "text": "USE HIDRATANTES COM ALOE VERA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 30,
+          "font_size_layer": 28.0,
+          "leading": "39.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8763234092058624,
+        -2.6969798920963778e-17,
+        0.0,
+        0.8763234092058624,
+        239.7727723140905,
+        742.0634148444357
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 2",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        387,
+        1276,
+        454
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 2/Cartão • BEBA ALOE VERA",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        141,
+        387,
+        1276,
+        454
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 2/Ícone de seleção",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        187,
+        403,
+        222,
+        438
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 2/BEBA ALOE VERA",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        242,
+        409,
+        449,
+        428
+      ],
+      "text": "BEBA ALOE VERA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 15,
+          "font_size_layer": 28.0,
+          "leading": "45.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8763234092058624,
+        -2.6969798920963778e-17,
+        0.0,
+        0.8763234092058624,
+        239.7727723140904,
+        408.809775334571
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 5",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        827,
+        1276,
+        897
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 5/Cartão • USE PRODUTOS COM CLORELA, ES",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        141,
+        827,
+        1276,
+        897
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 5/Ícone de seleção",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        187,
+        844,
+        222,
+        880
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 5/USE PRODUTOS COM CLORELA, ESPIRULINA E SELÊNI",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        242,
+        848,
+        882,
+        874
+      ],
+      "text": "USE PRODUTOS COM CLORELA, ESPIRULINA E SELÊNIO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 47,
+          "font_size_layer": 28.0,
+          "leading": "38.4",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8763234092058624,
+        -2.6969798920963778e-17,
+        0.0,
+        0.8763234092058624,
+        239.7727723140905,
+        852.419971666691
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 6",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        141,
+        494,
+        1276,
+        569
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 6/Cartão • VITAMINA C, COENZIMA Q10, AS",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        141,
+        494,
+        1276,
+        569
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 6/Ícone de seleção",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        187,
+        511,
+        222,
+        545
+      ]
+    },
+    {
+      "path": "12 — Orientações/CONTENT/Agrupar 6/VITAMINA C, COENZIMA Q10, ASTAXANTINA E TRANS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        236,
+        519,
+        1228,
+        541
+      ],
+      "text": "VITAMINA C, COENZIMA Q10, ASTAXANTINA E TRANS-RESVERATROL PODEM AJUDAR",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 71,
+          "font_size_layer": 28.0,
+          "leading": "33.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8763234092058624,
+        -2.6969798920963778e-17,
+        0.0,
+        0.8763234092058624,
+        235.7727723140904,
+        519.3055525887937
+      ]
+    },
+    {
+      "path": "11 — Motivos",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "11 — Motivos/FUNDO copiar 7",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "11 — Motivos/Camada 1 copiar 7",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        134,
+        186,
+        1766,
+        885
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Por que esse processo acontece?",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        134,
+        186,
+        637,
+        451
+      ],
+      "text": "Por que esse \u0003processo\racontece?",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 23,
+          "font_size_layer": 86.0,
+          "leading": "94.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 10,
+          "font_size_layer": 93.0,
+          "leading": "94.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.65098, 0.43655, 0.53211]}"
+        }
+      ],
+      "transform": [
+        1.0630312693175081,
+        5.682341760047464e-17,
+        0.0,
+        1.0630312693175081,
+        130.5,
+        249.5200725803836
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 9",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        1000,
+        192,
+        1570,
+        373
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 9/OS POROS ESTAVAM BLOQUEADOS POR ANOS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1001,
+        192,
+        1523,
+        276
+      ],
+      "text": "OS POROS ESTAVAM BLOQUEADOS POR ANOS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 37,
+          "font_size_layer": 39.0,
+          "leading": "46.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.65097, 0.4353, 0.53333]}"
+        }
+      ],
+      "transform": [
+        1.1100571523214817,
+        0.0,
+        0.0,
+        1.1095199035312182,
+        999.196682333267,
+        191.06315077354145
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 9/Seu corpo precisa reaprender a regular o flux",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1000,
+        307,
+        1570,
+        373
+      ],
+      "text": "Seu corpo precisa reaprender a regular \u0003o fluxo natural de suor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 65,
+          "font_size_layer": 30.0,
+          "leading": "42.0",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.1100571523214817,
+        0.0,
+        0.0,
+        1.1095199035312182,
+        999.196682333267,
+        307.5627406443194
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 8",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        992,
+        459,
+        1766,
+        671
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 8/A MICROBIOTA DA AXILA MUDA",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        992,
+        459,
+        1635,
+        491
+      ],
+      "text": "A MICROBIOTA DA AXILA MUDA",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 27,
+          "font_size_layer": 39.0,
+          "leading": "46.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.65097, 0.4353, 0.53333]}"
+        }
+      ],
+      "transform": [
+        1.1100571523214817,
+        0.0,
+        0.0,
+        1.1095199035312182,
+        991.4262822670165,
+        458.45744752456505
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 8/Antitranspirantes com alumínio alteram o ambi",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        992,
+        520,
+        1766,
+        671
+      ],
+      "text": "Antitranspirantes com alumínio alteram o ambiente da pele. Quando você para de fornecer alumínio para essas bactérias, elas precisam se readaptar, e isso gera mais odor temporariamente.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 186,
+          "font_size_layer": 30.0,
+          "leading": "38.4",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.1100571523214817,
+        0.0,
+        0.0,
+        1.1095199035312182,
+        991.4262822670165,
+        520.5905621223133
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 7",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        994,
+        754,
+        1749,
+        885
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 7/PELE RESSECADA OU SENSIBILIZADA",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        994,
+        754,
+        1749,
+        786
+      ],
+      "text": "PELE RESSECADA OU SENSIBILIZADA",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 32,
+          "font_size_layer": 39.0,
+          "leading": "46.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.65097, 0.4353, 0.53333]}"
+        }
+      ],
+      "transform": [
+        1.1100571523214817,
+        0.0,
+        0.0,
+        1.1095199035312182,
+        991.4262822670165,
+        753.5897418638691
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 7/Sem hidratação adequada, o cheiro tende a pio",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1000,
+        814,
+        1611,
+        885
+      ],
+      "text": "Sem hidratação adequada, o cheiro tende a piorar até a pele se recuperar.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 74,
+          "font_size_layer": 30.0,
+          "leading": "42.0",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.1100571523214817,
+        0.0,
+        0.0,
+        1.1095199035312182,
+        999.196682333267,
+        814.6133365580861
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 10",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        674,
+        205,
+        974,
+        775
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 10/Retângulo 3",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        674,
+        205,
+        974,
+        211
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 10/Retângulo 3 copiar",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        674,
+        475,
+        974,
+        481
+      ]
+    },
+    {
+      "path": "11 — Motivos/CONTENT/Agrupar 10/Retângulo 3 copiar 2",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        674,
+        769,
+        974,
+        775
+      ]
+    },
+    {
+      "path": "10 — Processo e duração",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1954,
+        1080
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/BG copiar 4",
+      "kind": "solidcolorfill",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/B BELLAS",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        1062,
+        96,
+        1705,
+        984
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Retângulo 5",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1335,
+        -1,
+        1923,
+        1080
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/FOTO 10 | cena continua sem faixa",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1336,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Agrupar 11",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        1608,
+        667,
+        1954,
+        910
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Agrupar 11/Retângulo 4",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1608,
+        667,
+        1954,
+        910
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Agrupar 11/NORMALMENTE",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1653,
+        705,
+        1879,
+        724
+      ],
+      "text": "NORMALMENTE",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 12,
+          "font_size_layer": 32.0,
+          "leading": "38.4",
+          "tracking": "160",
+          "color": "{'Type': 1, 'Values': [1.0, 0.66275, 0.43921, 0.54117]}"
+        }
+      ],
+      "transform": [
+        0.7230894646176984,
+        -9.125610206401506e-17,
+        0.0,
+        0.7648529505992918,
+        1651.0000000000002,
+        705.3894556294799
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Agrupar 11/4 a 8",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1653,
+        745,
+        1834,
+        806
+      ],
+      "text": "4 a 8",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 91.0,
+          "leading": "109.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.9192089206816746,
+        -1.1600697726695502e-16,
+        0.0,
+        0.9192089206816748,
+        1651.0000000000002,
+        743.508142025788
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Agrupar 11/semanas",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1653,
+        835,
+        1866,
+        866
+      ],
+      "text": "semanas",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 61.0,
+          "leading": "73.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.66275, 0.43921, 0.54117]}"
+        }
+      ],
+      "transform": [
+        0.9192089206816746,
+        -1.1600697726695502e-16,
+        0.0,
+        0.9192089206816748,
+        1650.9999999999998,
+        823.6409002837306
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/FOTO 10 | modelo recortada e Optima",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        983,
+        130,
+        1618,
+        1080
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/Camada 2 copiar 4",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        137,
+        165,
+        981,
+        870
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/CONTENT/Tempo de adaptação",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        137,
+        165,
+        611,
+        355
+      ],
+      "text": "Tempo de \u0003adaptação",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 100.0,
+          "leading": "99.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 12,
+          "font_size_layer": 100.0,
+          "leading": "99.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        134.0,
+        238.0
+      ]
+    },
+    {
+      "path": "10 — Processo e duração/CONTENT/Os antitranspirantes com alumínio funcionam b",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        150,
+        419,
+        981,
+        870
+      ],
+      "text": "Os antitranspirantes com alumínio funcionam bloqueando os poros, reduzindo a produção de suor. Quando você para de aplicar o alumínio, o corpo volta ao funcionamento natural. \u0003\u0003Com isso, temos \u0003AUMENTO TEMPORÁRIO DO SUOR, AUMENTO TEMPORÁRIO DO ODOR, BACTÉRIAS SE REORGANIZANDO e o CORPO VOLTANDO AO RITMO NATURAL DAS GLÂNDULAS SUDORÍPARAS.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 194,
+          "font_size_layer": 36.0,
+          "leading": "47.0",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 146,
+          "font_size_layer": 36.0,
+          "leading": "47.0",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        419.99999999999994
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/FUNDO copiar 6",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/FOTO 09 | Optima neutra com produto",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        670,
+        1080
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/Camada 1 copiar 6",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/Pele hidratada melhora o efeito",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        150,
+        124,
+        749,
+        286
+      ],
+      "text": "Pele hidratada\rmelhora o efeito",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 83.0,
+          "leading": "99.60001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 83.0,
+          "leading": "99.60001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        185.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/DO DESODORANTE SEM ALUMÍNIO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        153,
+        289,
+        911,
+        320
+      ],
+      "text": "DO DESODORANTE SEM ALUMÍNIO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 28,
+          "font_size_layer": 33.0,
+          "leading": "39.6",
+          "tracking": "190",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        294.99999999999994
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/MENOS ATRITO E IRRITAÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        148,
+        372,
+        639,
+        414
+      ],
+      "text": "MENOS ATRITO E IRRITAÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 25,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        380.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/Sem o alumínio, a axila continua suando, o qu",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        146,
+        432,
+        1720,
+        503
+      ],
+      "text": "Sem o alumínio, a axila continua suando, o que é natural. Se a pele está ressecada, ela se irrita mais facilmente e fica mais sensível ao atrito com a roupa. Irritação e suor são a combinação perfeita para o mau odor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 218,
+          "font_size_layer": 33.0,
+          "leading": "39.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        432.99999999999994
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/pH MAIS EQUILIBRADO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        147,
+        570,
+        545,
+        603
+      ],
+      "text": "pH MAIS EQUILIBRADO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 20,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        570.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/A pele ressecada tende a desregular o pH, e c",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        146,
+        622,
+        1702,
+        693
+      ],
+      "text": "A pele ressecada tende a desregular o pH, e com isso o mau odor aumenta. Com a hidratação, o pH da pele fica mais estável, deixando o ambiente menos favorável às bactérias que causam mau odor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 193,
+          "font_size_layer": 33.0,
+          "leading": "39.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        623.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/MELHORA A AÇÃO DOS ATIVOS NATURAIS",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        148,
+        757,
+        878,
+        799
+      ],
+      "text": "MELHORA A AÇÃO DOS ATIVOS NATURAIS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 35,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        765.0000000000001
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT | versao anterior/A pele hidratada permite que os ativos do des",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        146,
+        817,
+        1536,
+        850
+      ],
+      "text": "A pele hidratada permite que os ativos do desodorante sem alumínio funcionem melhor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 85,
+          "font_size_layer": 36.0,
+          "leading": "43.2",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        818.0000000000001
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        610,
+        142,
+        1782,
+        935
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/H1 | Pele hidratada melhora o efeito",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        759,
+        142,
+        1292,
+        266
+      ],
+      "text": "Pele hidratada\rmelhora o efeito",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 74.0,
+          "leading": "88.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 74.0,
+          "leading": "69.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        754.0,
+        196.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Subtitulo | faixa branca",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        752,
+        286,
+        1782,
+        335
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/DO DESODORANTE SEM ALUMÍNIO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        780,
+        297,
+        1348,
+        322
+      ],
+      "text": "DO DESODORANTE SEM ALUMÍNIO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 28,
+          "font_size_layer": 26.0,
+          "leading": "31.2",
+          "tracking": "145",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        778.0,
+        321.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Beneficio 1 | faixa malva",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        610,
+        384,
+        1782,
+        434
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/01",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        777,
+        401,
+        802,
+        420
+      ],
+      "text": "01",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 3,
+          "font_size_layer": 25.0,
+          "leading": "30.0",
+          "tracking": "30",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        776.0,
+        419.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Beneficio 1 | divisor",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        831,
+        395,
+        833,
+        423
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/MENOS ATRITO E IRRITAÇÃO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        858,
+        393,
+        1260,
+        425
+      ],
+      "text": "MENOS ATRITO E IRRITAÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 25,
+          "font_size_layer": 29.0,
+          "leading": "34.8",
+          "tracking": "-45",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        856.0,
+        420.00000000000006
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Sem o alumínio, a axila continua suando, o que é nat",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        757,
+        444,
+        1771,
+        541
+      ],
+      "text": "Sem o alumínio, a axila continua suando, o que é natural. Se a pele está ressecada, ela se irrita mais facilmente e fica mais sensível ao atrito com a roupa. Irritação e suor são a combinação perfeita para o mau odor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 218,
+          "font_size_layer": 29.0,
+          "leading": "34.8",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        756.0,
+        445.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Beneficio 2 | faixa malva",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        610,
+        610,
+        1782,
+        660
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/02",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        777,
+        627,
+        809,
+        646
+      ],
+      "text": "02",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 3,
+          "font_size_layer": 25.0,
+          "leading": "30.0",
+          "tracking": "30",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        776.0,
+        645.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Beneficio 2 | divisor",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        831,
+        621,
+        833,
+        649
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/pH MAIS EQUILIBRADO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        858,
+        625,
+        1183,
+        651
+      ],
+      "text": "pH MAIS EQUILIBRADO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 20,
+          "font_size_layer": 29.0,
+          "leading": "34.8",
+          "tracking": "-45",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        856.0,
+        645.9999999999999
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/A pele ressecada tende a desregular o pH, e com isso",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        757,
+        670,
+        1749,
+        767
+      ],
+      "text": "A pele ressecada tende a desregular o pH, e com isso o mau odor aumenta. Com a hidratação, o pH da pele fica mais estável, deixando o ambiente menos favorável às bactérias que causam mau odor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 193,
+          "font_size_layer": 29.0,
+          "leading": "34.8",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        756.0,
+        671.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Beneficio 3 | faixa malva",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        610,
+        817,
+        1782,
+        867
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/03",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        777,
+        834,
+        809,
+        853
+      ],
+      "text": "03",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 3,
+          "font_size_layer": 25.0,
+          "leading": "30.0",
+          "tracking": "30",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        776.0,
+        852.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/Beneficio 3 | divisor",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        831,
+        828,
+        833,
+        856
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/MELHORA A AÇÃO DOS ATIVOS NATURAIS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        858,
+        826,
+        1455,
+        858
+      ],
+      "text": "MELHORA A AÇÃO DOS ATIVOS NATURAIS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 35,
+          "font_size_layer": 29.0,
+          "leading": "34.8",
+          "tracking": "-45",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        856.0,
+        853.0
+      ]
+    },
+    {
+      "path": "09 — Relação entre fatores/CONTENT/A pele hidratada permite que os ativos do desodorant",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        757,
+        877,
+        1635,
+        935
+      ],
+      "text": "A pele hidratada permite que os ativos do desodorante sem alumínio funcionem melhor.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 85,
+          "font_size_layer": 29.0,
+          "leading": "34.8",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        756.0,
+        878.0000000000001
+      ]
+    },
+    {
+      "path": "08 — Propriedades",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BG copiar 3",
+      "kind": "solidcolorfill",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "08 — Propriedades/FOTO 08 | soja e oleo editorial",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1240,
+        0,
+        1919,
+        1080
+      ]
+    },
+    {
+      "path": "08 — Propriedades/Camada 2 copiar 3",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        152,
+        134,
+        721,
+        248
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto/Óleo de soja",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        152,
+        134,
+        721,
+        248
+      ],
+      "text": "Óleo de soja",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 106.0,
+          "leading": "127.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 5,
+          "font_size_layer": 106.0,
+          "leading": "127.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        230.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto/HIDRATAÇÃO PROFUNDA DA PELE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        148,
+        357,
+        549,
+        447
+      ],
+      "text": "HIDRATAÇÃO PROFUNDA DA PELE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 28,
+          "font_size_layer": 42.0,
+          "leading": "50.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        365.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto/O óleo de soja é rico em vitamina E, ômega 6 ",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        146,
+        466,
+        603,
+        666
+      ],
+      "text": "O óleo de soja é rico em vitamina E, ômega 6 e 9 e fosfolipídeos. Esses nutrientes ajudam a hidratar, amaciar e restaurar a barreira da pele.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 142,
+          "font_size_layer": 35.0,
+          "leading": "42.0",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        466.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto/AÇÃO ANTI-INFLAMATÓRIA E CALMANTE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        701,
+        405,
+        1186,
+        569
+      ],
+      "text": "AÇÃO ANTI-INFLAMATÓRIA E CALMANTE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 34,
+          "font_size_layer": 49.0,
+          "leading": "58.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        699.9999999999999,
+        415.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto/AJUDA A CONTROLAR ODORES",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1251,
+        366,
+        1694,
+        447
+      ],
+      "text": "AJUDA A CONTROLAR ODORES",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 25,
+          "font_size_layer": 42.0,
+          "leading": "50.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1249.9999999999998,
+        365.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/TITULO E CONTEUDO ANTERIOR | oculto/Hidrata a pele, mantém o pH equilibrado e red",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1251,
+        465,
+        1701,
+        623
+      ],
+      "text": "Hidrata a pele, mantém o pH equilibrado e reduz a inflamação, a irritação e a vermelhidão.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 91,
+          "font_size_layer": 36.0,
+          "leading": "43.2",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1249.9999999999998,
+        466.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        145,
+        320,
+        1315,
+        930
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        145,
+        320,
+        1315,
+        525
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE/Cartao 1 | fundo",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        320,
+        1315,
+        525
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE/Cartao 1 | filete",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        320,
+        152,
+        525
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE/Cartao 1 | numero",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        180,
+        372,
+        206,
+        395
+      ],
+      "text": "01",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 3,
+          "font_size_layer": 30.0,
+          "leading": "36.0",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 0.96078, 0.70196, 0.79608]}"
+        }
+      ],
+      "transform": [
+        0.9999999999999999,
+        0.0,
+        0.0,
+        1.0,
+        177.99999999999997,
+        393.99999999999994
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE/Cartao 1 | divisor",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        232,
+        359,
+        234,
+        399
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE/Cartao 1 | titulo",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        264,
+        366,
+        756,
+        399
+      ],
+      "text": "HIDRATAÇÃO PROFUNDA DA PELE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 28,
+          "font_size_layer": 30.0,
+          "leading": "36.0",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 0.96078, 0.70196, 0.79608]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        261.99999999999994,
+        394.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 01 | HIDRATAÇÃO PROFUNDA DA PELE/Cartao 1 | texto",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        264,
+        411,
+        1149,
+        468
+      ],
+      "text": "O óleo de soja é rico em vitamina E, ômega 6 e 9 e fosfolipídeos. \u0003Esses nutrientes ajudam a hidratar, amaciar e restaurar a barreira da pele.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 93,
+          "font_size_layer": 27.0,
+          "leading": "32.4",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 50,
+          "font_size_layer": 27.0,
+          "leading": "32.4",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        261.99999999999994,
+        411.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 02 | AÇÃO ANTI-INFLAMATÓRIA E CALMANTE",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        145,
+        565,
+        1315,
+        695
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 02 | AÇÃO ANTI-INFLAMATÓRIA E CALMANTE/Cartao 2 | fundo",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        565,
+        1315,
+        695
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 02 | AÇÃO ANTI-INFLAMATÓRIA E CALMANTE/Cartao 2 | filete",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        565,
+        152,
+        695
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 02 | AÇÃO ANTI-INFLAMATÓRIA E CALMANTE/Cartao 2 | numero",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        180,
+        617,
+        214,
+        640
+      ],
+      "text": "02",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 3,
+          "font_size_layer": 30.0,
+          "leading": "36.0",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 0.96078, 0.70196, 0.79608]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        178.00000000000003,
+        639.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 02 | AÇÃO ANTI-INFLAMATÓRIA E CALMANTE/Cartao 2 | divisor",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        232,
+        604,
+        234,
+        644
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 02 | AÇÃO ANTI-INFLAMATÓRIA E CALMANTE/Cartao 2 | titulo",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        262,
+        611,
+        856,
+        644
+      ],
+      "text": "AÇÃO ANTI-INFLAMATÓRIA E CALMANTE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 34,
+          "font_size_layer": 30.0,
+          "leading": "36.0",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 0.96078, 0.70196, 0.79608]}"
+        }
+      ],
+      "transform": [
+        0.9999999999999999,
+        0.0,
+        0.0,
+        1.0,
+        261.9999999999999,
+        638.9999999999999
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        145,
+        735,
+        1315,
+        930
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES/Cartao 3 | fundo",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        735,
+        1315,
+        930
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES/Cartao 3 | filete",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        735,
+        152,
+        930
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES/Cartao 3 | numero",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        180,
+        787,
+        214,
+        810
+      ],
+      "text": "03",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 3,
+          "font_size_layer": 30.0,
+          "leading": "36.0",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 0.96078, 0.70196, 0.79608]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        178.0,
+        809.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES/Cartao 3 | divisor",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        232,
+        774,
+        234,
+        814
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES/Cartao 3 | titulo",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        262,
+        787,
+        720,
+        810
+      ],
+      "text": "AJUDA A CONTROLAR ODORES",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 25,
+          "font_size_layer": 30.0,
+          "leading": "36.0",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 0.96078, 0.70196, 0.79608]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        261.9999999999999,
+        809.0
+      ]
+    },
+    {
+      "path": "08 — Propriedades/BENEFICIOS | layout editorial/BENEFÍCIO 03 | AJUDA A CONTROLAR ODORES/Cartao 3 | texto",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        263,
+        826,
+        1174,
+        879
+      ],
+      "text": "Hidrata a pele, mantém o pH equilibrado e reduz a inflamação, a irritação e a vermelhidão.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 91,
+          "font_size_layer": 27.0,
+          "leading": "32.4",
+          "tracking": "-55",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.9999999999999999,
+        261.99999999999994,
+        825.9999999999999
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/FUNDO copiar 5",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/FOTO 07 | substituir imagem",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1240,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/FOTO 07 | fundo neutro final",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1240,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/B BELLAS",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        1301,
+        120,
+        1920,
+        973
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/FOTO 07 | fundo neutro final copiar",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        1240,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/Camada 1 copiar 5",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        145,
+        166,
+        1366,
+        935
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Magnésio",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        146,
+        166,
+        638,
+        275
+      ],
+      "text": "Magnésio",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 9,
+          "font_size_layer": 108.0,
+          "leading": "129.60001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.1130214615241298,
+        0.0,
+        0.0,
+        1.1130214615241296,
+        134.00000000000003,
+        254.6984383154349
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Retângulo • MAIS SUAVE PARA A PELE Tem",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        323,
+        1366,
+        503
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/MAIS SUAVE PARA A PELE",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        182,
+        356,
+        640,
+        384
+      ],
+      "text": "MAIS SUAVE PARA A PELE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 23,
+          "font_size_layer": 38.0,
+          "leading": "45.6",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        179.0,
+        355.00000000000006
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Tem uma atuação mais equilibrada no nosso cor",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        182,
+        401,
+        1050,
+        463
+      ],
+      "text": "Tem uma atuação mais equilibrada no nosso corpo, sendo ideal para peles mais sensíveis e não causando irritação como o alumínio.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 129,
+          "font_size_layer": 29.0,
+          "leading": "37.2",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        181.0,
+        402.0
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Retângulo • NÃO ENTOPE OS POROS Por nã",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        546,
+        1366,
+        737
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/NÃO ENTOPE OS POROS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        182,
+        573,
+        615,
+        609
+      ],
+      "text": "NÃO ENTOPE OS POROS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 20,
+          "font_size_layer": 38.0,
+          "leading": "45.6",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        179.0,
+        580.0
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Por não ser antitranspirante, não bloqueia a ",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        182,
+        626,
+        1277,
+        688
+      ],
+      "text": "Por não ser antitranspirante, não bloqueia a transpiração. Você continua suando, o que é natural e saudável, porém sem cheiro. Ajuda a controlar as glândulas sudoríparas.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 171,
+          "font_size_layer": 29.0,
+          "leading": "36.0",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        181.0,
+        627.0000000000001
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Retângulo • NÃO MANCHA AS ROUPAS Aquel",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        145,
+        800,
+        1366,
+        935
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/NÃO MANCHA AS ROUPAS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        182,
+        823,
+        651,
+        859
+      ],
+      "text": "NÃO MANCHA AS ROUPAS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 21,
+          "font_size_layer": 38.0,
+          "leading": "45.6",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        179.0,
+        830.0
+      ]
+    },
+    {
+      "path": "07 — Benefícios do ingrediente/CONTENT/Aquelas manchas brancas e/ou amareladas se dã",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        182,
+        875,
+        1008,
+        903
+      ],
+      "text": "Aquelas manchas brancas e/ou amareladas se dão pelo alumínio.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 62,
+          "font_size_layer": 29.0,
+          "leading": "40.8",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        181.0,
+        876.9999999999999
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/FUNDO copiar 4",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/FOTO 06 | substituir imagem",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        700,
+        1080
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/FOTO 06 | fundo neutro final",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        700,
+        1080
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/Camada 1 copiar 4",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        800,
+        170,
+        1739,
+        833
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/CONTENT/Magnésio",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        800,
+        170,
+        1242,
+        268
+      ],
+      "text": "Magnésio",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 9,
+          "font_size_layer": 108.0,
+          "leading": "129.60001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        789.9999999999999,
+        250.0
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/CONTENT/O hidróxido de magnésio é um dos componentes ",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        803,
+        339,
+        1739,
+        468
+      ],
+      "text": "O hidróxido de magnésio é um dos componentes mais usados em desodorantes sem alumínio! \u0003O nosso é NANOENCAPSULADO!",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 97,
+          "font_size_layer": 41.0,
+          "leading": "49.2",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 1,
+          "font_size_layer": 41.0,
+          "leading": "49.2",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 17,
+          "font_size_layer": 41.0,
+          "leading": "49.2",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        800.0000000000001,
+        339.0
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/CONTENT/NEUTRALIZA O MAU ODOR (sem impedir a transpir",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        803,
+        560,
+        1736,
+        593
+      ],
+      "text": "NEUTRALIZA O MAU ODOR (sem impedir a transpiração)",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 22,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 29,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        800.0000000000001,
+        559.9999999999999
+      ]
+    },
+    {
+      "path": "06 — Produto e ingrediente/CONTENT/A transpiração é importante para o nosso corp",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        801,
+        623,
+        1711,
+        833
+      ],
+      "text": "A transpiração é importante para o nosso corpo, pois elimina toxinas e regula a temperatura. O mau cheiro não vem do suor em si, mas das bactérias que se alimentam dele. O hidróxido de magnésio equilibra \u0003o pH da pele, que o alumínio desregula, deixando o ambiente menos favorável à proliferação dessas bactérias e diminuindo o odor. \u0003De 8 a 10 horas de efeito.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 335,
+          "font_size_layer": 31.0,
+          "leading": "37.2",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 27,
+          "font_size_layer": 31.0,
+          "leading": "37.2",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        800.0000000000001,
+        623.0
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/BG copiar 2",
+      "kind": "solidcolorfill",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/FOTO 05 | retrato editorial",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        800,
+        1080
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/Camada 2 copiar 2",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        637,
+        200,
+        1844,
+        817
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/CONTENT/O que a ciência",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        905,
+        200,
+        1760,
+        287
+      ],
+      "text": "O que a ciência sabe",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 16,
+          "font_size_layer": 96.0,
+          "leading": "115.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 5,
+          "font_size_layer": 96.0,
+          "leading": "115.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        899.0,
+        271.0
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/CONTENT/Retângulo 1",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        637,
+        299,
+        1814,
+        359
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/CONTENT/ASSOCIAÇÃO COM O ALZHEIMER",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        906,
+        306,
+        1775,
+        345
+      ],
+      "text": "ASSOCIAÇÃO COM O ALZHEIMER",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 27,
+          "font_size_layer": 37.46424,
+          "leading": "50.4",
+          "tracking": "300",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.934224049331963,
+        0.0,
+        0.0,
+        0.9342240493319629,
+        905.8026721479958,
+        313.15732393333366
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/CONTENT/Estudos modernos não encontraram relações dir",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        907,
+        398,
+        1844,
+        685
+      ],
+      "text": "Estudos modernos não encontraram relações diretas. PORÉM, o cérebro de pacientes com Alzheimer apresenta alumínio, e isso mantém o tema em constante estudo. Muito se fala da relação do alumínio com Alzheimer, demência e Parkinson, pois o alumínio afeta nosso sistema nervoso e faz mal ao cérebro. Em pacientes com essas doenças, foram encontradas quantidades de alumínio no cérebro, mas não temos um estudo conclusivo sobre o caso.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 432,
+          "font_size_layer": 33.0,
+          "leading": "46.0275",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.934224049331963,
+        0.0,
+        0.0,
+        0.9342240493319629,
+        905.8026721479958,
+        403.5530073865711
+      ]
+    },
+    {
+      "path": "05 — Argumento e ressalva/CONTENT/EVITAR DESODORANTES COM ALUMÍNIO EM AEROSSOL",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        908,
+        789,
+        1666,
+        817
+      ],
+      "text": "EVITAR DESODORANTES COM ALUMÍNIO EM AEROSSOL",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 45,
+          "font_size_layer": 28.53367,
+          "leading": "63.95477",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0163432461316224,
+        0.0,
+        0.0,
+        1.0163432461316224,
+        906.0000000000001,
+        794.8919012742228
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1095
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/FUNDO copiar 3",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/B BELLAS",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        121,
+        114,
+        740,
+        967
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/FOTO 04 | modelo recortada e Optima",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        69,
+        38,
+        775,
+        1095
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/Camada 1 copiar 3",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        805,
+        201,
+        1764,
+        918
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/CONTENT/O que a ciência sabe",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        805,
+        201,
+        1559,
+        277
+      ],
+      "text": "O que a ciência sabe",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 75.0,
+          "leading": "90.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 75.0,
+          "leading": "90.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.129528725751753,
+        0.0,
+        0.0,
+        1.1295287257517534,
+        800.1520572450806,
+        263.3230431854014
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/CONTENT/ABSORÇÃO DO ALUMÍNIO PELA PELE",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        815,
+        322,
+        1463,
+        364
+      ],
+      "text": "ABSORÇÃO DO ALUMÍNIO PELA PELE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 31,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        815.0000000000001,
+        330.0
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/CONTENT/Estudos mostram que uma quantidade muito pequ",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        816,
+        386,
+        1726,
+        575
+      ],
+      "text": "Estudos mostram que uma quantidade muito pequena de alumínio pode ser absorvida pela pele, mas essa absorção aumenta quando a pele está recém-depilada, há irritação ou microlesões. Ainda não existem estudos que comprovem dano sistêmico, mas não é totalmente seguro.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 266,
+          "font_size_layer": 33.0,
+          "leading": "39.6",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        815.0000000000001,
+        387.0
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/CONTENT/ASSOCIAÇÃO COM CÂNCER DE MAMA",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        815,
+        637,
+        1479,
+        679
+      ],
+      "text": "ASSOCIAÇÃO COM CÂNCER DE MAMA",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 30,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        815.0000000000001,
+        645.0
+      ]
+    },
+    {
+      "path": "04 — Foto e continuação/CONTENT/Essa é a principal preocupação quando se fala",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        816,
+        701,
+        1764,
+        918
+      ],
+      "text": "Essa é a principal preocupação quando se fala de desodorante com alumínio. Mas o que a ciência diz hoje? Não há evidências conclusivas de que o alumínio cause câncer. Diversos estudos encontraram alumínio acumulado em tecidos mamários, especialmente na região das axilas. O tema continua sendo objeto de estudo.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 312,
+          "font_size_layer": 32.0,
+          "leading": "38.4",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        815.0000000000001,
+        702.0
+      ]
+    },
+    {
+      "path": "03 — Evidências",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        -236,
+        1928,
+        1080
+      ]
+    },
+    {
+      "path": "03 — Evidências/BG copiar",
+      "kind": "solidcolorfill",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "03 — Evidências/B BELLAS",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "03 — Evidências/Camada 2 copiar",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "03 — Evidências/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        154,
+        216,
+        1766,
+        855
+      ]
+    },
+    {
+      "path": "03 — Evidências/CONTENT/O que a ciência sabe",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        160,
+        216,
+        1263,
+        327
+      ],
+      "text": "O que a ciência sabe",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 100.0,
+          "leading": "120.00001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 100.0,
+          "leading": "120.00001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.2392960989539192,
+        -3.1551629540183275e-17,
+        0.0,
+        1.2392960989539188,
+        152.0,
+        307.03215296175847
+      ]
+    },
+    {
+      "path": "03 — Evidências/CONTENT/IRRITAÇÃO E SENSIBILIDADE DA PELE",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        156,
+        413,
+        907,
+        461
+      ],
+      "text": "IRRITAÇÃO E SENSIBILIDADE DA PELE",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 34,
+          "font_size_layer": 43.0,
+          "leading": "51.6",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        152.0,
+        421.99999999999994
+      ]
+    },
+    {
+      "path": "03 — Evidências/CONTENT/O alumínio é um antitranspirante, pois bloque",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        154,
+        500,
+        902,
+        712
+      ],
+      "text": "O alumínio é um antitranspirante, pois bloqueia os poros temporariamente, podendo causar irritações, inflamação local, coceira, dermatite e ressecamento. Isso é amplamente documentado em estudos dermatológicos.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 211,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        152.0,
+        501.0
+      ]
+    },
+    {
+      "path": "03 — Evidências/CONTENT/ALTERAÇÃO DO MICROBIOMA DAS AXILAS",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1023,
+        414,
+        1618,
+        504
+      ],
+      "text": "ALTERAÇÃO DO MICROBIOMA \u0003DAS AXILAS",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 36,
+          "font_size_layer": 42.0,
+          "leading": "50.4",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.90588, 0.6549, 0.75686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1022.0,
+        421.99999999999994
+      ]
+    },
+    {
+      "path": "03 — Evidências/CONTENT/Antitranspirantes com alumínio mudam o ambien",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1023,
+        539,
+        1766,
+        855
+      ],
+      "text": "Antitranspirantes com alumínio mudam o ambiente natural da pele, alterando o pH, os tipos de bactérias presentes e o equilíbrio da microbiota. Isso pode causar aumento do mau odor quando a pessoa deixa de usar alumínio, maior sensibilidade e desequilíbrio da flora natural da pele. Diversos estudos microbiológicos mostram essas alterações.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 341,
+          "font_size_layer": 34.0,
+          "leading": "40.8",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1022.0,
+        539.0
+      ]
+    },
+    {
+      "path": "02 — Contexto",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "02 — Contexto/FUNDO copiar 2",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "02 — Contexto/Camada 1 copiar 2",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        148,
+        159,
+        1727,
+        820
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/Alumínio - metal pesado",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        148,
+        159,
+        1164,
+        246
+      ],
+      "text": "Alumínio - metal pesado",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 95.0,
+          "leading": "114.00001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 16,
+          "font_size_layer": 95.0,
+          "leading": "114.00001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        145.0,
+        230.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/•",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        153,
+        330,
+        165,
+        342
+      ],
+      "text": "•",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 2,
+          "font_size_layer": 38.0,
+          "leading": "45.6",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        348.99999999999994
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/O alumínio é o componente mais utilizado nos ",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        206,
+        310,
+        1664,
+        421
+      ],
+      "text": "O alumínio é o componente mais utilizado nos desodorantes, pois é responsável por criar uma “barreira” nos nossos poros e glândulas sudoríparas. Não deixa transpirar e pode causar irritação e escurecimento (24/48 h).",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 217,
+          "font_size_layer": 34.0,
+          "leading": "40.8",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        204.0,
+        310.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/•",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        154,
+        499,
+        167,
+        512
+      ],
+      "text": "•",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 2,
+          "font_size_layer": 41.0,
+          "leading": "49.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        520.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/O alumínio está presente no nosso dia a dia: ",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        206,
+        477,
+        1727,
+        555
+      ],
+      "text": "O alumínio está presente no nosso dia a dia: desodorantes, maquiagens, esmaltes, panelas, gel dental, embalagens, água...",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 122,
+          "font_size_layer": 37.0,
+          "leading": "44.4",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        204.0,
+        478.0
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/•",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        154,
+        633,
+        168,
+        646
+      ],
+      "text": "•",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 2,
+          "font_size_layer": 44.0,
+          "leading": "52.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        655.0000000000001
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/O alumínio é TÓXICO; outros metais pesados ta",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        206,
+        603,
+        1460,
+        646
+      ],
+      "text": "O alumínio é TÓXICO; outros metais pesados também, como o COBRE.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 65,
+          "font_size_layer": 40.0,
+          "leading": "48.0",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        204.0,
+        609.9999999999999
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/•",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        153,
+        735,
+        165,
+        746
+      ],
+      "text": "•",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 2,
+          "font_size_layer": 36.0,
+          "leading": "43.2",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        150.0,
+        752.9999999999999
+      ]
+    },
+    {
+      "path": "02 — Contexto/CONTENT/Primeiro ponto importante: até hoje, estudos ",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        205,
+        710,
+        1706,
+        820
+      ],
+      "text": "Primeiro ponto importante: até hoje, estudos científicos NÃO comprovam que o alumínio em desodorantes causa doenças graves, como câncer ou Alzheimer. Mas existem motivos plausíveis para preocupação e, por isso, ele vem sendo cada vez mais estudado.",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 249,
+          "font_size_layer": 32.0,
+          "leading": "38.4",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        204.0,
+        716.0000000000001
+      ]
+    },
+    {
+      "path": "01 — Capa",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -110,
+        -18,
+        2093,
+        1451
+      ]
+    },
+    {
+      "path": "01 — Capa/FUNDO copiar",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "01 — Capa/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        -110,
+        -18,
+        2093,
+        1451
+      ]
+    },
+    {
+      "path": "01 — Capa/Camada 1 copiar",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "01 — Capa/CONTENT",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "01 — Capa/CONTENT/LIVRE DE ALUMÍNIO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        264,
+        640,
+        762,
+        690
+      ],
+      "text": "LIVRE DE ALUMÍNIO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 18,
+          "font_size_layer": 54.0,
+          "leading": "64.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        260.0,
+        650.0
+      ]
+    },
+    {
+      "path": "01 — Capa/CONTENT/TOQUE SECO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        262,
+        745,
+        596,
+        786
+      ],
+      "text": "TOQUE SECO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 11,
+          "font_size_layer": 54.0,
+          "leading": "64.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        260.0,
+        745.0
+      ]
+    },
+    {
+      "path": "01 — Capa/CONTENT/NANOTECNOLOGIA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        264,
+        840,
+        762,
+        880
+      ],
+      "text": "NANOTECNOLOGIA",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 15,
+          "font_size_layer": 54.0,
+          "leading": "64.8",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.70196, 0.44314, 0.55686]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        260.0,
+        840.0000000000001
+      ]
+    },
+    {
+      "path": "01 — Capa/Agrupar 12",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        936,
+        336,
+        1685,
+        693
+      ]
+    },
+    {
+      "path": "01 — Capa/Agrupar 12/Desodorante Optima",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        936,
+        428,
+        1685,
+        693
+      ],
+      "text": "Desodorante\rOptimaPlus",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 112.0,
+          "leading": "134.40001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 126.0,
+          "leading": "124.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 5,
+          "font_size_layer": 126.0,
+          "leading": "124.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.1669778405614362,
+        0.0,
+        0.0,
+        1.1669778405614364,
+        928.9123434704834,
+        523.8476115135069
+      ]
+    },
+    {
+      "path": "01 — Capa/Agrupar 12/Retângulo 6",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        936,
+        336,
+        1585,
+        387
+      ]
+    },
+    {
+      "path": "01 — Capa/Agrupar 12/TREINAMENTO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1017,
+        349,
+        1505,
+        375
+      ],
+      "text": "TREINAMENTO",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 34.0,
+          "leading": "0.01",
+          "tracking": "640",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0257777927584604,
+        0.0,
+        0.0,
+        1.0257777927584606,
+        1016.0313434285217,
+        374.29978129293784
+      ]
+    }
+  ]
+}

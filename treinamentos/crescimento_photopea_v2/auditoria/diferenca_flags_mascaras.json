@@ -1,0 +1,83 @@
+[
+  {
+    "id": 5,
+    "source_hex": "00",
+    "actual_hex": "10",
+    "source": {
+      "pos_relative_to_layer": false,
+      "mask_disabled": false,
+      "invert_mask": false,
+      "user_mask_from_render": false,
+      "parameters_applied": false,
+      "undocumented_1": false,
+      "undocumented_2": false,
+      "undocumented_3": false
+    },
+    "actual": {
+      "pos_relative_to_layer": false,
+      "mask_disabled": false,
+      "invert_mask": false,
+      "user_mask_from_render": false,
+      "parameters_applied": true,
+      "undocumented_1": false,
+      "undocumented_2": false,
+      "undocumented_3": false
+    },
+    "source_parameters": "None",
+    "actual_parameters": "<psd_tools.psd.layer_and_mask.MaskParameters object at 0x000002B9A06BDBD0>"
+  },
+  {
+    "id": 6,
+    "source_hex": "00",
+    "actual_hex": "10",
+    "source": {
+      "pos_relative_to_layer": false,
+      "mask_disabled": false,
+      "invert_mask": false,
+      "user_mask_from_render": false,
+      "parameters_applied": false,
+      "undocumented_1": false,
+      "undocumented_2": false,
+      "undocumented_3": false
+    },
+    "actual": {
+      "pos_relative_to_layer": false,
+      "mask_disabled": false,
+      "invert_mask": false,
+      "user_mask_from_render": false,
+      "parameters_applied": true,
+      "undocumented_1": false,
+      "undocumented_2": false,
+      "undocumented_3": false
+    },
+    "source_parameters": "None",
+    "actual_parameters": "<psd_tools.psd.layer_and_mask.MaskParameters object at 0x000002B9A06BE0D0>"
+  },
+  {
+    "id": 28,
+    "source_hex": "00",
+    "actual_hex": "10",
+    "source": {
+      "pos_relative_to_layer": false,
+      "mask_disabled": false,
+      "invert_mask": false,
+      "user_mask_from_render": false,
+      "parameters_applied": false,
+      "undocumented_1": false,
+      "undocumented_2": false,
+      "undocumented_3": false
+    },
+    "actual": {
+      "pos_relative_to_layer": false,
+      "mask_disabled": false,
+      "invert_mask": false,
+      "user_mask_from_render": false,
+      "parameters_applied": true,
+      "undocumented_1": false,
+      "undocumented_2": false,
+      "undocumented_3": false
+    },
+    "source_parameters": "None",
+    "actual_parameters": "<psd_tools.psd.layer_and_mask.MaskParameters object at 0x000002B9A06DDEF0>"
+  }
+]

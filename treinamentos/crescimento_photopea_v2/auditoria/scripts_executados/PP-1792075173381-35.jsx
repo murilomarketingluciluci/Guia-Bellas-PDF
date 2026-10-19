@@ -1,0 +1,1 @@
+app.echoToOE('ACTIVE:'+app.activeDocument.activeLayer.name);app.echoToOE('CHILDREN:'+app.activeDocument.layerSets[0].layers.length);

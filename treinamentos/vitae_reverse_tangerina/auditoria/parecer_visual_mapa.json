@@ -1,0 +1,35 @@
+{
+  "reviewer": "principal",
+  "inspected": [
+    "9 PNGs individuais",
+    "Contato das 9 telas",
+    "Renderizacao do PDF 04; igualdade RGB das 9 renderizacoes conferida por script"
+  ],
+  "technical_report": "auditoria/qa_mapa.json",
+  "references": [
+    "Optima aprovado 01-13",
+    "colageno 05",
+    "matcha 02,04,06"
+  ],
+  "technical_checks": 155,
+  "stage": "planejamento",
+  "scope": "Revisao visual comparativa do mapa; nao e QA final de fotos ou treinamento.",
+  "photo_notes": [
+    "Modelo recebida usada como principal; outras mulheres autorizadas quando pertinentes.",
+    "Quatro campos de foto no mapa, nenhum asset novo gerado.",
+    "Cabecalho e assinaturas preservados, zonas seguras de15% previstas; depende de conferir fotografias aplicadas."
+  ],
+  "approval": "pending_user",
+  "timestamp": "2026-10-15T15:45:47.4700311-03:00",
+  "decisions": [
+    "01: manter composicao; somente titulo alterado, Drink em Bold no mesmo objeto.",
+    "02: modelo principal entra na abertura; tres paragrafos preservados; comparar com Optima06 e Matcha02.",
+    "03: hierarquia centrada em2,5g e vitaminas; prova densa/tecnica comparada a Optima03.",
+    "04: tres beneficios de pele em unidades agrupadas; corrigido padding do primeiro bloco; referencia Optima07/09.",
+    "05: continuidade de unhas/cabelos com pausa tipografica; fecho sobre pesquisas conservado; aproximado no refinamento.",
+    "06: processo com unidades centralizadas; numero e texto alinhados; referencia Optima12.",
+    "07: cuidados proximos,60dias com enfase; fotografia do produto planejada; referencia Matcha06.",
+    "08: restricoes com prioridade; aproximada consulta profissional e fecho institucional.",
+    "09: agradecimento identico em RGB ao aprovado."
+  ]
+}

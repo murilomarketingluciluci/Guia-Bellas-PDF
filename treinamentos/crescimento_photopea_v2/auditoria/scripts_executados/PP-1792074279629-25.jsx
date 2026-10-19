@@ -1,0 +1,1 @@
+var d=app.activeDocument;var g=d.layerSets.add();g.name="TESTE_GRUPO_API";app.echoToOE(g.name);

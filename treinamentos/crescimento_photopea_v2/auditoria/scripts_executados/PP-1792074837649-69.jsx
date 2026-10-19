@@ -1,0 +1,1 @@
+try{var t=app.activeDocument.layerSets[0].artLayers.getByName('p02-titulo').textItem;var a=JSON.parse(t.totalTextStyle);a.Style.styles[0].FillColor.Values=[1,1,0,0];t.totalTextStyle=a;app.echoToOE(t.totalTextStyle);}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

@@ -1,0 +1,1 @@
+app.activeDocument.close(SaveOptions.DONOTSAVECHANGES);app.echoToOE('CLOSE_OK');

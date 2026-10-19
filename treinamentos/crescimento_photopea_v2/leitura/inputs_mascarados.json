@@ -1,0 +1,705 @@
+{
+  "schema_version": "1.0",
+  "timestamp": "2026-10-15T14:43:58.301502+00:00",
+  "stage": "technical_input_conversion_only",
+  "psd_tools_version": "1.25.0",
+  "script_sha256": "3a48d1f5e827b0e0f01a71c6945c1372f9eb63706d9a6d36843d18573f486c3f",
+  "source_reference": "referencias/molde_bellas_aprovado_capa_temas_agradecimento.psd",
+  "source_sha256_before": "357e5af012e7077c074f843f3809daf4978cf51bb794f692efe3da276d90271a",
+  "source_sha256_after": "357e5af012e7077c074f843f3809daf4978cf51bb794f692efe3da276d90271a",
+  "source_unchanged": true,
+  "products": [
+    {
+      "source_layer_id": 5,
+      "source_path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "name": "mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "asset": "assets/base_molde_compativel/camada_005.psd",
+      "bytes": 7504378,
+      "sha256": "ab038a7e9a28375b8c29904ebd90816220d36d66ec723ce4c40f3f7bc616f6d5",
+      "canvas": [
+        1920,
+        1080
+      ],
+      "kind": "pixel",
+      "empty_preview_compression": "RLE",
+      "bbox": [
+        -102,
+        -39,
+        1920,
+        1098
+      ],
+      "opacity255": 71,
+      "opacity_percent": 27.84313725490196,
+      "fillOpacity255": 28,
+      "blend": "norm",
+      "channels": [
+        {
+          "id": -1,
+          "compression": 1,
+          "compressed_bytes": 38658,
+          "compressed_sha256": "ee13abc1014e93cfbc364b568c0ef6344ae99cc7a2d2d310a9cdd408b276a531"
+        },
+        {
+          "id": 0,
+          "compression": 1,
+          "compressed_bytes": 2115943,
+          "compressed_sha256": "466204be1b8d638e851ee53d92cd5256e541b941bce5ece264ed78e383830a72"
+        },
+        {
+          "id": 1,
+          "compression": 1,
+          "compressed_bytes": 2099686,
+          "compressed_sha256": "78a6b6e559fb3238460411ee67550eb23441f34d1fc9ec76d5a3e2d0f6a8c789"
+        },
+        {
+          "id": 2,
+          "compression": 1,
+          "compressed_bytes": 2136379,
+          "compressed_sha256": "e06db89ebb3e52d507917bd54cbce6d9b581059a6e75ef2fba3b8585aec0700e"
+        },
+        {
+          "id": -2,
+          "compression": 1,
+          "compressed_bytes": 974645,
+          "compressed_sha256": "e2f6e6f65f37f44ddea4a19f104cfba72b863c096c0bca723757334e8efa2159"
+        }
+      ],
+      "source_cache_reference": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.cache.png",
+      "source_embedded_payload_preserved_separately": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.embedded.psb",
+      "mask": {
+        "bbox": [
+          -102,
+          -39,
+          1241,
+          1098
+        ],
+        "background": 255,
+        "disabled": false,
+        "flags": {
+          "pos_relative_to_layer": false,
+          "mask_disabled": false,
+          "invert_mask": false,
+          "user_mask_from_render": false,
+          "parameters_applied": false,
+          "undocumented_1": false,
+          "undocumented_2": false,
+          "undocumented_3": false
+        },
+        "size": [
+          1343,
+          1137
+        ],
+        "cache_raw_sha256": "89799ba61c34544818e057d7c871cba7929d18604d495d25e91a41982660a57b",
+        "offset_from_layer_top_left": [
+          0,
+          0
+        ],
+        "source_mask_reference": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/005_mantem_a_mesma_foto_apenas_altere_a_pessoa_de_costas_coloque_uma_.mask_user.png"
+      },
+      "pixel_cache": {
+        "mode": "RGBA",
+        "size": [
+          2022,
+          1137
+        ],
+        "raw_bytes_sha256": "2c1d365f231367311dcfff93bf984db979b19a10bfd14e1bb45172fe13d51b1a"
+      },
+      "removed_source_tags": [
+        {
+          "tag": "lnsr",
+          "name": "LAYER_NAME_SOURCE_SETTING"
+        },
+        {
+          "tag": "shmd",
+          "name": "METADATA_SETTING"
+        },
+        {
+          "tag": "PlLd",
+          "name": "PLACED_LAYER2"
+        },
+        {
+          "tag": "SoLd",
+          "name": "SMART_OBJECT_LAYER_DATA1"
+        },
+        {
+          "tag": "fxrp",
+          "name": "REFERENCE_POINT"
+        }
+      ],
+      "checks_passed": 21,
+      "checks_failed": 0
+    },
+    {
+      "source_layer_id": 6,
+      "source_path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/LUCI LUCI-443",
+      "name": "LUCI LUCI-443",
+      "asset": "assets/base_molde_compativel/camada_006.psd",
+      "bytes": 10485366,
+      "sha256": "d684d4105cd325d91dd73bfce6878d7883990b6d7cc0dc6b1ab2f430d795476a",
+      "canvas": [
+        1920,
+        1080
+      ],
+      "kind": "pixel",
+      "empty_preview_compression": "RLE",
+      "bbox": [
+        -132,
+        -58,
+        2111,
+        1437
+      ],
+      "opacity255": 71,
+      "opacity_percent": 27.84313725490196,
+      "fillOpacity255": 117,
+      "blend": "scrn",
+      "channels": [
+        {
+          "id": -1,
+          "compression": 1,
+          "compressed_bytes": 56814,
+          "compressed_sha256": "b2da834239c83711801fb3ae8285b14ad519179f220512a1c56ad599c7eb8e3d"
+        },
+        {
+          "id": 0,
+          "compression": 1,
+          "compressed_bytes": 2861892,
+          "compressed_sha256": "cbe850f59720bedbedf480bf08d3859f641b0eac493fc3d6aa4fdfbe4a6c7ef9"
+        },
+        {
+          "id": 1,
+          "compression": 1,
+          "compressed_bytes": 2872929,
+          "compressed_sha256": "04f59f38638c65acc96673eb6508dfabf0c9afa115f91dcb395d0df7f21e4bec"
+        },
+        {
+          "id": 2,
+          "compression": 1,
+          "compressed_bytes": 2882665,
+          "compressed_sha256": "97123692bad415d791f7892eec56551367fb07746101ee5a18a7647983cefe49"
+        },
+        {
+          "id": -2,
+          "compression": 1,
+          "compressed_bytes": 1672252,
+          "compressed_sha256": "238b1f91e881d376c65c4978a05ed8c97f5f9c17f91a1206a96d6ff996812b3f"
+        }
+      ],
+      "source_cache_reference": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.cache.png",
+      "source_embedded_payload_preserved_separately": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.embedded.jpg",
+      "mask": {
+        "bbox": [
+          -141,
+          -59,
+          2111,
+          1437
+        ],
+        "background": 255,
+        "disabled": false,
+        "flags": {
+          "pos_relative_to_layer": false,
+          "mask_disabled": false,
+          "invert_mask": false,
+          "user_mask_from_render": false,
+          "parameters_applied": false,
+          "undocumented_1": false,
+          "undocumented_2": false,
+          "undocumented_3": false
+        },
+        "size": [
+          2252,
+          1496
+        ],
+        "cache_raw_sha256": "cec1cde1f150a8d700cd8410959f592a8b275f4130cf3afafd7e7a12115db05c",
+        "offset_from_layer_top_left": [
+          -9,
+          -1
+        ],
+        "source_mask_reference": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/006_LUCI_LUCI-443.mask_user.png"
+      },
+      "pixel_cache": {
+        "mode": "RGBA",
+        "size": [
+          2243,
+          1495
+        ],
+        "raw_bytes_sha256": "c02dbbd1708800f8c951c54062ccf98874ba38db4832f28e26c52c0863315a87"
+      },
+      "removed_source_tags": [
+        {
+          "tag": "lnsr",
+          "name": "LAYER_NAME_SOURCE_SETTING"
+        },
+        {
+          "tag": "shmd",
+          "name": "METADATA_SETTING"
+        },
+        {
+          "tag": "PlLd",
+          "name": "PLACED_LAYER2"
+        },
+        {
+          "tag": "SoLd",
+          "name": "SMART_OBJECT_LAYER_DATA1"
+        },
+        {
+          "tag": "fxrp",
+          "name": "REFERENCE_POINT"
+        }
+      ],
+      "checks_passed": 21,
+      "checks_failed": 0
+    },
+    {
+      "source_layer_id": 28,
+      "source_path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/LUCI LUCI-443",
+      "name": "LUCI LUCI-443",
+      "asset": "assets/base_molde_compativel/camada_028.psd",
+      "bytes": 9856002,
+      "sha256": "9813a65bc6492a69dd28a32aabb50186e0b4866ae1c979a12d36064a483b0ea7",
+      "canvas": [
+        1920,
+        1080
+      ],
+      "kind": "pixel",
+      "empty_preview_compression": "RLE",
+      "bbox": [
+        -110,
+        -18,
+        2093,
+        1451
+      ],
+      "opacity255": 66,
+      "opacity_percent": 25.88235294117647,
+      "fillOpacity255": 199,
+      "blend": "scrn",
+      "channels": [
+        {
+          "id": -1,
+          "compression": 1,
+          "compressed_bytes": 55826,
+          "compressed_sha256": "5974049399f0ea9752966f77c1fe65e2545cc501986a2d9cabfb7343c40d21a5"
+        },
+        {
+          "id": 0,
+          "compression": 1,
+          "compressed_bytes": 2771357,
+          "compressed_sha256": "5ae63ea10b76d8b641882a22ac33ab81106feb6039f19c0f290aef0ac9f092fa"
+        },
+        {
+          "id": 1,
+          "compression": 1,
+          "compressed_bytes": 2783290,
+          "compressed_sha256": "9f1c2fda578d07821c53713d379caf59c917bf2e858aa2b273d800668db402ab"
+        },
+        {
+          "id": 2,
+          "compression": 1,
+          "compressed_bytes": 2790915,
+          "compressed_sha256": "a7bced0f3a30edcfd1dfcf610439d39e41676a85e90b7803c5548e74271534e3"
+        },
+        {
+          "id": -2,
+          "compression": 1,
+          "compressed_bytes": 1315800,
+          "compressed_sha256": "d9e9b2a74dc836c09bd161e6f3c16947424e2cadc2b8efeed036b45002625b8a"
+        }
+      ],
+      "source_cache_reference": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.cache.png",
+      "source_embedded_payload_preserved_separately": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.embedded.jpg",
+      "mask": {
+        "bbox": [
+          -118,
+          -737,
+          2093,
+          1441
+        ],
+        "background": 255,
+        "disabled": false,
+        "flags": {
+          "pos_relative_to_layer": false,
+          "mask_disabled": false,
+          "invert_mask": false,
+          "user_mask_from_render": false,
+          "parameters_applied": false,
+          "undocumented_1": false,
+          "undocumented_2": false,
+          "undocumented_3": false
+        },
+        "size": [
+          2211,
+          2178
+        ],
+        "cache_raw_sha256": "8abf8ff899419cdca1c3d0153690c0b54088468cf37b21ac91ad73c8983771c4",
+        "offset_from_layer_top_left": [
+          -8,
+          -719
+        ],
+        "source_mask_reference": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.mask_user.png"
+      },
+      "pixel_cache": {
+        "mode": "RGBA",
+        "size": [
+          2203,
+          1469
+        ],
+        "raw_bytes_sha256": "71e674c4a06355f36c4e70a6a3c6ea2f27966777bb4a63447e74c3207ee0d864"
+      },
+      "removed_source_tags": [
+        {
+          "tag": "lnsr",
+          "name": "LAYER_NAME_SOURCE_SETTING"
+        },
+        {
+          "tag": "shmd",
+          "name": "METADATA_SETTING"
+        },
+        {
+          "tag": "PlLd",
+          "name": "PLACED_LAYER2"
+        },
+        {
+          "tag": "SoLd",
+          "name": "SMART_OBJECT_LAYER_DATA1"
+        },
+        {
+          "tag": "fxrp",
+          "name": "REFERENCE_POINT"
+        }
+      ],
+      "checks_passed": 21,
+      "checks_failed": 0
+    }
+  ],
+  "checks": [
+    {
+      "layer_id": 5,
+      "test": "canvas_1920_1080",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "one_pixel_layer",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "source_name_preserved",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "bbox_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "opacity_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "fill_opacity_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "blend_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "visible_local_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "source_compressed_channels_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "pixel_cache_mode_size_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "pixel_cache_bytes_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_present",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_bbox_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_background_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_flags_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_data_record_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_cache_mode_size_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "mask_cache_bytes_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "no_composite_claim",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "icc_exact_no_profile_assignment",
+      "passed": true
+    },
+    {
+      "layer_id": 5,
+      "test": "merged_placeholder_alpha_zero",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "canvas_1920_1080",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "one_pixel_layer",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "source_name_preserved",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "bbox_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "opacity_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "fill_opacity_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "blend_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "visible_local_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "source_compressed_channels_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "pixel_cache_mode_size_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "pixel_cache_bytes_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_present",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_bbox_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_background_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_flags_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_data_record_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_cache_mode_size_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "mask_cache_bytes_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "no_composite_claim",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "icc_exact_no_profile_assignment",
+      "passed": true
+    },
+    {
+      "layer_id": 6,
+      "test": "merged_placeholder_alpha_zero",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "canvas_1920_1080",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "one_pixel_layer",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "source_name_preserved",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "bbox_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "opacity_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "fill_opacity_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "blend_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "visible_local_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "source_compressed_channels_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "pixel_cache_mode_size_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "pixel_cache_bytes_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_present",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_bbox_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_background_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_flags_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_data_record_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_cache_mode_size_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "mask_cache_bytes_exact",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "no_composite_claim",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "icc_exact_no_profile_assignment",
+      "passed": true
+    },
+    {
+      "layer_id": 28,
+      "test": "merged_placeholder_alpha_zero",
+      "passed": true
+    },
+    {
+      "test": "original_psd_unchanged",
+      "passed": true
+    }
+  ],
+  "passed": 64,
+  "failed": 0,
+  "method": "Deep-copy original compressed channel data and mask record into one PixelLayer; strip SO-specific/nonessential metadata; write PSD record directly without PSDImage.save or composite.",
+  "limitations": [
+    "These are single-layer technical input documents, not final pages or an APN created outside Photopea.",
+    "Smart Object editability, embedded-original link, original transform/warp history and nonessential metadata are removed from these input copies; originals/payloads remain preserved in source assets.",
+    "RGB/alpha/mask compressed channels, layer bbox, mask bbox/background/flags, opacity/fillOpacity/blend are preserved exactly and checked after disk re-open.",
+    "Merged preview is an intentionally transparent placeholder, has_composite=false. Rendering/import compatibility in Photopea must be tested by the principal.",
+    "No color conversion, resampling, sharpening, crop, mask application or masked-pixel multiplication was performed.",
+    "No Photopea bridge/browser or final art was accessed by this script."
+  ]
+}

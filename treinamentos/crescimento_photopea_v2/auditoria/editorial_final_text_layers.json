@@ -1,0 +1,1234 @@
+[
+  {
+    "page": 12,
+    "path": "12 - Agradecimento/p12-agradecimento",
+    "name": "p12-agradecimento",
+    "text": "OBRIGADA!",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      638,
+      494,
+      1279,
+      584
+    ]
+  },
+  {
+    "page": 12,
+    "path": "12 - Agradecimento/EMPREENDEDORISMO FEMININO",
+    "name": "EMPREENDEDORISMO FEMININO",
+    "text": "EMPREENDEDORISMO FEMININO",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      96,
+      58,
+      742,
+      70
+    ]
+  },
+  {
+    "page": 1,
+    "path": "01 - Capa/p01-titulo",
+    "name": "p01-titulo",
+    "text": "Crescimento",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      936,
+      428,
+      1646,
+      524
+    ]
+  },
+  {
+    "page": 1,
+    "path": "01 - Capa/TREINAMENTO",
+    "name": "TREINAMENTO",
+    "text": "TREINAMENTO",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      1017,
+      349,
+      1506,
+      375
+    ]
+  },
+  {
+    "page": 11,
+    "path": "11 - Venham ver/p09-titulo",
+    "name": "p09-titulo",
+    "text": "Ela encontrou Jesus\re levou outros até Ele\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      250,
+      215,
+      970,
+      344
+    ]
+  },
+  {
+    "page": 11,
+    "path": "11 - Venham ver/p09-convite",
+    "name": "p09-convite",
+    "text": "“Venham ver...”",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      250,
+      390,
+      888,
+      458
+    ]
+  },
+  {
+    "page": 11,
+    "path": "11 - Venham ver/p09-testemunho",
+    "name": "p09-testemunho",
+    "text": "Muitos samaritanos creram em Jesus\rpor causa do testemunho daquela mulher.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      255,
+      520,
+      1124,
+      610
+    ]
+  },
+  {
+    "page": 11,
+    "path": "11 - Venham ver/p09-testemunho-referencia",
+    "name": "p09-testemunho-referencia",
+    "text": "João 4:29, 39",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      255,
+      655,
+      445,
+      681
+    ]
+  },
+  {
+    "page": 11,
+    "path": "11 - Venham ver/p09-fecho",
+    "name": "p09-fecho",
+    "text": "Quem recebe não guarda para si.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      250,
+      750,
+      1018,
+      793
+    ]
+  },
+  {
+    "page": 10,
+    "path": "10 - Começar a multiplicar/p08-titulo",
+    "name": "p08-titulo",
+    "text": "Jesus preparou\rpessoas\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      145,
+      260,
+      714,
+      415
+    ]
+  },
+  {
+    "page": 10,
+    "path": "10 - Começar a multiplicar/p08-tempo",
+    "name": "p08-tempo",
+    "text": "Mas nem todas precisaram de anos\rao lado dEle para começar a multiplicar.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      150,
+      460,
+      940,
+      547
+    ]
+  },
+  {
+    "page": 10,
+    "path": "10 - Começar a multiplicar/p08-exemplo",
+    "name": "p08-exemplo",
+    "text": "A mulher samaritana encontrou Jesus\r— e levou outros até Ele.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      150,
+      675,
+      896,
+      756
+    ]
+  },
+  {
+    "page": 10,
+    "path": "10 - Começar a multiplicar/p08-exemplo-referencia",
+    "name": "p08-exemplo-referencia",
+    "text": "João 4",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      150,
+      830,
+      245,
+      852
+    ]
+  },
+  {
+    "page": 9,
+    "path": "09 - Crescer para preparar/p07-titulo",
+    "name": "p07-titulo",
+    "text": "Estamos crescendo\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      835,
+      255,
+      1509,
+      308
+    ]
+  },
+  {
+    "page": 9,
+    "path": "09 - Crescer para preparar/p07-consequencia",
+    "name": "p07-consequencia",
+    "text": "E, quanto mais crescemos,\rmais pessoas precisamos preparar.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      840,
+      410,
+      1522,
+      495
+    ]
+  },
+  {
+    "page": 9,
+    "path": "09 - Crescer para preparar/p07-proposito",
+    "name": "p07-proposito",
+    "text": "Porque o nosso maior propósito\rsão pessoas.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      840,
+      585,
+      1601,
+      686
+    ]
+  },
+  {
+    "page": 9,
+    "path": "09 - Crescer para preparar/p07-fecho",
+    "name": "p07-fecho",
+    "text": "O propósito não pode parar em nós.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      840,
+      775,
+      1501,
+      809
+    ]
+  },
+  {
+    "page": 8,
+    "path": "08 - Pessoas que preparam pessoas/p06-titulo",
+    "name": "p06-titulo",
+    "text": "Jesus preparou\rpessoas\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      150,
+      475,
+      643,
+      612
+    ]
+  },
+  {
+    "page": 8,
+    "path": "08 - Pessoas que preparam pessoas/p06-cadeia",
+    "name": "p06-cadeia",
+    "text": "E essas pessoas\rprepararam outras",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      485,
+      1167,
+      580
+    ]
+  },
+  {
+    "page": 8,
+    "path": "08 - Pessoas que preparam pessoas/p06-fecho",
+    "name": "p06-fecho",
+    "text": "Até chegar\ra nós",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      1430,
+      475,
+      1773,
+      599
+    ]
+  },
+  {
+    "page": 7,
+    "path": "07 - Até o fim/p05-titulo",
+    "name": "p05-titulo",
+    "text": "Ele foi até o fim!\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      260,
+      342,
+      1001,
+      416
+    ]
+  },
+  {
+    "page": 7,
+    "path": "07 - Até o fim/p05-citacao",
+    "name": "p05-citacao",
+    "text": "“Está consumado.”",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      265,
+      490,
+      968,
+      548
+    ]
+  },
+  {
+    "page": 7,
+    "path": "07 - Até o fim/p05-citacao-referencia",
+    "name": "p05-citacao-referencia",
+    "text": "João 19:30",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      270,
+      590,
+      437,
+      614
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/p04-titulo",
+    "name": "p04-titulo",
+    "text": "Tentaram mudar\rSua direção\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      709,
+      180,
+      1210,
+      310
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/p04-fecho",
+    "name": "p04-fecho",
+    "text": "E, ainda assim, Ele não perdeu o propósito!",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      905,
+      1431,
+      937
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-numero",
+    "name": "p04-09-numero",
+    "text": "09",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      620,
+      358,
+      658,
+      382
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-nome",
+    "name": "p04-09-nome",
+    "text": "Tiago e João",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      355,
+      918,
+      386
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-acao",
+    "name": "p04-09-acao",
+    "text": "Buscaram posição e grandeza",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      393,
+      1166,
+      422
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/09 - bloco editável/p04-09-referencia",
+    "name": "p04-09-referencia",
+    "text": "Marcos 10:35-45",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      432,
+      908,
+      451
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-numero",
+    "name": "p04-10-numero",
+    "text": "10",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      620,
+      488,
+      650,
+      512
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-nome",
+    "name": "p04-10-nome",
+    "text": "A multidão",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      485,
+      888,
+      511
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-acao",
+    "name": "p04-10-acao",
+    "text": "Pressionava para que Ele permanecesse",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      523,
+      1319,
+      551
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/10 - bloco editável/p04-10-referencia",
+    "name": "p04-10-referencia",
+    "text": "Lucas 4:42-43",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      562,
+      883,
+      581
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-numero",
+    "name": "p04-11-numero",
+    "text": "11",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      620,
+      618,
+      638,
+      640
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-nome",
+    "name": "p04-11-nome",
+    "text": "Getsêmani",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      615,
+      880,
+      641
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-acao",
+    "name": "p04-11-acao",
+    "text": "Enfrentou a angústia do caminho",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      653,
+      1215,
+      682
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/11 - bloco editável/p04-11-referencia",
+    "name": "p04-11-referencia",
+    "text": "Mateus 26:36-46",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      692,
+      915,
+      711
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-numero",
+    "name": "p04-12-numero",
+    "text": "12",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      620,
+      748,
+      647,
+      771
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-nome",
+    "name": "p04-12-nome",
+    "text": "Na cruz",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      745,
+      830,
+      769
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-acao",
+    "name": "p04-12-acao",
+    "text": "Provocaram: “Salva-te a ti mesmo”",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      783,
+      1238,
+      807
+    ]
+  },
+  {
+    "page": 6,
+    "path": "06 - Oposições 09 a 12 e permanência/12 - bloco editável/p04-12-referencia",
+    "name": "p04-12-referencia",
+    "text": "Mateus 27:39-43",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      710,
+      822,
+      912,
+      841
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/p04-titulo",
+    "name": "p04-titulo",
+    "text": "Tentaram mudar\rSua direção\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      139,
+      350,
+      697,
+      495
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-numero",
+    "name": "p04-05-numero",
+    "text": "05",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      850,
+      210,
+      889,
+      234
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-nome",
+    "name": "p04-05-nome",
+    "text": "Sua própria terra",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      210,
+      1233,
+      244
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-acao",
+    "name": "p04-05-acao",
+    "text": "Rejeitou quem Ele era",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      258,
+      1278,
+      288
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/05 - bloco editável/p04-05-referencia",
+    "name": "p04-05-referencia",
+    "text": "Lucas 4:16-30",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      301,
+      1116,
+      322
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-numero",
+    "name": "p04-06-numero",
+    "text": "06",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      850,
+      375,
+      890,
+      399
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-nome",
+    "name": "p04-06-nome",
+    "text": "Líderes religiosos",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      375,
+      1246,
+      409
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-acao",
+    "name": "p04-06-acao",
+    "text": "Confrontaram e tramaram contra Ele",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      423,
+      1514,
+      448
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/06 - bloco editável/p04-06-referencia",
+    "name": "p04-06-referencia",
+    "text": "Mateus 12:14",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      466,
+      1096,
+      487
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-numero",
+    "name": "p04-07-numero",
+    "text": "07",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      850,
+      540,
+      888,
+      564
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-nome",
+    "name": "p04-07-nome",
+    "text": "Fariseus e herodianos",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      540,
+      1319,
+      567
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-acao",
+    "name": "p04-07-acao",
+    "text": "Tentaram apanhá-lo em Suas palavras",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      588,
+      1533,
+      618
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/07 - bloco editável/p04-07-referencia",
+    "name": "p04-07-referencia",
+    "text": "Marcos 12:13-17",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      631,
+      1130,
+      652
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-numero",
+    "name": "p04-08-numero",
+    "text": "08",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      850,
+      705,
+      890,
+      729
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-nome",
+    "name": "p04-08-nome",
+    "text": "Os discípulos",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      705,
+      1170,
+      739
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-acao",
+    "name": "p04-08-acao",
+    "text": "Tentaram afastar crianças dEle",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      753,
+      1419,
+      782
+    ]
+  },
+  {
+    "page": 5,
+    "path": "05 - Oposições 05 a 08/08 - bloco editável/p04-08-referencia",
+    "name": "p04-08-referencia",
+    "text": "Marcos 10:13-16",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      935,
+      796,
+      1134,
+      817
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/p04-titulo",
+    "name": "p04-titulo",
+    "text": "Tentaram mudar Sua direção\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      140,
+      198,
+      1230,
+      270
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-numero",
+    "name": "p04-01-numero",
+    "text": "01",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      180,
+      350,
+      209,
+      374
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-nome",
+    "name": "p04-01-nome",
+    "text": "Satanás",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      270,
+      350,
+      410,
+      379
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-acao",
+    "name": "p04-01-acao",
+    "text": "Tentou desviá-lo no deserto",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      350,
+      1228,
+      377
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/01 - bloco editável/p04-01-referencia",
+    "name": "p04-01-referencia",
+    "text": "Mateus 4:1-11",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      398,
+      930,
+      419
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-numero",
+    "name": "p04-02-numero",
+    "text": "02",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      180,
+      480,
+      217,
+      504
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-nome",
+    "name": "p04-02-nome",
+    "text": "Pedro",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      270,
+      480,
+      375,
+      508
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-acao",
+    "name": "p04-02-acao",
+    "text": "Tentou afastá-lo do caminho da cruz",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      480,
+      1374,
+      507
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/02 - bloco editável/p04-02-referencia",
+    "name": "p04-02-referencia",
+    "text": "Mateus 16:21-23",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      528,
+      972,
+      549
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-numero",
+    "name": "p04-03-numero",
+    "text": "03",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      180,
+      610,
+      218,
+      634
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-nome",
+    "name": "p04-03-nome",
+    "text": "A multidão",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      270,
+      610,
+      471,
+      639
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-acao",
+    "name": "p04-03-acao",
+    "text": "Quis fazê-lo rei à força",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      610,
+      1136,
+      642
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/03 - bloco editável/p04-03-referencia",
+    "name": "p04-03-referencia",
+    "text": "João 6:14-15",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      658,
+      927,
+      679
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-numero",
+    "name": "p04-04-numero",
+    "text": "04",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      180,
+      740,
+      221,
+      764
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-nome",
+    "name": "p04-04-nome",
+    "text": "Sua própria família",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      270,
+      740,
+      613,
+      774
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-acao",
+    "name": "p04-04-acao",
+    "text": "Tentou contê-lo",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      740,
+      1023,
+      766
+    ]
+  },
+  {
+    "page": 4,
+    "path": "04 - Oposições 01 a 04/04 - bloco editável/p04-04-referencia",
+    "name": "p04-04-referencia",
+    "text": "Marcos 3:20-21",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      760,
+      788,
+      963,
+      809
+    ]
+  },
+  {
+    "page": 3,
+    "path": "03 - Propósito e direção/p03-titulo",
+    "name": "p03-titulo",
+    "text": "Jesus sabia\rpara que veio\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      145,
+      335,
+      693,
+      498
+    ]
+  },
+  {
+    "page": 3,
+    "path": "03 - Propósito e direção/p03-proposito",
+    "name": "p03-proposito",
+    "text": "Ele tinha um propósito.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      150,
+      565,
+      660,
+      607
+    ]
+  },
+  {
+    "page": 3,
+    "path": "03 - Propósito e direção/p03-direcao",
+    "name": "p03-direcao",
+    "text": "E nada mudou a Sua direção.",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      150,
+      635,
+      808,
+      678
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/p02-titulo",
+    "name": "p02-titulo",
+    "text": "Todo mundo\rquer crescer\r",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      140,
+      290,
+      590,
+      437
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/p02-premissa",
+    "name": "p02-premissa",
+    "text": "Mas crescimento\rexige preparação",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      145,
+      505,
+      485,
+      589
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/01 - bloco editável/p02-01-numero",
+    "name": "p02-01-numero",
+    "text": "01",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      920,
+      265,
+      952,
+      292
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/01 - bloco editável/p02-01",
+    "name": "p02-01",
+    "text": "Estar alicerçado",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      1050,
+      263,
+      1386,
+      302
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/02 - bloco editável/p02-02-numero",
+    "name": "p02-02-numero",
+    "text": "02",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      920,
+      405,
+      962,
+      432
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/02 - bloco editável/p02-02",
+    "name": "p02-02",
+    "text": "Estar preparado",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      1050,
+      403,
+      1388,
+      442
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/03 - bloco editável/p02-03-numero",
+    "name": "p02-03-numero",
+    "text": "03",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      920,
+      545,
+      963,
+      572
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/03 - bloco editável/p02-03",
+    "name": "p02-03",
+    "text": "Estar disposto\ra aprender",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      1050,
+      543,
+      1352,
+      633
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/04 - bloco editável/p02-04-numero",
+    "name": "p02-04-numero",
+    "text": "04",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      920,
+      685,
+      966,
+      712
+    ]
+  },
+  {
+    "page": 2,
+    "path": "02 - Preparação/04 - bloco editável/p02-04",
+    "name": "p02-04",
+    "text": "Estar disposto\ra ensinar",
+    "own_visible": true,
+    "opacity": 255,
+    "bounds": [
+      1050,
+      683,
+      1352,
+      767
+    ]
+  }
+]

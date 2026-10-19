@@ -1,0 +1,13 @@
+{
+  "status": "failed",
+  "problems": [
+    "capa diverge da referência fora da área do título",
+    "agradecimento diverge da referência aprovada"
+  ],
+  "details": {
+    "psd_page_groups": 12,
+    "hidden_text_layers": [],
+    "png_count": 12,
+    "pdf_pages": 12
+  }
+}

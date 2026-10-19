@@ -1,0 +1,165 @@
+{
+  "snapshot_at_utc": "2026-10-15T14:49:54.427534+00:00",
+  "diaries": [
+    {
+      "file": "treinamentos/crescimento_photopea_v2/auditoria/execucao/catalogo.jsonl",
+      "records": 172,
+      "json_errors": [],
+      "first_time": "2026-10-15T11:01:15.2254316-03:00",
+      "last_time": "2026-10-15T14:49:53.702Z",
+      "sha256": "9c6826809f39999fc5a474e7ea568a34a928156913cba831d22ba0179418ef66",
+      "snapshot_only": true
+    },
+    {
+      "file": "treinamentos/crescimento_photopea_v2/auditoria/execucao/conteudo.jsonl",
+      "records": 39,
+      "json_errors": [],
+      "first_time": "2026-10-15T11:01:07.8334515-03:00",
+      "last_time": "2026-10-15T11:36:33.2499286-03:00",
+      "sha256": "14b9f5c4eaa25479c15a80e2343cbe94332ccd4e1f4f2f544486975c1c1dc19f",
+      "snapshot_only": true
+    },
+    {
+      "file": "treinamentos/crescimento_photopea_v2/auditoria/execucao/photopea_api.jsonl",
+      "records": 783,
+      "json_errors": [],
+      "first_time": "2026-10-15T14:02:36.668Z",
+      "last_time": "2026-10-15T14:49:44.259Z",
+      "sha256": "780093fc42655466827bb4f3283f983e736b8b83a5e4c4419b362cb92875aad6",
+      "snapshot_only": true
+    },
+    {
+      "file": "treinamentos/crescimento_photopea_v2/auditoria/execucao/principal.jsonl",
+      "records": 395,
+      "json_errors": [],
+      "first_time": "2026-10-15T13:59:04.613130+00:00",
+      "last_time": "2026-10-15T14:49:44.643704+00:00",
+      "sha256": "c90a343a3388eb671a75ffb9630fbb61cbf5ec4d8ea3379a2f72d1d507b58204",
+      "snapshot_only": true
+    },
+    {
+      "file": "auditoria/execucao/api_validacao.jsonl",
+      "records": 80,
+      "json_errors": [],
+      "first_time": "2026-10-15T11:01:24.8980341-03:00",
+      "last_time": "2026-10-15T11:44:21.1073845-03:00",
+      "sha256": "96fe1bd3e327cd8c48c83e5b929dfdeeabd57bc344f922786d66655790a2557c",
+      "snapshot_only": true
+    }
+  ],
+  "prompts": [
+    {
+      "file": "auditoria/prompts/api_extracao_bases.json",
+      "bytes": 1276,
+      "sha256": "2df04557f53bea6c7990b92f1504731c5f7f9b3c2f0ddbcfa206230fa34b896d",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/api_fontes_followup.json",
+      "bytes": 608,
+      "sha256": "0f4e1631b8b2431329124b8c1602ebe8364b445f749f58e58037bbbd687af0c1",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/api_fontes_followup_02.json",
+      "bytes": 416,
+      "sha256": "216587a3809d29ace56a8c7beac817ae233365d2d798949d7910ff008739e653",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/api_validacao_v2.json",
+      "bytes": 1301,
+      "sha256": "2e6f3065cacc6f897d792d55522f1070de80cf8be1a753cb09dc510feeb7777c",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/catalogo_auditoria_seguimento.json",
+      "bytes": 958,
+      "sha256": "d5ce2048e3d99edddae77c13efbab8d2cf44d74d45e141dd78f55fe801832ad0",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/catalogo_novo_v2.json",
+      "bytes": 1550,
+      "sha256": "10038f82c00aeb2c38f2095d458410c7b6085244e67c4917dc638832abea4038",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/catalogo_recuperacao_delegacoes.json",
+      "bytes": 983,
+      "sha256": "a73350826ec2a538dd968c3eafa3975c9456f72120bbfafd03c42e262f6d2276",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/conteudo_novo_v2.json",
+      "bytes": 1085,
+      "sha256": "a5d273af60a03b572d0b91a5c26ab5630975142e7a6569c4fa299f0142bda997",
+      "structure": "dict",
+      "readable_messages": 1
+    },
+    {
+      "file": "auditoria/prompts/delegacoes_recuperadas.jsonl",
+      "bytes": 25330,
+      "sha256": "20b1d1084bccc34f10d66956048761623a12c0645e8b852cb30022bdb848725a",
+      "records": 11,
+      "plaintext_recovered": false
+    },
+    {
+      "file": "auditoria/prompts/delegacoes_recuperadas_indice.json",
+      "bytes": 1231,
+      "sha256": "a5d14fb91263e278d375efe244c144af76d8d127ccd5abb206836278e5280302",
+      "structure": "dict",
+      "readable_messages": 0
+    },
+    {
+      "file": "auditoria/prompts/fotos_v2.json",
+      "bytes": 4093,
+      "sha256": "aa6702d5ae554610c8c5b13e7077686be4a53042cbbe62759be1062bdedc4989",
+      "structure": "list",
+      "readable_messages": 0,
+      "image_prompts": 4
+    }
+  ],
+  "photos": [
+    {
+      "asset": "assets/foto_direcao_arcada.png",
+      "sha256": "8aee42f3a0f4729135655044d43cfd4f88ef6dfa109a7ff55e9e1d46e254a130",
+      "matches_selected_record": true,
+      "prompt_file": "auditoria/prompts/fotos_v2.json",
+      "prompt_page": 3,
+      "prompt_literal_also_present_in_principal_diary": true
+    },
+    {
+      "asset": "assets/foto_permanencia_rochas.png",
+      "sha256": "5a804b4d8b95ebcfcd4581b19d3b75cbdc73143e6d77241876bc205f676d4daf",
+      "matches_selected_record": true,
+      "prompt_file": "auditoria/prompts/fotos_v2.json",
+      "prompt_page": 6,
+      "prompt_literal_also_present_in_principal_diary": true
+    },
+    {
+      "asset": "assets/foto_pessoas_encontro.png",
+      "sha256": "95e15fae0d944b241ea7fd526510401c3a4cce3707fb08dcbf6af1d12e1c71d7",
+      "matches_selected_record": true,
+      "prompt_file": "auditoria/prompts/fotos_v2.json",
+      "prompt_page": 9,
+      "prompt_literal_also_present_in_principal_diary": true
+    },
+    {
+      "asset": "assets/foto_agua_poco.png",
+      "sha256": "515703dbe2d003cfafb68a128e25197a696c399a361cab82b3cefe1331adf72c",
+      "matches_selected_record": true,
+      "prompt_file": "auditoria/prompts/fotos_v2.json",
+      "prompt_page": 10,
+      "prompt_literal_also_present_in_principal_diary": true
+    }
+  ],
+  "scope": "Inventário parcial em montagem; não representa QA final de arte."
+}

@@ -1,0 +1,7166 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "resolution": {
+    "horizontal": 4718592,
+    "vertical": 4718592,
+    "horizontal_unit": 1,
+    "vertical_unit": 1,
+    "width_unit": 2,
+    "height_unit": 2,
+    "horizontal_ppi": 72.0,
+    "vertical_ppi": 72.0
+  },
+  "note": "Tamanhos são valores de camada; interprete junto a transform/resolução, não apenas como pt visuais.",
+  "layers": [
+    {
+      "path": "CAPA",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        0,
+        2094,
+        1528
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -109,
+        0,
+        2094,
+        1528
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        -109,
+        59,
+        2094,
+        1528
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO/Agrupar 11",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        60,
+        92,
+        738,
+        1024
+      ]
+    },
+    {
+      "path": "CAPA/FUNDO/Agrupar 4",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        53,
+        1863,
+        1029
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        58,
+        742,
+        70
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        1756,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "CAPA/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "CAPA/texto",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        723,
+        407,
+        1862,
+        673
+      ]
+    },
+    {
+      "path": "CAPA/texto/titulo",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        723,
+        407,
+        1862,
+        673
+      ]
+    },
+    {
+      "path": "CAPA/texto/titulo/a arte de apresentar seu negócio com um café bellas",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        755,
+        410,
+        1862,
+        661
+      ],
+      "text": "a arte de apresentar\rseu negócio com um\rcafé bellas",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 25,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 8,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 12,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "-60",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.7784444132828942,
+        -5.055496611197485e-17,
+        0.0,
+        0.7784444132828926,
+        752.2261100702387,
+        477.37328274447106
+      ]
+    },
+    {
+      "path": "CAPA/texto/titulo/Retângulo 897",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        723,
+        407,
+        729,
+        673
+      ]
+    },
+    {
+      "path": "CAPA/APRESENTAÇÃO",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 01/FUNDO/Agrupar 11",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        271,
+        132,
+        1011,
+        1150
+      ]
+    },
+    {
+      "path": "PÁGINA 01/FUNDO/Agrupar 4",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 01/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 01/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/texto/titulo",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/texto/clique pra editar",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1083,
+        429,
+        1671,
+        540
+      ]
+    },
+    {
+      "path": "PÁGINA 01/texto/Camada 8",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        348,
+        155,
+        937,
+        1126
+      ]
+    },
+    {
+      "path": "PÁGINA 01/APRESENTAÇÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/Agrupar 45",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 01/Agrupar 45/rosangelafruhling",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1215,
+        604,
+        1616,
+        646
+      ],
+      "text": "rosangelafruhling",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 18,
+          "font_size_layer": 120.86298,
+          "leading": "116.7767",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.3821299186384299,
+        0.0,
+        0.0,
+        0.3821299186384303,
+        1212.2045528248864,
+        637.8632112823476
+      ]
+    },
+    {
+      "path": "PÁGINA 01/Agrupar 45/Camada 9",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1141,
+        595,
+        1198,
+        651
+      ]
+    },
+    {
+      "path": "PÁGINA 02",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/FUNDO/BG",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 02/FUNDO/ChatGPT Image 24_08_2026, 14_36_40",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -106,
+        -195,
+        1932,
+        1161
+      ]
+    },
+    {
+      "path": "PÁGINA 02/FUNDO/Como fazer um evento de negócios BELLAS:",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        178,
+        220,
+        817,
+        353
+      ],
+      "text": "Como fazer um evento\u0003de negócios BELLAS:",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 23,
+          "font_size_layer": 73.15796,
+          "leading": "83.28752",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 18,
+          "font_size_layer": 73.15796,
+          "leading": "83.28752",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8884884940434681,
+        3.101424775472181e-05,
+        -3.101424775498616e-05,
+        0.888488494043468,
+        86.51808571514374,
+        220.36753064984788
+      ]
+    },
+    {
+      "path": "PÁGINA 02/FUNDO/Bellas Coffee-09016",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        966,
+        -518,
+        2147,
+        1252
+      ]
+    },
+    {
+      "path": "PÁGINA 02/FUNDO/Agrupar 32",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 34",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 34/Agrupar 33",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265326
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 02/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Pequeno: (Casa - Garagem) ",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        129,
+        472,
+        411,
+        551
+      ],
+      "text": "Pequeno:\u0003(Casa - Garagem)\u0003",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 9,
+          "font_size_layer": 56.27535,
+          "leading": "83.28752",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.97647, 0.67059, 0.79608]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 18,
+          "font_size_layer": 41.64376,
+          "leading": "42.76927",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.888219767871101,
+        3.101424775472181e-05,
+        -3.100486739705928e-05,
+        0.888488494043468,
+        127.0048786418047,
+        470.3675306498478
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Médio: (Salão de festas) festahotel) ",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        129,
+        604,
+        392,
+        687
+      ],
+      "text": "Médio:\u0003(Salão de festas) festahotel)\u0003",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 56.27535,
+          "leading": "83.28752",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.97647, 0.67059, 0.79608]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 31,
+          "font_size_layer": 41.64376,
+          "leading": "42.76927",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.888219767871101,
+        3.101424775472181e-05,
+        -3.100486739705928e-05,
+        0.888488494043468,
+        127.00487864180475,
+        606.3675306498478
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Grande: 100 pessoas ou mais Associação - Auditório ",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        128,
+        742,
+        489,
+        861
+      ],
+      "text": "Grande:\u0003100 pessoas ou mais\u0003Associação - Auditório\u0003",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 8,
+          "font_size_layer": 56.27535,
+          "leading": "83.28752",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 0.97647, 0.67059, 0.79608]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 44,
+          "font_size_layer": 41.64376,
+          "leading": "42.76927",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8882197678711002,
+        3.1014247754783775e-05,
+        -3.1004867396913136e-05,
+        0.8884884940434682,
+        127.00482595851554,
+        742.3675306480081
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Agrupar 74",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Agrupar 74/Retângulo 908",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        429,
+        536,
+        1513,
+        539
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Agrupar 74/Retângulo 908 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        429,
+        676,
+        1513,
+        679
+      ]
+    },
+    {
+      "path": "PÁGINA 02/Agrupar 75/Agrupar 74/Retângulo 908 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        487,
+        804,
+        1572,
+        807
+      ]
+    },
+    {
+      "path": "PÁGINA 03",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/Agrupar 37",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/Matiz/Saturação 1",
+      "kind": "huesaturation",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/B BELLAS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        218,
+        127,
+        783,
+        890
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/Agrupar 36",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/Agrupar 36/Agrupar 35",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/FUNDO/Agrupar 5",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 03/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Agrupar 16",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Equilíbrio de Cores 1",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Agrupar 46",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Agrupar 46/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        144,
+        543,
+        791,
+        598
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Agrupar 46/Evento Pequeno",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        159,
+        451,
+        789,
+        527
+      ],
+      "text": "Evento Pequeno",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 8,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8538466990136862,
+        2.9805015197555708e-05,
+        -2.980501519796021e-05,
+        0.8538466990136848,
+        146.275277797537,
+        448.7504708182538
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Agrupar 46/Casa - Garagem",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        227,
+        559,
+        711,
+        581
+      ],
+      "text": "Casa - Garagem",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 15,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "580",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.508832564126659,
+        224.8882631310266,
+        579.9043097752785
+      ]
+    },
+    {
+      "path": "PÁGINA 03/Camada 10",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1048,
+        133,
+        1664,
+        954
+      ]
+    },
+    {
+      "path": "PÁGINA 04",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/FUNDO/BG",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 04/FUNDO/ChatGPT Image 24_08_2026, 14_36_40",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -106,
+        -195,
+        1932,
+        1161
+      ]
+    },
+    {
+      "path": "PÁGINA 04/FUNDO/Agrupar 32",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 34",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 34/Agrupar 33",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265326
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 04/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/Agrupar 46",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/Agrupar 46/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        164,
+        561,
+        811,
+        616
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/Agrupar 46/Evento Médio",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        232,
+        462,
+        755,
+        531
+      ],
+      "text": "Evento Médio",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8538466990136862,
+        2.9805015197555708e-05,
+        -2.980501519796021e-05,
+        0.8538466990136848,
+        165.61062522956115,
+        465.875
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/Agrupar 46/Salão de festas, hotel",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        195,
+        575,
+        781,
+        601
+      ],
+      "text": "Salão de festas, hotel",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 23,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "540",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.41168883975359843,
+        7.718648007231289e-17,
+        0.0,
+        0.4116888397535995,
+        194.22361056305078,
+        597.26963465183
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/Retângulo 901",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1121,
+        149,
+        1566,
+        907
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/Camada 11",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1137,
+        165,
+        1551,
+        891
+      ]
+    },
+    {
+      "path": "PÁGINA 04/Agrupar 47/espaço p/ vídeo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1262,
+        501,
+        1418,
+        568
+      ],
+      "text": "espaço\rp/ vídeo",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 16,
+          "font_size_layer": 56.94732,
+          "leading": "66.0",
+          "tracking": "20",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5820306865516661,
+        0.0,
+        0.0,
+        0.582030686551665,
+        1258.7764350453172,
+        524.8433427555326
+      ]
+    },
+    {
+      "path": "PÁGINA 05",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -109,
+        59,
+        2094,
+        1528
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO/Chegou o dia!",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        592,
+        196,
+        1327,
+        305
+      ],
+      "text": "Chegou o dia!",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 9,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 5,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.186920167265135,
+        4.143152824094443e-05,
+        -4.143152824150672e-05,
+        1.1869201672651335,
+        435.0423005028725,
+        196.5384368728506
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO/Checklist do evento de sucesso:",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        479,
+        330,
+        1440,
+        358
+      ],
+      "text": "Checklist do evento de sucesso:",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 32,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "210",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.36347453552827197,
+        0.0,
+        0.0,
+        0.3634745355282724,
+        959.9999960921216,
+        357.1669376971467
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO/Agrupar 53",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/FUNDO/Agrupar 54",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 05/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 16",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Equilíbrio de Cores 1",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 40",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 40/Camada 7",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Retângulo 900 copiar 4",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1038,
+        454,
+        1759,
+        509
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Camada 14",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1065,
+        469,
+        1093,
+        493
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/-ABERTURA (Diamantes acima)",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1129,
+        471,
+        1687,
+        496
+      ],
+      "text": "-ABERTURA (Diamantes acima)",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 9,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 1,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 18,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.5088325641266591,
+        1127.5022278971462,
+        491.9792388698777
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Retângulo 900 copiar 4",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1038,
+        543,
+        1759,
+        598
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Camada 15",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1068,
+        558,
+        1096,
+        582
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/convidado especial",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1129,
+        559,
+        1595,
+        581
+      ],
+      "text": "convidado especial",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 19,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.5088325641266591,
+        1127.5022278971462,
+        579.9792388698777
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 48",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 48/Agrupar 52",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 48/Agrupar 52/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        160,
+        454,
+        823,
+        509
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 48/Agrupar 52/-RECEPÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        257,
+        465,
+        480,
+        497
+      ],
+      "text": "-RECEPÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 10,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.5088325641266591,
+        255.5022278971462,
+        491.9792388698777
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 48/Agrupar 52/Camada 13",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        201,
+        469,
+        229,
+        493
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 51",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 51/Retângulo 900 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        160,
+        543,
+        823,
+        598
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 51/Nº DA SORTE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        257,
+        559,
+        531,
+        581
+      ],
+      "text": "Nº DA SORTE",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 12,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.5088325641266591,
+        255.5022278971462,
+        579.9792388698777
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 51/Camada 13 copiar",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        201,
+        558,
+        229,
+        582
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 50",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 50/Retângulo 900 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        160,
+        631,
+        823,
+        686
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 50/BANDEJA DEGUSTAÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        257,
+        642,
+        740,
+        674
+      ],
+      "text": "BANDEJA DEGUSTAÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 19,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.5088325641266591,
+        255.5022278971462,
+        668.9792388698777
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 50/Camada 13 copiar 2",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        203,
+        646,
+        231,
+        670
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 49",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 49/Retângulo 900 copiar 3",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        160,
+        720,
+        823,
+        775
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 49/FOTOS NA MESA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        257,
+        736,
+        597,
+        758
+      ],
+      "text": "FOTOS NA MESA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 14,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.508832564126659,
+        0.0,
+        0.0,
+        0.5088325641266591,
+        255.5022278971462,
+        756.9792388698777
+      ]
+    },
+    {
+      "path": "PÁGINA 05/Agrupar 55/Agrupar 49/Camada 13 copiar 2",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        203,
+        735,
+        231,
+        759
+      ]
+    },
+    {
+      "path": "PÁGINA 06",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/BG",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        862,
+        -212,
+        1885,
+        1198
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/Agrupar 46",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/Agrupar 46/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        124,
+        538,
+        771,
+        593
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/Agrupar 46/Evento Grande",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        165,
+        442,
+        741,
+        508
+      ],
+      "text": "Evento Grande",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8679708695356506,
+        3.0298044118960804e-05,
+        -3.0298044119371998e-05,
+        0.8679708695356493,
+        120.2272780779746,
+        442.1656920748611
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/Agrupar 46/Salão de festas, hotel",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        155,
+        552,
+        741,
+        578
+      ],
+      "text": "Salão de festas, hotel",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 23,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "540",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.41168883975359843,
+        7.718648007231289e-17,
+        0.0,
+        0.4116888397535995,
+        154.22361056305078,
+        574.26963465183
+      ]
+    },
+    {
+      "path": "PÁGINA 06/FUNDO/Agrupar 32",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 34",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 34/Agrupar 33",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265326
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 06/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 58",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 58/Retângulo 902",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        947,
+        108,
+        1429,
+        959
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 58/Retângulo 903",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1408,
+        303,
+        1745,
+        807
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 59",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 59/Camada 17",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1434,
+        341,
+        1720,
+        770
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 59/Camada 18",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1101,
+        137,
+        1403,
+        569
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Agrupar 59/Camada 16",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        974,
+        606,
+        1404,
+        929
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Matiz/Saturação 3",
+      "kind": "huesaturation",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 06/Agrupar 56/Agrupar 57/Equilíbrio de Cores 2",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 46",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 46/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        125,
+        553,
+        744,
+        605
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 46/Evento Grande",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        152,
+        456,
+        728,
+        522
+      ],
+      "text": "Evento Grande",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8679708695356506,
+        3.0298044118960804e-05,
+        -3.0298044119371998e-05,
+        0.8679708695356493,
+        107.2272780779746,
+        456.1656920748611
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 46/Salão de festas, hotel",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        142,
+        566,
+        728,
+        592
+      ],
+      "text": "Salão de festas, hotel",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 23,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "540",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.41168883975359843,
+        7.718648007231289e-17,
+        0.0,
+        0.4116888397535995,
+        141.22361056305078,
+        588.26963465183
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 36",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 36/Agrupar 35",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/FUNDO/Agrupar 5",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 07/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 07/Agrupar 60",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        875,
+        -16,
+        1687,
+        1280
+      ]
+    },
+    {
+      "path": "PÁGINA 08",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        898,
+        -98,
+        1824,
+        1178
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 46",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 46/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        121,
+        207,
+        617,
+        250
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 46/Evento Grande",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        144,
+        130,
+        605,
+        183
+      ],
+      "text": "Evento Grande",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6951387331380808,
+        2.426503554973403e-05,
+        -2.4265035550063316e-05,
+        0.6951387331380806,
+        107.23001304805439,
+        130.41753964953136
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 46/Salão de festas, hotel",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        135,
+        218,
+        605,
+        239
+      ],
+      "text": "Salão de festas, hotel",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 23,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "540",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.32971251519823996,
+        6.181695014898372e-17,
+        0.0,
+        0.32971251519824124,
+        134.45692621353862,
+        236.21667474565248
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 36",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 36/Agrupar 35",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/FUNDO/Agrupar 5",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 08/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 08/Agrupar 62",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/Agrupar 62/Agrupar 61",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 08/Agrupar 62/Agrupar 61/Camada 20",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        728,
+        224,
+        1192,
+        843
+      ]
+    },
+    {
+      "path": "PÁGINA 08/Agrupar 62/Agrupar 61/Camada 21",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        222,
+        318,
+        686,
+        937
+      ]
+    },
+    {
+      "path": "PÁGINA 08/Agrupar 62/Agrupar 61/Camada 22",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1233,
+        130,
+        1697,
+        749
+      ]
+    },
+    {
+      "path": "PÁGINA 08/Agrupar 62/Equilíbrio de Cores 3",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/BG",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -110,
+        -62,
+        2035,
+        1240
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        27,
+        372,
+        712,
+        1314
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 64",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 64/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        166,
+        266,
+        791,
+        319
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 64/Evento Grande",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        195,
+        168,
+        775,
+        235
+      ],
+      "text": "Evento Grande",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 7,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.8767689078207602,
+        3.060515506182593e-05,
+        -3.060515506224129e-05,
+        0.876768907820759,
+        148.024596920421,
+        168.68780301098727
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 64/Salão de festas, hotel",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        192,
+        279,
+        766,
+        304
+      ],
+      "text": "Salão de festas, hotel",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 23,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "540",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.40231379650466753,
+        7.542877736328684e-17,
+        0.0,
+        0.4023137965046685,
+        192.03004247740722,
+        299.9479448119464
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Retângulo 904",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        507,
+        410,
+        903,
+        938
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Camada 25",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        524,
+        430,
+        886,
+        917
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 63",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 63/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        933,
+        273,
+        1443,
+        939
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Agrupar 63/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1473,
+        161,
+        1865,
+        939
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Camada 23",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1488,
+        178,
+        1850,
+        925
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 46/Camada 24",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        953,
+        292,
+        1422,
+        918
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 44",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        702,
+        -102,
+        1926,
+        1350
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 43",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/FUNDO/Agrupar 32",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/Agrupar 34",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/Agrupar 34/Agrupar 33",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265326
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 09/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 10",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/Recreating_photo_with_different_…_2K_202609081426",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1077,
+        -2,
+        1895,
+        1094
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/Preenchimento generativo",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1849,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1174,
+        96,
+        1859,
+        1040
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/Matiz/Saturação 2",
+      "kind": "huesaturation",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/B BELLAS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        218,
+        127,
+        783,
+        890
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/Agrupar 36",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/Agrupar 36/Agrupar 35",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/FUNDO/Agrupar 5",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 10/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 16",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Equilíbrio de Cores 1",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 64",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 64/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        158,
+        265,
+        783,
+        318
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 64/CONVITE:",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        167,
+        156,
+        651,
+        238
+      ],
+      "text": "CONVITE:",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 9,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0892413579010012,
+        3.8021878240610485e-05,
+        -3.802187824112649e-05,
+        1.0892413579009999,
+        159.6794346750254,
+        154.87538606909104
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 64/O MOMENTO DA PROSPECÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        185,
+        278,
+        763,
+        303
+      ],
+      "text": "O MOMENTO DA PROSPECÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 24,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "420",
+          "color": "{'Type': 1, 'Values': [1.0, 0.66275, 0.43921, 0.54117]}"
+        }
+      ],
+      "transform": [
+        0.40231379650466753,
+        7.542877736328684e-17,
+        0.0,
+        0.4023137965046685,
+        184.03004247740722,
+        298.9479448119464
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 65",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 65/Retângulo 905",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        149,
+        451,
+        1256,
+        631
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 65/Retângulo 906",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        116,
+        546,
+        204,
+        590
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Agrupar 65 copiar",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Agrupar 65 copiar/Retângulo 905",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        149,
+        691,
+        1256,
+        872
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Agrupar 65 copiar/Retângulo 906",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        116,
+        787,
+        204,
+        831
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Vamos realizar um café de mulheres empreendedoras, vai ter dinâ",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        212,
+        500,
+        1145,
+        587
+      ],
+      "text": "Vamos realizar um café de mulheres empreendedoras, vai ter dinâmicas, sorteios e surpresas!",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 92,
+          "font_size_layer": 40.0,
+          "leading": "50.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        211.32449660214002,
+        500.5276184414553
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Quero te presentear com um ingresso, vim rapidinho antes que fi",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        213,
+        742,
+        1115,
+        828
+      ],
+      "text": "Quero te presentear com um ingresso, vim rapidinho antes que fique lotado, posso por teu nome na lista?",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 104,
+          "font_size_layer": 40.0,
+          "leading": "50.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        211.32449660214002,
+        741.5276184414553
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Retângulo 907",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        192,
+        433,
+        421,
+        472
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/texto 01",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        239,
+        443,
+        364,
+        460
+      ],
+      "text": "texto 01",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 9,
+          "font_size_layer": 45.0,
+          "leading": "57.0",
+          "tracking": "100",
+          "color": "{'Type': 1, 'Values': [1.0, 0.66275, 0.43921, 0.54117]}"
+        }
+      ],
+      "transform": [
+        0.4981257446131945,
+        0.0,
+        0.0,
+        0.49812574461319453,
+        238.75246462800092,
+        458.79180497719256
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/Retângulo 907 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        192,
+        674,
+        421,
+        713
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Agrupar 66/texto 02",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        239,
+        684,
+        369,
+        701
+      ],
+      "text": "texto 02",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 9,
+          "font_size_layer": 45.0,
+          "leading": "57.0",
+          "tracking": "100",
+          "color": "{'Type': 1, 'Values': [1.0, 0.66275, 0.43921, 0.54117]}"
+        }
+      ],
+      "transform": [
+        0.4981257446131945,
+        0.0,
+        0.0,
+        0.49812574461319453,
+        238.75246462800092,
+        699.7918049771926
+      ]
+    },
+    {
+      "path": "PÁGINA 10/Camada 26",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        1155,
+        64,
+        1824,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 11",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 11/FUNDO/Chegou o dia!",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        141,
+        198,
+        876,
+        307
+      ],
+      "text": "Chegou o dia!",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 9,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 5,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.186920167265135,
+        4.143152824094443e-05,
+        -4.143152824150672e-05,
+        1.1869201672651335,
+        133.04230050287248,
+        198.5384368728506
+      ]
+    },
+    {
+      "path": "PÁGINA 11/FUNDO/Checklist do evento de sucesso:",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        991,
+        246,
+        1732,
+        268
+      ],
+      "text": "Checklist do evento de sucesso:",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 32,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "210",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.2804914392763742,
+        0.0,
+        0.0,
+        0.28049143927637443,
+        988.9999960921216,
+        266.5896131927013
+      ]
+    },
+    {
+      "path": "PÁGINA 11/FUNDO/Agrupar 53",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/FUNDO/Agrupar 54",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 11/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 16",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Equilíbrio de Cores 1",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 40",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 40/Camada 7",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 68",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 68/Retângulo 900 copiar 4",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        114,
+        758,
+        880,
+        816
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 68/Camada 14",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        149,
+        774,
+        179,
+        799
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 68/-ABERTURA (Diamantes acima)",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        210,
+        776,
+        768,
+        802
+      ],
+      "text": "-ABERTURA (Diamantes acima)",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 9,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 1,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 18,
+          "font_size_layer": 51.09736,
+          "leading": "90.18012",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        208.98486667144078,
+        798.1569304316504
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 67",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 67/Retângulo 900 copiar 4",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        114,
+        852,
+        880,
+        910
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 67/Camada 15",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        149,
+        868,
+        179,
+        893
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 67/convidado especial",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        210,
+        870,
+        705,
+        893
+      ],
+      "text": "convidado especial",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 19,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        208.98486667144078,
+        891.6013256465374
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 52",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 52/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        115,
+        382,
+        882,
+        440
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 52/-RECEPÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        217,
+        394,
+        454,
+        428
+      ],
+      "text": "-RECEPÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 10,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        215.63334383000085,
+        422.45471359111383
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 52/Camada 13",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        149,
+        398,
+        179,
+        423
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 69",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 69/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1017,
+        382,
+        1737,
+        494
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 69/Plano, produtos,  depoimentos, histórias",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1152,
+        405,
+        1576,
+        470
+      ],
+      "text": "Plano, produtos, \u0003depoimentos, histórias",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 41,
+          "font_size_layer": 56.94732,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        1150.0772959788712,
+        426.7021861008814
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 69/Camada 13",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1091,
+        424,
+        1121,
+        449
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 72",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 72/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1017,
+        509,
+        1737,
+        621
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 72/Fale com quem te convidou e faça teu cadastro",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1152,
+        532,
+        1658,
+        598
+      ],
+      "text": "Fale com quem te convidou\u0003e faça teu cadastro",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 46,
+          "font_size_layer": 56.94732,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        1150.0772959788712,
+        554.1263613939093
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 72/Camada 13",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1091,
+        552,
+        1121,
+        577
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 70",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 70/Retângulo 900 copiar 5",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1017,
+        644,
+        1737,
+        756
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 70/Honra, sorteios e dinâmica",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1152,
+        680,
+        1656,
+        713
+      ],
+      "text": "Honra, sorteios e dinâmica",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 27,
+          "font_size_layer": 56.94732,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        1150.0772959788712,
+        708.0972398729843
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 70/Camada 13 copiar 3",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1091,
+        684,
+        1121,
+        709
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 71",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 71/Retângulo 900 copiar 6",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1017,
+        771,
+        1737,
+        884
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 71/Café, chá, suco",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        1151,
+        807,
+        1433,
+        841
+      ],
+      "text": "Café, chá, suco",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 16,
+          "font_size_layer": 56.94732,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        1150.0772959788712,
+        835.5214151660123
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 71/Camada 13 copiar 4",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1091,
+        811,
+        1121,
+        836
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 51",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 51/Retângulo 900 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        115,
+        476,
+        882,
+        534
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 51/Nº DA SORTE",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        217,
+        494,
+        508,
+        517
+      ],
+      "text": "Nº DA SORTE",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 12,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        215.63334383000085,
+        515.8991088060009
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 51/Camada 13 copiar",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        149,
+        493,
+        179,
+        518
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 50",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 50/Retângulo 900 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        115,
+        570,
+        882,
+        628
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 50/BANDEJA DEGUSTAÇÃO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        217,
+        582,
+        729,
+        616
+      ],
+      "text": "BANDEJA DEGUSTAÇÃO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 19,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        215.63334383000085,
+        610.4053721483299
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 50/Camada 13 copiar 2",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        149,
+        586,
+        179,
+        611
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 49",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 49/Retângulo 900 copiar 3",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        115,
+        664,
+        882,
+        722
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 49/FOTOS NA MESA",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        217,
+        682,
+        578,
+        705
+      ],
+      "text": "FOTOS NA MESA",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 14,
+          "font_size_layer": 56.94732,
+          "leading": "90.18012",
+          "tracking": "200",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.5400318154800723,
+        0.0,
+        0.0,
+        0.5403130820506351,
+        215.63334383000085,
+        703.8497673632169
+      ]
+    },
+    {
+      "path": "PÁGINA 11/Agrupar 55/Agrupar 73/Agrupar 49/Camada 13 copiar 2",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        149,
+        681,
+        179,
+        706
+      ]
+    },
+    {
+      "path": "PÁGINA 12",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/Matiz/Saturação 2",
+      "kind": "huesaturation",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/B BELLAS",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        218,
+        127,
+        783,
+        890
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/Agrupar 36",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/Agrupar 36/Agrupar 35",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/FUNDO/Agrupar 5",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 12/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 12/Agrupar 16",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/Equilíbrio de Cores 1",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 12/Vídeo de  depoimento: ",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        304,
+        427,
+        791,
+        604
+      ],
+      "text": "Vídeo de \u0003depoimento: ",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 10,
+          "font_size_layer": 81.98193,
+          "leading": "92.52246",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 81.98193,
+          "leading": "92.52246",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 2,
+          "font_size_layer": 81.98193,
+          "leading": "88.03571",
+          "tracking": "-80",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.064340787631153,
+        3.715268020290204e-05,
+        -3.715268020377359e-05,
+        1.0643407876311517,
+        199.5137272526897,
+        427.8392422910653
+      ]
+    },
+    {
+      "path": "PÁGINA 12/WhatsApp Video 2026-09-07 at 22.41.00",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1048,
+        97,
+        1546,
+        981
+      ]
+    },
+    {
+      "path": "PÁGINA 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/Apresente o plano sem slide:",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        946,
+        196,
+        1552,
+        334
+      ],
+      "text": "Apresente\ro plano sem slide:",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 18,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 11,
+          "font_size_layer": 102.50517,
+          "leading": "91.35129",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.761001952886373,
+        2.6564106645078637e-05,
+        -2.6564106645439155e-05,
+        0.761001952886372,
+        942.8100697242534,
+        194.03524375118303
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/Recreating_photo_with_different_…_2K_2026090814261",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -18,
+        0,
+        788,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        128,
+        128,
+        747,
+        981
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/Camada 27",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        156,
+        108,
+        574,
+        965
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/Agrupar 53",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/FUNDO/Agrupar 54",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/texto/TITULO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/texto/TITULO/Agrupar 13",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/texto/PARÁGRAFOS",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/Agrupar 15",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000011,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/ELEMENTOS CORES/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/ELEMENTOS CORES/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 13/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 16",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Equilíbrio de Cores 1",
+      "kind": "colorbalance",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 40",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 40/Camada 7",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 69",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 69/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        673,
+        447,
+        1688,
+        546
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 69/100% de lucro",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        912,
+        483,
+        1181,
+        507
+      ],
+      "text": "100% de lucro",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 14,
+          "font_size_layer": 67.15581,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.4762557612416249,
+        -3.8133235634156937e-17,
+        0.0,
+        0.47650381111727175,
+        912.0708871386796,
+        506.39088687558626
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 69/Camada 13",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        851,
+        477,
+        895,
+        515
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 72",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 72/Retângulo 900",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        673,
+        561,
+        1688,
+        660
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 72/Cadastro sem custo",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        913,
+        598,
+        1302,
+        622
+      ],
+      "text": "Cadastro sem custo",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 19,
+          "font_size_layer": 67.15581,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.4762557612416249,
+        -3.8133235634156937e-17,
+        0.0,
+        0.47650381111727175,
+        912.0708871386796,
+        620.5304752486439
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 72/Camada 13",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        851,
+        592,
+        895,
+        630
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 70",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 70/Retângulo 900 copiar 5",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        673,
+        676,
+        1688,
+        775
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 70/Pontos lucs",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        914,
+        713,
+        1149,
+        737
+      ],
+      "text": "Pontos lucs",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 12,
+          "font_size_layer": 67.15581,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.4762557612416249,
+        -3.8133235634156937e-17,
+        0.0,
+        0.47650381111727175,
+        912.0708871386796,
+        736.0341060395191
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 70/Camada 13 copiar 3",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        852,
+        708,
+        894,
+        744
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 71",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 71/Retângulo 900 copiar 6",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        673,
+        790,
+        1688,
+        890
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 71/⁠Investimento a partir de R$120,00",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        915,
+        823,
+        1552,
+        853
+      ],
+      "text": "⁠Investimento a partir de R$120,00",
+      "styles": [
+        {
+          "font": "Gotham-Bold",
+          "run_length": 35,
+          "font_size_layer": 67.15581,
+          "leading": "70.75019",
+          "tracking": "0",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.4762557612416249,
+        -3.8133235634156937e-17,
+        0.0,
+        0.47650381111727175,
+        912.0708871386796,
+        848.4098881049123
+      ]
+    },
+    {
+      "path": "PÁGINA 13/Agrupar 55/Agrupar 73/Agrupar 71/Camada 13 copiar 4",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        851,
+        821,
+        895,
+        859
+      ]
+    },
+    {
+      "path": "PÁGINA 14",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 14/fundo",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 14/fundo/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "PÁGINA 14/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -102,
+        -39,
+        1920,
+        1098
+      ]
+    },
+    {
+      "path": "PÁGINA 14/fundo/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "PÁGINA 14/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 14/texto/obrigada!",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        638,
+        494,
+        1280,
+        584
+      ],
+      "text": "obrigada!",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 10,
+          "font_size_layer": 85.63322,
+          "leading": "85.63322",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.4398922098659868,
+        0.0,
+        0.0,
+        1.4398922098659872,
+        629.4256988954323,
+        582.4373745069365
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "PÁGINA 14/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    }
+  ]
+}

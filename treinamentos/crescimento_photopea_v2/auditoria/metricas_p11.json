@@ -1,0 +1,7 @@
+{
+  "id": "PP-1792075655727-151",
+  "echoes": [
+    "METRICS:[{\"name\":\"p09-titulo\",\"text\":\"Ela encontrou Jesus\\re levou outros até Ele\",\"bounds\":[250,215,951,344],\"font\":\"Gotham-Book\"},{\"name\":\"p09-convite\",\"text\":\"“Venham ver...”\",\"bounds\":[250,405,888,473],\"font\":\"Gotham-Light\"},{\"name\":\"p09-testemunho\",\"text\":\"Muitos samaritanos creram em Jesus\\rpor causa do testemunho daquela mulher.\",\"bounds\":[255,565,1124,655],\"font\":\"Gotham-Book\"},{\"name\":\"p09-testemunho-referencia\",\"text\":\"João 4:29, 39\",\"bounds\":[255,710,445,736],\"font\":\"Gotham-Medium\"},{\"name\":\"p09-fecho\",\"text\":\"Quem recebe não guarda para si.\",\"bounds\":[250,825,1018,868],\"font\":\"Gotham-Bold\"}]"
+  ],
+  "files": []
+}

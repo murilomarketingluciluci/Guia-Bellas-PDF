@@ -1,0 +1,127 @@
+{
+  "treinamento": "Crescimento",
+  "stage": "leitura_conferida",
+  "metodo": "Leitura visual integral das nove artes PNG em 1920 × 1080; conteúdo separado de identidade do evento.",
+  "fonte_historica": "C:/Users/Murilo/Documents/Projetos/Acelera/Slides Telão 13-09 domingo aracaju-se/apn luciane",
+  "escopo": "Preservar conteúdo, números e referências bíblicas; corrigir apenas português evidente; adaptar composição à identidade Bellas.",
+  "marcas_fonte": {
+    "presente_em": ["fonte/01.png", "fonte/02.png", "fonte/03.png", "fonte/04.png", "fonte/05.png", "fonte/06.png", "fonte/07.png", "fonte/08.png", "fonte/09.png"],
+    "evento": "ACELERA!",
+    "local": "ARACAJU - SE",
+    "assinatura": "LUCI|LUCI",
+    "grafismo": "Três globos no canto superior esquerdo",
+    "decisao": "Evento, local e globos são identidade histórica da fonte, não conteúdo do treinamento; substituição pelo tema fixo Bellas. A assinatura Luci|Luci vem do molde Bellas."
+  },
+  "paginas_fonte": [
+    {
+      "arquivo": "fonte/01.png",
+      "titulo_original": "CRESCIMENTO",
+      "titulo_final": "Crescimento",
+      "blocos": [],
+      "papel": "Capa"
+    },
+    {
+      "arquivo": "fonte/02.png",
+      "titulo_original": "TODO MUNDO QUER CRESCER",
+      "titulo_final": "Todo mundo quer crescer",
+      "subtitulo_original": "MAS CRESCIMENTO EXIG PREPARAÇÃO",
+      "subtitulo_final": "Mas crescimento exige preparação",
+      "blocos": [
+        {"numero": "01", "texto_original": "ESTAR ALICERÇADO", "texto_final": "Estar alicerçado"},
+        {"numero": "02", "texto_original": "ESTAR PREPARADO", "texto_final": "Estar preparado"},
+        {"numero": "03", "texto_original": "ESTAR DISPOSTO A APRENDER", "texto_final": "Estar disposto a aprender"},
+        {"numero": "04", "texto_original": "ESTAR DISPOSTO A ENSINAR", "texto_final": "Estar disposto a ensinar"}
+      ]
+    },
+    {
+      "arquivo": "fonte/03.png",
+      "titulo_original": "JESUS SABIA PARA QUE VEIO",
+      "titulo_final": "Jesus sabia para que veio",
+      "blocos": [
+        {"texto_original": "Ele tinha um propósito.", "texto_final": "Ele tinha um propósito."},
+        {"texto_original": "E nada mudou a Sua direção.", "texto_final": "E nada mudou a Sua direção."}
+      ]
+    },
+    {
+      "arquivo": "fonte/04.png",
+      "titulo_original": "TENTARAM MUDAR SUA DIREÇÃO",
+      "titulo_final": "Tentaram mudar Sua direção",
+      "blocos": [
+        {"numero": "01", "sujeito": "Satanás", "texto_original": "Tentou desviá-lo no deserto", "texto_final": "Tentou desviá-lo no deserto", "referencia": "Mateus 4:1-11"},
+        {"numero": "02", "sujeito": "Pedro", "texto_original": "Tentou afastá-lo do caminho da cruz", "texto_final": "Tentou afastá-lo do caminho da cruz", "referencia": "Mateus 16:21-23"},
+        {"numero": "03", "sujeito": "A multidão", "texto_original": "Quis fazê-lo rei à força", "texto_final": "Quis fazê-lo rei à força", "referencia": "João 6:14-15"},
+        {"numero": "04", "sujeito": "Sua própria família", "texto_original": "Tentou contê-lo", "texto_final": "Tentou contê-lo", "referencia": "Marcos 3:20-21"},
+        {"numero": "05", "sujeito": "Sua própria terra", "texto_original": "Rejeitou quem Ele era", "texto_final": "Rejeitou quem Ele era", "referencia": "Lucas 4:16-30"},
+        {"numero": "06", "sujeito": "Líderes religiosos", "texto_original": "Confrontaran e tramaram contra Ele", "texto_final": "Confrontaram e tramaram contra Ele", "referencia": "Mateus 12:14", "nota": "A arte contém Confrontaran; correção evidente de flexão verbal para Confrontaram."},
+        {"numero": "07", "sujeito": "Fariseus e herodianos", "texto_original": "Tentaram apanhá-lo em Suas palavras", "texto_final": "Tentaram apanhá-lo em Suas palavras", "referencia": "Marcos 12:13-17"},
+        {"numero": "08", "sujeito": "Os discípulos", "texto_original": "Tentaram afastar crianças dEle", "texto_final": "Tentaram afastar crianças dEle", "referencia": "Marcos 10:13-16"},
+        {"numero": "09", "sujeito": "Tiago e João", "texto_original": "Buscaram posição e grandeza", "texto_final": "Buscaram posição e grandeza", "referencia": "Marcos 10:35-45"},
+        {"numero": "10", "sujeito": "A multidão", "texto_original": "Pressionava para que Ele permanecesse", "texto_final": "Pressionava para que Ele permanecesse", "referencia": "Lucas 4:42-43"},
+        {"numero": "11", "sujeito": "Getsêmani", "texto_original": "Enfrentou a angústia do caminho", "texto_final": "Enfrentou a angústia do caminho", "referencia": "Mateus 26:36-46"},
+        {"numero": "12", "sujeito": "Na cruz", "texto_original": "Provocaram: “salva-te a ti mesmo”", "texto_final": "Provocaram: “Salva-te a ti mesmo”", "referencia": "Mateus 27:39-43"}
+      ],
+      "fecho_original": "E AINDA ASSIM, ELE NÃO PERDEU O PROPÓSITO!",
+      "fecho_final": "E, ainda assim, Ele não perdeu o propósito!"
+    },
+    {
+      "arquivo": "fonte/05.png",
+      "titulo_original": "ELE FOI ATÉ O FIM!",
+      "titulo_final": "Ele foi até o fim!",
+      "blocos": [
+        {"texto_original": "“Está consumado.”", "texto_final": "“Está consumado.”", "referencia": "João 19:30"}
+      ]
+    },
+    {
+      "arquivo": "fonte/06.png",
+      "titulo_original": "JESUS PREPAROU PESSOAS",
+      "titulo_final": "Jesus preparou pessoas",
+      "blocos": [
+        {"texto_original": "E essas pessoas prepararam outras", "texto_final": "E essas pessoas prepararam outras"},
+        {"texto_original": "ATÉ CHEGAR EM NÓS", "texto_final": "Até chegar em nós"}
+      ]
+    },
+    {
+      "arquivo": "fonte/07.png",
+      "titulo_original": "ESTAMOS CRESCENDO",
+      "titulo_final": "Estamos crescendo",
+      "blocos": [
+        {"texto_original": "E quanto mais crescemos, mais pessoas precisamos preparar", "texto_final": "E quanto mais crescemos, mais pessoas precisamos preparar."},
+        {"texto_original": "PORQUE O NOSSO MAIOR PROPÓSITO SÃO PESSOAS", "texto_final": "Porque o nosso maior propósito são pessoas."},
+        {"texto_original": "O propósito não pode parar em nós", "texto_final": "O propósito não pode parar em nós."}
+      ]
+    },
+    {
+      "arquivo": "fonte/08.png",
+      "titulo_original": "JESUS PREPAROU PESSOAS",
+      "titulo_final": "Jesus preparou pessoas",
+      "blocos": [
+        {"texto_original": "MAS NEM TODAS PRECISARAM DE ANOS AO LADO DELE PARA COMEÇAR A MULTIPLICAR", "texto_final": "Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar."},
+        {"texto_original": "A mulher samaritana encontrou Jesus — e levou outros até Ele", "texto_final": "A mulher samaritana encontrou Jesus — e levou outros até Ele.", "referencia": "João 4"}
+      ]
+    },
+    {
+      "arquivo": "fonte/09.png",
+      "titulo_original": "ELA ENCONTROU JESUS E LEVOU OUTROS ATÉ ELE",
+      "titulo_final": "Ela encontrou Jesus e levou outros até Ele",
+      "blocos": [
+        {"texto_original": "“VENHAM VER...”", "texto_final": "“Venham ver...”"},
+        {"texto_original": "Muitos samaritanos CRERAM em Jesus por causa do TESTEMUNHO daquela mulher", "texto_final": "Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher.", "referencia": "João 4:29, 39"},
+        {"texto_original": "QUEM RECEBE NÃO GUARDA PARA SI", "texto_final": "Quem recebe não guarda para si."}
+      ]
+    }
+  ],
+  "roteiro_sugerido": [
+    {"pagina": 1, "fonte": "fonte/01.png", "titulo": "Crescimento", "composicao": "Capa Bellas aprovada; alterar somente título."},
+    {"pagina": 2, "fonte": "fonte/02.png", "titulo": "Todo mundo quer crescer", "conteudo": "Subtítulo e quatro atitudes numeradas; nenhuma supressão."},
+    {"pagina": 3, "fonte": "fonte/03.png", "titulo": "Jesus sabia para que veio", "conteudo": "Duas frases sobre propósito e direção; página de respiro."},
+    {"pagina": 4, "fonte": "fonte/04.png", "titulo": "Tentaram mudar Sua direção", "conteudo": "Episódios 01–04, com sujeitos, descrições e referências integrais."},
+    {"pagina": 5, "fonte": "fonte/04.png", "titulo": "Tentaram mudar Sua direção", "conteudo": "Episódios 05–08, com sujeitos, descrições e referências integrais."},
+    {"pagina": 6, "fonte": "fonte/04.png", "titulo": "Tentaram mudar Sua direção", "conteudo": "Episódios 09–12 e fecho integral sobre não perder o propósito."},
+    {"pagina": 7, "fonte": "fonte/05.png", "titulo": "Ele foi até o fim!", "conteudo": "Citação e referência João 19:30."},
+    {"pagina": 8, "fonte": "fonte/06.png", "titulo": "Jesus preparou pessoas", "conteudo": "Cadeia de preparação até chegar em nós."},
+    {"pagina": 9, "fonte": "fonte/07.png", "titulo": "Estamos crescendo", "conteudo": "Três frases integrais sobre preparar pessoas e transmitir propósito."},
+    {"pagina": 10, "fonte": "fonte/08.png", "titulo": "Jesus preparou pessoas", "conteudo": "Nem todas precisaram de anos; mulher samaritana; João 4."},
+    {"pagina": 11, "fonte": "fonte/09.png", "titulo": "Ela encontrou Jesus e levou outros até Ele", "conteudo": "Venham ver; testemunho; João 4:29, 39; quem recebe não guarda para si."},
+    {"pagina": 12, "fonte": "molde_aprovado", "titulo": "Agradecimento", "composicao": "Página de agradecimento aprovada, sem alterações."}
+  ]
+}

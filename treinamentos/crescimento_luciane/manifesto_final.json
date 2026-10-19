@@ -1,0 +1,2255 @@
+{
+  "schema_version": "1.0",
+  "stage": "final",
+  "project": "Crescimento | APN Luciane | Bellas",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "template": {
+    "psd": "../../referencias/molde_bellas_aprovado_capa_temas_agradecimento.psd",
+    "approved_psd": "../../exemplos/optima_final/optima_apn_bellas_final.psd",
+    "groups": {
+      "cover": "CAPA APROVADA - ALTERAR SOMENTE TITULO",
+      "thanks": "AGRADECIMENTO APROVADO - ULTIMA PAGINA",
+      "light": "TEMA CLARO VAZIO - DUPLICAR",
+      "dark": "TEMA ESCURO VAZIO - DUPLICAR"
+    }
+  },
+  "workflow_override": {
+    "map_approval": "Dispensada explicitamente pelo usuário nesta sessão; executar até o final com revisão independente."
+  },
+  "slides": [
+    {
+      "number": 1,
+      "name": "Capa",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Crescimento",
+          "rect": [
+            0.4838542,
+            0.3888889,
+            0.4895833,
+            0.287037
+          ],
+          "box_px": [
+            929,
+            420,
+            940,
+            310
+          ],
+          "size_pt": 112,
+          "font": "Gotham-Book",
+          "leading_pt": 126.56,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/01.png",
+            "page": 1,
+            "block": "titulo"
+          }
+        }
+      ],
+      "source_file": "fonte/01.png",
+      "composition_reason": "Composição aprovada da capa; somente o título muda."
+    },
+    {
+      "number": 2,
+      "name": "Crescer exige preparação",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0,
+            0.3645833333333333,
+            1
+          ],
+          "box_px": [
+            0,
+            0,
+            700,
+            1080
+          ],
+          "asset": "assets/foto_02_preparacao.png",
+          "fit": "cover",
+          "asset_status": "final",
+          "safe_top_bottom": 0.15
+        },
+        {
+          "role": "h1",
+          "text": "Todo mundo\nquer crescer",
+          "rect": [
+            0.4166667,
+            0.1462963,
+            0.515625,
+            0.1898148
+          ],
+          "box_px": [
+            800,
+            158,
+            990,
+            205
+          ],
+          "size_pt": 95,
+          "font": "Gotham-Book",
+          "leading_pt": 101,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "quer crescer",
+            "font": "Gotham-Bold",
+            "color": "B3718E"
+          },
+          "source": {
+            "file": "fonte/02.png",
+            "page": 2,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "body",
+          "text": "Mas crescimento exige preparação",
+          "rect": [
+            0.4192708,
+            0.3583333,
+            0.515625,
+            0.0555556
+          ],
+          "box_px": [
+            805,
+            387,
+            990,
+            60
+          ],
+          "size_pt": 39,
+          "font": "Gotham-Book",
+          "leading_pt": 44.07,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/02.png",
+            "page": 2,
+            "block": "subtitulo"
+          }
+        },
+        {
+          "role": "card",
+          "text": "Estar alicerçado",
+          "rect": [
+            0.4166667,
+            0.4638889,
+            0.5104167,
+            0.0740741
+          ],
+          "box_px": [
+            800,
+            501,
+            980,
+            80
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Medium",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/02.png",
+            "page": 2,
+            "block": "1"
+          },
+          "card_id": "atitude_1",
+          "number": "01",
+          "padding": [
+            112,
+            25
+          ],
+          "background": "A9708A",
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "card",
+          "text": "Estar preparado",
+          "rect": [
+            0.4166667,
+            0.5592593,
+            0.5104167,
+            0.0740741
+          ],
+          "box_px": [
+            800,
+            604,
+            980,
+            80
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Medium",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/02.png",
+            "page": 2,
+            "block": "2"
+          },
+          "card_id": "atitude_2",
+          "number": "02",
+          "padding": [
+            112,
+            25
+          ],
+          "background": "A9708A",
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "card",
+          "text": "Estar disposto a aprender",
+          "rect": [
+            0.4166667,
+            0.6546296,
+            0.5104167,
+            0.0740741
+          ],
+          "box_px": [
+            800,
+            707,
+            980,
+            80
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Medium",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/02.png",
+            "page": 2,
+            "block": "3"
+          },
+          "card_id": "atitude_3",
+          "number": "03",
+          "padding": [
+            112,
+            25
+          ],
+          "background": "A9708A",
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "card",
+          "text": "Estar disposto a ensinar",
+          "rect": [
+            0.4166667,
+            0.75,
+            0.5104167,
+            0.0740741
+          ],
+          "box_px": [
+            800,
+            810,
+            980,
+            80
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Medium",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/02.png",
+            "page": 2,
+            "block": "4"
+          },
+          "card_id": "atitude_4",
+          "number": "04",
+          "padding": [
+            112,
+            25
+          ],
+          "background": "A9708A",
+          "background_export_target": "BC718C"
+        }
+      ],
+      "source_file": "fonte/02.png",
+      "composition_reason": "Quatro atitudes curtas em faixas; imagem de estudo dá contexto sem competir com a lista."
+    },
+    {
+      "number": 3,
+      "name": "Propósito e direção",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.6354166666666666,
+            0,
+            0.3645833333333333,
+            1
+          ],
+          "box_px": [
+            1220,
+            0,
+            700,
+            1080
+          ],
+          "asset": "assets/foto_03_caminho.png",
+          "fit": "cover",
+          "asset_status": "final",
+          "safe_top_bottom": 0.15
+        },
+        {
+          "role": "h1",
+          "text": "Jesus sabia\npara que veio",
+          "rect": [
+            0.0703125,
+            0.1898148,
+            0.5260417,
+            0.2148148
+          ],
+          "box_px": [
+            135,
+            205,
+            1010,
+            232
+          ],
+          "size_pt": 101,
+          "font": "Gotham-Book",
+          "leading_pt": 112,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "para que veio",
+            "font": "Gotham-Bold",
+            "color": "E7A7C1",
+            "export_target": "FBA9C3"
+          },
+          "source": {
+            "file": "fonte/03.png",
+            "page": 3,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "body",
+          "text": "Ele tinha um propósito.",
+          "rect": [
+            0.0755208,
+            0.4777778,
+            0.5078125,
+            0.0814815
+          ],
+          "box_px": [
+            145,
+            516,
+            975,
+            88
+          ],
+          "size_pt": 48,
+          "font": "Gotham-Book",
+          "leading_pt": 54.24,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/03.png",
+            "page": 3,
+            "block": "1"
+          }
+        },
+        {
+          "role": "callout",
+          "text": "E nada mudou\na Sua direção.",
+          "rect": [
+            0.0755208,
+            0.6111111,
+            0.5078125,
+            0.1462963
+          ],
+          "box_px": [
+            145,
+            660,
+            975,
+            158
+          ],
+          "size_pt": 52,
+          "font": "Gotham-Bold",
+          "leading_pt": 62,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/03.png",
+            "page": 3,
+            "block": "2"
+          }
+        }
+      ],
+      "source_file": "fonte/03.png",
+      "composition_reason": "Fotografia de caminho acompanha a afirmação de direção; frase principal com amplo respiro."
+    },
+    {
+      "number": 4,
+      "name": "Direção - episódios 01 a 04",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Tentaram mudar\nSua direção",
+          "rect": [
+            0.0729167,
+            0.1342593,
+            0.8515625,
+            0.1898148
+          ],
+          "box_px": [
+            140,
+            145,
+            1635,
+            205
+          ],
+          "size_pt": 91,
+          "font": "Gotham-Book",
+          "leading_pt": 99,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "Sua direção",
+            "font": "Gotham-Bold",
+            "color": "B3718E"
+          },
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "card",
+          "text": "Satanás",
+          "rect": [
+            0.0729167,
+            0.3898148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            140,
+            421,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "01.sujeito"
+          },
+          "card_id": "episodio_01",
+          "number": "01",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Tentou desviá-lo no deserto",
+          "rect": [
+            0.1291667,
+            0.4666667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            248,
+            504,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "01.descricao"
+          },
+          "card_id": "episodio_01"
+        },
+        {
+          "role": "body",
+          "text": "Mateus 4:1-11",
+          "rect": [
+            0.1291667,
+            0.5398148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            248,
+            583,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "01.referencia"
+          },
+          "card_id": "episodio_01"
+        },
+        {
+          "role": "card",
+          "text": "Pedro",
+          "rect": [
+            0.5078125,
+            0.3898148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            975,
+            421,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "02.sujeito"
+          },
+          "card_id": "episodio_02",
+          "number": "02",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Tentou afastá-lo do caminho da cruz",
+          "rect": [
+            0.5640625,
+            0.4666667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            1083,
+            504,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "02.descricao"
+          },
+          "card_id": "episodio_02"
+        },
+        {
+          "role": "body",
+          "text": "Mateus 16:21-23",
+          "rect": [
+            0.5640625,
+            0.5398148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            1083,
+            583,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "02.referencia"
+          },
+          "card_id": "episodio_02"
+        },
+        {
+          "role": "card",
+          "text": "A multidão",
+          "rect": [
+            0.0729167,
+            0.6148148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            140,
+            664,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "03.sujeito"
+          },
+          "card_id": "episodio_03",
+          "number": "03",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Quis fazê-lo rei à força",
+          "rect": [
+            0.1291667,
+            0.6916667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            248,
+            747,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "03.descricao"
+          },
+          "card_id": "episodio_03"
+        },
+        {
+          "role": "body",
+          "text": "João 6:14-15",
+          "rect": [
+            0.1291667,
+            0.7648148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            248,
+            826,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "03.referencia"
+          },
+          "card_id": "episodio_03"
+        },
+        {
+          "role": "card",
+          "text": "Sua própria família",
+          "rect": [
+            0.5078125,
+            0.6148148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            975,
+            664,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "04.sujeito"
+          },
+          "card_id": "episodio_04",
+          "number": "04",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Tentou contê-lo",
+          "rect": [
+            0.5640625,
+            0.6916667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            1083,
+            747,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "04.descricao"
+          },
+          "card_id": "episodio_04"
+        },
+        {
+          "role": "body",
+          "text": "Marcos 3:20-21",
+          "rect": [
+            0.5640625,
+            0.7648148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            1083,
+            826,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "04.referencia"
+          },
+          "card_id": "episodio_04"
+        }
+      ],
+      "source_file": "fonte/04.png",
+      "composition_reason": "Quatro episódios por página com descrição e referência completas; grid 2 por 2 para preservar corpo e entrelinha."
+    },
+    {
+      "number": 5,
+      "name": "Direção - episódios 05 a 08",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Tentaram mudar\nSua direção",
+          "rect": [
+            0.0729167,
+            0.1342593,
+            0.8515625,
+            0.1898148
+          ],
+          "box_px": [
+            140,
+            145,
+            1635,
+            205
+          ],
+          "size_pt": 91,
+          "font": "Gotham-Book",
+          "leading_pt": 99,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "Sua direção",
+            "font": "Gotham-Bold",
+            "color": "E7A7C1",
+            "export_target": "FBA9C3"
+          },
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "card",
+          "text": "Sua própria terra",
+          "rect": [
+            0.0729167,
+            0.3898148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            140,
+            421,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "05.sujeito"
+          },
+          "card_id": "episodio_05",
+          "number": "05",
+          "background": "86566F",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "965570"
+        },
+        {
+          "role": "body",
+          "text": "Rejeitou quem Ele era",
+          "rect": [
+            0.1291667,
+            0.4666667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            248,
+            504,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "05.descricao"
+          },
+          "card_id": "episodio_05"
+        },
+        {
+          "role": "body",
+          "text": "Lucas 4:16-30",
+          "rect": [
+            0.1291667,
+            0.5398148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            248,
+            583,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "05.referencia"
+          },
+          "card_id": "episodio_05"
+        },
+        {
+          "role": "card",
+          "text": "Líderes religiosos",
+          "rect": [
+            0.5078125,
+            0.3898148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            975,
+            421,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "06.sujeito"
+          },
+          "card_id": "episodio_06",
+          "number": "06",
+          "background": "86566F",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "965570"
+        },
+        {
+          "role": "body",
+          "text": "Confrontaram e tramaram contra Ele",
+          "rect": [
+            0.5640625,
+            0.4666667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            1083,
+            504,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "06.descricao"
+          },
+          "card_id": "episodio_06"
+        },
+        {
+          "role": "body",
+          "text": "Mateus 12:14",
+          "rect": [
+            0.5640625,
+            0.5398148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            1083,
+            583,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "06.referencia"
+          },
+          "card_id": "episodio_06"
+        },
+        {
+          "role": "card",
+          "text": "Fariseus e herodianos",
+          "rect": [
+            0.0729167,
+            0.6148148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            140,
+            664,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "07.sujeito"
+          },
+          "card_id": "episodio_07",
+          "number": "07",
+          "background": "86566F",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "965570"
+        },
+        {
+          "role": "body",
+          "text": "Tentaram apanhá-lo em Suas palavras",
+          "rect": [
+            0.1291667,
+            0.6916667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            248,
+            747,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "07.descricao"
+          },
+          "card_id": "episodio_07"
+        },
+        {
+          "role": "body",
+          "text": "Marcos 12:13-17",
+          "rect": [
+            0.1291667,
+            0.7648148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            248,
+            826,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "07.referencia"
+          },
+          "card_id": "episodio_07"
+        },
+        {
+          "role": "card",
+          "text": "Os discípulos",
+          "rect": [
+            0.5078125,
+            0.6148148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            975,
+            664,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "08.sujeito"
+          },
+          "card_id": "episodio_08",
+          "number": "08",
+          "background": "86566F",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "965570"
+        },
+        {
+          "role": "body",
+          "text": "Tentaram afastar crianças dEle",
+          "rect": [
+            0.5640625,
+            0.6916667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            1083,
+            747,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "08.descricao"
+          },
+          "card_id": "episodio_08"
+        },
+        {
+          "role": "body",
+          "text": "Marcos 10:13-16",
+          "rect": [
+            0.5640625,
+            0.7648148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            1083,
+            826,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "08.referencia"
+          },
+          "card_id": "episodio_08"
+        }
+      ],
+      "source_file": "fonte/04.png",
+      "composition_reason": "Quatro episódios por página com descrição e referência completas; grid 2 por 2 para preservar corpo e entrelinha."
+    },
+    {
+      "number": 6,
+      "name": "Direção - episódios 09 a 12",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Tentaram mudar\nSua direção",
+          "rect": [
+            0.0729167,
+            0.1342593,
+            0.8515625,
+            0.1898148
+          ],
+          "box_px": [
+            140,
+            145,
+            1635,
+            205
+          ],
+          "size_pt": 91,
+          "font": "Gotham-Book",
+          "leading_pt": 99,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "Sua direção",
+            "font": "Gotham-Bold",
+            "color": "B3718E"
+          },
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "card",
+          "text": "Tiago e João",
+          "rect": [
+            0.0729167,
+            0.3898148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            140,
+            421,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "09.sujeito"
+          },
+          "card_id": "episodio_09",
+          "number": "09",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Buscaram posição e grandeza",
+          "rect": [
+            0.1291667,
+            0.4666667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            248,
+            504,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "09.descricao"
+          },
+          "card_id": "episodio_09"
+        },
+        {
+          "role": "body",
+          "text": "Marcos 10:35-45",
+          "rect": [
+            0.1291667,
+            0.5398148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            248,
+            583,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "09.referencia"
+          },
+          "card_id": "episodio_09"
+        },
+        {
+          "role": "card",
+          "text": "A multidão",
+          "rect": [
+            0.5078125,
+            0.3898148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            975,
+            421,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "10.sujeito"
+          },
+          "card_id": "episodio_10",
+          "number": "10",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Pressionava para que Ele permanecesse",
+          "rect": [
+            0.5640625,
+            0.4666667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            1083,
+            504,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "10.descricao"
+          },
+          "card_id": "episodio_10"
+        },
+        {
+          "role": "body",
+          "text": "Lucas 4:42-43",
+          "rect": [
+            0.5640625,
+            0.5398148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            1083,
+            583,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "10.referencia"
+          },
+          "card_id": "episodio_10"
+        },
+        {
+          "role": "card",
+          "text": "Getsêmani",
+          "rect": [
+            0.0729167,
+            0.6148148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            140,
+            664,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "11.sujeito"
+          },
+          "card_id": "episodio_11",
+          "number": "11",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Enfrentou a angústia do caminho",
+          "rect": [
+            0.1291667,
+            0.6916667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            248,
+            747,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "11.descricao"
+          },
+          "card_id": "episodio_11"
+        },
+        {
+          "role": "body",
+          "text": "Mateus 26:36-46",
+          "rect": [
+            0.1291667,
+            0.7648148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            248,
+            826,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "11.referencia"
+          },
+          "card_id": "episodio_11"
+        },
+        {
+          "role": "card",
+          "text": "Na cruz",
+          "rect": [
+            0.5078125,
+            0.6148148,
+            0.4166667,
+            0.1953704
+          ],
+          "box_px": [
+            975,
+            664,
+            800,
+            211
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "12.sujeito"
+          },
+          "card_id": "episodio_12",
+          "number": "12",
+          "background": "A9708A",
+          "padding": [
+            108,
+            24
+          ],
+          "card_title": true,
+          "background_export_target": "BC718C"
+        },
+        {
+          "role": "body",
+          "text": "Provocaram: “Salva-te a ti mesmo”",
+          "rect": [
+            0.5640625,
+            0.6916667,
+            0.3385417,
+            0.0666667
+          ],
+          "box_px": [
+            1083,
+            747,
+            650,
+            72
+          ],
+          "size_pt": 33,
+          "font": "Gotham-Book",
+          "leading_pt": 39,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "12.descricao"
+          },
+          "card_id": "episodio_12"
+        },
+        {
+          "role": "body",
+          "text": "Mateus 27:39-43",
+          "rect": [
+            0.5640625,
+            0.7648148,
+            0.3385417,
+            0.0324074
+          ],
+          "box_px": [
+            1083,
+            826,
+            650,
+            35
+          ],
+          "size_pt": 27,
+          "font": "Gotham-Medium",
+          "leading_pt": 30.51,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "12.referencia"
+          },
+          "card_id": "episodio_12"
+        },
+        {
+          "role": "callout",
+          "text": "E, ainda assim, Ele não perdeu o propósito!",
+          "rect": [
+            0.0755208,
+            0.8472222,
+            0.8489583,
+            0.0481481
+          ],
+          "box_px": [
+            145,
+            915,
+            1630,
+            52
+          ],
+          "size_pt": 37,
+          "font": "Gotham-Bold",
+          "leading_pt": 41.81,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/04.png",
+            "page": 4,
+            "block": "fecho"
+          }
+        }
+      ],
+      "source_file": "fonte/04.png",
+      "composition_reason": "Quatro episódios por página com descrição e referência completas; grid 2 por 2 para preservar corpo e entrelinha."
+    },
+    {
+      "number": 7,
+      "name": "Até o fim",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Ele foi até o fim!",
+          "rect": [
+            0.109375,
+            0.225,
+            0.78125,
+            0.1537037
+          ],
+          "box_px": [
+            210,
+            243,
+            1500,
+            166
+          ],
+          "size_pt": 126,
+          "font": "Gotham-Book",
+          "leading_pt": 142.38,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "até o fim!",
+            "font": "Gotham-Bold",
+            "color": "E7A7C1",
+            "export_target": "FBA9C3"
+          },
+          "source": {
+            "file": "fonte/05.png",
+            "page": 5,
+            "block": "titulo"
+          },
+          "align": "center"
+        },
+        {
+          "role": "quote",
+          "text": "“Está consumado.”",
+          "rect": [
+            0.1171875,
+            0.4805556,
+            0.765625,
+            0.112963
+          ],
+          "box_px": [
+            225,
+            519,
+            1470,
+            122
+          ],
+          "size_pt": 79,
+          "font": "Gotham-Light",
+          "leading_pt": 89.27,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/05.png",
+            "page": 5,
+            "block": "citacao"
+          },
+          "align": "center"
+        },
+        {
+          "role": "body",
+          "text": "João 19:30",
+          "rect": [
+            0.3385417,
+            0.6574074,
+            0.3229167,
+            0.0601852
+          ],
+          "box_px": [
+            650,
+            710,
+            620,
+            65
+          ],
+          "size_pt": 34,
+          "font": "Gotham-Medium",
+          "leading_pt": 38.42,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/05.png",
+            "page": 5,
+            "block": "referencia"
+          },
+          "align": "center"
+        }
+      ],
+      "source_file": "fonte/05.png",
+      "composition_reason": "Pausa tipográfica depois dos doze episódios. Citação e referência preservadas."
+    },
+    {
+      "number": 8,
+      "name": "Preparar outras pessoas",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0,
+            0.3697916666666667,
+            1
+          ],
+          "box_px": [
+            0,
+            0,
+            710,
+            1080
+          ],
+          "asset": "assets/foto_08_mentoria.png",
+          "fit": "cover",
+          "asset_status": "final",
+          "safe_top_bottom": 0.15
+        },
+        {
+          "role": "h1",
+          "text": "Jesus preparou\npessoas",
+          "rect": [
+            0.4244792,
+            0.1694444,
+            0.5052083,
+            0.2018519
+          ],
+          "box_px": [
+            815,
+            183,
+            970,
+            218
+          ],
+          "size_pt": 97,
+          "font": "Gotham-Book",
+          "leading_pt": 104,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "pessoas",
+            "font": "Gotham-Bold",
+            "color": "B3718E"
+          },
+          "source": {
+            "file": "fonte/06.png",
+            "page": 6,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "body",
+          "text": "E essas pessoas\nprepararam outras",
+          "rect": [
+            0.4270833,
+            0.4666667,
+            0.4947917,
+            0.1314815
+          ],
+          "box_px": [
+            820,
+            504,
+            950,
+            142
+          ],
+          "size_pt": 48,
+          "font": "Gotham-Book",
+          "leading_pt": 61,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/06.png",
+            "page": 6,
+            "block": "1"
+          }
+        },
+        {
+          "role": "callout",
+          "text": "Até chegar em nós",
+          "rect": [
+            0.4244792,
+            0.712037,
+            0.5,
+            0.0972222
+          ],
+          "box_px": [
+            815,
+            769,
+            960,
+            105
+          ],
+          "size_pt": 54,
+          "font": "Gotham-Bold",
+          "leading_pt": 61.02,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/06.png",
+            "page": 6,
+            "block": "2"
+          },
+          "background": "A9708A",
+          "padding": [
+            32,
+            20
+          ],
+          "background_export_target": "BC718C"
+        }
+      ],
+      "source_file": "fonte/06.png",
+      "composition_reason": "Mentoria contemporânea à esquerda; progressão textual à direita sem acrescentar etapas inexistentes na fonte."
+    },
+    {
+      "number": 9,
+      "name": "Crescimento tem pessoas como propósito",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.6354166666666666,
+            0,
+            0.3645833333333333,
+            1
+          ],
+          "box_px": [
+            1220,
+            0,
+            700,
+            1080
+          ],
+          "asset": "assets/foto_09_equipe.png",
+          "fit": "cover",
+          "asset_status": "final",
+          "safe_top_bottom": 0.15
+        },
+        {
+          "role": "h1",
+          "text": "Estamos\ncrescendo",
+          "rect": [
+            0.0729167,
+            0.1518519,
+            0.5208333,
+            0.1925926
+          ],
+          "box_px": [
+            140,
+            164,
+            1000,
+            208
+          ],
+          "size_pt": 97,
+          "font": "Gotham-Book",
+          "leading_pt": 105,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "crescendo",
+            "font": "Gotham-Bold",
+            "color": "E7A7C1",
+            "export_target": "FBA9C3"
+          },
+          "source": {
+            "file": "fonte/07.png",
+            "page": 7,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "body",
+          "text": "E quanto mais crescemos,\nmais pessoas precisamos preparar.",
+          "rect": [
+            0.0755208,
+            0.4055556,
+            0.5208333,
+            0.1240741
+          ],
+          "box_px": [
+            145,
+            438,
+            1000,
+            134
+          ],
+          "size_pt": 41,
+          "font": "Gotham-Book",
+          "leading_pt": 53,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/07.png",
+            "page": 7,
+            "block": "1"
+          }
+        },
+        {
+          "role": "callout",
+          "text": "Porque o nosso maior\npropósito são pessoas.",
+          "rect": [
+            0.0755208,
+            0.5814815,
+            0.5208333,
+            0.1314815
+          ],
+          "box_px": [
+            145,
+            628,
+            1000,
+            142
+          ],
+          "size_pt": 51,
+          "font": "Gotham-Bold",
+          "leading_pt": 61,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/07.png",
+            "page": 7,
+            "block": "2"
+          }
+        },
+        {
+          "role": "body",
+          "text": "O propósito não pode parar em nós.",
+          "rect": [
+            0.0755208,
+            0.7972222,
+            0.5208333,
+            0.0703704
+          ],
+          "box_px": [
+            145,
+            861,
+            1000,
+            76
+          ],
+          "size_pt": 38,
+          "font": "Gotham-Book",
+          "leading_pt": 42.94,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/07.png",
+            "page": 7,
+            "block": "3"
+          }
+        }
+      ],
+      "source_file": "fonte/07.png",
+      "composition_reason": "Equipe à direita e três níveis de mensagem à esquerda; palavra pessoas se destaca sem substituir o argumento."
+    },
+    {
+      "number": 10,
+      "name": "Começar a multiplicar",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Jesus preparou\npessoas",
+          "rect": [
+            0.0729167,
+            0.1546296,
+            0.5,
+            0.1944444
+          ],
+          "box_px": [
+            140,
+            167,
+            960,
+            210
+          ],
+          "size_pt": 97,
+          "font": "Gotham-Book",
+          "leading_pt": 105,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "pessoas",
+            "font": "Gotham-Bold",
+            "color": "B3718E"
+          },
+          "source": {
+            "file": "fonte/08.png",
+            "page": 8,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "body",
+          "text": "Mas nem todas precisaram de anos\nao lado dEle para começar a multiplicar.",
+          "rect": [
+            0.0755208,
+            0.4453704,
+            0.5208333,
+            0.1805556
+          ],
+          "box_px": [
+            145,
+            481,
+            1000,
+            195
+          ],
+          "size_pt": 48,
+          "font": "Gotham-Book",
+          "leading_pt": 60,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/08.png",
+            "page": 8,
+            "block": "1"
+          }
+        },
+        {
+          "role": "callout",
+          "text": "A mulher samaritana\nencontrou Jesus e levou\noutros até Ele.",
+          "rect": [
+            0.6302083,
+            0.4398148,
+            0.296875,
+            0.2453704
+          ],
+          "box_px": [
+            1210,
+            475,
+            570,
+            265
+          ],
+          "size_pt": 43,
+          "font": "Gotham-Medium",
+          "leading_pt": 57,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/08.png",
+            "page": 8,
+            "block": "2"
+          }
+        },
+        {
+          "role": "body",
+          "text": "João 4",
+          "rect": [
+            0.6302083,
+            0.6203704,
+            0.296875,
+            0.0509259
+          ],
+          "box_px": [
+            1210,
+            670,
+            570,
+            55
+          ],
+          "size_pt": 32,
+          "font": "Gotham-Medium",
+          "leading_pt": 36.16,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/08.png",
+            "page": 8,
+            "block": "referencia"
+          }
+        }
+      ],
+      "source_file": "fonte/08.png",
+      "composition_reason": "Duas partes da fonte 08, com a mensagem sobre tempo e a mulher samaritana separadas por um filete; preservar João 4."
+    },
+    {
+      "number": 11,
+      "name": "Quem recebe compartilha",
+      "theme": "escuro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Ela encontrou Jesus\ne levou outros até Ele",
+          "rect": [
+            0.0729167,
+            0.1407407,
+            0.84375,
+            0.2037037
+          ],
+          "box_px": [
+            140,
+            152,
+            1620,
+            220
+          ],
+          "size_pt": 87,
+          "font": "Gotham-Book",
+          "leading_pt": 97,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "emphasis": {
+            "text": "levou outros até Ele",
+            "font": "Gotham-Bold",
+            "color": "E7A7C1",
+            "export_target": "FBA9C3"
+          },
+          "source": {
+            "file": "fonte/09.png",
+            "page": 9,
+            "block": "titulo"
+          }
+        },
+        {
+          "role": "quote",
+          "text": "“Venham ver...”",
+          "rect": [
+            0.0755208,
+            0.4148148,
+            0.84375,
+            0.1157407
+          ],
+          "box_px": [
+            145,
+            448,
+            1620,
+            125
+          ],
+          "size_pt": 86,
+          "font": "Gotham-Light",
+          "leading_pt": 97.18,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/09.png",
+            "page": 9,
+            "block": "citacao"
+          }
+        },
+        {
+          "role": "body",
+          "text": "Muitos samaritanos creram em Jesus por causa\ndo testemunho daquela mulher.",
+          "rect": [
+            0.078125,
+            0.5907407,
+            0.8229167,
+            0.1055556
+          ],
+          "box_px": [
+            150,
+            638,
+            1580,
+            114
+          ],
+          "size_pt": 42,
+          "font": "Gotham-Book",
+          "leading_pt": 53,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/09.png",
+            "page": 9,
+            "block": "1"
+          }
+        },
+        {
+          "role": "body",
+          "text": "João 4:29, 39",
+          "rect": [
+            0.078125,
+            0.7324074,
+            0.625,
+            0.0509259
+          ],
+          "box_px": [
+            150,
+            791,
+            1200,
+            55
+          ],
+          "size_pt": 30,
+          "font": "Gotham-Medium",
+          "leading_pt": 33.9,
+          "tracking": -60,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/09.png",
+            "page": 9,
+            "block": "referencia"
+          }
+        },
+        {
+          "role": "callout",
+          "text": "Quem recebe não guarda para si.",
+          "rect": [
+            0.0755208,
+            0.837037,
+            0.84375,
+            0.0574074
+          ],
+          "box_px": [
+            145,
+            904,
+            1620,
+            62
+          ],
+          "size_pt": 52,
+          "font": "Gotham-Bold",
+          "leading_pt": 58.76,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "fonte/09.png",
+            "page": 9,
+            "block": "2"
+          }
+        }
+      ],
+      "source_file": "fonte/09.png",
+      "composition_reason": "Última tela de conteúdo em composição tipográfica; chamada e testemunho completos, sem foto desnecessária."
+    },
+    {
+      "number": 12,
+      "name": "Agradecimento",
+      "theme": "claro",
+      "elements": [
+        {
+          "role": "h1",
+          "text": "obrigada!",
+          "rect": [
+            0.328125,
+            0.4537037,
+            0.34375,
+            0.1018519
+          ],
+          "box_px": [
+            630,
+            490,
+            660,
+            110
+          ],
+          "size_pt": 85.63322,
+          "font": "Gotham-Light",
+          "leading_pt": 96.77,
+          "tracking": -70,
+          "color": "FFFFFF",
+          "source": {
+            "file": "../../exemplos/optima_final/optima_apn_bellas_final.psd",
+            "group": "13 - Agradecimento"
+          }
+        }
+      ],
+      "source_file": "../../exemplos/optima_final/optima_apn_bellas_final.psd",
+      "composition_reason": "Grupo aprovado preservado sem alterações; igualdade de pixels verificada ao final."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+[
+  {
+    "agent": "/root",
+    "timestamp_utc": "2026-10-14T20:49:04.018Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+      "line": 8,
+      "line_sha256": "be086eb166d763ea24ca919d13149aa84eeaf23b021309f358841394eedb952e"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root",
+    "timestamp_utc": "2026-10-14T20:52:42.714Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+      "line": 70,
+      "line_sha256": "e8a21392b14bfd76c99df1d8159c3a726c14ddc01efeb0b383484ed3a8a8932d"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root",
+    "timestamp_utc": "2026-10-14T20:58:24.595Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+      "line": 250,
+      "line_sha256": "6fb7d5a4789525c81187805aa1509065a5d025616b46959e96f936e55765a6d9"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root",
+    "timestamp_utc": "2026-10-14T20:59:23.126Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+      "line": 263,
+      "line_sha256": "f5964dacc39122aeec949c87f0e7d196616cde4177db753807556db7b2dffec5"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root",
+    "timestamp_utc": "2026-10-14T21:24:04.659Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+      "line": 687,
+      "line_sha256": "1a369b606b66a6cbb1a55b8c04cdc73f06743925c56591c1ba7d6db1bc178c32"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:00:25.610Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 7,
+      "line_sha256": "ebe63f6a574c7b75058b2bce4b41202582152c51bdb3cc14f01b29313d154571"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:00:25.610Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 15,
+      "line_sha256": "f67cdabd005597fbfde7e28f411f7fae9429dd0d537b308017d12f0570cf0894"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:00:25.611Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 22,
+      "line_sha256": "5eef682e9b2df8239f32cfcb82a1e5660792d8aa19d46aaa10f69b9476926783"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:00:25.611Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 30,
+      "line_sha256": "d73b9dffc3a99dfbcef9d84357125afc6e0c61bd093e5fe443142c45069dd399"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:00:26.805Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 38,
+      "line_sha256": "1cfb4b1ffbafd4c694eacca132b289cbfa4f1a1a4d20b5af0c43a2666e44b5d7"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:10:00.616Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 119,
+      "line_sha256": "3a1eaf19754d0b6d4d3325104fdfcdd177900164597cdba833176cc80eecc2ff"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/conteudo_luciane",
+    "timestamp_utc": "2026-10-14T21:24:19.171Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+      "line": 180,
+      "line_sha256": "e8fa7881dc1f03c55d95fc4a496b6001f91526a04f11119c7f9158643ca43d69"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:00:49.560Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 7,
+      "line_sha256": "5c9e38ecc77bc36c7879aebb3cb0eacc1cbab7b1ab86fa0d53233994201c6a4d"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:00:49.560Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 15,
+      "line_sha256": "799ec8fcbd3469ac3a5237f3f3fb5ebdc9c45fd41b688e6b726f6df4ed52d552"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:00:49.561Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 22,
+      "line_sha256": "b116c51bd87b0583c2b962aeb901a6bf48d033d7d4156088582127a55adae451"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:00:49.561Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 30,
+      "line_sha256": "ca9a2b7b16a2dfaa9edf2c7ae42e2a6749353a8c962314ad36e151c9bcbdd5ed"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:00:51.319Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 39,
+      "line_sha256": "c7935a800fe058aa2a051222a85f0019dc7e3b297bd6fdea0cebcb324c62290e"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:20:30.465Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 121,
+      "line_sha256": "38a15bf30068d40d35610711ebe78066f8884827769798ff371bc1f9bd5f2475"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:24:13.250Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 196,
+      "line_sha256": "da21d477208343865531412283f0de3db15867a86f1b77ab9d356e2783775975"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/revisao_composicao",
+    "timestamp_utc": "2026-10-14T21:26:48.338Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+      "line": 258,
+      "line_sha256": "b60ea89263b6245690ce9c2eff20148d2e6c775b44734d0fb24f4a690f4930b8"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/validacao_entrega",
+    "timestamp_utc": "2026-10-14T21:01:09.340Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+      "line": 7,
+      "line_sha256": "c02cbe21c567cac478014d7a06ec6b35ecfbe61442e1d0f0661c2f467fa95578"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/validacao_entrega",
+    "timestamp_utc": "2026-10-14T21:01:09.340Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+      "line": 15,
+      "line_sha256": "ffd9daab41781574890b77efea861bdc30062289feea6e15ab43df9771d1f622"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/validacao_entrega",
+    "timestamp_utc": "2026-10-14T21:01:09.341Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+      "line": 22,
+      "line_sha256": "22d6410f721704d33125c4621141bb780057044c6e5dfeaaa978a9481c674aa8"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/validacao_entrega",
+    "timestamp_utc": "2026-10-14T21:01:09.341Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+      "line": 30,
+      "line_sha256": "541649f82f28c3d72b4a866d94734623168a1ed790c513b514163eb032bc7bfc"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/validacao_entrega",
+    "timestamp_utc": "2026-10-14T21:01:10.872Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+      "line": 40,
+      "line_sha256": "9fd7f93aadced4e82bf2dde4a81c957ee9eaddfed00486902a21a7375f8f38cd"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  },
+  {
+    "agent": "/root/validacao_entrega",
+    "timestamp_utc": "2026-10-14T21:29:30.950Z",
+    "provenance": {
+      "source_file": "rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+      "line": 120,
+      "line_sha256": "01d2a49735870f3ab6e2a4f52206c1112a17a50aaa93ed35f6ac93649378d94f"
+    },
+    "configuration_recorded": {
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    }
+  }
+]

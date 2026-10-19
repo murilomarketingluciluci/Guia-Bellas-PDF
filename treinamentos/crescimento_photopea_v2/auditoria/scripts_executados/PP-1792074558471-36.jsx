@@ -1,0 +1,1 @@
+try{var l=app.activeDocument.activeLayer;var c=new SolidColor();c.rgb.hexValue='FFFFFF';l.textItem.color=c;app.echoToOE('COLOR');var b=l.bounds;app.echoToOE(typeof b[0]);app.echoToOE(String(b[0]));app.echoToOE('VAL:'+b[0].value);}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

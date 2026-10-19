@@ -1,0 +1,1 @@
+try{var l=app.activeDocument.layerSets.getByName('12 - Agradecimento').artLayers.getByName('p12-agradecimento');l.textItem.contents='obrigada!';l.textItem.capitalization=TextCase.ALLCAPS;app.echoToOE('CAPS_APPLIED');app.activeDocument.saveToOE('psd');}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

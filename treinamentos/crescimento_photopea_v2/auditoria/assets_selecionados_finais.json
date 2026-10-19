@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-10-15T15:27:07.985511+00:00",
+  "assets": [
+    {
+      "page": 3,
+      "asset": "assets/foto_direcao_arcada.png",
+      "sha256": "8aee42f3a0f4729135655044d43cfd4f88ef6dfa109a7ff55e9e1d46e254a130",
+      "box": [
+        1230,
+        0,
+        690,
+        1080
+      ]
+    },
+    {
+      "page": 6,
+      "asset": "assets/foto_permanencia_rochas.png",
+      "sha256": "5a804b4d8b95ebcfcd4581b19d3b75cbdc73143e6d77241876bc205f676d4daf",
+      "box": [
+        0,
+        0,
+        600,
+        1080
+      ]
+    },
+    {
+      "page": 9,
+      "asset": "assets/foto_pessoas_encontro_v2.png",
+      "sha256": "9678d87eb4ea7906fb02f9c2000defa8b94e6a2740210f86e25f3fe297b38c94",
+      "box": [
+        0,
+        0,
+        700,
+        1080
+      ]
+    },
+    {
+      "page": 10,
+      "asset": "assets/foto_agua_poco.png",
+      "sha256": "515703dbe2d003cfafb68a128e25197a696c399a361cab82b3cefe1331adf72c",
+      "box": [
+        1230,
+        0,
+        690,
+        1080
+      ]
+    }
+  ],
+  "photo09_refinement": {
+    "prompt": "auditoria/prompts/foto09_refinamento.json",
+    "original_preserved": "assets/foto_pessoas_encontro.png",
+    "original_sha256": "95e15fae0d944b241ea7fd526510401c3a4cce3707fb08dcbf6af1d12e1c71d7",
+    "generated_source_historical": "C:/Users/Murilo/.codex/generated_images/01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4/exec-74160c42-2195-4a7b-bdb2-00495f359e20.png",
+    "selected": "assets/foto_pessoas_encontro_v2.png",
+    "sha256": "9678d87eb4ea7906fb02f9c2000defa8b94e6a2740210f86e25f3fe297b38c94",
+    "reason": "Minimum15%top/bottom safe space after crop; independent visual measurement ~30.3%top/24.1%bottom"
+  }
+}

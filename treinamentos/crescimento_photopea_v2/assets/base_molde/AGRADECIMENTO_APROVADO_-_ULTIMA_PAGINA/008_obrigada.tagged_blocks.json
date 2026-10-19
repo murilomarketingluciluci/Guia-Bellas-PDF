@@ -1,0 +1,1695 @@
+[
+  {
+    "key": "lfx2",
+    "parsed": {
+      "bytes:53636c20": 100.0,
+      "bytes:6d61737465724658537769746368": true,
+      "bytes:44725368": {
+        "bytes:656e6162": true,
+        "bytes:70726573656e74": true,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 236.9999858736992,
+          "bytes:47726e20": 168.22566747665405,
+          "bytes:426c2020": 204.70038145780563
+        },
+        "bytes:4f706374": 89.0,
+        "bytes:75676c67": true,
+        "bytes:6c61676c": 90.0,
+        "bytes:4473746e": 0.0,
+        "bytes:436b6d74": 7.0,
+        "bytes:626c7572": 250.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:6c61796572436f6e6365616c73": true
+      },
+      "bytes:696e6e6572536861646f774d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bHVtaW5vc2l0eQ==",
+              "length": 10
+            }
+          },
+          "bytes:436c7220": {
+            "bytes:52642020": 179.00001972913742,
+            "bytes:47726e20": 63.14432390034199,
+            "bytes:426c2020": 0.09026045314385556
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:75676c67": true,
+          "bytes:6c61676c": 90.0,
+          "bytes:4473746e": 3.0,
+          "bytes:436b6d74": 0.0,
+          "bytes:626c7572": 0.0,
+          "bytes:4e6f7365": 0.0,
+          "bytes:416e7441": false,
+          "bytes:54726e53": {
+            "bytes:4e6d2020": "Linear\u0000",
+            "bytes:43727620": [
+              {
+                "bytes:48727a6e": 0.0,
+                "bytes:56727463": 0.0
+              },
+              {
+                "bytes:48727a6e": 255.0,
+                "bytes:56727463": 255.0
+              }
+            ]
+          }
+        }
+      ],
+      "bytes:4f72476c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "c2NyZWVu",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 243.00000071525574,
+          "bytes:47726e20": 213.4591242671013,
+          "bytes:426c2020": 229.0778213739395
+        },
+        "bytes:4f706374": 15.0,
+        "bytes:476c7754": {
+          "typeID": {
+            "bytes_base64": "QkVURQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:436b6d74": 0.0,
+        "bytes:626c7572": 203.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:5368644e": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:496e7072": 50.0
+      },
+      "bytes:736f6c696446696c6c4d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:436c7220": {
+            "bytes:52642020": 246.0000005364418,
+            "bytes:47726e20": 245.82099974155426,
+            "bytes:426c2020": 230.56419521570206
+          },
+          "bytes:4f706374": 100.0
+        }
+      ],
+      "bytes:6772616469656e7446696c6c4d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:47726164": {
+            "bytes:4e6d2020": "Personalizado\u0000",
+            "bytes:47726446": {
+              "typeID": {
+                "bytes_base64": "R3JkRg==",
+                "length": 4
+              },
+              "enum": {
+                "bytes_base64": "Q3N0Uw==",
+                "length": 4
+              }
+            },
+            "bytes:496e7472": 4096.0,
+            "bytes:436c7273": [
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 69.36183527112007,
+                  "bytes:47726e20": 47.71973937749863,
+                  "bytes:426c2020": 169.00000512599945
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 71.00279241800308,
+                  "bytes:47726e20": 75.99882513284683,
+                  "bytes:426c2020": 225.99653631448746
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 1473,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 245.99626153707504,
+                  "bytes:47726e20": 55.99913410842419,
+                  "bytes:426c2020": 237.0002594590187
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ],
+            "bytes:54726e73": [
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ]
+          },
+          "bytes:416e676c": -30.0,
+          "bytes:54797065": {
+            "typeID": {
+              "bytes_base64": "R3JkVA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "TG5yIA==",
+              "length": 4
+            }
+          },
+          "bytes:52767273": false,
+          "bytes:44746872": false,
+          "bytes:67733939": {
+            "typeID": {
+              "bytes_base64": "Z3JhZGllbnRJbnRlcnBvbGF0aW9uTWV0aG9kVHlwZQ==",
+              "length": 31
+            },
+            "enum": {
+              "bytes_base64": "UGVyYw==",
+              "length": 4
+            }
+          },
+          "bytes:416c676e": true,
+          "bytes:53636c20": 150.0,
+          "bytes:4f667374": {
+            "bytes:48727a6e": 0.0,
+            "bytes:56727463": 0.0
+          }
+        },
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:47726164": {
+            "bytes:4e6d2020": "Personalizado\u0000",
+            "bytes:47726446": {
+              "typeID": {
+                "bytes_base64": "R3JkRg==",
+                "length": 4
+              },
+              "enum": {
+                "bytes_base64": "Q3N0Uw==",
+                "length": 4
+              }
+            },
+            "bytes:496e7472": 4096.0,
+            "bytes:436c7273": [
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 121.99813842773438,
+                  "bytes:47726e20": 189.00100708007812,
+                  "bytes:426c2020": 199.99693304300308
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 71.00279241800308,
+                  "bytes:47726e20": 75.99882513284683,
+                  "bytes:426c2020": 225.99653631448746
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 2109,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:436c7220": {
+                  "bytes:52642020": 179.99688863754272,
+                  "bytes:47726e20": 21.981921158730984,
+                  "bytes:426c2020": 249.00004595518112
+                },
+                "bytes:54797065": {
+                  "typeID": {
+                    "bytes_base64": "Q2xyeQ==",
+                    "length": 4
+                  },
+                  "enum": {
+                    "bytes_base64": "VXNyUw==",
+                    "length": 4
+                  }
+                },
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ],
+            "bytes:54726e73": [
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 0,
+                "bytes:4d64706e": 50
+              },
+              {
+                "bytes:4f706374": 100.0,
+                "bytes:4c63746e": 4096,
+                "bytes:4d64706e": 50
+              }
+            ]
+          },
+          "bytes:416e676c": -30.0,
+          "bytes:54797065": {
+            "typeID": {
+              "bytes_base64": "R3JkVA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "TG5yIA==",
+              "length": 4
+            }
+          },
+          "bytes:52767273": false,
+          "bytes:44746872": false,
+          "bytes:67733939": {
+            "typeID": {
+              "bytes_base64": "Z3JhZGllbnRJbnRlcnBvbGF0aW9uTWV0aG9kVHlwZQ==",
+              "length": 31
+            },
+            "enum": {
+              "bytes_base64": "UGVyYw==",
+              "length": 4
+            }
+          },
+          "bytes:416c676e": true,
+          "bytes:53636c20": 150.0,
+          "bytes:4f667374": {
+            "bytes:48727a6e": 0.0,
+            "bytes:56727463": 0.0
+          }
+        }
+      ],
+      "bytes:6672616d6546584d756c7469": [
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:5374796c": {
+            "typeID": {
+              "bytes_base64": "RlN0bA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "T3V0Rg==",
+              "length": 4
+            }
+          },
+          "bytes:506e7454": {
+            "typeID": {
+              "bytes_base64": "RnJGbA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "U0Nscg==",
+              "length": 4
+            }
+          },
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:537a2020": 66.0,
+          "bytes:436c7220": {
+            "bytes:52642020": 255.0,
+            "bytes:47726e20": 255.0,
+            "bytes:426c2020": 255.0
+          },
+          "bytes:6f7665727072696e74": false
+        },
+        {
+          "bytes:656e6162": false,
+          "bytes:70726573656e74": false,
+          "bytes:73686f77496e4469616c6f67": true,
+          "bytes:5374796c": {
+            "typeID": {
+              "bytes_base64": "RlN0bA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "T3V0Rg==",
+              "length": 4
+            }
+          },
+          "bytes:506e7454": {
+            "typeID": {
+              "bytes_base64": "RnJGbA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "U0Nscg==",
+              "length": 4
+            }
+          },
+          "bytes:4d642020": {
+            "typeID": {
+              "bytes_base64": "QmxuTQ==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "bm9ybWFs",
+              "length": 6
+            }
+          },
+          "bytes:4f706374": 100.0,
+          "bytes:537a2020": 84.0,
+          "bytes:436c7220": {
+            "bytes:52642020": 0.0,
+            "bytes:47726e20": 0.0,
+            "bytes:426c2020": 0.0
+          },
+          "bytes:6f7665727072696e74": false
+        }
+      ],
+      "bytes:4972476c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 247.00000047683716,
+          "bytes:47726e20": 226.65759444236755,
+          "bytes:426c2020": 237.41633713245392
+        },
+        "bytes:4f706374": 24.0,
+        "bytes:476c7754": {
+          "typeID": {
+            "bytes_base64": "QkVURQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:436b6d74": 0.0,
+        "bytes:626c7572": 41.0,
+        "bytes:4e6f7365": 0.0,
+        "bytes:5368644e": 0.0,
+        "bytes:416e7441": false,
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:496e7072": 50.0,
+        "bytes:676c7753": {
+          "typeID": {
+            "bytes_base64": "SUdTcg==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U3JjRQ==",
+            "length": 4
+          }
+        }
+      },
+      "bytes:6562626c": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:68676c4d": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bGluZWFyRG9kZ2U=",
+            "length": 11
+          }
+        },
+        "bytes:68676c43": {
+          "bytes:52642020": 255.0,
+          "bytes:47726e20": 255.0,
+          "bytes:426c2020": 255.0
+        },
+        "bytes:68676c4f": 8.0,
+        "bytes:7364774d": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bm9ybWFs",
+            "length": 6
+          }
+        },
+        "bytes:73647743": {
+          "bytes:52642020": 16.003320068120956,
+          "bytes:47726e20": 14.09342285245657,
+          "bytes:426c2020": 13.428051006048918
+        },
+        "bytes:7364774f": 29.0,
+        "bytes:62766c54": {
+          "typeID": {
+            "bytes_base64": "YnZsVA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "U2ZCTA==",
+            "length": 4
+          }
+        },
+        "bytes:62766c53": {
+          "typeID": {
+            "bytes_base64": "QkVTbA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SW5yQg==",
+            "length": 4
+          }
+        },
+        "bytes:75676c67": false,
+        "bytes:6c61676c": -79.0,
+        "bytes:4c616c64": 53.0,
+        "bytes:73726752": 199.0,
+        "bytes:626c7572": 162.0,
+        "bytes:62766c44": {
+          "typeID": {
+            "bytes_base64": "QkVTcw==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "T3V0IA==",
+            "length": 4
+          }
+        },
+        "bytes:54726e53": {
+          "bytes:4e6d2020": "Meia-Volta\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 29.0,
+              "bytes:56727463": 71.0
+            },
+            {
+              "bytes:48727a6e": 87.0,
+              "bytes:56727463": 167.0
+            },
+            {
+              "bytes:48727a6e": 195.0,
+              "bytes:56727463": 240.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        },
+        "bytes:616e7469616c696173476c6f7373": false,
+        "bytes:5366746e": 3.0,
+        "bytes:7573655368617065": false,
+        "bytes:75736554657874757265": false
+      },
+      "bytes:43684658": {
+        "bytes:656e6162": false,
+        "bytes:70726573656e74": false,
+        "bytes:73686f77496e4469616c6f67": true,
+        "bytes:4d642020": {
+          "typeID": {
+            "bytes_base64": "QmxuTQ==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "bXVsdGlwbHk=",
+            "length": 8
+          }
+        },
+        "bytes:436c7220": {
+          "bytes:52642020": 253.0000001192093,
+          "bytes:47726e20": 101.64980471134186,
+          "bytes:426c2020": 5.9572837594896555
+        },
+        "bytes:416e7441": true,
+        "bytes:496e7672": true,
+        "bytes:4f706374": 50.0,
+        "bytes:6c61676c": 90.0,
+        "bytes:4473746e": 6.0,
+        "bytes:626c7572": 6.0,
+        "bytes:4d706753": {
+          "bytes:4e6d2020": "Linear\u0000",
+          "bytes:43727620": [
+            {
+              "bytes:48727a6e": 0.0,
+              "bytes:56727463": 0.0
+            },
+            {
+              "bytes:48727a6e": 255.0,
+              "bytes:56727463": 255.0
+            }
+          ]
+        }
+      },
+      "bytes:6e756d4d6f64696679696e674658": 1
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lfx2.bin",
+      "bytes": 7404,
+      "sha256": "de9c09b9308c6bd227b11567699067d9c4ddfa7c8c968579ff7b2ad9e554f7f6",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lrFX",
+    "parsed": {
+      "bytes:636d6e53": {
+        "version": 0,
+        "visible": 1
+      },
+      "bytes:64736477": {
+        "version": 2,
+        "blur": 16384000,
+        "intensity": 0,
+        "angle": 5898240,
+        "distance": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            60909,
+            43233,
+            52607,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "enabled": 1,
+        "use_global_angle": 1,
+        "opacity": 227,
+        "native_color": {
+          "id": 0,
+          "values": [
+            60909,
+            43233,
+            52607,
+            0
+          ]
+        }
+      },
+      "bytes:69736477": {
+        "version": 2,
+        "blur": 0,
+        "intensity": 0,
+        "angle": 5898240,
+        "distance": 196608,
+        "color": {
+          "id": 0,
+          "values": [
+            46003,
+            16228,
+            24,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bHVtIA==",
+          "length": 4
+        },
+        "enabled": 0,
+        "use_global_angle": 1,
+        "opacity": 255,
+        "native_color": {
+          "id": 0,
+          "values": [
+            46003,
+            16228,
+            24,
+            0
+          ]
+        }
+      },
+      "bytes:6f676c77": {
+        "version": 2,
+        "blur": 13303808,
+        "intensity": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            62451,
+            54859,
+            58873,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "c2Nybg==",
+          "length": 4
+        },
+        "enabled": 0,
+        "opacity": 38,
+        "native_color": {
+          "id": 0,
+          "values": [
+            62451,
+            54859,
+            58873,
+            0
+          ]
+        }
+      },
+      "bytes:69676c77": {
+        "version": 2,
+        "blur": 2686976,
+        "intensity": 0,
+        "color": {
+          "id": 0,
+          "values": [
+            63479,
+            58251,
+            61015,
+            0
+          ]
+        },
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "enabled": 0,
+        "opacity": 61,
+        "invert": 1,
+        "native_color": {
+          "id": 0,
+          "values": [
+            63479,
+            58251,
+            61015,
+            0
+          ]
+        }
+      },
+      "bytes:6265766c": {
+        "version": 2,
+        "angle": -5177344,
+        "depth": 1310720,
+        "blur": 10616832,
+        "highlight_blend_mode": {
+          "bytes_base64": "bGRkZw==",
+          "length": 4
+        },
+        "shadow_blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "highlight_color": {
+          "id": 0,
+          "values": [
+            65535,
+            65535,
+            65535,
+            0
+          ]
+        },
+        "shadow_color": {
+          "id": 0,
+          "values": [
+            4112,
+            3622,
+            3452,
+            0
+          ]
+        },
+        "bevel_style": 2,
+        "highlight_opacity": 20,
+        "shadow_opacity": 74,
+        "enabled": 0,
+        "use_global_angle": 0,
+        "direction": 1,
+        "real_highlight_color": {
+          "id": 0,
+          "values": [
+            65535,
+            65535,
+            65535,
+            0
+          ]
+        },
+        "real_shadow_color": {
+          "id": 0,
+          "values": [
+            4112,
+            3622,
+            3452,
+            0
+          ]
+        }
+      },
+      "bytes:736f6669": {
+        "version": 2,
+        "blend_mode": {
+          "bytes_base64": "bm9ybQ==",
+          "length": 4
+        },
+        "color": {
+          "id": 0,
+          "values": [
+            63221,
+            63175,
+            59255,
+            0
+          ]
+        },
+        "opacity": 255,
+        "enabled": 0,
+        "native_color": {
+          "id": 0,
+          "values": [
+            63221,
+            63175,
+            59255,
+            0
+          ]
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lrFX.bin",
+      "bytes": 396,
+      "sha256": "2517fc4ebbbee3456cbaf2098cfb4cdc2c86b0fee63b013851710410a6a39aa4",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "TySh",
+    "parsed": {
+      "version": 1,
+      "transform": [
+        1.4398922098659868,
+        0.0,
+        0.0,
+        1.4398922098659872,
+        629.4256988954323,
+        582.4373745069365
+      ],
+      "text_version": 50,
+      "text_data": {
+        "bytes:54787420": "obrigada!\u0000",
+        "bytes:746578744772696464696e67": {
+          "typeID": {
+            "bytes_base64": "dGV4dEdyaWRkaW5n",
+            "length": 12
+          },
+          "enum": {
+            "bytes_base64": "Tm9uZQ==",
+            "length": 4
+          }
+        },
+        "bytes:4f726e74": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:416e7441": {
+          "typeID": {
+            "bytes_base64": "QW5udA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "QW5Dcg==",
+            "length": 4
+          }
+        },
+        "bytes:54784d50": false,
+        "bytes:626f756e6473": {
+          "bytes:4c656674": 0.0,
+          "bytes:546f7020": -72.7874526977539,
+          "bytes:52676874": 459.16534423828125,
+          "bytes:42746f6d": 19.267995834350586
+        },
+        "bytes:626f756e64696e67426f78": {
+          "bytes:4c656674": 6.251224994659424,
+          "bytes:546f7020": -61.74155044555664,
+          "bytes:52676874": 451.2442321777344,
+          "bytes:42746f6d": 1.4557647705078125
+        },
+        "bytes:54657874496e646578": 0,
+        "bytes:456e67696e6544617461": {
+          "EngineDict": {
+            "Editor": {
+              "Text": "obrigada!\r"
+            },
+            "ParagraphRun": {
+              "DefaultRunData": {
+                "ParagraphSheet": {
+                  "DefaultStyleSheet": 0,
+                  "Properties": {}
+                },
+                "Adjustments": {
+                  "Axis": [
+                    1.0,
+                    0.0,
+                    1.0
+                  ],
+                  "XY": [
+                    0.0,
+                    0.0
+                  ]
+                }
+              },
+              "RunArray": [
+                {
+                  "ParagraphSheet": {
+                    "DefaultStyleSheet": 0,
+                    "Properties": {
+                      "Justification": 0,
+                      "FirstLineIndent": 0.0,
+                      "StartIndent": 0.0,
+                      "EndIndent": 0.0,
+                      "SpaceBefore": 0.0,
+                      "SpaceAfter": 0.0,
+                      "AutoHyphenate": true,
+                      "HyphenatedWordSize": 6,
+                      "PreHyphen": 2,
+                      "PostHyphen": 2,
+                      "ConsecutiveHyphens": 8,
+                      "Zone": 36.0,
+                      "WordSpacing": [
+                        0.8,
+                        1.0,
+                        1.33
+                      ],
+                      "LetterSpacing": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "GlyphSpacing": [
+                        1.0,
+                        1.0,
+                        1.0
+                      ],
+                      "AutoLeading": 1.2,
+                      "LeadingType": 0,
+                      "Hanging": false,
+                      "Burasagari": false,
+                      "KinsokuOrder": 0,
+                      "EveryLineComposer": false
+                    }
+                  },
+                  "Adjustments": {
+                    "Axis": [
+                      1.0,
+                      0.0,
+                      1.0
+                    ],
+                    "XY": [
+                      0.0,
+                      0.0
+                    ]
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                10
+              ],
+              "IsJoinable": 1
+            },
+            "StyleRun": {
+              "DefaultRunData": {
+                "StyleSheet": {
+                  "StyleSheetData": {}
+                }
+              },
+              "RunArray": [
+                {
+                  "StyleSheet": {
+                    "StyleSheetData": {
+                      "Font": 0,
+                      "FontSize": 85.63322,
+                      "FauxBold": false,
+                      "FauxItalic": false,
+                      "AutoLeading": false,
+                      "Leading": 85.63322,
+                      "HorizontalScale": 1.0,
+                      "VerticalScale": 1.0,
+                      "Tracking": -70,
+                      "AutoKerning": true,
+                      "Kerning": 0,
+                      "BaselineShift": 0.0,
+                      "FontCaps": 2,
+                      "FontBaseline": 0,
+                      "Underline": false,
+                      "Strikethrough": false,
+                      "Ligatures": true,
+                      "DLigatures": false,
+                      "BaselineDirection": 1,
+                      "Tsume": 0.0,
+                      "StyleRunAlignment": 2,
+                      "Language": 0,
+                      "NoBreak": false,
+                      "FillColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          1.0,
+                          1.0,
+                          1.0
+                        ]
+                      },
+                      "StrokeColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          0.0,
+                          0.0,
+                          0.0
+                        ]
+                      },
+                      "YUnderline": 1,
+                      "HindiNumbers": false,
+                      "Kashida": 1
+                    }
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                10
+              ],
+              "IsJoinable": 2
+            },
+            "GridInfo": {
+              "GridIsOn": false,
+              "ShowGrid": false,
+              "GridSize": 18.0,
+              "GridLeading": 22.0,
+              "GridColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "GridLeadingFillColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "AlignLineHeightToGridFlags": false
+            },
+            "AntiAlias": 1,
+            "UseFractionalGlyphWidths": true,
+            "Rendered": {
+              "Version": 1,
+              "Shapes": {
+                "WritingDirection": 0,
+                "Children": [
+                  {
+                    "ShapeType": 0,
+                    "Procession": 0,
+                    "Lines": {
+                      "WritingDirection": 0,
+                      "Children": []
+                    },
+                    "Cookie": {
+                      "Photoshop": {
+                        "ShapeType": 0,
+                        "PointBase": [
+                          0.0,
+                          0.0
+                        ],
+                        "Base": {
+                          "ShapeType": 0,
+                          "TransformPoint0": [
+                            1.0,
+                            0.0
+                          ],
+                          "TransformPoint1": [
+                            0.0,
+                            1.0
+                          ],
+                          "TransformPoint2": [
+                            0.0,
+                            0.0
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "ResourceDict": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 2,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Light",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          },
+          "DocumentResources": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 2,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Light",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          }
+        }
+      },
+      "warp_version": 1,
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycE5vbmU=",
+            "length": 8
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        }
+      },
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_TySh.bin",
+      "bytes": 9444,
+      "sha256": "afbbbc526134a3a26245275e988447643fc0e07c5f5c95192e555d4e813bce8d",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "luni",
+    "parsed": "obrigada!",
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_luni.bin",
+      "bytes": 22,
+      "sha256": "5173b1a28d53dc5aaf5535fc178c79ae1d24286957f69670331f7514fda12b05",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "cmVuZA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "69bc823df4bd52d72a5988b55ab0f238f5d17b28344132b01b2463e388bb9424",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1138,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "ae38653b0dc3c4a2d0f350fc26a17f451bad3c9091403e27efaea1e03da2b9b7",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.4365613
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "99f27dd2868262e4acf5a79fe4dff9e64a1be3ec969b9d40e5d0a38fa45ffc53",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        134.12975560476252,
+        185.06297252275897
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/008_obrigada.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "57e3c845d6f5a7ae3d224f283f22d9bc95fa94e6a1ffffd8feb5fb74fab2dc39",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

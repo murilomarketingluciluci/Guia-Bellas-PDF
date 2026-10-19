@@ -1,0 +1,474 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "resolution": {
+    "horizontal": 4718592,
+    "vertical": 4718592,
+    "horizontal_unit": 1,
+    "vertical_unit": 1,
+    "width_unit": 2,
+    "height_unit": 2,
+    "horizontal_ppi": 72.0,
+    "vertical_ppi": 72.0
+  },
+  "note": "Tamanhos são valores de camada; interprete junto a transform/resolução, não apenas como pt visuais.",
+  "layers": [
+    {
+      "path": "Plano de Fundo",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/BG",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -102,
+        -39,
+        1920,
+        1098
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/fundo/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        -132,
+        -58,
+        2111,
+        1437
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/texto",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/texto/obrigada!",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        638,
+        494,
+        1280,
+        584
+      ],
+      "text": "obrigada!",
+      "styles": [
+        {
+          "font": "Gotham-Light",
+          "run_length": 10,
+          "font_size_layer": 85.63322,
+          "leading": "85.63322",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.4398922098659868,
+        0.0,
+        0.0,
+        1.4398922098659872,
+        629.4256988954323,
+        582.4373745069365
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        -111,
+        62,
+        75,
+        66
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+      "kind": "type",
+      "visible": false,
+      "bounds_px": [
+        96,
+        58,
+        742,
+        70
+      ],
+      "text": "EMPREENDEDORISMO FEMININO",
+      "styles": [
+        {
+          "font": "Gotham-Medium",
+          "run_length": 26,
+          "font_size_layer": 25.0,
+          "leading": "0.01",
+          "tracking": "1060",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/01 - LOGO PRINCIPAL KJL",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1704,
+        981,
+        1859,
+        1029
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/ELEMENTOS CORES",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/Retângulo 572",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1756,
+        53,
+        1786,
+        83
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/Retângulo 572 copiar",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1796,
+        53,
+        1825,
+        83
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/Retângulo 572 copiar 2",
+      "kind": "shape",
+      "visible": false,
+      "bounds_px": [
+        1834,
+        53,
+        1863,
+        83
+      ]
+    },
+    {
+      "path": "AGRADECIMENTO APROVADO - ULTIMA PAGINA/PADRÃO/LOGO",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        55,
+        991,
+        212,
+        1020
+      ]
+    },
+    {
+      "path": "TEMA ESCURO VAZIO - DUPLICAR",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "TEMA ESCURO VAZIO - DUPLICAR/BG copiar",
+      "kind": "solidcolorfill",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "TEMA ESCURO VAZIO - DUPLICAR/B BELLAS",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        1309,
+        -236,
+        1928,
+        617
+      ]
+    },
+    {
+      "path": "TEMA ESCURO VAZIO - DUPLICAR/Camada 2 copiar",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "TEMA CLARO VAZIO - DUPLICAR",
+      "kind": "group",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "path": "TEMA CLARO VAZIO - DUPLICAR/FUNDO copiar 2",
+      "kind": "smartobject",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "TEMA CLARO VAZIO - DUPLICAR/Camada 1 copiar 2",
+      "kind": "pixel",
+      "visible": false,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        -110,
+        -18,
+        2093,
+        1451
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/FUNDO copiar",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/LUCI LUCI-443",
+      "kind": "smartobject",
+      "visible": true,
+      "bounds_px": [
+        -110,
+        -18,
+        2093,
+        1451
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Camada 1 copiar",
+      "kind": "pixel",
+      "visible": true,
+      "bounds_px": [
+        0,
+        0,
+        1920,
+        1029
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12",
+      "kind": "group",
+      "visible": true,
+      "bounds_px": [
+        936,
+        336,
+        1685,
+        693
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Desodorante Optima",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        936,
+        428,
+        1685,
+        693
+      ],
+      "text": "Desodorante\rOptimaPlus",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 112.0,
+          "leading": "134.40001",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Bold",
+          "run_length": 6,
+          "font_size_layer": 126.0,
+          "leading": "124.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        },
+        {
+          "font": "Gotham-Book",
+          "run_length": 5,
+          "font_size_layer": 126.0,
+          "leading": "124.0",
+          "tracking": "-70",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.1669778405614362,
+        0.0,
+        0.0,
+        1.1669778405614364,
+        928.9123434704834,
+        523.8476115135069
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/Retângulo 6",
+      "kind": "shape",
+      "visible": true,
+      "bounds_px": [
+        936,
+        336,
+        1585,
+        387
+      ]
+    },
+    {
+      "path": "CAPA APROVADA - ALTERAR SOMENTE TITULO/Agrupar 12/TREINAMENTO",
+      "kind": "type",
+      "visible": true,
+      "bounds_px": [
+        1017,
+        349,
+        1505,
+        375
+      ],
+      "text": "TREINAMENTO",
+      "styles": [
+        {
+          "font": "Gotham-Book",
+          "run_length": 12,
+          "font_size_layer": 34.0,
+          "leading": "0.01",
+          "tracking": "640",
+          "color": "{'Type': 1, 'Values': [1.0, 1.0, 1.0, 1.0]}"
+        }
+      ],
+      "transform": [
+        1.0257777927584604,
+        0.0,
+        0.0,
+        1.0257777927584606,
+        1016.0313434285217,
+        374.29978129293784
+      ]
+    }
+  ]
+}

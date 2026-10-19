@@ -1,0 +1,1865 @@
+{
+  "schema_version": "1.0",
+  "stage": "planejamento",
+  "project": "Vitae Reverse Drink Tangerina | mapa para aprovação",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "template": {
+    "psd": "../../referencias/molde_bellas_aprovado_capa_temas_agradecimento.psd"
+  },
+  "slides": [
+    {
+      "number": 1,
+      "name": "Capa",
+      "theme": "claro",
+      "source_ids": [
+        "p1_titulo"
+      ],
+      "gesture": "Apresentar o nome do treinamento",
+      "dominant": "Título no grupo aprovado",
+      "photo_function": "Sem fotografia nova",
+      "composition_reason": "Alterar somente o título do molde; Tangerina identifica a variante recebida.",
+      "archetypes": [
+        "molde_capa_aprovado"
+      ],
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Vitae Reverse\nDrink Tangerina",
+          "rect": [
+            0.4875,
+            0.3962963,
+            0.48177083,
+            0.27777778
+          ],
+          "box_px": [
+            936,
+            428,
+            925,
+            300
+          ],
+          "size_pt": 100,
+          "leading_pt": 104.0,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p1_titulo"
+          ]
+        }
+      ],
+      "pilot": false,
+      "fixed": "cover",
+      "neighbor_difference": "abertura > Capa > Fórmula mais completa. Alterar somente o título do molde; Tangerina identifica a variante recebida."
+    },
+    {
+      "number": 2,
+      "name": "Fórmula mais completa",
+      "theme": "claro",
+      "source_ids": [
+        "p2_titulo",
+        "p2_1",
+        "p2_2",
+        "p2_3"
+      ],
+      "gesture": "Apresentar produto e rotina em contexto humano",
+      "dominant": "Título e modelo com o produto",
+      "photo_function": "Modelo principal apresentando a embalagem",
+      "composition_reason": "Pessoa entra cedo para tornar o produto concreto; três parágrafos ficam próximos à direita.",
+      "archetypes": [
+        "06"
+      ],
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0,
+            0.3489583333333333,
+            1
+          ],
+          "box_px": [
+            0,
+            0,
+            670,
+            1080
+          ],
+          "asset": "planejamento/foto_planejada_02.png",
+          "fit": "cover",
+          "placeholder": true,
+          "label": "FOTO A PRODUZIR\nModelo principal\ncom Reverse Drink",
+          "safe_top_px": 162,
+          "safe_bottom_px": 162
+        },
+        {
+          "role": "h1",
+          "text": "Fórmula mais\ncompleta!",
+          "rect": [
+            0.41145833,
+            0.13888889,
+            0.52083333,
+            0.18055556
+          ],
+          "box_px": [
+            790,
+            150,
+            1000,
+            195
+          ],
+          "size_pt": 92,
+          "leading_pt": 95.68,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p2_titulo"
+          ],
+          "emphasis": {
+            "text": "completa!",
+            "font": "Gotham-Bold"
+          }
+        },
+        {
+          "role": "body",
+          "text": "O VITAE REVERSE DRINK é uma bebida refrescante multivitamínica com colágeno Verisol como principal ativo.",
+          "rect": [
+            0.41666667,
+            0.36851852,
+            0.51041667,
+            0.12962963
+          ],
+          "box_px": [
+            800,
+            398,
+            980,
+            140
+          ],
+          "size_pt": 38,
+          "leading_pt": 44.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p2_1"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Este suplemento alimentar em pó foi desenvolvido para proporcionar uma rotina diária mais saudável, oferecendo benefícios para a pele, cabelos e unhas.",
+          "rect": [
+            0.41666667,
+            0.51944444,
+            0.51041667,
+            0.1537037
+          ],
+          "box_px": [
+            800,
+            561,
+            980,
+            166
+          ],
+          "size_pt": 38,
+          "leading_pt": 44.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p2_2"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Com alto teor de vitaminas e minerais essenciais, o VITAE REVERSE DRINK é a escolha ideal para quem busca beleza e bem-estar de dentro para fora.",
+          "rect": [
+            0.41666667,
+            0.69351852,
+            0.51041667,
+            0.15740741
+          ],
+          "box_px": [
+            800,
+            749,
+            980,
+            170
+          ],
+          "size_pt": 38,
+          "leading_pt": 44.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p2_3"
+          ]
+        }
+      ],
+      "pilot": false,
+      "neighbor_difference": "Capa > Fórmula mais completa > Ingredientes. Pessoa entra cedo para tornar o produto concreto; três parágrafos ficam próximos à direita."
+    },
+    {
+      "number": 3,
+      "name": "Ingredientes",
+      "theme": "escuro",
+      "source_ids": [
+        "p4_titulo",
+        "p4_intro",
+        "p4_colageno_titulo",
+        "p4_colageno",
+        "p4_vitaminas_titulo",
+        "p4_vitaminas"
+      ],
+      "gesture": "Distinguir ativo principal e vitaminas",
+      "dominant": "2,5 g e dois campos de informação",
+      "photo_function": "Página tipográfica; sem imagem decorativa",
+      "composition_reason": "Número e composição têm prioridade; contrasta com a abertura humana e os benefícios com foto.",
+      "archetypes": [
+        "11",
+        "20"
+      ],
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Ingredientes",
+          "rect": [
+            0.078125,
+            0.14351852,
+            0.83333333,
+            0.12037037
+          ],
+          "box_px": [
+            150,
+            155,
+            1600,
+            130
+          ],
+          "size_pt": 102,
+          "leading_pt": 106.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Cada porção de VITAE REVERSE DRINK contém uma combinação poderosa de ingredientes essenciais:",
+          "rect": [
+            0.08072917,
+            0.29166667,
+            0.78645833,
+            0.09259259
+          ],
+          "box_px": [
+            155,
+            315,
+            1510,
+            100
+          ],
+          "size_pt": 38,
+          "leading_pt": 44.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_intro"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.0796875,
+            0.44166667,
+            0.00208333,
+            0.34259259
+          ],
+          "box_px": [
+            153,
+            477,
+            4,
+            370
+          ],
+          "fill": "E7A7C1",
+          "group": null
+        },
+        {
+          "role": "body",
+          "text": "Colágeno Verisol",
+          "rect": [
+            0.09895833,
+            0.43518519,
+            0.38020833,
+            0.06018519
+          ],
+          "box_px": [
+            190,
+            470,
+            730,
+            65
+          ],
+          "size_pt": 45,
+          "leading_pt": 52.2,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_colageno_titulo"
+          ]
+        },
+        {
+          "role": "callout",
+          "text": "2,5 g",
+          "rect": [
+            0.09635417,
+            0.51111111,
+            0.36458333,
+            0.13888889
+          ],
+          "box_px": [
+            185,
+            552,
+            700,
+            150
+          ],
+          "size_pt": 138,
+          "leading_pt": 160.08,
+          "font": "Gotham-Bold",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_colageno"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "por porção diária, clinicamente comprovado para benefícios na pele.",
+          "rect": [
+            0.1015625,
+            0.68055556,
+            0.3515625,
+            0.125
+          ],
+          "box_px": [
+            195,
+            735,
+            675,
+            135
+          ],
+          "size_pt": 38,
+          "leading_pt": 44.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_colageno"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.52604167,
+            0.44166667,
+            0.00208333,
+            0.34259259
+          ],
+          "box_px": [
+            1010,
+            477,
+            4,
+            370
+          ],
+          "fill": "E7A7C1",
+          "group": null
+        },
+        {
+          "role": "body",
+          "text": "Vitaminas",
+          "rect": [
+            0.546875,
+            0.43518519,
+            0.33854167,
+            0.06018519
+          ],
+          "box_px": [
+            1050,
+            470,
+            650,
+            65
+          ],
+          "size_pt": 45,
+          "leading_pt": 52.2,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_vitaminas_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Alto teor de vitaminas A, E, C, B1, B2, B5, B6, B7, B9, B12.",
+          "rect": [
+            0.546875,
+            0.53518519,
+            0.33854167,
+            0.24074074
+          ],
+          "box_px": [
+            1050,
+            578,
+            650,
+            260
+          ],
+          "size_pt": 46,
+          "leading_pt": 58,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p4_vitaminas"
+          ]
+        }
+      ],
+      "pilot": true,
+      "neighbor_difference": "Fórmula mais completa > Ingredientes > Benefícios para a pele. Número e composição têm prioridade; contrasta com a abertura humana e os benefícios com foto."
+    },
+    {
+      "number": 4,
+      "name": "Benefícios para a pele",
+      "theme": "claro",
+      "source_ids": [
+        "p5_titulo",
+        "p5_pele_titulo",
+        "p5_pele",
+        "p5_elasticidade_titulo",
+        "p5_elasticidade",
+        "p5_celulite_titulo",
+        "p5_celulite"
+      ],
+      "gesture": "Associar três benefícios à experiência humana",
+      "dominant": "Três unidades de benefício e retrato",
+      "photo_function": "Mulher adulta em gesto de cuidado; principal ou outra modelo autorizada",
+      "composition_reason": "Somente benefícios de pele nesta tela; foto acrescenta presença humana sem antes/depois.",
+      "archetypes": [
+        "07",
+        "24"
+      ],
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.6666666666666666,
+            0,
+            0.3333333333333333,
+            1
+          ],
+          "box_px": [
+            1280,
+            0,
+            640,
+            1080
+          ],
+          "asset": "planejamento/foto_planejada_04.png",
+          "fit": "cover",
+          "placeholder": true,
+          "label": "FOTO A PRODUZIR\nGesto de cuidado\nPele com textura natural",
+          "safe_top_px": 162,
+          "safe_bottom_px": 162
+        },
+        {
+          "role": "h1",
+          "text": "Benefícios para\na pele",
+          "rect": [
+            0.07552083,
+            0.13425926,
+            0.54166667,
+            0.1712963
+          ],
+          "box_px": [
+            145,
+            145,
+            1040,
+            185
+          ],
+          "size_pt": 90,
+          "leading_pt": 93.60000000000001,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_titulo"
+          ],
+          "emphasis": {
+            "text": "a pele",
+            "font": "Gotham-Bold"
+          }
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.07552083,
+            0.35185185,
+            0.61979167,
+            0.13888889
+          ],
+          "box_px": [
+            145,
+            380,
+            1190,
+            150
+          ],
+          "fill": "A9708A",
+          "group": "beneficio_pele"
+        },
+        {
+          "role": "body",
+          "text": "Hidratação da pele",
+          "rect": [
+            0.09375,
+            0.36666667,
+            0.5625,
+            0.04166667
+          ],
+          "box_px": [
+            180,
+            396,
+            1080,
+            45
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Bold",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "beneficio_pele",
+          "source_ids": [
+            "p5_pele_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Melhora a hidratação, conferindo uma aparência mais saudável e radiante.",
+          "rect": [
+            0.09375,
+            0.41851852,
+            0.5625,
+            0.06203704
+          ],
+          "box_px": [
+            180,
+            452,
+            1080,
+            67
+          ],
+          "size_pt": 33,
+          "leading_pt": 38,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "beneficio_pele",
+          "source_ids": [
+            "p5_pele"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.07552083,
+            0.51388889,
+            0.61979167,
+            0.13888889
+          ],
+          "box_px": [
+            145,
+            555,
+            1190,
+            150
+          ],
+          "fill": "A9708A",
+          "group": "beneficio_elasticidade"
+        },
+        {
+          "role": "body",
+          "text": "Elasticidade e firmeza",
+          "rect": [
+            0.09375,
+            0.54537037,
+            0.5625,
+            0.04166667
+          ],
+          "box_px": [
+            180,
+            589,
+            1080,
+            45
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Bold",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "beneficio_elasticidade",
+          "source_ids": [
+            "p5_elasticidade_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Contribui para a elasticidade da pele, reduzindo rugas e flacidez.",
+          "rect": [
+            0.09375,
+            0.59722222,
+            0.5625,
+            0.04351852
+          ],
+          "box_px": [
+            180,
+            645,
+            1080,
+            47
+          ],
+          "size_pt": 33,
+          "leading_pt": 38,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "beneficio_elasticidade",
+          "source_ids": [
+            "p5_elasticidade"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.07552083,
+            0.67592593,
+            0.61979167,
+            0.13888889
+          ],
+          "box_px": [
+            145,
+            730,
+            1190,
+            150
+          ],
+          "fill": "A9708A",
+          "group": "beneficio_celulite"
+        },
+        {
+          "role": "body",
+          "text": "Redução da celulite",
+          "rect": [
+            0.09375,
+            0.70740741,
+            0.5625,
+            0.04166667
+          ],
+          "box_px": [
+            180,
+            764,
+            1080,
+            45
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Bold",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "beneficio_celulite",
+          "source_ids": [
+            "p5_celulite_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Promove uma pele mais firme e suave.",
+          "rect": [
+            0.09375,
+            0.75925926,
+            0.5625,
+            0.04351852
+          ],
+          "box_px": [
+            180,
+            820,
+            1080,
+            47
+          ],
+          "size_pt": 33,
+          "leading_pt": 38,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "beneficio_celulite",
+          "source_ids": [
+            "p5_celulite"
+          ]
+        }
+      ],
+      "pilot": true,
+      "neighbor_difference": "Ingredientes > Benefícios para a pele > Unhas e cabelos. Somente benefícios de pele nesta tela; foto acrescenta presença humana sem antes/depois."
+    },
+    {
+      "number": 5,
+      "name": "Unhas e cabelos",
+      "theme": "escuro",
+      "source_ids": [
+        "p5_titulo",
+        "p5_unhas_titulo",
+        "p5_unhas",
+        "p5_cabelos_titulo",
+        "p5_cabelos",
+        "p5_pesquisas_titulo",
+        "p5_pesquisas"
+      ],
+      "gesture": "Continuar os benefícios em dois focos comparáveis",
+      "dominant": "Unhas e cabelos em duas colunas",
+      "photo_function": "Sem foto; pausa tipográfica entre duas cenas",
+      "composition_reason": "Mantém os pares título/explicação próximos e separa a afirmação sobre pesquisas como fecho da fonte.",
+      "archetypes": [
+        "11",
+        "22"
+      ],
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Unhas e cabelos",
+          "rect": [
+            0.078125,
+            0.15740741,
+            0.83333333,
+            0.12037037
+          ],
+          "box_px": [
+            150,
+            170,
+            1600,
+            130
+          ],
+          "size_pt": 101,
+          "leading_pt": 105.04,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_titulo"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.08072917,
+            0.37777778,
+            0.32291667,
+            0.0037037
+          ],
+          "box_px": [
+            155,
+            408,
+            620,
+            4
+          ],
+          "fill": "E7A7C1",
+          "group": null
+        },
+        {
+          "role": "body",
+          "text": "Saúde das unhas",
+          "rect": [
+            0.08072917,
+            0.4212963,
+            0.359375,
+            0.06944444
+          ],
+          "box_px": [
+            155,
+            455,
+            690,
+            75
+          ],
+          "size_pt": 46,
+          "leading_pt": 53.36,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_unhas_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Fortalece as unhas, reduzindo quebras.",
+          "rect": [
+            0.08072917,
+            0.5212963,
+            0.35677083,
+            0.13888889
+          ],
+          "box_px": [
+            155,
+            563,
+            685,
+            150
+          ],
+          "size_pt": 42,
+          "leading_pt": 48.72,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_unhas"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.53385417,
+            0.37777778,
+            0.32291667,
+            0.0037037
+          ],
+          "box_px": [
+            1025,
+            408,
+            620,
+            4
+          ],
+          "fill": "E7A7C1",
+          "group": null
+        },
+        {
+          "role": "body",
+          "text": "Crescimento capilar",
+          "rect": [
+            0.53385417,
+            0.4212963,
+            0.359375,
+            0.06944444
+          ],
+          "box_px": [
+            1025,
+            455,
+            690,
+            75
+          ],
+          "size_pt": 46,
+          "leading_pt": 53.36,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_cabelos_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Influencia positivamente o crescimento e a saúde dos cabelos.",
+          "rect": [
+            0.53385417,
+            0.5212963,
+            0.35677083,
+            0.13888889
+          ],
+          "box_px": [
+            1025,
+            563,
+            685,
+            150
+          ],
+          "size_pt": 42,
+          "leading_pt": 48.72,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_cabelos"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Resultados clinicamente comprovados",
+          "rect": [
+            0.08072917,
+            0.67592593,
+            0.80208333,
+            0.05833333
+          ],
+          "box_px": [
+            155,
+            730,
+            1540,
+            63
+          ],
+          "size_pt": 40,
+          "leading_pt": 46.4,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_pesquisas_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Benefícios respaldados por pesquisas clínicas.",
+          "rect": [
+            0.08072917,
+            0.74537037,
+            0.80208333,
+            0.05092593
+          ],
+          "box_px": [
+            155,
+            805,
+            1540,
+            55
+          ],
+          "size_pt": 36,
+          "leading_pt": 41.76,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p5_pesquisas"
+          ]
+        }
+      ],
+      "pilot": false,
+      "neighbor_difference": "Benefícios para a pele > Unhas e cabelos > Como usar. Mantém os pares título/explicação próximos e separa a afirmação sobre pesquisas como fecho da fonte."
+    },
+    {
+      "number": 6,
+      "name": "Como usar",
+      "theme": "claro",
+      "source_ids": [
+        "p3_titulo",
+        "p3_intro",
+        "p3_1",
+        "p3_2",
+        "p3_3",
+        "p3_4"
+      ],
+      "gesture": "Mostrar preparo e sequência de uso",
+      "dominant": "Primeiro passo de preparo e três orientações",
+      "photo_function": "Modelo principal preparando a bebida com produto visível",
+      "composition_reason": "A foto comunica a ação, e os números organizam as orientações sem transformar idade em etapa de preparo.",
+      "archetypes": [
+        "06",
+        "12"
+      ],
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.0,
+            0,
+            0.3489583333333333,
+            1
+          ],
+          "box_px": [
+            0,
+            0,
+            670,
+            1080
+          ],
+          "asset": "planejamento/foto_planejada_06.png",
+          "fit": "cover",
+          "placeholder": true,
+          "label": "FOTO A PRODUZIR\nModelo principal\npreparando a bebida",
+          "safe_top_px": 162,
+          "safe_bottom_px": 162
+        },
+        {
+          "role": "h1",
+          "text": "Como usar?",
+          "rect": [
+            0.41145833,
+            0.13888889,
+            0.52083333,
+            0.11111111
+          ],
+          "box_px": [
+            790,
+            150,
+            1000,
+            120
+          ],
+          "size_pt": 102,
+          "leading_pt": 106.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p3_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Para obter os melhores resultados siga as dicas a seguir:",
+          "rect": [
+            0.41666667,
+            0.28240741,
+            0.51041667,
+            0.0787037
+          ],
+          "box_px": [
+            800,
+            305,
+            980,
+            85
+          ],
+          "size_pt": 35,
+          "leading_pt": 40.6,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p3_intro"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.41145833,
+            0.39351852,
+            0.52604167,
+            0.1037037
+          ],
+          "box_px": [
+            790,
+            425,
+            1010,
+            112
+          ],
+          "fill": "A9708A",
+          "group": "orientacao_1"
+        },
+        {
+          "role": "body",
+          "text": "01",
+          "rect": [
+            0.42552083,
+            0.42037037,
+            0.04166667,
+            0.04814815
+          ],
+          "box_px": [
+            817,
+            454,
+            80,
+            52
+          ],
+          "size_pt": 40,
+          "leading_pt": 46.4,
+          "font": "Gotham-Medium",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_1",
+          "valign": "middle"
+        },
+        {
+          "role": "body",
+          "text": "Diluir 15 g (3 medidas dosadoras) em 250 ml de água.",
+          "rect": [
+            0.47916667,
+            0.41203704,
+            0.4375,
+            0.06666667
+          ],
+          "box_px": [
+            920,
+            445,
+            840,
+            72
+          ],
+          "size_pt": 34,
+          "leading_pt": 39,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_1",
+          "source_ids": [
+            "p3_1"
+          ],
+          "valign": "middle"
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.41145833,
+            0.50925926,
+            0.52604167,
+            0.1037037
+          ],
+          "box_px": [
+            790,
+            550,
+            1010,
+            112
+          ],
+          "fill": "A9708A",
+          "group": "orientacao_2"
+        },
+        {
+          "role": "body",
+          "text": "02",
+          "rect": [
+            0.42552083,
+            0.53611111,
+            0.04166667,
+            0.04814815
+          ],
+          "box_px": [
+            817,
+            579,
+            80,
+            52
+          ],
+          "size_pt": 40,
+          "leading_pt": 46.4,
+          "font": "Gotham-Medium",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_2",
+          "valign": "middle"
+        },
+        {
+          "role": "body",
+          "text": "Agite bem antes de consumir para garantir a mistura adequada dos ingredientes.",
+          "rect": [
+            0.47916667,
+            0.52777778,
+            0.4375,
+            0.06666667
+          ],
+          "box_px": [
+            920,
+            570,
+            840,
+            72
+          ],
+          "size_pt": 34,
+          "leading_pt": 39,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_2",
+          "source_ids": [
+            "p3_2"
+          ],
+          "valign": "middle"
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.41145833,
+            0.625,
+            0.52604167,
+            0.1037037
+          ],
+          "box_px": [
+            790,
+            675,
+            1010,
+            112
+          ],
+          "fill": "A9708A",
+          "group": "orientacao_3"
+        },
+        {
+          "role": "body",
+          "text": "03",
+          "rect": [
+            0.42552083,
+            0.65185185,
+            0.04166667,
+            0.04814815
+          ],
+          "box_px": [
+            817,
+            704,
+            80,
+            52
+          ],
+          "size_pt": 40,
+          "leading_pt": 46.4,
+          "font": "Gotham-Medium",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_3",
+          "valign": "middle"
+        },
+        {
+          "role": "body",
+          "text": "Consumir diariamente para melhores resultados.",
+          "rect": [
+            0.47916667,
+            0.64351852,
+            0.4375,
+            0.06666667
+          ],
+          "box_px": [
+            920,
+            695,
+            840,
+            72
+          ],
+          "size_pt": 34,
+          "leading_pt": 39,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_3",
+          "source_ids": [
+            "p3_3"
+          ],
+          "valign": "middle"
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.41145833,
+            0.74074074,
+            0.52604167,
+            0.1037037
+          ],
+          "box_px": [
+            790,
+            800,
+            1010,
+            112
+          ],
+          "fill": "A9708A",
+          "group": "orientacao_4"
+        },
+        {
+          "role": "body",
+          "text": "04",
+          "rect": [
+            0.42552083,
+            0.76759259,
+            0.04166667,
+            0.04814815
+          ],
+          "box_px": [
+            817,
+            829,
+            80,
+            52
+          ],
+          "size_pt": 40,
+          "leading_pt": 46.4,
+          "font": "Gotham-Medium",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_4",
+          "valign": "middle"
+        },
+        {
+          "role": "body",
+          "text": "Produto indicado para pessoas com idade superior a 19 anos.",
+          "rect": [
+            0.47916667,
+            0.75925926,
+            0.4375,
+            0.06666667
+          ],
+          "box_px": [
+            920,
+            820,
+            840,
+            72
+          ],
+          "size_pt": 34,
+          "leading_pt": 39,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "orientacao_4",
+          "source_ids": [
+            "p3_4"
+          ],
+          "valign": "middle"
+        }
+      ],
+      "pilot": true,
+      "neighbor_difference": "Unhas e cabelos > Como usar > Conservação. A foto comunica a ação, e os números organizam as orientações sem transformar idade em etapa de preparo."
+    },
+    {
+      "number": 7,
+      "name": "Conservação",
+      "theme": "escuro",
+      "source_ids": [
+        "p6_titulo",
+        "p6_intro",
+        "p6_luz_titulo",
+        "p6_luz",
+        "p6_calor_titulo",
+        "p6_calor",
+        "p6_aberto_titulo",
+        "p6_aberto"
+      ],
+      "gesture": "Organizar três cuidados com destaque para o prazo após abertura",
+      "dominant": "60 dias associado ao fechamento da embalagem",
+      "photo_function": "Cena integral do pote em ambiente neutro, sem pessoa",
+      "composition_reason": "Alterna pessoa e objeto; o prazo pertence ao terceiro cuidado, com texto completo preservado.",
+      "archetypes": [
+        "08",
+        "12"
+      ],
+      "elements": [
+        {
+          "role": "photo",
+          "rect": [
+            0.6822916666666666,
+            0,
+            0.3177083333333333,
+            1
+          ],
+          "box_px": [
+            1310,
+            0,
+            610,
+            1080
+          ],
+          "asset": "planejamento/foto_planejada_07.png",
+          "fit": "cover",
+          "placeholder": true,
+          "label": "FOTO A PRODUZIR\nEmbalagem fechada\nCenário neutro",
+          "safe_top_px": 162,
+          "safe_bottom_px": 162
+        },
+        {
+          "role": "h1",
+          "text": "Conservação",
+          "rect": [
+            0.07552083,
+            0.14351852,
+            0.58333333,
+            0.11574074
+          ],
+          "box_px": [
+            145,
+            155,
+            1120,
+            125
+          ],
+          "size_pt": 99,
+          "leading_pt": 102.96000000000001,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p6_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Para garantir a eficácia e a qualidade do seu suplemento, siga as instruções de conservação:",
+          "rect": [
+            0.078125,
+            0.2962963,
+            0.54166667,
+            0.10185185
+          ],
+          "box_px": [
+            150,
+            320,
+            1040,
+            110
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p6_intro"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.078125,
+            0.4212963,
+            0.00260417,
+            0.10648148
+          ],
+          "box_px": [
+            150,
+            455,
+            5,
+            115
+          ],
+          "fill": "E7A7C1",
+          "group": "cuidado_luz"
+        },
+        {
+          "role": "body",
+          "text": "Proteja da luz",
+          "rect": [
+            0.09635417,
+            0.4212963,
+            0.54166667,
+            0.05092593
+          ],
+          "box_px": [
+            185,
+            455,
+            1040,
+            55
+          ],
+          "size_pt": 42,
+          "leading_pt": 48.72,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "group": "cuidado_luz",
+          "source_ids": [
+            "p6_luz_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Conservar ao abrigo da luz.",
+          "rect": [
+            0.09635417,
+            0.48148148,
+            0.54166667,
+            0.06296296
+          ],
+          "box_px": [
+            185,
+            520,
+            1040,
+            68
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "cuidado_luz",
+          "source_ids": [
+            "p6_luz"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.078125,
+            0.56018519,
+            0.00260417,
+            0.10648148
+          ],
+          "box_px": [
+            150,
+            605,
+            5,
+            115
+          ],
+          "fill": "E7A7C1",
+          "group": "cuidado_calor"
+        },
+        {
+          "role": "body",
+          "text": "Evite calor e umidade",
+          "rect": [
+            0.09635417,
+            0.56018519,
+            0.54166667,
+            0.05092593
+          ],
+          "box_px": [
+            185,
+            605,
+            1040,
+            55
+          ],
+          "size_pt": 42,
+          "leading_pt": 48.72,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "group": "cuidado_calor",
+          "source_ids": [
+            "p6_calor_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Manter em local seco e fresco.",
+          "rect": [
+            0.09635417,
+            0.62037037,
+            0.54166667,
+            0.06296296
+          ],
+          "box_px": [
+            185,
+            670,
+            1040,
+            68
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "cuidado_calor",
+          "source_ids": [
+            "p6_calor"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.078125,
+            0.69907407,
+            0.00260417,
+            0.10648148
+          ],
+          "box_px": [
+            150,
+            755,
+            5,
+            115
+          ],
+          "fill": "E7A7C1",
+          "group": "cuidado_aberto"
+        },
+        {
+          "role": "body",
+          "text": "Após aberto",
+          "rect": [
+            0.09635417,
+            0.69907407,
+            0.54166667,
+            0.05092593
+          ],
+          "box_px": [
+            185,
+            755,
+            1040,
+            55
+          ],
+          "size_pt": 42,
+          "leading_pt": 48.72,
+          "font": "Gotham-Bold",
+          "color": "E7A7C1",
+          "tracking": -50,
+          "align": "left",
+          "group": "cuidado_aberto",
+          "source_ids": [
+            "p6_aberto_titulo"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Conservar bem fechado e consumir em até 60 dias.",
+          "rect": [
+            0.09635417,
+            0.75925926,
+            0.54166667,
+            0.06296296
+          ],
+          "box_px": [
+            185,
+            820,
+            1040,
+            68
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "cuidado_aberto",
+          "source_ids": [
+            "p6_aberto"
+          ],
+          "emphasis": {
+            "text": "60 dias",
+            "font": "Gotham-Bold"
+          }
+        }
+      ],
+      "pilot": false,
+      "neighbor_difference": "Como usar > Conservação > Precauções. Alterna pessoa e objeto; o prazo pertence ao terceiro cuidado, com texto completo preservado."
+    },
+    {
+      "number": 8,
+      "name": "Precauções",
+      "theme": "claro",
+      "source_ids": [
+        "p7_titulo",
+        "p7_1",
+        "p7_2",
+        "p7_3",
+        "p7_4"
+      ],
+      "gesture": "Dar prioridade às restrições e preservar o fecho institucional",
+      "dominant": "Restrição de consumo e consulta profissional",
+      "photo_function": "Sem foto para manter atenção nas ressalvas",
+      "composition_reason": "Dois campos com funções distintas: precauções à esquerda e fecho da fonte à direita.",
+      "archetypes": [
+        "11",
+        "23"
+      ],
+      "elements": [
+        {
+          "role": "h1",
+          "text": "Precauções",
+          "rect": [
+            0.07552083,
+            0.15740741,
+            0.859375,
+            0.12037037
+          ],
+          "box_px": [
+            145,
+            170,
+            1650,
+            130
+          ],
+          "size_pt": 104,
+          "leading_pt": 108.16,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p7_titulo"
+          ]
+        },
+        {
+          "role": "chart",
+          "rect": [
+            0.07552083,
+            0.35648148,
+            0.484375,
+            0.31018519
+          ],
+          "box_px": [
+            145,
+            385,
+            930,
+            335
+          ],
+          "fill": "A9708A",
+          "group": "restricoes"
+        },
+        {
+          "role": "body",
+          "text": "Este produto não deve ser consumido por gestantes, lactantes e crianças.",
+          "rect": [
+            0.09895833,
+            0.3962963,
+            0.4296875,
+            0.18055556
+          ],
+          "box_px": [
+            190,
+            428,
+            825,
+            195
+          ],
+          "size_pt": 46,
+          "leading_pt": 54,
+          "font": "Gotham-Medium",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "restricoes",
+          "source_ids": [
+            "p7_1"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "Consulte um profissional de saúde antes de iniciar o uso.",
+          "rect": [
+            0.09895833,
+            0.5462963,
+            0.4296875,
+            0.10185185
+          ],
+          "box_px": [
+            190,
+            590,
+            825,
+            110
+          ],
+          "size_pt": 38,
+          "leading_pt": 44.08,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "group": "restricoes",
+          "source_ids": [
+            "p7_2"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "A Luci Luci é dedicada a oferecer produtos de alta qualidade que promovem o bem-estar e a beleza dos nossos clientes.",
+          "rect": [
+            0.59895833,
+            0.375,
+            0.31770833,
+            0.225
+          ],
+          "box_px": [
+            1150,
+            405,
+            610,
+            243
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p7_3"
+          ]
+        },
+        {
+          "role": "body",
+          "text": "VITAE REVERSE DRINK foi criado para proporcionar uma rotina de beleza eficaz e conveniente.",
+          "rect": [
+            0.59895833,
+            0.56481481,
+            0.31770833,
+            0.16666667
+          ],
+          "box_px": [
+            1150,
+            610,
+            610,
+            180
+          ],
+          "size_pt": 37,
+          "leading_pt": 42.92,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left",
+          "source_ids": [
+            "p7_4"
+          ]
+        }
+      ],
+      "pilot": false,
+      "neighbor_difference": "Conservação > Precauções > Agradecimento. Dois campos com funções distintas: precauções à esquerda e fecho da fonte à direita."
+    },
+    {
+      "number": 9,
+      "name": "Agradecimento",
+      "theme": "claro",
+      "source_ids": [
+        "p8_marcas"
+      ],
+      "gesture": "Encerrar na identidade aprovada",
+      "dominant": "Agradecimento fixo",
+      "photo_function": "Foto de marca existente no molde",
+      "composition_reason": "A última página mantém o agradecimento aprovado; marcas do slide 8 da fonte reaparecem na identidade e no nome do treinamento.",
+      "archetypes": [
+        "molde_agradecimento_aprovado"
+      ],
+      "elements": [
+        {
+          "role": "h1",
+          "text": "OBRIGADA!",
+          "rect": [
+            0.3125,
+            0.44444444,
+            0.38541667,
+            0.12962963
+          ],
+          "box_px": [
+            600,
+            480,
+            740,
+            140
+          ],
+          "size_pt": 110,
+          "leading_pt": 114.4,
+          "font": "Gotham-Book",
+          "color": "FFFFFF",
+          "tracking": -50,
+          "align": "left"
+        }
+      ],
+      "pilot": false,
+      "fixed": "thanks",
+      "neighbor_difference": "Precauções > Agradecimento > fim. A última página mantém o agradecimento aprovado; marcas do slide 8 da fonte reaparecem na identidade e no nome do treinamento."
+    }
+  ],
+  "approval": "pending",
+  "pilot_content_pages": [
+    3,
+    4,
+    6
+  ],
+  "pilot_with_fixed_pages": [
+    1,
+    3,
+    4,
+    6,
+    9
+  ],
+  "photo_references": {
+    "product": "fonte/produto_referencia.png",
+    "principal_model": "fonte/modelo_referencia.png",
+    "other_models": "Autorizadas pelo usuario quando pertinentes."
+  },
+  "editorial_scope": "Preservar o conteúdo fornecido; normalizar espaços/unidades e propor apenas divisão e títulos de navegação. Alegações não foram verificadas cientificamente.",
+  "source_pdf": "fonte/treinamento_original.pdf"
+}

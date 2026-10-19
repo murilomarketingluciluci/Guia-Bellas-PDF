@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-15",
+  "files": [
+    {
+      "path": "auditoria/DELEGACOES.md",
+      "bytes": 5425,
+      "sha256": "357004d0349cc533d1d3bd09fbc6b7a846251bc5109731911c1ac92758707bc9"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/acoes_operacionais.jsonl",
+      "bytes": 1647579,
+      "sha256": "d50d5d00171eaf0925292f472e7136282236b480ef053b10bfb97503bde8cac9"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/acoes_posteriores_ao_corte.jsonl",
+      "bytes": 290611,
+      "sha256": "62328d5fe3b53048378f004316f5908250b8ba6f8de003ee2a1c268b8f9a72a3"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/arte_preservada.json",
+      "bytes": 3097,
+      "sha256": "a1f070601738597ac4644f987df544d256fe9a31c7fef3ced96701a9c507ed26"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/chamadas_ferramentas.jsonl",
+      "bytes": 649905,
+      "sha256": "746be11286864a140bf8bafa805917dafda6ff5b1165d3e493314af97389c583"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/chamadas_posteriores_ao_corte.jsonl",
+      "bytes": 261619,
+      "sha256": "30261a952581c309230a94bcf3a47adaa82cfaf2da5a72176616f5f8a402b676"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/cobertura.json",
+      "bytes": 3027,
+      "sha256": "c2d4439def977fd077f98617135c46eefd6ed8dce4fa116409fa4a88e326902e"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/cobertura_final.json",
+      "bytes": 4812,
+      "sha256": "0a29687b525c1c9ad8bc3c7dfd1a7c2d44a94b80271672d8df22ef9ef10adfd2"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/contexto_conteudo_luciane.json",
+      "bytes": 12976,
+      "sha256": "02e269a87b260c03bbc55a967bf66a83a6ce6a0ca4d65bcb58d31fade7bdac60"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/contexto_revisao_composicao.json",
+      "bytes": 15237,
+      "sha256": "0456c5d97c6f2bee98f980f604c29c20e5d3e8baa12c335abc3e34f049df5395"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/contexto_validacao_entrega.json",
+      "bytes": 8583,
+      "sha256": "6e30fe804686d51b19970a70addcc87dacc2d328397d6b9a55238f6f4f8cd4b4"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/correspondencia_imagens.json",
+      "bytes": 884,
+      "sha256": "e6b44e8eaf1346f0979265b1df004bd45230c392551e8c00a24619dcab34e957"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/delegacoes_consolidadas.json",
+      "bytes": 58229,
+      "sha256": "6603c7627017f4c0260d307bbd03a4b69c8025dfdf16076842e78f7bbfd6f4ac"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/diretrizes_apos_recuperacao/AGENTS.md",
+      "bytes": 6594,
+      "sha256": "d73491eefd58f9fed32dc4d50aa3c99bb9894edb36f8b3492804f720b4091451"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/diretrizes_apos_recuperacao/DECISOES_APN_BELLAS.md",
+      "bytes": 15193,
+      "sha256": "c48a74bea50bb00fb61592b9538571dffc637fcbe7eacf60e2c7b3946a547af8"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/diretrizes_apos_recuperacao/DOCUMENTACAO_DA_EXECUCAO.md",
+      "bytes": 4669,
+      "sha256": "2f42d02fed2bffac8a48b0355aaabd231ff3568cb52d7118e49adfb3ddac28d3"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/diretrizes_apos_recuperacao/FLUXO_NOVO_TREINAMENTO.md",
+      "bytes": 6522,
+      "sha256": "1e177b70835a9b9b544c7dd83ecc3ebf88a68c500dde8a34bc178c575f2cdeaf"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/diretrizes_apos_recuperacao/QA_FINAL.md",
+      "bytes": 6716,
+      "sha256": "20b9c0a685f0d735ccdb4668ad35b5f58b7d7cac2ed500ac89a0876b2851b5c2"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/diretrizes_apos_recuperacao/templates/registro_execucao.json",
+      "bytes": 697,
+      "sha256": "ce736db755ca7076921ced25c464d62cca2dd030ed84a0be77f5fcca5e0c5833"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/LINHA_DO_TEMPO.md",
+      "bytes": 412811,
+      "sha256": "6c03564d764fb388b1fc29c625d448a395a2e7e5ec2137bf814a6bb967f13377"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/mensagens_posteriores_ao_corte.jsonl",
+      "bytes": 9953,
+      "sha256": "6c7858db793719e365f0aaaa73d070526012acb3deaf87f681d56049c67faf65"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/mensagens_visiveis.jsonl",
+      "bytes": 34433,
+      "sha256": "4081890d385bc9fa5c921132e7c95bbab35ebc3fd9ca16799909c4459d02fd88"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/modelos_registrados.json",
+      "bytes": 11101,
+      "sha256": "201939cf2da6dde56876296bc88a95dced6f8700a2da9739a877093db243be33"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/prompt_inicial_conteudo_luciane.txt",
+      "bytes": 1006,
+      "sha256": "ed7fe85dfa8ec3cb335a6b61718d67fd5aa769bae3523e6df758c3ad8a3b0474"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/prompt_inicial_revisao_composicao.txt",
+      "bytes": 924,
+      "sha256": "09751be0518c288b9a46ab16383458b4bf07c61d32cebfc748d94ab758999742"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/prompt_inicial_validacao_entrega.txt",
+      "bytes": 1071,
+      "sha256": "a2475f72d9f7df6901ea36d6422bbb25851b34620c7987c987c5b71a3ada49d3"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/prompts_contexto_literal.json",
+      "bytes": 4953,
+      "sha256": "0be721f82c73e18d57da51cb219f9ade2ad5dd9e97cd03f75cea62e06e71c501"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/prompts_delegacao.json",
+      "bytes": 23049,
+      "sha256": "c4ce0260f982a587ca9d1f6d238135b0bb95321453ada089e23b178105a58d6e"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/prompts_revisados_imagens.json",
+      "bytes": 7473,
+      "sha256": "bd949fa3ad3e5125206d895ae44c0e79b10dae4e544b83c04410cabf32c76be6"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/README.md",
+      "bytes": 7712,
+      "sha256": "f0d19038b45612f3726ccf1681022dc50d577d7018141c2850c7917e02cd9413"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/retornos_ferramentas.jsonl",
+      "bytes": 1031818,
+      "sha256": "eacb66874d34ff57abad722f4f828246c687432c7af3749adafa56e023cb4ee8"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/retornos_posteriores_ao_corte.jsonl",
+      "bytes": 151996,
+      "sha256": "87b5e9a1567fb7a854f6eb927cc9528a575fa61a1ca46e54d6de5a05d1112ffb"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/tarefas_desta_recuperacao.json",
+      "bytes": 3158,
+      "sha256": "5b235d1e7f420cfc068b31ac2b7c7b8667f10efc1bbdc24546a84d5c28845826"
+    },
+    {
+      "path": "auditoria/recuperacao_2026-10-15/verificacao_recuperacao.json",
+      "bytes": 765,
+      "sha256": "3d82b4cd0c7dd7b766ca1be416952e496e65abc7f8a2cdf44454bc23d1d5cb53"
+    },
+    {
+      "path": "auditoria/SESSAO.md",
+      "bytes": 17316,
+      "sha256": "63064f41ede7b9b76fea2f159702491a964207a6646b37478b3324f2f54fbcbc"
+    },
+    {
+      "path": "LEIA_ME.md",
+      "bytes": 2100,
+      "sha256": "411af9bfce5656005f59105333e7249bc95c0031f701841b4e641290bd361690"
+    },
+    {
+      "path": "scripts/consolidar_recuperacao.py",
+      "bytes": 7288,
+      "sha256": "fa262d5f34fb5ad7ea49c30069c8c547c5749e23b3337c56ab732aaf8f1130cb"
+    },
+    {
+      "path": "scripts/recuperar_auditoria.py",
+      "bytes": 11565,
+      "sha256": "597f79fa7bb5164833c72d4cd6b0bb4411cd90edca4280542e992e89571ff301"
+    },
+    {
+      "path": "scripts/verificar_recuperacao.py",
+      "bytes": 7448,
+      "sha256": "395f9d83ddec858a3d93e01f8216e7ce15bfcaea6b3aeaaebdc8f8881f42fe33"
+    }
+  ],
+  "note": "Complemento; hashes_artefatos.json de 14/10 preservado. Arquivos de sessão vivos têm ponto de corte e hashes de captura no relatório."
+}

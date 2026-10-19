@@ -1,0 +1,313 @@
+[
+  {
+    "key": "luni",
+    "parsed": "LUCI LUCI-443",
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_luni.bin",
+      "bytes": 30,
+      "sha256": "f2a6a81ea2a706872900fdb5b3ee44a615361bbcb8be1f709b944bde3a9c327b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "cmVuZA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "69bc823df4bd52d72a5988b55ab0f238f5d17b28344132b01b2463e388bb9424",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1126,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "8247a8d695152b6504e968752f40bf19c0330805fb693241648aba4e9d9fe8bc",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "iOpa",
+    "parsed": 199,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_iOpa.bin",
+      "bytes": 4,
+      "sha256": "add7f2a4843f8c512c0e2875546581db11b9ba227ee008b5f719dfacb125de76",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 6,
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "fef6a5fbf170b8659765cc48d62fe63675a95dd9a1376bdbaff96fc1f03d8c66",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.555
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "f6f1736bad9240919e7dfab4a2839afe3369206dd2b0855aa0a1600944e66078",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "PlLd",
+    "parsed": {
+      "kind": {
+        "bytes_base64": "cGxjTA==",
+        "length": 4
+      },
+      "version": 3,
+      "uuid": {
+        "bytes_base64": "NWUxODk3MGMtYjliNi00NzQwLTg5ZWMtYWMwMTg4NzBkMTQ1",
+        "length": 36
+      },
+      "page": 1,
+      "total_pages": 1,
+      "anti_alias": 16,
+      "layer_type": 2,
+      "transform": [
+        -110.0,
+        -18.0,
+        2093.0,
+        -18.0,
+        2093.0,
+        1451.0,
+        -110.0000000000004,
+        1451.0
+      ],
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycE5vbmU=",
+            "length": 8
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:626f756e6473": {
+          "bytes:546f7020": 0.0,
+          "bytes:4c656674": 0.0,
+          "bytes:42746f6d": 4672.0,
+          "bytes:52676874": 7008.0
+        },
+        "bytes:754f72646572": 4,
+        "bytes:764f72646572": 4
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_PlLd.bin",
+      "bytes": 480,
+      "sha256": "ebc0d161d20ed4f012fd5162cebb4b0df6db485298b058370dd623864c0e6982",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "SoLd",
+    "parsed": {
+      "kind": {
+        "bytes_base64": "c29MRA==",
+        "length": 4
+      },
+      "version": 4,
+      "data": {
+        "bytes:49646e74": "5e18970c-b9b6-4740-89ec-ac018870d145\u0000",
+        "bytes:706c61636564": "1a8fc577-af02-ad49-981f-6216ca03d7c2\u0000",
+        "bytes:50674e6d": 1,
+        "bytes:746f74616c5061676573": 1,
+        "bytes:43726f70": 1,
+        "bytes:6672616d6553746570": {
+          "bytes:6e756d657261746f72": 0,
+          "bytes:64656e6f6d696e61746f72": 600
+        },
+        "bytes:6475726174696f6e": {
+          "bytes:6e756d657261746f72": 0,
+          "bytes:64656e6f6d696e61746f72": 600
+        },
+        "bytes:6672616d65436f756e74": 1,
+        "bytes:416e6e74": 16,
+        "bytes:54797065": 2,
+        "bytes:54726e66": [
+          -110.0,
+          -18.0,
+          2093.0,
+          -18.0,
+          2093.0,
+          1451.0,
+          -110.0000000000004,
+          1451.0
+        ],
+        "bytes:6e6f6e416666696e655472616e73666f726d": [
+          -110.0,
+          -18.0,
+          2093.0,
+          -18.0,
+          2093.0,
+          1451.0,
+          -110.0000000000004,
+          1451.0
+        ],
+        "bytes:77617270": {
+          "bytes:776172705374796c65": {
+            "typeID": {
+              "bytes_base64": "d2FycFN0eWxl",
+              "length": 9
+            },
+            "enum": {
+              "bytes_base64": "d2FycE5vbmU=",
+              "length": 8
+            }
+          },
+          "bytes:7761727056616c7565": 0.0,
+          "bytes:776172705065727370656374697665": 0.0,
+          "bytes:7761727050657273706563746976654f74686572": 0.0,
+          "bytes:77617270526f74617465": {
+            "typeID": {
+              "bytes_base64": "T3JudA==",
+              "length": 4
+            },
+            "enum": {
+              "bytes_base64": "SHJ6bg==",
+              "length": 4
+            }
+          },
+          "bytes:626f756e6473": {
+            "bytes:546f7020": 0.0,
+            "bytes:4c656674": 0.0,
+            "bytes:42746f6d": 4672.0,
+            "bytes:52676874": 7008.0
+          },
+          "bytes:754f72646572": 4,
+          "bytes:764f72646572": 4
+        },
+        "bytes:537a2020": {
+          "bytes:57647468": 7008.0,
+          "bytes:48676874": 4672.0
+        },
+        "bytes:52736c74": 100.0,
+        "bytes:636f6d70": -1,
+        "bytes:636f6d70496e666f": {
+          "bytes:636f6d704944": -1,
+          "bytes:6f726967696e616c436f6d704944": -1
+        },
+        "bytes:436c4d67": {
+          "bytes:706c616365644c617965724f43494f436f6e76657273696f6e": {
+            "typeID": {
+              "bytes_base64": "cGxhY2VkTGF5ZXJPQ0lPQ29udmVyc2lvbg==",
+              "length": 25
+            },
+            "enum": {
+              "bytes_base64": "cGxhY2VkTGF5ZXJPQ0lPQ29udmVydEVtYmVkZGVk",
+              "length": 30
+            }
+          }
+        }
+      }
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_SoLd.bin",
+      "bytes": 1388,
+      "sha256": "293513ae7e814563e74f830318116bad0ceb2caa11b54525daebc0283905fecf",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        -109.58789790403392,
+        -18.388704915974813
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/CAPA_APROVADA_-_ALTERAR_SOMENTE_TITULO/028_LUCI_LUCI-443.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "27fcbf0af14d16ff063cfbfe66a712cff3e3fdfb7d46219eaa67102f11d4322b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "recovered_at_utc": "2026-10-15T13:58:17.180723+00:00",
+  "production_cutoff_utc": "2026-10-15T00:00:00Z",
+  "origins": [
+    {
+      "agent": "/root",
+      "provenance": {
+        "source_path": "C:\\Users\\Murilo\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T17-49-01-01a13c2c-f2f1-7ff2-bc4c-0d1dd4a714d4.jsonl",
+        "snapshot_bytes": 138012931,
+        "snapshot_sha256": "de31dc8e230438b824208368c4b4a10a0cf38f53f8f24c5528b6e0ab56e2d3d9",
+        "lines_at_snapshot": 1293
+      }
+    },
+    {
+      "agent": "/root/conteudo_luciane",
+      "provenance": {
+        "source_path": "C:\\Users\\Murilo\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T18-00-25-01a13c37-6392-7051-aee8-a1b14eafc696.jsonl",
+        "snapshot_bytes": 54955732,
+        "snapshot_sha256": "3e3cb4a388cc7534a5b36bb9fed50704af7b1252567ab7a98c57681aba92aba7",
+        "lines_at_snapshot": 318
+      }
+    },
+    {
+      "agent": "/root/revisao_composicao",
+      "provenance": {
+        "source_path": "C:\\Users\\Murilo\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T18-00-49-01a13c37-c0b6-7083-89c5-413950126f85.jsonl",
+        "snapshot_bytes": 56136267,
+        "snapshot_sha256": "a9b3ab5f02ce6f65aea3847e542265eda7c02cda70d0889e768bb8c94c5eda79",
+        "lines_at_snapshot": 358
+      }
+    },
+    {
+      "agent": "/root/validacao_entrega",
+      "provenance": {
+        "source_path": "C:\\Users\\Murilo\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T18-01-09-01a13c38-0d47-7dd1-956b-d6fe93ff4dae.jsonl",
+        "snapshot_bytes": 2789745,
+        "snapshot_sha256": "eebd749f0f1dc25c7282330bf9f2c0776399f5e840940f68d60b3c3c618db5fa",
+        "lines_at_snapshot": 265
+      }
+    }
+  ],
+  "counts": {
+    "operational_events": 406,
+    "tool_calls": 185,
+    "tool_returns": 189,
+    "visible_messages": 43,
+    "image_revised_prompts": 4,
+    "protected_delegations": 33,
+    "delegation_messages_literal_from_context": 7,
+    "delegation_messages_unrecovered": 26
+  },
+  "events_by_agent": {
+    "/root": 249,
+    "/root/conteudo_luciane": 56,
+    "/root/revisao_composicao": 71,
+    "/root/validacao_entrega": 30
+  },
+  "events_by_type": {
+    "CommandExecution": 176,
+    "ImageView": 153,
+    "McpToolCall": 2,
+    "FileChange": 29,
+    "SubAgentActivity": 42,
+    "Extension": 4
+  },
+  "not_exported": {
+    "event_item:Reasoning": 138,
+    "response_item:reasoning": 138,
+    "event_item:ContextCompaction": 1
+  },
+  "limitations": [
+    "Nenhum raciocínio ou instrução de sistema/desenvolvedor exportado.",
+    "Payloads protegidos não foram decifrados.",
+    "Payloads binários/grandes indicam omissão e hash.",
+    "Ações exatas de ferramentas não demonstram todos os cliques manuais externos.",
+    "Metadado de modelo é configuração registrada, não atestado independente do backend.",
+    "Cópias do histórico herdadas por subagentes podem repetir ações; não somar como execuções independentes."
+  ]
+}

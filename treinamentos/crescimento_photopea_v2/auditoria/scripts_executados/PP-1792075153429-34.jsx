@@ -1,0 +1,1 @@
+app.echoToOE('DOC:'+app.activeDocument.name);app.echoToOE('TOP:'+app.activeDocument.layers[0].name);app.echoToOE('SETS:'+app.activeDocument.layerSets.length);

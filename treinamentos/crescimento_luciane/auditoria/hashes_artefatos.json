@@ -1,0 +1,440 @@
+{
+  "date": "2026-10-14",
+  "files": [
+    {
+      "path": "assets/foto_02_preparacao.png",
+      "bytes": 1900720,
+      "sha256": "2f1a0f8614c2037e3e5c7477ca012c834b46c142940db5660cdfdfc53dadffc2"
+    },
+    {
+      "path": "assets/foto_03_caminho.png",
+      "bytes": 3180350,
+      "sha256": "26a44220d654d26d93ea609082ea0c2cd81ecfc2e0fee218279d3aa5193ff31f"
+    },
+    {
+      "path": "assets/foto_08_mentoria.png",
+      "bytes": 1905634,
+      "sha256": "92a5483c4eb9e77d2a15b3636086e3026280b9f7323d38526bf992ec75077aa8"
+    },
+    {
+      "path": "assets/foto_09_equipe.png",
+      "bytes": 2045256,
+      "sha256": "9897d686b2f8d47f94976d6d79fc5c44a1f05002d123af8909e84f4550c46b35"
+    },
+    {
+      "path": "auditoria/ANALISE_CONJUNTA.md",
+      "bytes": 5641,
+      "sha256": "68386eb8ce68d5cd395dc1ab34a1ea8fb4841bd6a0d72bc3638010362a4cb549"
+    },
+    {
+      "path": "auditoria/analise_critica_editorial.md",
+      "bytes": 11312,
+      "sha256": "1c35b4ab2e83e3e7afe606e773817f7602a34deba6de3f99e5ae44a963f8ad0d"
+    },
+    {
+      "path": "auditoria/analise_critica_visual.md",
+      "bytes": 11013,
+      "sha256": "47f74bfc07d1c410f38a93c495dce42e2b5324e7fedc64f01a77dd450883eeb7"
+    },
+    {
+      "path": "auditoria/antes_ajustes_paleta.psd",
+      "bytes": 70980646,
+      "sha256": "a37b4e32a80b44abb4fd13e8da8eb924bd7f42d144e6a8ba2886fe08ab7f94dc"
+    },
+    {
+      "path": "auditoria/antes_molde_consolidado.psd",
+      "bytes": 45963031,
+      "sha256": "f8aff30a523fc0d2d7f97ea4d0a1529f8628193d11f4dc9611ad13d2ba0a61e3"
+    },
+    {
+      "path": "auditoria/antes_revisao_critica.psd",
+      "bytes": 70629729,
+      "sha256": "789da53398dbdcb7734c56b9f098344cebd2963977c8b853100ba6cc2c3e0b73"
+    },
+    {
+      "path": "auditoria/DELEGACOES.md",
+      "bytes": 4396,
+      "sha256": "4618adf461abaaa4a827512954adf7c2dad313079078ee02f509d6b8a9a404b0"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/AGENTS.md",
+      "bytes": 5893,
+      "sha256": "7e50a4b3e3274ba47a45242657bf1b07e87cb25e0b660e19695a4fe001595b17"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/DECISOES_APN_BELLAS.md",
+      "bytes": 14002,
+      "sha256": "44902d42b05f4ffc6c7ec14e12b1215032c047824fd4ef1e4e59fca42b5d847a"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/FLUXO_NOVO_TREINAMENTO.md",
+      "bytes": 6019,
+      "sha256": "f7ff575b36f85e295c75358df4b529e958f343533424214b9739b18f0c2a280e"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/MODELO_REUTILIZAVEL.md",
+      "bytes": 2062,
+      "sha256": "14c2d86aadc34a571bb3d6c2b848bb36ade210febddfe33e902cf4a82e34fb8c"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/PROMPT_DE_USO.md",
+      "bytes": 6184,
+      "sha256": "5ea72cc6fd1993b1b1b222dd53e8a7c0c71a239be59930bccafc726e39dd8331"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/QA_FINAL.md",
+      "bytes": 6018,
+      "sha256": "6f65cdeecc1a3730fa61d973e1703a157a9e1d12810265424bf5291d5cafbb70"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/skills/bellas-apn/SKILL.md",
+      "bytes": 5886,
+      "sha256": "57133500db3aca85dbc7dbf6e28abd78c1dd9a9912b75e66393a01009eaf4d18"
+    },
+    {
+      "path": "auditoria/diretrizes_no_fechamento/skills/bellas-fotos/SKILL.md",
+      "bytes": 4084,
+      "sha256": "5ea9ffa355d8dbc703be8dd1775df4bdcf827c8596c80421974996442c5ad88a"
+    },
+    {
+      "path": "auditoria/estado_inicial.json",
+      "bytes": 253,
+      "sha256": "d412665c1ffa7946c231776fed056fd52c323c8afc62c8bc018c82dfbe859d6f"
+    },
+    {
+      "path": "auditoria/p02_cabecalho_ampliado.png",
+      "bytes": 99225,
+      "sha256": "659f58e54b3c93be1755672159032415ec4977501e4dde2c85ae06622af31715"
+    },
+    {
+      "path": "auditoria/pagina_11_comentada_usuario.png",
+      "bytes": 127920,
+      "sha256": "e6eab832dcf1f69cb2a718692d8c228f16e89cf9e76f2e6c2f3325856f021e5a"
+    },
+    {
+      "path": "auditoria/parecer_validacao.md",
+      "bytes": 7267,
+      "sha256": "1ac6a44bbe6994a8e213a49f6d60f493f080f18b2ebe523a32f85c8ad6de9428"
+    },
+    {
+      "path": "auditoria/photoshop_execucao.log",
+      "bytes": 3014,
+      "sha256": "142e94bc7c5b1d4b51885463c1f107dbc8e265ab9105415637b0749a4e9f9a84"
+    },
+    {
+      "path": "auditoria/prompts_imagens.json",
+      "bytes": 4782,
+      "sha256": "f652aacba74ba8d9e76de468e9e210a8935b4f73426f72d31abd912afd15ec94"
+    },
+    {
+      "path": "auditoria/renderizacao_pdf.json",
+      "bytes": 1563,
+      "sha256": "b0b9f9736d5e6b6f5676c69b4d31a7aef5183207fdddf0f35b85039dd0da13e6"
+    },
+    {
+      "path": "auditoria/revisao_editorial_manifesto.md",
+      "bytes": 6347,
+      "sha256": "3ca92425808b2b6d19572ad76ef4e259d6f3b0344cad417b19fff91d75a427c0"
+    },
+    {
+      "path": "auditoria/revisao_visual_final.md",
+      "bytes": 7414,
+      "sha256": "f781dfe8ec85962f86f819639ee546d1b6e4f997e7ceb548daf542a8711cc2db"
+    },
+    {
+      "path": "auditoria/SESSAO.md",
+      "bytes": 13564,
+      "sha256": "54d1a4f109ca3e95b53dc3e5d3ae23edce74aab8e594f0ab808285366990f278"
+    },
+    {
+      "path": "auditoria/validacao_entrega.json",
+      "bytes": 146111,
+      "sha256": "a9704ce072bb834528e4e77943aaa0bde36b55f877be21e5bf267f805a722ccf"
+    },
+    {
+      "path": "auditoria/validacao_independente.json",
+      "bytes": 146111,
+      "sha256": "76c5c7f8f2e0f00c0df092061aa57c2db9aa32a021df0b7700c1e6d77d4f1df8"
+    },
+    {
+      "path": "auditoria/verificacao_suplementar_independente.json",
+      "bytes": 4729,
+      "sha256": "e342efea74f122ee52d1f09ead0ec56bf17f6f80353ac1f76f6511c3d1f266fc"
+    },
+    {
+      "path": "entrega/crescimento_luciane_bellas.pdf",
+      "bytes": 7777219,
+      "sha256": "0f1a3b2dbd6b63144b5a10c4115e78a147ea0455cb3fad553da537e1bd27a1b5"
+    },
+    {
+      "path": "entrega/crescimento_luciane_bellas.psd",
+      "bytes": 70637599,
+      "sha256": "b0b5f912c29e4dde6ae65c6008189f5d5056b539fa26c9aa936b70c1ee119f26"
+    },
+    {
+      "path": "entrega/provas_png/pagina_01.png",
+      "bytes": 418922,
+      "sha256": "466bfc24c6c549d9e375632e391a800d2e39bf5d818e80a4be314548d5f5290b"
+    },
+    {
+      "path": "entrega/provas_png/pagina_02.png",
+      "bytes": 1096373,
+      "sha256": "12c430e15090c73b4d977a317ae1ef08d9c58ca8d1791921ed9a43a04f63a059"
+    },
+    {
+      "path": "entrega/provas_png/pagina_03.png",
+      "bytes": 1562646,
+      "sha256": "fc7c6ca437cd692e54ea36e6cce13fa04b4ec1c3e5e41ff0cf15371b75a67f3e"
+    },
+    {
+      "path": "entrega/provas_png/pagina_04.png",
+      "bytes": 68966,
+      "sha256": "40876a058cf17d7df87d68470b015601359b2897d5962ba046c7c1407b399dfb"
+    },
+    {
+      "path": "entrega/provas_png/pagina_05.png",
+      "bytes": 74668,
+      "sha256": "9b32f0aacc3438543506ecb4a4ecce5b41df91e845da459fccb5f7bc118bcb91"
+    },
+    {
+      "path": "entrega/provas_png/pagina_06.png",
+      "bytes": 76932,
+      "sha256": "7d31f61e499425bc98c4e8968fd2cf916be8c7374ce0987f98245a7fbc390f0b"
+    },
+    {
+      "path": "entrega/provas_png/pagina_07.png",
+      "bytes": 51759,
+      "sha256": "095dfcd36c6c82635c17adb93da510d37ac48c4ea7338c2f77f67e864a6f3c52"
+    },
+    {
+      "path": "entrega/provas_png/pagina_08.png",
+      "bytes": 1123235,
+      "sha256": "988d77fe6d5ae0cd31f710845d6f84472273f7c7bf0278b0cd3afc6621dae29a"
+    },
+    {
+      "path": "entrega/provas_png/pagina_09.png",
+      "bytes": 1149656,
+      "sha256": "955934b4d1e3d3c21f6a2929dc88427ed19be3bd8a4986850cf1e5f00c7647f2"
+    },
+    {
+      "path": "entrega/provas_png/pagina_10.png",
+      "bytes": 63516,
+      "sha256": "0725768bbecec0039fe62fd2353585f9f518097ebf1c0e27092bc8bb12a1726c"
+    },
+    {
+      "path": "entrega/provas_png/pagina_11.png",
+      "bytes": 72449,
+      "sha256": "03f8ef6dcf0ad15e70594575ceeabdf50bf16c185057152dc3629f8f910ed5e0"
+    },
+    {
+      "path": "entrega/provas_png/pagina_12.png",
+      "bytes": 580060,
+      "sha256": "7d10a53a94225d13004bc508bbc048ecbe9909ce3bfceaf6b74189718cd6e185"
+    },
+    {
+      "path": "entrega/visao_geral.jpg",
+      "bytes": 197124,
+      "sha256": "d37a72a955cfaf07a967e82320395e06066b64b511a02b6b07de4069c8cafa86"
+    },
+    {
+      "path": "fonte/01.png",
+      "bytes": 2114249,
+      "sha256": "a8d9ff8737ae68794a919ded671cde2504aa2b3bcbc7714655adad43bcd375b6"
+    },
+    {
+      "path": "fonte/02.png",
+      "bytes": 1416574,
+      "sha256": "251cfd39196454253c9ff828f33a3f15ada01423c12ce980aeeb7e6cb6d333ed"
+    },
+    {
+      "path": "fonte/03.png",
+      "bytes": 2084270,
+      "sha256": "863a7815608aabc0771dbe86bc00a3b34e8cfc53539976527e7a537aaf397a76"
+    },
+    {
+      "path": "fonte/04.png",
+      "bytes": 1316090,
+      "sha256": "85b69a31c30f0682b95be0828a1e0b0c42eff45e6af47f570504569f4522854f"
+    },
+    {
+      "path": "fonte/05.png",
+      "bytes": 2076868,
+      "sha256": "db916cfe3515bfdd56d69c77df33879f1ffc44a151209197580d4b498d45669f"
+    },
+    {
+      "path": "fonte/06.png",
+      "bytes": 2103040,
+      "sha256": "43f346a3769d4a85bb682b52191851bf1ada34986065230d3e427046b78f8050"
+    },
+    {
+      "path": "fonte/07.png",
+      "bytes": 1995683,
+      "sha256": "5bdb6871ed735672248d292c5a6b64f479bd794df1a8a04a2863725f2eebdf02"
+    },
+    {
+      "path": "fonte/08.png",
+      "bytes": 1933248,
+      "sha256": "51a409ee42201bbfcc7729fff086ce636c3c3bcb09de15846d5a870cfa98b8d2"
+    },
+    {
+      "path": "fonte/09.png",
+      "bytes": 1947771,
+      "sha256": "a8981bc330357732ec161e27331e55c8e3a96c66eedde4f7ccbd85f01e4abe20"
+    },
+    {
+      "path": "inventario_final.json",
+      "bytes": 120061,
+      "sha256": "d85974d72441f1cda6894ba441e4edcabc2d486da47390411f3486c8fd78604e"
+    },
+    {
+      "path": "LEIA_ME.md",
+      "bytes": 1739,
+      "sha256": "fc7f6fe4dcfef935af965cfe513e909f431a11ffc7526718a2e262f1c03da2a6"
+    },
+    {
+      "path": "leitura/conteudo_transcrito.json",
+      "bytes": 9340,
+      "sha256": "bb41382f351591d863bd121fa2507e458afc747db246b6adf7738d13344c37b2"
+    },
+    {
+      "path": "leitura/molde_reutilizavel_camadas.json",
+      "bytes": 10313,
+      "sha256": "780fcab637df5f1f4362aafa0425f6c66fcdf26db070f7116b26609d9a991977"
+    },
+    {
+      "path": "leitura/notas_editoriais.md",
+      "bytes": 8203,
+      "sha256": "2e13e3bde384aaf834210c46d39cd6f90693badf32e80ad85d8c223502d21fee"
+    },
+    {
+      "path": "leitura/pdf_final_render/contato.jpg",
+      "bytes": 197124,
+      "sha256": "d37a72a955cfaf07a967e82320395e06066b64b511a02b6b07de4069c8cafa86"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_01.png",
+      "bytes": 421381,
+      "sha256": "4a5fd7fabdfb30ceb893f6a38b1c2357052048de83ce975cf0254d1017ea4fd8"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_02.png",
+      "bytes": 1453710,
+      "sha256": "4fcb256471c5ccfb34c026b2d238bfb863e2ec86dc67a51738f35e054edef142"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_03.png",
+      "bytes": 1825024,
+      "sha256": "354b83ccf858d5e5e86fea6da2bc2ad1d087a1847108b1f75fc1db835da47641"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_04.png",
+      "bytes": 56397,
+      "sha256": "4a39ee72928758656ff00d6e243986a76e6bf8cd1b0bb3a23f9515e39e23a59b"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_05.png",
+      "bytes": 62483,
+      "sha256": "0d2235369bccff30e9971e3e9096d0e795bc068724936cfc07ccaf4e5b0e9ec1"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_06.png",
+      "bytes": 62973,
+      "sha256": "5d18e74974c63cd0ecf4973d554a45fd773f5531211db11fd89103aeeb2a9f66"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_07.png",
+      "bytes": 42169,
+      "sha256": "679664df4131d1e326b7ba75c73861dfc87d311a1caa8252a8b7bbfc6569c470"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_08.png",
+      "bytes": 1624590,
+      "sha256": "14ec41ff673826ec0d1cfaf5d0cccc8035f11835da4571087dc9d2af50936643"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_09.png",
+      "bytes": 1515329,
+      "sha256": "76af3bb88422c8f0aede2a41ae85bea024295a5e4b7be842bcaf22c229d1a7eb"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_10.png",
+      "bytes": 51415,
+      "sha256": "9f1b8f0bf5bed1370d6b6d6fa1d2649b3a32ee93478cccbaeef367bff94591b6"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_11.png",
+      "bytes": 56921,
+      "sha256": "2da591a3f7474850e9dea74d083b6dc0eec90701a0f52bdb3cf36e2d51e32cda"
+    },
+    {
+      "path": "leitura/pdf_final_render/pagina_12.png",
+      "bytes": 610470,
+      "sha256": "f19d390b3d7500dd6ebedcf6307f14d0e9299fc754011ab7154805ac8ba0ec3f"
+    },
+    {
+      "path": "leitura/revisao_composicao.md",
+      "bytes": 5941,
+      "sha256": "cb334644b24d652fa3018b7c63469ad604b84a3c58bee4a95516033d9dd520d1"
+    },
+    {
+      "path": "manifesto_final.json",
+      "bytes": 55824,
+      "sha256": "47efdfbdbfa33a228458a654feb3968f6493e3c8fddcadcfa9f7145007af280e"
+    },
+    {
+      "path": "QA_FINAL.md",
+      "bytes": 4809,
+      "sha256": "5627dbbe3d808ff24c1e271c03d94a562f8c61c8369518a92699fd4ef6f0c307"
+    },
+    {
+      "path": "scripts/ajustar_paleta.jsx",
+      "bytes": 3596,
+      "sha256": "be76d319a55948bc1d934dc22aac5fdbb459a979dc79a0cd9610021b40283545"
+    },
+    {
+      "path": "scripts/encerrar_exportar_inventariar.jsx",
+      "bytes": 5472,
+      "sha256": "c531170a4fe9ef8ec194bc68679494a9d49fb3185663eb06a3dc81675c9fff5e"
+    },
+    {
+      "path": "scripts/pagina_atual.json",
+      "bytes": 13,
+      "sha256": "397a8d3c29de339a6c10e124072465174c2dc9458d96ceef6d886f1e398a3817"
+    },
+    {
+      "path": "scripts/preparar_manifesto.py",
+      "bytes": 9799,
+      "sha256": "8c86f14b25155863a3f26f3b269d15a8bcab6cb1d0d28710d447f186a058446f"
+    },
+    {
+      "path": "scripts/produzir_pagina.jsx",
+      "bytes": 14393,
+      "sha256": "015f5cc940386c765da530360e4cd7bab78f853d0093c850b5800aa4bacd85c6"
+    },
+    {
+      "path": "scripts/refinar_revisao_critica.jsx",
+      "bytes": 3515,
+      "sha256": "8ed3019268f6f91fde76e60c0aa277045255f53fc062d575e2ce98d6c5ca36bc"
+    },
+    {
+      "path": "scripts/registrar_evidencias.py",
+      "bytes": 1308,
+      "sha256": "259a2ed61edc6a1c0bef20950ae2d0f759586852441ee04d549e179aebf7f5e7"
+    },
+    {
+      "path": "scripts/renderizar_pdf_final.py",
+      "bytes": 1367,
+      "sha256": "5016ee498ea8879f9f7dbaac596923e63504ce921e3b3fa13f4e6493118683c6"
+    },
+    {
+      "path": "scripts/VALIDACAO.md",
+      "bytes": 4733,
+      "sha256": "341a1aa1e1694a5d151658ea83f02597395ce7e21c9c5ea38a787550a5587850"
+    },
+    {
+      "path": "scripts/validar_entrega.py",
+      "bytes": 14290,
+      "sha256": "ba02a4b6a2cbb8d0d63741777ee8716e2f691d79900c59546065af983b2d8ebb"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+var d=app.documents.add(1920,1080,72,'PROVA_NATIVA');var l=d.artLayers.add();l.kind=LayerKind.TEXT;l.textItem.contents='Crescimento';l.textItem.font='Gotham-Book';l.textItem.size=100;l.textItem.position=[200,400];app.echoToOE('B:'+l.bounds);app.echoToOE('V:'+l.visible);

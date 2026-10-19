@@ -1,0 +1,1 @@
+app.echoToOE('GROUPS:'+app.activeDocument.layerSets.length);for(var i=0;i<app.activeDocument.layerSets.length;i++)app.echoToOE(app.activeDocument.layerSets[i].name);app.echoToOE('DOCS:'+app.documents.length);

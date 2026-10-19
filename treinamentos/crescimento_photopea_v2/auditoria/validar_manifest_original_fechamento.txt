@@ -1,0 +1,3 @@
+Manifest inválido:
+- canvas deve ser [largura, altura] 16:9
+- slides deve ser lista não vazia

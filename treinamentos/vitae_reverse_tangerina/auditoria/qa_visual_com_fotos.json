@@ -1,0 +1,37 @@
+{
+  "status": "passed_technical",
+  "visual_approval": "pending_user",
+  "phase": "proof_with_photos",
+  "photo_count": 4,
+  "pages": 9,
+  "native_text_layers_preserved": 52,
+  "text_and_bounds_unchanged": true,
+  "reopened_rgb_identical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "placeholder_groups_removed": true,
+  "selected_assets": "auditoria/assets_fotos_selecionadas.json",
+  "visual_review": {
+    "page02": "Modelo principal reconhecivel, pote e maos inteiros, cabelo abaixo da zona superior; assinatura branca sobre roupa naturalmente escura.",
+    "page04": "Outra mulher adulta em gesto de cuidado, rosto e maos livres da sobreposicao dos cards; marca sobre roupa/cadeira escura.",
+    "page06": "Modelo principal no preparo; scoop, maos, copo e pote na zona central; bancada continua sob assinatura.",
+    "page07": "Pote fechado, integro e sem deformacao evidente; cenario seco, madeira continua e margem ampla para marcas."
+  },
+  "limitations": [
+    "Rótulos gerados conservam imperfeicoes de microtexto; nao sao arquivo de rotulagem para impressao.",
+    "Prova com fotos nao significa aprovacao humana da arquitetura ou revisao cientifica do texto."
+  ],
+  "hashes": {
+    "Vitae_Tangerina_Com_Fotos.pdf": "f7ed9c443cd64f654a7594351a55090377a4053d4786e9530404d6dba53f74a2",
+    "Vitae_Tangerina_Com_Fotos.psd": "68b22a74fd9280da5c12659b4f8d5bad00c36d0d2eeab24dd1bcf2a6543b13c1",
+    "Fotos_Vitae_Tangerina.zip": "9447d7240e3654b5b9a39816cfdee97cc35d7f4c564763f00eab9c13ba9e9717"
+  }
+}

@@ -1,0 +1,2112 @@
+{
+  "title": "Crescimento",
+  "width": 1920,
+  "height": 1080,
+  "stage": "final",
+  "editorial_source": "leitura/conteudo_v2.json",
+  "layout_source": "leitura/layouts_propostos_v2.json",
+  "coordinate_semantics": "x/y são o topo visível da camada. width/height são limites de layout; o montador ajusta bounds e valida Gotham no backend.",
+  "typography_status": "Famílias Gotham reais especificadas; prova e ajustes de tamanho/bounds a cargo do montador Photopea. Capa e agradecimento devem seguir medição do molde/PNG aprovado.",
+  "photo_fit": "cover proporcional, sem distorção; foco seguro y162..918 após recorte.",
+  "source_block_count": 40,
+  "source_episode_count": 12,
+  "source_block_mapping": {
+    "p01-titulo": [
+      {
+        "page": 1,
+        "text_layer": "p01-titulo"
+      }
+    ],
+    "p02-titulo": [
+      {
+        "page": 2,
+        "text_layer": "p02-titulo"
+      }
+    ],
+    "p02-premissa": [
+      {
+        "page": 2,
+        "text_layer": "p02-premissa"
+      }
+    ],
+    "p02-01": [
+      {
+        "page": 2,
+        "text_layer": "p02-01"
+      }
+    ],
+    "p02-02": [
+      {
+        "page": 2,
+        "text_layer": "p02-02"
+      }
+    ],
+    "p02-03": [
+      {
+        "page": 2,
+        "text_layer": "p02-03"
+      }
+    ],
+    "p02-04": [
+      {
+        "page": 2,
+        "text_layer": "p02-04"
+      }
+    ],
+    "p03-titulo": [
+      {
+        "page": 3,
+        "text_layer": "p03-titulo"
+      }
+    ],
+    "p03-proposito": [
+      {
+        "page": 3,
+        "text_layer": "p03-proposito"
+      }
+    ],
+    "p03-direcao": [
+      {
+        "page": 3,
+        "text_layer": "p03-direcao"
+      }
+    ],
+    "p04-titulo": [
+      {
+        "page": 4,
+        "text_layer": "p04-titulo"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-titulo"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-titulo"
+      }
+    ],
+    "p04-01": [
+      {
+        "page": 4,
+        "text_layer": "p04-01-numero"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-01-nome"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-01-acao"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-01-referencia"
+      }
+    ],
+    "p04-02": [
+      {
+        "page": 4,
+        "text_layer": "p04-02-numero"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-02-nome"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-02-acao"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-02-referencia"
+      }
+    ],
+    "p04-03": [
+      {
+        "page": 4,
+        "text_layer": "p04-03-numero"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-03-nome"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-03-acao"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-03-referencia"
+      }
+    ],
+    "p04-04": [
+      {
+        "page": 4,
+        "text_layer": "p04-04-numero"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-04-nome"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-04-acao"
+      },
+      {
+        "page": 4,
+        "text_layer": "p04-04-referencia"
+      }
+    ],
+    "p04-05": [
+      {
+        "page": 5,
+        "text_layer": "p04-05-numero"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-05-nome"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-05-acao"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-05-referencia"
+      }
+    ],
+    "p04-06": [
+      {
+        "page": 5,
+        "text_layer": "p04-06-numero"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-06-nome"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-06-acao"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-06-referencia"
+      }
+    ],
+    "p04-07": [
+      {
+        "page": 5,
+        "text_layer": "p04-07-numero"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-07-nome"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-07-acao"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-07-referencia"
+      }
+    ],
+    "p04-08": [
+      {
+        "page": 5,
+        "text_layer": "p04-08-numero"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-08-nome"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-08-acao"
+      },
+      {
+        "page": 5,
+        "text_layer": "p04-08-referencia"
+      }
+    ],
+    "p04-09": [
+      {
+        "page": 6,
+        "text_layer": "p04-09-numero"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-09-nome"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-09-acao"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-09-referencia"
+      }
+    ],
+    "p04-10": [
+      {
+        "page": 6,
+        "text_layer": "p04-10-numero"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-10-nome"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-10-acao"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-10-referencia"
+      }
+    ],
+    "p04-11": [
+      {
+        "page": 6,
+        "text_layer": "p04-11-numero"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-11-nome"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-11-acao"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-11-referencia"
+      }
+    ],
+    "p04-12": [
+      {
+        "page": 6,
+        "text_layer": "p04-12-numero"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-12-nome"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-12-acao"
+      },
+      {
+        "page": 6,
+        "text_layer": "p04-12-referencia"
+      }
+    ],
+    "p04-fecho": [
+      {
+        "page": 6,
+        "text_layer": "p04-fecho"
+      }
+    ],
+    "p05-titulo": [
+      {
+        "page": 7,
+        "text_layer": "p05-titulo"
+      }
+    ],
+    "p05-citacao": [
+      {
+        "page": 7,
+        "text_layer": "p05-citacao"
+      },
+      {
+        "page": 7,
+        "text_layer": "p05-citacao-referencia"
+      }
+    ],
+    "p06-titulo": [
+      {
+        "page": 8,
+        "text_layer": "p06-titulo"
+      }
+    ],
+    "p06-cadeia": [
+      {
+        "page": 8,
+        "text_layer": "p06-cadeia"
+      }
+    ],
+    "p06-fecho": [
+      {
+        "page": 8,
+        "text_layer": "p06-fecho"
+      }
+    ],
+    "p07-titulo": [
+      {
+        "page": 9,
+        "text_layer": "p07-titulo"
+      }
+    ],
+    "p07-consequencia": [
+      {
+        "page": 9,
+        "text_layer": "p07-consequencia"
+      }
+    ],
+    "p07-proposito": [
+      {
+        "page": 9,
+        "text_layer": "p07-proposito"
+      }
+    ],
+    "p07-fecho": [
+      {
+        "page": 9,
+        "text_layer": "p07-fecho"
+      }
+    ],
+    "p08-titulo": [
+      {
+        "page": 10,
+        "text_layer": "p08-titulo"
+      }
+    ],
+    "p08-tempo": [
+      {
+        "page": 10,
+        "text_layer": "p08-tempo"
+      }
+    ],
+    "p08-exemplo": [
+      {
+        "page": 10,
+        "text_layer": "p08-exemplo"
+      },
+      {
+        "page": 10,
+        "text_layer": "p08-exemplo-referencia"
+      }
+    ],
+    "p09-titulo": [
+      {
+        "page": 11,
+        "text_layer": "p09-titulo"
+      }
+    ],
+    "p09-convite": [
+      {
+        "page": 11,
+        "text_layer": "p09-convite"
+      }
+    ],
+    "p09-testemunho": [
+      {
+        "page": 11,
+        "text_layer": "p09-testemunho"
+      },
+      {
+        "page": 11,
+        "text_layer": "p09-testemunho-referencia"
+      }
+    ],
+    "p09-fecho": [
+      {
+        "page": 11,
+        "text_layer": "p09-fecho"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 1,
+      "name": "Capa",
+      "theme": "claro",
+      "source": [
+        "fonte/01.png"
+      ],
+      "layout_reference": [
+        {
+          "approved_png": "exemplos/optima_final/pngs_aprovados/pagina_01.png",
+          "template_group": "CAPA APROVADA - ALTERAR SOMENTE TITULO"
+        }
+      ],
+      "texts": [
+        {
+          "name": "p01-titulo",
+          "text": "Crescimento",
+          "x": 936,
+          "y": 428,
+          "size": 130.70151814288087,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "tracking": -70,
+          "leading": 156.84
+        },
+        {
+          "name": "TREINAMENTO",
+          "text": "TREINAMENTO",
+          "x": 1017,
+          "y": 349,
+          "size": 34.87644495378766,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "tracking": 640
+        }
+      ],
+      "shapes": [],
+      "fixed_template_role": "cover_title_only"
+    },
+    {
+      "number": 2,
+      "name": "Preparação",
+      "theme": "escuro",
+      "source": [
+        "fonte/02.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "12",
+          "pdf": "referencias/pdfs_15/financas.pdf",
+          "page": 7,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/financas_07.png",
+          "motivo": "Separação forte entre tese à esquerda e sequência à direita; reduzir oito faixas para quatro registros."
+        },
+        {
+          "approved_png": "exemplos/optima_final/pngs_aprovados/pagina_11.png",
+          "motivo": "Filetes e hierarquia de lista são solução já aprovada."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p02-titulo",
+          "text": "Todo mundo\nquer crescer",
+          "x": 140,
+          "y": 290,
+          "size": 72,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 620,
+          "height": 190,
+          "leading": 82,
+          "runs": [
+            {
+              "start": 11,
+              "length": 12,
+              "font": "Gotham-Bold",
+              "color": "#FBA9C3"
+            }
+          ]
+        },
+        {
+          "name": "p02-premissa",
+          "text": "Mas crescimento\nexige preparação",
+          "x": 145,
+          "y": 505,
+          "size": 40,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 590,
+          "height": 115,
+          "leading": 48
+        },
+        {
+          "name": "p02-01-numero",
+          "text": "01",
+          "x": 920,
+          "y": 265,
+          "size": 36,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 70,
+          "height": 55,
+          "leading": 41.76
+        },
+        {
+          "name": "p02-01",
+          "text": "Estar alicerçado",
+          "x": 1050,
+          "y": 263,
+          "size": 43,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 690,
+          "height": 110,
+          "leading": 51
+        },
+        {
+          "name": "p02-02-numero",
+          "text": "02",
+          "x": 920,
+          "y": 405,
+          "size": 36,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 70,
+          "height": 55,
+          "leading": 41.76
+        },
+        {
+          "name": "p02-02",
+          "text": "Estar preparado",
+          "x": 1050,
+          "y": 403,
+          "size": 43,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 690,
+          "height": 110,
+          "leading": 51
+        },
+        {
+          "name": "p02-03-numero",
+          "text": "03",
+          "x": 920,
+          "y": 545,
+          "size": 36,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 70,
+          "height": 55,
+          "leading": 41.76
+        },
+        {
+          "name": "p02-03",
+          "text": "Estar disposto\na aprender",
+          "x": 1050,
+          "y": 543,
+          "size": 43,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 690,
+          "height": 110,
+          "leading": 51
+        },
+        {
+          "name": "p02-04-numero",
+          "text": "04",
+          "x": 920,
+          "y": 685,
+          "size": 36,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 70,
+          "height": 55,
+          "leading": 41.76
+        },
+        {
+          "name": "p02-04",
+          "text": "Estar disposto\na ensinar",
+          "x": 1050,
+          "y": 683,
+          "size": 43,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 690,
+          "height": 110,
+          "leading": 51
+        }
+      ],
+      "shapes": [
+        {
+          "name": "p02-01-filete",
+          "x": 1015,
+          "y": 255,
+          "w": 3,
+          "h": 100,
+          "color": "#FBA9C3",
+          "opacity": 100
+        },
+        {
+          "name": "p02-02-filete",
+          "x": 1015,
+          "y": 395,
+          "w": 3,
+          "h": 100,
+          "color": "#FBA9C3",
+          "opacity": 100
+        },
+        {
+          "name": "p02-03-filete",
+          "x": 1015,
+          "y": 535,
+          "w": 3,
+          "h": 100,
+          "color": "#FBA9C3",
+          "opacity": 100
+        },
+        {
+          "name": "p02-04-filete",
+          "x": 1015,
+          "y": 675,
+          "w": 3,
+          "h": 100,
+          "color": "#FBA9C3",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Propósito e direção",
+      "theme": "claro",
+      "source": [
+        "fonte/03.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "05",
+          "pdf": "referencias/pdfs_15/oito_passos.pdf",
+          "page": 4,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_04.png",
+          "motivo": "Título e frase juntos à esquerda, fotografia direita de altura integral. A geometria histórica permite um conjunto vertical compacto."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p03-titulo",
+          "text": "Jesus sabia\npara que veio",
+          "x": 145,
+          "y": 335,
+          "size": 80,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 200,
+          "leading": 91,
+          "runs": [
+            {
+              "start": 12,
+              "length": 13,
+              "font": "Gotham-Bold",
+              "color": "#B3718E"
+            }
+          ]
+        },
+        {
+          "name": "p03-proposito",
+          "text": "Ele tinha um propósito.",
+          "x": 150,
+          "y": 565,
+          "size": 45,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 970,
+          "height": 65,
+          "leading": 54
+        },
+        {
+          "name": "p03-direcao",
+          "text": "E nada mudou a Sua direção.",
+          "x": 150,
+          "y": 635,
+          "size": 45,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 70,
+          "leading": 54
+        }
+      ],
+      "shapes": [],
+      "photo": {
+        "asset": "assets/foto_direcao_arcada.png",
+        "box": [
+          1230,
+          0,
+          690,
+          1080
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "name": "Oposições 01 a 04",
+      "theme": "claro",
+      "source": [
+        "fonte/04.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "23",
+          "pdf": "referencias/pdfs_15/colageno.pdf",
+          "page": 23,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/colageno_23.png",
+          "motivo": "Pergunta/título, explicação e apoio associados em registros largos; adaptar três registros longos para quatro curtos sem cards."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p04-titulo",
+          "text": "Tentaram mudar Sua direção",
+          "x": 140,
+          "y": 200,
+          "size": 76,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1650,
+          "height": 120,
+          "leading": 88,
+          "runs": [
+            {
+              "start": 15,
+              "length": 11,
+              "font": "Gotham-Bold",
+              "color": "#B3718E"
+            }
+          ]
+        },
+        {
+          "name": "p04-01-numero",
+          "text": "01",
+          "x": 180,
+          "y": 350,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#B3718E",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-01-nome",
+          "text": "Satanás",
+          "x": 270,
+          "y": 350,
+          "size": 36,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 420,
+          "height": 70,
+          "leading": 41.76
+        },
+        {
+          "name": "p04-01-acao",
+          "text": "Tentou desviá-lo no deserto",
+          "x": 760,
+          "y": 350,
+          "size": 34,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 45,
+          "leading": 39.44
+        },
+        {
+          "name": "p04-01-referencia",
+          "text": "Mateus 4:1-11",
+          "x": 760,
+          "y": 398,
+          "size": 28,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 40,
+          "leading": 32.48
+        },
+        {
+          "name": "p04-02-numero",
+          "text": "02",
+          "x": 180,
+          "y": 480,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#B3718E",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-02-nome",
+          "text": "Pedro",
+          "x": 270,
+          "y": 480,
+          "size": 36,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 420,
+          "height": 70,
+          "leading": 41.76
+        },
+        {
+          "name": "p04-02-acao",
+          "text": "Tentou afastá-lo do caminho da cruz",
+          "x": 760,
+          "y": 480,
+          "size": 34,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 45,
+          "leading": 39.44
+        },
+        {
+          "name": "p04-02-referencia",
+          "text": "Mateus 16:21-23",
+          "x": 760,
+          "y": 528,
+          "size": 28,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 40,
+          "leading": 32.48
+        },
+        {
+          "name": "p04-03-numero",
+          "text": "03",
+          "x": 180,
+          "y": 610,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#B3718E",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-03-nome",
+          "text": "A multidão",
+          "x": 270,
+          "y": 610,
+          "size": 36,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 420,
+          "height": 70,
+          "leading": 41.76
+        },
+        {
+          "name": "p04-03-acao",
+          "text": "Quis fazê-lo rei à força",
+          "x": 760,
+          "y": 610,
+          "size": 34,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 45,
+          "leading": 39.44
+        },
+        {
+          "name": "p04-03-referencia",
+          "text": "João 6:14-15",
+          "x": 760,
+          "y": 658,
+          "size": 28,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 40,
+          "leading": 32.48
+        },
+        {
+          "name": "p04-04-numero",
+          "text": "04",
+          "x": 180,
+          "y": 740,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#B3718E",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-04-nome",
+          "text": "Sua própria família",
+          "x": 270,
+          "y": 740,
+          "size": 36,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 420,
+          "height": 70,
+          "leading": 41.76
+        },
+        {
+          "name": "p04-04-acao",
+          "text": "Tentou contê-lo",
+          "x": 760,
+          "y": 740,
+          "size": 34,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 45,
+          "leading": 39.44
+        },
+        {
+          "name": "p04-04-referencia",
+          "text": "Marcos 3:20-21",
+          "x": 760,
+          "y": 788,
+          "size": 28,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1000,
+          "height": 40,
+          "leading": 32.48
+        }
+      ],
+      "shapes": [
+        {
+          "name": "p04-01-filete",
+          "x": 155,
+          "y": 350,
+          "w": 4,
+          "h": 96,
+          "color": "#B3718E",
+          "opacity": 100
+        },
+        {
+          "name": "p04-02-filete",
+          "x": 155,
+          "y": 480,
+          "w": 4,
+          "h": 96,
+          "color": "#B3718E",
+          "opacity": 100
+        },
+        {
+          "name": "p04-03-filete",
+          "x": 155,
+          "y": 610,
+          "w": 4,
+          "h": 96,
+          "color": "#B3718E",
+          "opacity": 100
+        },
+        {
+          "name": "p04-04-filete",
+          "x": 155,
+          "y": 740,
+          "w": 4,
+          "h": 96,
+          "color": "#B3718E",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Oposições 05 a 08",
+      "theme": "escuro",
+      "source": [
+        "fonte/04.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "11",
+          "pdf": "referencias/pdfs_15/namorados.pdf",
+          "page": 10,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/namorados_10.png",
+          "motivo": "Título ocupa a coluna esquerda e a lista longa se concentra à direita; transformar bullets soltos em registros com filete."
+        },
+        {
+          "catalog_id": "12",
+          "pdf": "referencias/pdfs_15/financas.pdf",
+          "page": 7,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/financas_07.png",
+          "motivo": "Lista em área própria, com título e apoio na lateral."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p04-titulo",
+          "text": "Tentaram mudar\nSua direção",
+          "x": 140,
+          "y": 350,
+          "size": 69,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 590,
+          "height": 200,
+          "leading": 82,
+          "runs": [
+            {
+              "start": 15,
+              "length": 11,
+              "font": "Gotham-Bold",
+              "color": "#FBA9C3"
+            }
+          ]
+        },
+        {
+          "name": "p04-05-numero",
+          "text": "05",
+          "x": 850,
+          "y": 210,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-05-nome",
+          "text": "Sua própria terra",
+          "x": 935,
+          "y": 210,
+          "size": 35,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 70,
+          "leading": 40.6
+        },
+        {
+          "name": "p04-05-acao",
+          "text": "Rejeitou quem Ele era",
+          "x": 935,
+          "y": 258,
+          "size": 32,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-05-referencia",
+          "text": "Lucas 4:16-30",
+          "x": 935,
+          "y": 301,
+          "size": 27,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 40,
+          "leading": 31.32
+        },
+        {
+          "name": "p04-06-numero",
+          "text": "06",
+          "x": 850,
+          "y": 375,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-06-nome",
+          "text": "Líderes religiosos",
+          "x": 935,
+          "y": 375,
+          "size": 35,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 70,
+          "leading": 40.6
+        },
+        {
+          "name": "p04-06-acao",
+          "text": "Confrontaram e tramaram contra Ele",
+          "x": 935,
+          "y": 423,
+          "size": 32,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-06-referencia",
+          "text": "Mateus 12:14",
+          "x": 935,
+          "y": 466,
+          "size": 27,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 40,
+          "leading": 31.32
+        },
+        {
+          "name": "p04-07-numero",
+          "text": "07",
+          "x": 850,
+          "y": 540,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-07-nome",
+          "text": "Fariseus e herodianos",
+          "x": 935,
+          "y": 540,
+          "size": 35,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 70,
+          "leading": 40.6
+        },
+        {
+          "name": "p04-07-acao",
+          "text": "Tentaram apanhá-lo em Suas palavras",
+          "x": 935,
+          "y": 588,
+          "size": 32,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-07-referencia",
+          "text": "Marcos 12:13-17",
+          "x": 935,
+          "y": 631,
+          "size": 27,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 40,
+          "leading": 31.32
+        },
+        {
+          "name": "p04-08-numero",
+          "text": "08",
+          "x": 850,
+          "y": 705,
+          "size": 32,
+          "font": "Gotham-Light",
+          "color": "#FBA9C3",
+          "width": 65,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-08-nome",
+          "text": "Os discípulos",
+          "x": 935,
+          "y": 705,
+          "size": 35,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 70,
+          "leading": 40.6
+        },
+        {
+          "name": "p04-08-acao",
+          "text": "Tentaram afastar crianças dEle",
+          "x": 935,
+          "y": 753,
+          "size": 32,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 45,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-08-referencia",
+          "text": "Marcos 10:13-16",
+          "x": 935,
+          "y": 796,
+          "size": 27,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 850,
+          "height": 40,
+          "leading": 31.32
+        }
+      ],
+      "shapes": [
+        {
+          "name": "p04-05-filete",
+          "x": 820,
+          "y": 210,
+          "w": 3,
+          "h": 130,
+          "color": "#FBA9C3",
+          "opacity": 100
+        },
+        {
+          "name": "p04-06-filete",
+          "x": 820,
+          "y": 375,
+          "w": 3,
+          "h": 130,
+          "color": "#FBA9C3",
+          "opacity": 100
+        },
+        {
+          "name": "p04-07-filete",
+          "x": 820,
+          "y": 540,
+          "w": 3,
+          "h": 130,
+          "color": "#FBA9C3",
+          "opacity": 100
+        },
+        {
+          "name": "p04-08-filete",
+          "x": 820,
+          "y": 705,
+          "w": 3,
+          "h": 130,
+          "color": "#FBA9C3",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Oposições 09 a 12 e permanência",
+      "theme": "claro",
+      "source": [
+        "fonte/04.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "07",
+          "pdf": "referencias/rosangela_original.pdf",
+          "page": 14,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/rosangela_14.png",
+          "motivo": "Imagem de altura integral à esquerda e quatro faixas cruzando a divisória; ampliar altura das faixas para descrição e referência."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p04-titulo",
+          "text": "Tentaram mudar\nSua direção",
+          "x": 710,
+          "y": 180,
+          "size": 62,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1080,
+          "height": 145,
+          "leading": 73,
+          "runs": [
+            {
+              "start": 15,
+              "length": 11,
+              "font": "Gotham-Bold",
+              "color": "#B3718E"
+            }
+          ]
+        },
+        {
+          "name": "p04-09-numero",
+          "text": "09",
+          "x": 620,
+          "y": 358,
+          "size": 31,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "width": 65,
+          "height": 42,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-09-nome",
+          "text": "Tiago e João",
+          "x": 710,
+          "y": 355,
+          "size": 32,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-09-acao",
+          "text": "Buscaram posição e grandeza",
+          "x": 710,
+          "y": 393,
+          "size": 31,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-09-referencia",
+          "text": "Marcos 10:35-45",
+          "x": 710,
+          "y": 432,
+          "size": 25,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 32,
+          "leading": 29.0
+        },
+        {
+          "name": "p04-10-numero",
+          "text": "10",
+          "x": 620,
+          "y": 488,
+          "size": 31,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "width": 65,
+          "height": 42,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-10-nome",
+          "text": "A multidão",
+          "x": 710,
+          "y": 485,
+          "size": 32,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-10-acao",
+          "text": "Pressionava para que Ele permanecesse",
+          "x": 710,
+          "y": 523,
+          "size": 31,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-10-referencia",
+          "text": "Lucas 4:42-43",
+          "x": 710,
+          "y": 562,
+          "size": 25,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 32,
+          "leading": 29.0
+        },
+        {
+          "name": "p04-11-numero",
+          "text": "11",
+          "x": 620,
+          "y": 618,
+          "size": 31,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "width": 65,
+          "height": 42,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-11-nome",
+          "text": "Getsêmani",
+          "x": 710,
+          "y": 615,
+          "size": 32,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-11-acao",
+          "text": "Enfrentou a angústia do caminho",
+          "x": 710,
+          "y": 653,
+          "size": 31,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-11-referencia",
+          "text": "Mateus 26:36-46",
+          "x": 710,
+          "y": 692,
+          "size": 25,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 32,
+          "leading": 29.0
+        },
+        {
+          "name": "p04-12-numero",
+          "text": "12",
+          "x": 620,
+          "y": 748,
+          "size": 31,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "width": 65,
+          "height": 42,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-12-nome",
+          "text": "Na cruz",
+          "x": 710,
+          "y": 745,
+          "size": 32,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 37.12
+        },
+        {
+          "name": "p04-12-acao",
+          "text": "Provocaram: “Salva-te a ti mesmo”",
+          "x": 710,
+          "y": 783,
+          "size": 31,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 40,
+          "leading": 35.96
+        },
+        {
+          "name": "p04-12-referencia",
+          "text": "Mateus 27:39-43",
+          "x": 710,
+          "y": 822,
+          "size": 25,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1040,
+          "height": 32,
+          "leading": 29.0
+        },
+        {
+          "name": "p04-fecho",
+          "text": "E, ainda assim, Ele não perdeu o propósito!",
+          "x": 710,
+          "y": 905,
+          "size": 33,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1090,
+          "height": 50,
+          "leading": 40
+        }
+      ],
+      "shapes": [
+        {
+          "name": "p04-09-faixa",
+          "x": 555,
+          "y": 342,
+          "w": 1240,
+          "h": 118,
+          "color": "#BC718C",
+          "opacity": 100
+        },
+        {
+          "name": "p04-09-filete",
+          "x": 555,
+          "y": 342,
+          "w": 5,
+          "h": 118,
+          "color": "#FFFFFF",
+          "opacity": 100
+        },
+        {
+          "name": "p04-10-faixa",
+          "x": 555,
+          "y": 472,
+          "w": 1240,
+          "h": 118,
+          "color": "#BC718C",
+          "opacity": 100
+        },
+        {
+          "name": "p04-10-filete",
+          "x": 555,
+          "y": 472,
+          "w": 5,
+          "h": 118,
+          "color": "#FFFFFF",
+          "opacity": 100
+        },
+        {
+          "name": "p04-11-faixa",
+          "x": 555,
+          "y": 602,
+          "w": 1240,
+          "h": 118,
+          "color": "#BC718C",
+          "opacity": 100
+        },
+        {
+          "name": "p04-11-filete",
+          "x": 555,
+          "y": 602,
+          "w": 5,
+          "h": 118,
+          "color": "#FFFFFF",
+          "opacity": 100
+        },
+        {
+          "name": "p04-12-faixa",
+          "x": 555,
+          "y": 732,
+          "w": 1240,
+          "h": 118,
+          "color": "#BC718C",
+          "opacity": 100
+        },
+        {
+          "name": "p04-12-filete",
+          "x": 555,
+          "y": 732,
+          "w": 5,
+          "h": 118,
+          "color": "#FFFFFF",
+          "opacity": 100
+        }
+      ],
+      "photo": {
+        "asset": "assets/foto_permanencia_rochas.png",
+        "box": [
+          0,
+          0,
+          600,
+          1080
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "name": "Até o fim",
+      "theme": "escuro",
+      "source": [
+        "fonte/05.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "22",
+          "pdf": "referencias/pdfs_15/financas.pdf",
+          "page": 16,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/financas_16.png",
+          "motivo": "Citação com estilos internos e referência próxima; manter a grande margem externa, encurtando o texto para a fonte atual."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p05-titulo",
+          "text": "Ele foi até o fim!",
+          "x": 260,
+          "y": 345,
+          "size": 92,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1400,
+          "height": 135,
+          "leading": 106,
+          "runs": [
+            {
+              "start": 8,
+              "length": 10,
+              "font": "Gotham-Bold",
+              "color": "#FBA9C3"
+            }
+          ]
+        },
+        {
+          "name": "p05-citacao",
+          "text": "“Está consumado.”",
+          "x": 265,
+          "y": 490,
+          "size": 78,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "width": 1390,
+          "height": 115,
+          "leading": 90
+        },
+        {
+          "name": "p05-citacao-referencia",
+          "text": "João 19:30",
+          "x": 270,
+          "y": 590,
+          "size": 31,
+          "font": "Gotham-Medium",
+          "color": "#FFFFFF",
+          "width": 650,
+          "height": 50,
+          "leading": 35.96
+        }
+      ],
+      "shapes": []
+    },
+    {
+      "number": 8,
+      "name": "Pessoas que preparam pessoas",
+      "theme": "claro",
+      "source": [
+        "fonte/06.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "16",
+          "pdf": "referencias/pdfs_15/oito_passos.pdf",
+          "page": 31,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_31.png",
+          "motivo": "Eixo horizontal e três marcos para narrar sucessão; retirar datas e listas que não pertencem à fonte."
+        },
+        {
+          "catalog_id": "20",
+          "pdf": "referencias/pdfs_15/oito_passos.pdf",
+          "page": 29,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_29.png",
+          "motivo": "Relação de duplicação entre pessoas; usar somente a lógica de conexão, sem os quatro cards."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p06-titulo",
+          "text": "Jesus preparou\npessoas",
+          "x": 150,
+          "y": 475,
+          "size": 66,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 500,
+          "height": 170,
+          "leading": 79,
+          "runs": [
+            {
+              "start": 15,
+              "length": 7,
+              "font": "Gotham-Bold",
+              "color": "#B3718E"
+            }
+          ]
+        },
+        {
+          "name": "p06-cadeia",
+          "text": "E essas pessoas\nprepararam outras",
+          "x": 760,
+          "y": 485,
+          "size": 45,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 560,
+          "height": 135,
+          "leading": 55
+        },
+        {
+          "name": "p06-fecho",
+          "text": "Até chegar\na nós",
+          "x": 1430,
+          "y": 475,
+          "size": 62,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 360,
+          "height": 170,
+          "leading": 75
+        }
+      ],
+      "shapes": [
+        {
+          "name": "eixo-transmissao",
+          "x": 190,
+          "y": 410,
+          "w": 1520,
+          "h": 3,
+          "color": "#B3718E",
+          "opacity": 100
+        },
+        {
+          "name": "marco-01",
+          "x": 340,
+          "y": 398,
+          "w": 24,
+          "h": 24,
+          "color": "#B3718E",
+          "opacity": 100
+        },
+        {
+          "name": "marco-02",
+          "x": 1000,
+          "y": 398,
+          "w": 24,
+          "h": 24,
+          "color": "#B3718E",
+          "opacity": 100
+        },
+        {
+          "name": "marco-03",
+          "x": 1600,
+          "y": 398,
+          "w": 24,
+          "h": 24,
+          "color": "#B3718E",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Crescer para preparar",
+      "theme": "escuro",
+      "source": [
+        "fonte/07.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "06",
+          "pdf": "referencias/pdfs_15/mulheres.pdf",
+          "page": 8,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/mulheres_08.png",
+          "motivo": "Imagem à esquerda, título e ações à direita; usar proporções assimétricas e um conjunto compacto, sem copiar produto nem cenário da fonte."
+        },
+        {
+          "catalog_id": "04",
+          "pdf": "referencias/pdfs_15/etiqueta.pdf",
+          "page": 3,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/etiqueta_03.png",
+          "motivo": "Título, filete e explicação associados na coluna direita."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p07-titulo",
+          "text": "Estamos crescendo",
+          "x": 835,
+          "y": 255,
+          "size": 70,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 960,
+          "height": 115,
+          "leading": 81,
+          "runs": [
+            {
+              "start": 8,
+              "length": 9,
+              "font": "Gotham-Bold",
+              "color": "#FBA9C3"
+            }
+          ]
+        },
+        {
+          "name": "p07-consequencia",
+          "text": "E, quanto mais crescemos,\nmais pessoas precisamos preparar.",
+          "x": 840,
+          "y": 410,
+          "size": 40,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 945,
+          "height": 125,
+          "leading": 49
+        },
+        {
+          "name": "p07-proposito",
+          "text": "Porque o nosso maior propósito\nsão pessoas.",
+          "x": 840,
+          "y": 585,
+          "size": 48,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 950,
+          "height": 145,
+          "leading": 57
+        },
+        {
+          "name": "p07-fecho",
+          "text": "O propósito não pode parar em nós.",
+          "x": 840,
+          "y": 775,
+          "size": 36,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 945,
+          "height": 70,
+          "leading": 45
+        }
+      ],
+      "shapes": [],
+      "photo": {
+        "asset": "assets/foto_pessoas_encontro_v2.png",
+        "box": [
+          0,
+          0,
+          700,
+          1080
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "name": "Começar a multiplicar",
+      "theme": "claro",
+      "source": [
+        "fonte/08.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "24",
+          "pdf": "referencias/pdfs_15/etiqueta.pdf",
+          "page": 3,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/etiqueta_03.png",
+          "motivo": "Composição lateral de foto e texto; espelhar o eixo e conservar os dois núcleos relacionados, não a roupa/cenário."
+        },
+        {
+          "catalog_id": "08",
+          "pdf": "referencias/pdfs_15/oito_passos.pdf",
+          "page": 4,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_04.png",
+          "motivo": "A faixa fotográfica direita já acomoda texto em um bloco à esquerda."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p08-titulo",
+          "text": "Jesus preparou\npessoas",
+          "x": 145,
+          "y": 260,
+          "size": 76,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1010,
+          "height": 170,
+          "leading": 88,
+          "runs": [
+            {
+              "start": 15,
+              "length": 7,
+              "font": "Gotham-Bold",
+              "color": "#B3718E"
+            }
+          ]
+        },
+        {
+          "name": "p08-tempo",
+          "text": "Mas nem todas precisaram de anos\nao lado dEle para começar a multiplicar.",
+          "x": 150,
+          "y": 460,
+          "size": 40,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 980,
+          "height": 145,
+          "leading": 50
+        },
+        {
+          "name": "p08-exemplo",
+          "text": "A mulher samaritana encontrou Jesus\n— e levou outros até Ele.",
+          "x": 150,
+          "y": 675,
+          "size": 40,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 980,
+          "height": 130,
+          "leading": 50
+        },
+        {
+          "name": "p08-exemplo-referencia",
+          "text": "João 4",
+          "x": 150,
+          "y": 830,
+          "size": 28,
+          "font": "Gotham-Medium",
+          "color": "#FFFFFF",
+          "width": 500,
+          "height": 45,
+          "leading": 32.48
+        }
+      ],
+      "shapes": [
+        {
+          "name": "filete-exemplo",
+          "x": 150,
+          "y": 635,
+          "w": 900,
+          "h": 3,
+          "color": "#B3718E",
+          "opacity": 100
+        }
+      ],
+      "photo": {
+        "asset": "assets/foto_agua_poco.png",
+        "box": [
+          1230,
+          0,
+          690,
+          1080
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "name": "Venham ver",
+      "theme": "escuro",
+      "source": [
+        "fonte/09.png"
+      ],
+      "layout_reference": [
+        {
+          "catalog_id": "22",
+          "pdf": "referencias/pdfs_15/posicionamento.pdf",
+          "page": 7,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/posicionamento_07.png",
+          "motivo": "Mensagem central com palavra em Bold e parágrafo de consequência; compactar os intervalos internos e manter margem externa maior."
+        },
+        {
+          "catalog_id": "22",
+          "pdf": "referencias/pdfs_15/mulheres.pdf",
+          "page": 5,
+          "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/mulheres_05.png",
+          "motivo": "Fonte/atribuição próxima da frase; usar um único conjunto em vez de duas metades."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p09-titulo",
+          "text": "Ela encontrou Jesus\ne levou outros até Ele",
+          "x": 250,
+          "y": 215,
+          "size": 66,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1420,
+          "height": 160,
+          "leading": 79,
+          "runs": [
+            {
+              "start": 22,
+              "length": 20,
+              "font": "Gotham-Bold",
+              "color": "#FBA9C3"
+            }
+          ]
+        },
+        {
+          "name": "p09-convite",
+          "text": "“Venham ver...”",
+          "x": 250,
+          "y": 390,
+          "size": 90,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "width": 1420,
+          "height": 125,
+          "leading": 104
+        },
+        {
+          "name": "p09-testemunho",
+          "text": "Muitos samaritanos creram em Jesus\npor causa do testemunho daquela mulher.",
+          "x": 255,
+          "y": 520,
+          "size": 42,
+          "font": "Gotham-Book",
+          "color": "#FFFFFF",
+          "width": 1410,
+          "height": 125,
+          "leading": 52
+        },
+        {
+          "name": "p09-testemunho-referencia",
+          "text": "João 4:29, 39",
+          "x": 255,
+          "y": 655,
+          "size": 28,
+          "font": "Gotham-Medium",
+          "color": "#FFFFFF",
+          "width": 700,
+          "height": 45,
+          "leading": 32.48
+        },
+        {
+          "name": "p09-fecho",
+          "text": "Quem recebe não guarda para si.",
+          "x": 250,
+          "y": 750,
+          "size": 46,
+          "font": "Gotham-Bold",
+          "color": "#FFFFFF",
+          "width": 1420,
+          "height": 80,
+          "leading": 56
+        }
+      ],
+      "shapes": [
+        {
+          "name": "filete-fecho",
+          "x": 250,
+          "y": 715,
+          "w": 1420,
+          "h": 3,
+          "color": "#FBA9C3",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Agradecimento",
+      "theme": "claro",
+      "source": [],
+      "layout_reference": [
+        {
+          "approved_png": "exemplos/optima_final/pngs_aprovados/pagina_13.png",
+          "instruction": "Reconstruir composição fixa conforme PNG; elementos fixos são montados pelo principal."
+        }
+      ],
+      "texts": [
+        {
+          "name": "p12-agradecimento",
+          "text": "OBRIGADA!",
+          "x": 638,
+          "y": 494,
+          "size": 123.30260638374024,
+          "font": "Gotham-Light",
+          "color": "#FFFFFF",
+          "tracking": -70,
+          "leading": 123.30260638374024
+        },
+        {
+          "name": "EMPREENDEDORISMO FEMININO",
+          "text": "EMPREENDEDORISMO FEMININO",
+          "x": 96,
+          "y": 58,
+          "size": 15.205094957203775,
+          "font": "Gotham-Medium",
+          "color": "#FFFFFF",
+          "tracking": 1060
+        }
+      ],
+      "shapes": [],
+      "fixed_template_role": "thank_you_unchanged"
+    }
+  ],
+  "backend": {
+    "editor": "Photopea",
+    "api": "Live Messaging postMessage",
+    "source_import": "individual original channels/masks in compatible input PSDs; complete original template import failed",
+    "editable_content": "native Gotham type layers; rectangles on separate native pixel layers; fixed originals retained as layer assets",
+    "photo9_refinement": "assets/foto_pessoas_encontro_v2.png"
+  },
+  "template": {
+    "psd": "../../referencias/molde_bellas_aprovado_capa_temas_agradecimento.psd",
+    "usage": "Original source assets and masks extracted without changing source; final composition authored via Photopea API. Whole original PSD import failed."
+  }
+}

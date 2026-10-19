@@ -1,0 +1,1 @@
+try{var d=app.activeDocument;var g=d.layerSets.add();g.name='RECEBE';d.activeLayer.move(g,ElementPlacement.INSIDE);app.echoToOE('MOVE_OK');}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

@@ -1,0 +1,4637 @@
+{
+  "psd": "entrega/crescimento_luciane_bellas.psd",
+  "reopened": true,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "resolution": 72,
+  "profile": "ColorProfile.NONE",
+  "photoshop": "27.11.0",
+  "top_level_groups": [
+    "01 Capa",
+    "02 Crescer exige preparação",
+    "03 Propósito e direção",
+    "04 Direção - episódios 01 a 04",
+    "05 Direção - episódios 05 a 08",
+    "06 Direção - episódios 09 a 12",
+    "07 Até o fim",
+    "08 Preparar outras pessoas",
+    "09 Crescimento tem pessoas como propósito",
+    "10 Começar a multiplicar",
+    "11 Quem recebe compartilha",
+    "12 Agradecimento"
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "group": "01 Capa",
+      "layers": [
+        {
+          "id": 1396,
+          "name": "Agrupar 12",
+          "path": "01 Capa/Agrupar 12",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            937,
+            337,
+            1647,
+            524
+          ]
+        },
+        {
+          "id": 1395,
+          "name": "TREINAMENTO",
+          "path": "01 Capa/Agrupar 12/TREINAMENTO",
+          "visible": true,
+          "type": "text",
+          "variable": false,
+          "bounds": [
+            1017,
+            349,
+            1505,
+            375
+          ],
+          "text": "TREINAMENTO",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "fixed",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 12,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1394,
+          "name": "Retângulo 6",
+          "path": "01 Capa/Agrupar 12/Retângulo 6",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            937,
+            337,
+            1584,
+            386
+          ]
+        },
+        {
+          "id": 1393,
+          "name": "H1 | Crescimento",
+          "path": "01 Capa/Agrupar 12/H1 | Crescimento",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            937,
+            428,
+            1647,
+            524
+          ],
+          "text": "Crescimento",
+          "font": "Gotham-Book",
+          "size_pt": 112,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 12,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1391,
+          "name": "CONTENT",
+          "path": "01 Capa/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            262,
+            640,
+            762,
+            880
+          ]
+        },
+        {
+          "id": 1390,
+          "name": "NANOTECNOLOGIA",
+          "path": "01 Capa/CONTENT/NANOTECNOLOGIA",
+          "visible": false,
+          "type": "text",
+          "variable": false,
+          "bounds": [
+            264,
+            840,
+            762,
+            880
+          ],
+          "text": "NANOTECNOLOGIA",
+          "font": "Gotham-Bold",
+          "size_pt": 54,
+          "role": "fixed",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1389,
+          "name": "TOQUE SECO",
+          "path": "01 Capa/CONTENT/TOQUE SECO",
+          "visible": false,
+          "type": "text",
+          "variable": false,
+          "bounds": [
+            262,
+            745,
+            596,
+            786
+          ],
+          "text": "TOQUE SECO",
+          "font": "Gotham-Medium",
+          "size_pt": 54,
+          "role": "fixed",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 11,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1388,
+          "name": "LIVRE DE ALUMÍNIO",
+          "path": "01 Capa/CONTENT/LIVRE DE ALUMÍNIO",
+          "visible": false,
+          "type": "text",
+          "variable": false,
+          "bounds": [
+            264,
+            640,
+            762,
+            690
+          ],
+          "text": "LIVRE DE ALUMÍNIO",
+          "font": "Gotham-Bold",
+          "size_pt": 54,
+          "role": "fixed",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 18,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1386,
+          "name": "Camada 1 copiar",
+          "path": "01 Capa/Camada 1 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1385,
+          "name": "LUCI LUCI-443",
+          "path": "01 Capa/LUCI LUCI-443",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            -110,
+            -18,
+            2093,
+            1451
+          ]
+        },
+        {
+          "id": 1384,
+          "name": "FUNDO copiar",
+          "path": "01 Capa/FUNDO copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "group": "02 Crescer exige preparação",
+      "layers": [
+        {
+          "id": 1448,
+          "name": "CONTENT",
+          "path": "02 Crescer exige preparação/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            800,
+            158,
+            1780,
+            890
+          ]
+        },
+        {
+          "id": 1447,
+          "name": "CARD | atitude_4",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_4",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            800,
+            810,
+            1780,
+            890
+          ]
+        },
+        {
+          "id": 1446,
+          "name": "CARD | Estar disposto a ensinar",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_4/CARD | Estar disposto a ensinar",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            912,
+            834,
+            1302,
+            867
+          ],
+          "text": "Estar disposto a ensinar",
+          "font": "Gotham-Medium",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 25,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1445,
+          "name": "NUMBER | 04",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_4/NUMBER | 04",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            828,
+            835,
+            864,
+            858
+          ],
+          "text": "04",
+          "font": "Gotham-Book",
+          "size_pt": 30,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1444,
+          "name": "Fundo",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_4/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            800,
+            810,
+            1780,
+            890
+          ]
+        },
+        {
+          "id": 1442,
+          "name": "CARD | atitude_3",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_3",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            800,
+            707,
+            1780,
+            787
+          ]
+        },
+        {
+          "id": 1441,
+          "name": "CARD | Estar disposto a aprender",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_3/CARD | Estar disposto a aprender",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            912,
+            731,
+            1335,
+            764
+          ],
+          "text": "Estar disposto a aprender",
+          "font": "Gotham-Medium",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 26,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1440,
+          "name": "NUMBER | 03",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_3/NUMBER | 03",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            828,
+            732,
+            862,
+            755
+          ],
+          "text": "03",
+          "font": "Gotham-Book",
+          "size_pt": 30,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1439,
+          "name": "Fundo",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_3/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            800,
+            707,
+            1780,
+            787
+          ]
+        },
+        {
+          "id": 1437,
+          "name": "CARD | atitude_2",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_2",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            800,
+            604,
+            1780,
+            684
+          ]
+        },
+        {
+          "id": 1436,
+          "name": "CARD | Estar preparado",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_2/CARD | Estar preparado",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            912,
+            628,
+            1176,
+            661
+          ],
+          "text": "Estar preparado",
+          "font": "Gotham-Medium",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1435,
+          "name": "NUMBER | 02",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_2/NUMBER | 02",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            828,
+            629,
+            861,
+            652
+          ],
+          "text": "02",
+          "font": "Gotham-Book",
+          "size_pt": 30,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1434,
+          "name": "Fundo",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_2/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            800,
+            604,
+            1780,
+            684
+          ]
+        },
+        {
+          "id": 1432,
+          "name": "CARD | atitude_1",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_1",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            800,
+            501,
+            1780,
+            581
+          ]
+        },
+        {
+          "id": 1431,
+          "name": "CARD | Estar alicerçado",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_1/CARD | Estar alicerçado",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            912,
+            525,
+            1173,
+            558
+          ],
+          "text": "Estar alicerçado",
+          "font": "Gotham-Medium",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 17,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1430,
+          "name": "NUMBER | 01",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_1/NUMBER | 01",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            828,
+            526,
+            853,
+            549
+          ],
+          "text": "01",
+          "font": "Gotham-Book",
+          "size_pt": 30,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1429,
+          "name": "Fundo",
+          "path": "02 Crescer exige preparação/CONTENT/CARD | atitude_1/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            800,
+            501,
+            1780,
+            581
+          ]
+        },
+        {
+          "id": 1427,
+          "name": "BODY | Mas crescimento exige preparação",
+          "path": "02 Crescer exige preparação/CONTENT/BODY | Mas crescimento exige preparação",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            805,
+            387,
+            1398,
+            422
+          ],
+          "text": "Mas crescimento exige preparação",
+          "font": "Gotham-Book",
+          "size_pt": 39,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 33,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1426,
+          "name": "H1 | Todo mundo quer crescer",
+          "path": "02 Crescer exige preparação/CONTENT/H1 | Todo mundo quer crescer",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            800,
+            158,
+            1327,
+            345
+          ],
+          "text": "Todo mundo\rquer crescer",
+          "font": "Gotham-Book",
+          "size_pt": 95,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 11,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 11,
+              "to": 24,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1424,
+          "name": "Camada 1",
+          "path": "02 Crescer exige preparação/Camada 1",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1423,
+          "name": "PHOTO | assets/foto_02_preparacao.png",
+          "path": "02 Crescer exige preparação/PHOTO | assets/foto_02_preparacao.png",
+          "visible": true,
+          "type": "art",
+          "variable": true,
+          "bounds": [
+            0,
+            0,
+            700,
+            1080
+          ],
+          "role": "photo",
+          "asset_status": "final",
+          "placeholder": false,
+          "smart_object": true
+        },
+        {
+          "id": 1422,
+          "name": "FUNDO",
+          "path": "02 Crescer exige preparação/FUNDO",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "group": "03 Propósito e direção",
+      "layers": [
+        {
+          "id": 1455,
+          "name": "CONTENT",
+          "path": "03 Propósito e direção/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            135,
+            205,
+            741,
+            769
+          ]
+        },
+        {
+          "id": 1463,
+          "name": "CALLOUT | E nada mudou a Sua direção.",
+          "path": "03 Propósito e direção/CONTENT/CALLOUT | E nada mudou a Sua direção.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            660,
+            479,
+            769
+          ],
+          "text": "E nada mudou\ra Sua direção.",
+          "font": "Gotham-Bold",
+          "size_pt": 52,
+          "role": "callout",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 28,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 28,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1461,
+          "name": "BODY | Ele tinha um propósito.",
+          "path": "03 Propósito e direção/CONTENT/BODY | Ele tinha um propósito.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            516,
+            625,
+            560
+          ],
+          "text": "Ele tinha um propósito.",
+          "font": "Gotham-Book",
+          "size_pt": 48,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 24,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1459,
+          "name": "H1 | Jesus sabia para que veio",
+          "path": "03 Propósito e direção/CONTENT/H1 | Jesus sabia para que veio",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            135,
+            205,
+            741,
+            408
+          ],
+          "text": "Jesus sabia\rpara que veio",
+          "font": "Gotham-Book",
+          "size_pt": 101,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 12,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 12,
+              "to": 26,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                230.999393463135,
+                166.999503672123,
+                192.999304533005
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1453,
+          "name": "Camada 2 copiar",
+          "path": "03 Propósito e direção/Camada 2 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1452,
+          "name": "B BELLAS",
+          "path": "03 Propósito e direção/B BELLAS",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "id": 1457,
+          "name": "PHOTO | assets/foto_03_caminho.png",
+          "path": "03 Propósito e direção/PHOTO | assets/foto_03_caminho.png",
+          "visible": true,
+          "type": "art",
+          "variable": true,
+          "bounds": [
+            1220,
+            0,
+            1920,
+            1080
+          ],
+          "role": "photo",
+          "asset_status": "final",
+          "placeholder": false,
+          "smart_object": true
+        },
+        {
+          "id": 1451,
+          "name": "BG copiar",
+          "path": "03 Propósito e direção/BG copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "group": "04 Direção - episódios 01 a 04",
+      "layers": [
+        {
+          "id": 1468,
+          "name": "CONTENT",
+          "path": "04 Direção - episódios 01 a 04/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            145,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1508,
+          "name": "CARD | episodio_04",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1519,
+          "name": "BODY | Marcos 3:20-21",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04/BODY | Marcos 3:20-21",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            826,
+            1260,
+            847
+          ],
+          "text": "Marcos 3:20-21",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1517,
+          "name": "BODY | Tentou contê-lo",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04/BODY | Tentou contê-lo",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            747,
+            1310,
+            772
+          ],
+          "text": "Tentou contê-lo",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1515,
+          "name": "CARD | Sua própria família",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04/CARD | Sua própria família",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            688,
+            1395,
+            723
+          ],
+          "text": "Sua própria família",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 20,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1513,
+          "name": "NUMBER | 04",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04/NUMBER | 04",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1004,
+            690,
+            1045,
+            716
+          ],
+          "text": "04",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1511,
+          "name": "Filete",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            980,
+            875
+          ]
+        },
+        {
+          "id": 1510,
+          "name": "Fundo",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_04/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1496,
+          "name": "CARD | episodio_03",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            940,
+            875
+          ]
+        },
+        {
+          "id": 1507,
+          "name": "BODY | João 6:14-15",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03/BODY | João 6:14-15",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            826,
+            396,
+            847
+          ],
+          "text": "João 6:14-15",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 13,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1505,
+          "name": "BODY | Quis fazê-lo rei à força",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03/BODY | Quis fazê-lo rei à força",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            747,
+            567,
+            777
+          ],
+          "text": "Quis fazê-lo rei à força",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 25,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1503,
+          "name": "CARD | A multidão",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03/CARD | A multidão",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            688,
+            434,
+            717
+          ],
+          "text": "A multidão",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 11,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1501,
+          "name": "NUMBER | 03",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03/NUMBER | 03",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            169,
+            690,
+            208,
+            716
+          ],
+          "text": "03",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1499,
+          "name": "Filete",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            145,
+            875
+          ]
+        },
+        {
+          "id": 1498,
+          "name": "Fundo",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_03/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            940,
+            875
+          ]
+        },
+        {
+          "id": 1484,
+          "name": "CARD | episodio_02",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            1775,
+            632
+          ]
+        },
+        {
+          "id": 1495,
+          "name": "BODY | Mateus 16:21-23",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02/BODY | Mateus 16:21-23",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            583,
+            1269,
+            604
+          ],
+          "text": "Mateus 16:21-23",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1493,
+          "name": "BODY | Tentou afastá-lo do caminho da cruz",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02/BODY | Tentou afastá-lo do caminho da cruz",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            504,
+            1611,
+            530
+          ],
+          "text": "Tentou afastá-lo do caminho da cruz",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 36,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1491,
+          "name": "CARD | Pedro",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02/CARD | Pedro",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            445,
+            1181,
+            473
+          ],
+          "text": "Pedro",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 6,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1489,
+          "name": "NUMBER | 02",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02/NUMBER | 02",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1004,
+            447,
+            1043,
+            473
+          ],
+          "text": "02",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1487,
+          "name": "Filete",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            980,
+            632
+          ]
+        },
+        {
+          "id": 1486,
+          "name": "Fundo",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_02/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            1775,
+            632
+          ]
+        },
+        {
+          "id": 1472,
+          "name": "CARD | episodio_01",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            940,
+            632
+          ]
+        },
+        {
+          "id": 1483,
+          "name": "BODY | Mateus 4:1-11",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01/BODY | Mateus 4:1-11",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            583,
+            397,
+            604
+          ],
+          "text": "Mateus 4:1-11",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 14,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1481,
+          "name": "BODY | Tentou desviá-lo no deserto",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01/BODY | Tentou desviá-lo no deserto",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            504,
+            650,
+            530
+          ],
+          "text": "Tentou desviá-lo no deserto",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 28,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1479,
+          "name": "CARD | Satanás",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01/CARD | Satanás",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            445,
+            378,
+            475
+          ],
+          "text": "Satanás",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 8,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1477,
+          "name": "NUMBER | 01",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01/NUMBER | 01",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            169,
+            447,
+            198,
+            473
+          ],
+          "text": "01",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1475,
+          "name": "Filete",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            145,
+            632
+          ]
+        },
+        {
+          "id": 1474,
+          "name": "Fundo",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/CARD | episodio_01/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            940,
+            632
+          ]
+        },
+        {
+          "id": 1471,
+          "name": "H1 | Tentaram mudar Sua direção",
+          "path": "04 Direção - episódios 01 a 04/CONTENT/H1 | Tentaram mudar Sua direção",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            140,
+            145,
+            791,
+            327
+          ],
+          "text": "Tentaram mudar\rSua direção",
+          "font": "Gotham-Book",
+          "size_pt": 91,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 15,
+              "to": 27,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1466,
+          "name": "Camada 1 copiar 2",
+          "path": "04 Direção - episódios 01 a 04/Camada 1 copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1465,
+          "name": "FUNDO copiar 2",
+          "path": "04 Direção - episódios 01 a 04/FUNDO copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "group": "05 Direção - episódios 05 a 08",
+      "layers": [
+        {
+          "id": 1525,
+          "name": "CONTENT",
+          "path": "05 Direção - episódios 05 a 08/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            145,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1565,
+          "name": "CARD | episodio_08",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1576,
+          "name": "BODY | Marcos 10:13-16",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08/BODY | Marcos 10:13-16",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            826,
+            1265,
+            847
+          ],
+          "text": "Marcos 10:13-16",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1574,
+          "name": "BODY | Tentaram afastar crianças dEle",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08/BODY | Tentaram afastar crianças dEle",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            747,
+            1524,
+            777
+          ],
+          "text": "Tentaram afastar crianças dEle",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 31,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1572,
+          "name": "CARD | Os discípulos",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08/CARD | Os discípulos",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            688,
+            1303,
+            723
+          ],
+          "text": "Os discípulos",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 14,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1570,
+          "name": "NUMBER | 08",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08/NUMBER | 08",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1004,
+            690,
+            1044,
+            716
+          ],
+          "text": "08",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1568,
+          "name": "Filete",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            980,
+            875
+          ]
+        },
+        {
+          "id": 1567,
+          "name": "Fundo",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_08/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1553,
+          "name": "CARD | episodio_07",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            940,
+            875
+          ]
+        },
+        {
+          "id": 1564,
+          "name": "BODY | Marcos 12:13-17",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07/BODY | Marcos 12:13-17",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            826,
+            426,
+            847
+          ],
+          "text": "Marcos 12:13-17",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1562,
+          "name": "BODY | Tentaram apanhá-lo em Suas palavras",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07/BODY | Tentaram apanhá-lo em Suas palavras",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            747,
+            797,
+            778
+          ],
+          "text": "Tentaram apanhá-lo em Suas palavras",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 36,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1560,
+          "name": "CARD | Fariseus e herodianos",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07/CARD | Fariseus e herodianos",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            688,
+            608,
+            716
+          ],
+          "text": "Fariseus e herodianos",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 22,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1558,
+          "name": "NUMBER | 07",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07/NUMBER | 07",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            169,
+            690,
+            207,
+            716
+          ],
+          "text": "07",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1556,
+          "name": "Filete",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            145,
+            875
+          ]
+        },
+        {
+          "id": 1555,
+          "name": "Fundo",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_07/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            940,
+            875
+          ]
+        },
+        {
+          "id": 1541,
+          "name": "CARD | episodio_06",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            1775,
+            632
+          ]
+        },
+        {
+          "id": 1552,
+          "name": "BODY | Mateus 12:14",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06/BODY | Mateus 12:14",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            583,
+            1230,
+            604
+          ],
+          "text": "Mateus 12:14",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 13,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1550,
+          "name": "BODY | Confrontaram e tramaram contra Ele",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06/BODY | Confrontaram e tramaram contra Ele",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            504,
+            1614,
+            530
+          ],
+          "text": "Confrontaram e tramaram contra Ele",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 35,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1548,
+          "name": "CARD | Líderes religiosos",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06/CARD | Líderes religiosos",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            445,
+            1372,
+            480
+          ],
+          "text": "Líderes religiosos",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 19,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1546,
+          "name": "NUMBER | 06",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06/NUMBER | 06",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1004,
+            447,
+            1044,
+            473
+          ],
+          "text": "06",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1544,
+          "name": "Filete",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            980,
+            632
+          ]
+        },
+        {
+          "id": 1543,
+          "name": "Fundo",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_06/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            1775,
+            632
+          ]
+        },
+        {
+          "id": 1529,
+          "name": "CARD | episodio_05",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            940,
+            632
+          ]
+        },
+        {
+          "id": 1540,
+          "name": "BODY | Lucas 4:16-30",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05/BODY | Lucas 4:16-30",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            583,
+            413,
+            604
+          ],
+          "text": "Lucas 4:16-30",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 14,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1538,
+          "name": "BODY | Rejeitou quem Ele era",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05/BODY | Rejeitou quem Ele era",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            504,
+            562,
+            534
+          ],
+          "text": "Rejeitou quem Ele era",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 22,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1536,
+          "name": "CARD | Sua própria terra",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05/CARD | Sua própria terra",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            445,
+            528,
+            480
+          ],
+          "text": "Sua própria terra",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 18,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1534,
+          "name": "NUMBER | 05",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05/NUMBER | 05",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            169,
+            447,
+            208,
+            473
+          ],
+          "text": "05",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1532,
+          "name": "Filete",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            145,
+            632
+          ]
+        },
+        {
+          "id": 1531,
+          "name": "Fundo",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/CARD | episodio_05/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            940,
+            632
+          ]
+        },
+        {
+          "id": 1528,
+          "name": "H1 | Tentaram mudar Sua direção",
+          "path": "05 Direção - episódios 05 a 08/CONTENT/H1 | Tentaram mudar Sua direção",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            140,
+            145,
+            791,
+            327
+          ],
+          "text": "Tentaram mudar\rSua direção",
+          "font": "Gotham-Book",
+          "size_pt": 91,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 15,
+              "to": 27,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                230.999393463135,
+                166.999503672123,
+                192.999304533005
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1523,
+          "name": "Camada 2 copiar",
+          "path": "05 Direção - episódios 05 a 08/Camada 2 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1522,
+          "name": "B BELLAS",
+          "path": "05 Direção - episódios 05 a 08/B BELLAS",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "id": 1521,
+          "name": "BG copiar",
+          "path": "05 Direção - episódios 05 a 08/BG copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "group": "06 Direção - episódios 09 a 12",
+      "layers": [
+        {
+          "id": 1581,
+          "name": "CONTENT",
+          "path": "06 Direção - episódios 09 a 12/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            145,
+            1775,
+            950
+          ]
+        },
+        {
+          "id": 1634,
+          "name": "CALLOUT | E, ainda assim, Ele não perdeu o propósito!",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CALLOUT | E, ainda assim, Ele não perdeu o propósito!",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            915,
+            844,
+            950
+          ],
+          "text": "E, ainda assim, Ele não perdeu o propósito!",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "callout",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 44,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1621,
+          "name": "CARD | episodio_12",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1632,
+          "name": "BODY | Mateus 27:39-43",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12/BODY | Mateus 27:39-43",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            826,
+            1282,
+            847
+          ],
+          "text": "Mateus 27:39-43",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1630,
+          "name": "BODY | Provocaram: “Salva-te a ti mesmo”",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12/BODY | Provocaram: “Salva-te a ti mesmo”",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            747,
+            1581,
+            772
+          ],
+          "text": "Provocaram: “Salva-te a ti mesmo”",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 34,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1628,
+          "name": "CARD | Na cruz",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12/CARD | Na cruz",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            688,
+            1208,
+            715
+          ],
+          "text": "Na cruz",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 8,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1626,
+          "name": "NUMBER | 12",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12/NUMBER | 12",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1004,
+            690,
+            1032,
+            714
+          ],
+          "text": "12",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1624,
+          "name": "Filete",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            980,
+            875
+          ]
+        },
+        {
+          "id": 1623,
+          "name": "Fundo",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_12/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            664,
+            1775,
+            875
+          ]
+        },
+        {
+          "id": 1609,
+          "name": "CARD | episodio_11",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            940,
+            875
+          ]
+        },
+        {
+          "id": 1620,
+          "name": "BODY | Mateus 26:36-46",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11/BODY | Mateus 26:36-46",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            826,
+            450,
+            847
+          ],
+          "text": "Mateus 26:36-46",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1618,
+          "name": "BODY | Enfrentou a angústia do caminho",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11/BODY | Enfrentou a angústia do caminho",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            747,
+            727,
+            778
+          ],
+          "text": "Enfrentou a angústia do caminho",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 32,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1616,
+          "name": "CARD | Getsêmani",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11/CARD | Getsêmani",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            688,
+            426,
+            717
+          ],
+          "text": "Getsêmani",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 10,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1614,
+          "name": "NUMBER | 11",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11/NUMBER | 11",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            169,
+            690,
+            187,
+            714
+          ],
+          "text": "11",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1612,
+          "name": "Filete",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            145,
+            875
+          ]
+        },
+        {
+          "id": 1611,
+          "name": "Fundo",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_11/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            664,
+            940,
+            875
+          ]
+        },
+        {
+          "id": 1597,
+          "name": "CARD | episodio_10",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            1775,
+            632
+          ]
+        },
+        {
+          "id": 1608,
+          "name": "BODY | Lucas 4:42-43",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10/BODY | Lucas 4:42-43",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            583,
+            1253,
+            604
+          ],
+          "text": "Lucas 4:42-43",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 14,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1606,
+          "name": "BODY | Pressionava para que Ele permanecesse",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10/BODY | Pressionava para que Ele permanecesse",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            504,
+            1660,
+            534
+          ],
+          "text": "Pressionava para que Ele permanecesse",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 38,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1604,
+          "name": "CARD | A multidão",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10/CARD | A multidão",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1083,
+            445,
+            1269,
+            474
+          ],
+          "text": "A multidão",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 11,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1602,
+          "name": "NUMBER | 10",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10/NUMBER | 10",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1004,
+            447,
+            1036,
+            473
+          ],
+          "text": "10",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1600,
+          "name": "Filete",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            980,
+            632
+          ]
+        },
+        {
+          "id": 1599,
+          "name": "Fundo",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_10/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            975,
+            421,
+            1775,
+            632
+          ]
+        },
+        {
+          "id": 1585,
+          "name": "CARD | episodio_09",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            940,
+            632
+          ]
+        },
+        {
+          "id": 1596,
+          "name": "BODY | Marcos 10:35-45",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09/BODY | Marcos 10:35-45",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            583,
+            444,
+            604
+          ],
+          "text": "Marcos 10:35-45",
+          "font": "Gotham-Medium",
+          "size_pt": 27,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1594,
+          "name": "BODY | Buscaram posição e grandeza",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09/BODY | Buscaram posição e grandeza",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            504,
+            682,
+            535
+          ],
+          "text": "Buscaram posição e grandeza",
+          "font": "Gotham-Book",
+          "size_pt": 33,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 28,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1592,
+          "name": "CARD | Tiago e João",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09/CARD | Tiago e João",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            248,
+            445,
+            464,
+            479
+          ],
+          "text": "Tiago e João",
+          "font": "Gotham-Bold",
+          "size_pt": 37,
+          "role": "card",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 13,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1590,
+          "name": "NUMBER | 09",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09/NUMBER | 09",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            169,
+            447,
+            209,
+            473
+          ],
+          "text": "09",
+          "font": "Gotham-Book",
+          "size_pt": 34,
+          "role": "number",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 3,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1588,
+          "name": "Filete",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09/Filete",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            145,
+            632
+          ]
+        },
+        {
+          "id": 1587,
+          "name": "Fundo",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/CARD | episodio_09/Fundo",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            140,
+            421,
+            940,
+            632
+          ]
+        },
+        {
+          "id": 1584,
+          "name": "H1 | Tentaram mudar Sua direção",
+          "path": "06 Direção - episódios 09 a 12/CONTENT/H1 | Tentaram mudar Sua direção",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            140,
+            145,
+            791,
+            327
+          ],
+          "text": "Tentaram mudar\rSua direção",
+          "font": "Gotham-Book",
+          "size_pt": 91,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 15,
+              "to": 27,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1579,
+          "name": "Camada 1 copiar 2",
+          "path": "06 Direção - episódios 09 a 12/Camada 1 copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1578,
+          "name": "FUNDO copiar 2",
+          "path": "06 Direção - episódios 09 a 12/FUNDO copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "group": "07 Até o fim",
+      "layers": [
+        {
+          "id": 1640,
+          "name": "CONTENT",
+          "path": "07 Até o fim/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            524,
+            243,
+            1396,
+            737
+          ]
+        },
+        {
+          "id": 1648,
+          "name": "Filete de citação",
+          "path": "07 Até o fim/CONTENT/Filete de citação",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            840,
+            449,
+            1080,
+            453
+          ]
+        },
+        {
+          "id": 1647,
+          "name": "BODY | João 19:30",
+          "path": "07 Até o fim/CONTENT/BODY | João 19:30",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            878,
+            710,
+            1042,
+            737
+          ],
+          "text": "João 19:30",
+          "font": "Gotham-Medium",
+          "size_pt": 34,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 11,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1645,
+          "name": "QUOTE | “Está consumado.”",
+          "path": "07 Até o fim/CONTENT/QUOTE | “Está consumado.”",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            642,
+            519,
+            1278,
+            578
+          ],
+          "text": "“Está consumado.”",
+          "font": "Gotham-Light",
+          "size_pt": 79,
+          "role": "quote",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 18,
+              "font": "Gotham-Light",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1643,
+          "name": "H1 | Ele foi até o fim!",
+          "path": "07 Até o fim/CONTENT/H1 | Ele foi até o fim!",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            524,
+            243,
+            1396,
+            343
+          ],
+          "text": "Ele foi até o fim!",
+          "font": "Gotham-Book",
+          "size_pt": 126,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 8,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 8,
+              "to": 19,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                230.999393463135,
+                166.999503672123,
+                192.999304533005
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1638,
+          "name": "Camada 2 copiar",
+          "path": "07 Até o fim/Camada 2 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1637,
+          "name": "B BELLAS",
+          "path": "07 Até o fim/B BELLAS",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "id": 1636,
+          "name": "BG copiar",
+          "path": "07 Até o fim/BG copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "group": "08 Preparar outras pessoas",
+      "layers": [
+        {
+          "id": 1653,
+          "name": "CONTENT",
+          "path": "08 Preparar outras pessoas/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            815,
+            183,
+            1775,
+            874
+          ]
+        },
+        {
+          "id": 1662,
+          "name": "CALLOUT | Até chegar em nós",
+          "path": "08 Preparar outras pessoas/CONTENT/CALLOUT | Até chegar em nós",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            847,
+            789,
+            1297,
+            840
+          ],
+          "text": "Até chegar em nós",
+          "font": "Gotham-Bold",
+          "size_pt": 54,
+          "role": "callout",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 18,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1660,
+          "name": "Faixa de destaque",
+          "path": "08 Preparar outras pessoas/CONTENT/Faixa de destaque",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            815,
+            769,
+            1775,
+            874
+          ]
+        },
+        {
+          "id": 1659,
+          "name": "BODY | E essas pessoas prepararam outras",
+          "path": "08 Preparar outras pessoas/CONTENT/BODY | E essas pessoas prepararam outras",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            820,
+            504,
+            1208,
+            607
+          ],
+          "text": "E essas pessoas\rprepararam outras",
+          "font": "Gotham-Book",
+          "size_pt": 48,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 34,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 34,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1657,
+          "name": "H1 | Jesus preparou pessoas",
+          "path": "08 Preparar outras pessoas/CONTENT/H1 | Jesus preparou pessoas",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            815,
+            183,
+            1452,
+            371
+          ],
+          "text": "Jesus preparou\rpessoas",
+          "font": "Gotham-Book",
+          "size_pt": 97,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 15,
+              "to": 23,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1651,
+          "name": "Camada 1 copiar 2",
+          "path": "08 Preparar outras pessoas/Camada 1 copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1655,
+          "name": "PHOTO | assets/foto_08_mentoria.png",
+          "path": "08 Preparar outras pessoas/PHOTO | assets/foto_08_mentoria.png",
+          "visible": true,
+          "type": "art",
+          "variable": true,
+          "bounds": [
+            0,
+            0,
+            710,
+            1080
+          ],
+          "role": "photo",
+          "asset_status": "final",
+          "placeholder": false,
+          "smart_object": true
+        },
+        {
+          "id": 1650,
+          "name": "FUNDO copiar 2",
+          "path": "08 Preparar outras pessoas/FUNDO copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "group": "09 Crescimento tem pessoas como propósito",
+      "layers": [
+        {
+          "id": 1668,
+          "name": "CONTENT",
+          "path": "09 Crescimento tem pessoas como propósito/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            164,
+            765,
+            895
+          ]
+        },
+        {
+          "id": 1678,
+          "name": "BODY | O propósito não pode parar em nós.",
+          "path": "09 Crescimento tem pessoas como propósito/CONTENT/BODY | O propósito não pode parar em nós.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            861,
+            750,
+            895
+          ],
+          "text": "O propósito não pode parar em nós.",
+          "font": "Gotham-Book",
+          "size_pt": 38,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 35,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1676,
+          "name": "CALLOUT | Porque o nosso maior propósito são pessoas.",
+          "path": "09 Crescimento tem pessoas como propósito/CONTENT/CALLOUT | Porque o nosso maior propósito são pessoas.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            628,
+            658,
+            736
+          ],
+          "text": "Porque o nosso maior\rpropósito são pessoas.",
+          "font": "Gotham-Bold",
+          "size_pt": 51,
+          "role": "callout",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 44,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 44,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1674,
+          "name": "BODY | E quanto mais crescemos, mais pessoas precisamos preparar.",
+          "path": "09 Crescimento tem pessoas como propósito/CONTENT/BODY | E quanto mais crescemos, mais pessoas precisamos preparar.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            438,
+            765,
+            528
+          ],
+          "text": "E quanto mais crescemos,\rmais pessoas precisamos preparar.",
+          "font": "Gotham-Book",
+          "size_pt": 41,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 59,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 59,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1672,
+          "name": "H1 | Estamos crescendo",
+          "path": "09 Crescimento tem pessoas como propósito/CONTENT/H1 | Estamos crescendo",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            140,
+            164,
+            585,
+            339
+          ],
+          "text": "Estamos\rcrescendo",
+          "font": "Gotham-Book",
+          "size_pt": 97,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 8,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 8,
+              "to": 18,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                230.999393463135,
+                166.999503672123,
+                192.999304533005
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1666,
+          "name": "Camada 2 copiar",
+          "path": "09 Crescimento tem pessoas como propósito/Camada 2 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1665,
+          "name": "B BELLAS",
+          "path": "09 Crescimento tem pessoas como propósito/B BELLAS",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "id": 1670,
+          "name": "PHOTO | assets/foto_09_equipe.png",
+          "path": "09 Crescimento tem pessoas como propósito/PHOTO | assets/foto_09_equipe.png",
+          "visible": true,
+          "type": "art",
+          "variable": true,
+          "bounds": [
+            1220,
+            0,
+            1920,
+            1080
+          ],
+          "role": "photo",
+          "asset_status": "final",
+          "placeholder": false,
+          "smart_object": true
+        },
+        {
+          "id": 1664,
+          "name": "BG copiar",
+          "path": "09 Crescimento tem pessoas como propósito/BG copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "group": "10 Começar a multiplicar",
+      "layers": [
+        {
+          "id": 1683,
+          "name": "CONTENT",
+          "path": "10 Começar a multiplicar/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            167,
+            1662,
+            885
+          ]
+        },
+        {
+          "id": 1693,
+          "name": "Divisão entre ideia e relato",
+          "path": "10 Começar a multiplicar/CONTENT/Divisão entre ideia e relato",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1158,
+            470,
+            1161,
+            885
+          ]
+        },
+        {
+          "id": 1692,
+          "name": "BODY | João 4",
+          "path": "10 Começar a multiplicar/CONTENT/BODY | João 4",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1210,
+            670,
+            1310,
+            695
+          ],
+          "text": "João 4",
+          "font": "Gotham-Medium",
+          "size_pt": 32,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 7,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1690,
+          "name": "CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele.",
+          "path": "10 Começar a multiplicar/CONTENT/CALLOUT | A mulher samaritana encontrou Jesus e levou outros até Ele.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            1210,
+            475,
+            1662,
+            622
+          ],
+          "text": "A mulher samaritana\rencontrou Jesus e levou\routros até Ele.",
+          "font": "Gotham-Medium",
+          "size_pt": 43,
+          "role": "callout",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 60,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 60,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 60,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1688,
+          "name": "BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar.",
+          "path": "10 Começar a multiplicar/CONTENT/BODY | Mas nem todas precisaram de anos ao lado dEle para começar a multiplicar.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            481,
+            979,
+            584
+          ],
+          "text": "Mas nem todas precisaram de anos\rao lado dEle para começar a multiplicar.",
+          "font": "Gotham-Book",
+          "size_pt": 48,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 74,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 74,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1686,
+          "name": "H1 | Jesus preparou pessoas",
+          "path": "10 Começar a multiplicar/CONTENT/H1 | Jesus preparou pessoas",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            140,
+            167,
+            777,
+            356
+          ],
+          "text": "Jesus preparou\rpessoas",
+          "font": "Gotham-Book",
+          "size_pt": 97,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 15,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 15,
+              "to": 23,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                178.999791741371,
+                113.000692427158,
+                141.999307572842
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1681,
+          "name": "Camada 1 copiar 2",
+          "path": "10 Começar a multiplicar/Camada 1 copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1680,
+          "name": "FUNDO copiar 2",
+          "path": "10 Começar a multiplicar/FUNDO copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "group": "11 Quem recebe compartilha",
+      "layers": [
+        {
+          "id": 1699,
+          "name": "CONTENT",
+          "path": "11 Quem recebe compartilha/CONTENT",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            140,
+            152,
+            1019,
+            953
+          ]
+        },
+        {
+          "id": 1710,
+          "name": "CALLOUT | Quem recebe não guarda para si.",
+          "path": "11 Quem recebe compartilha/CONTENT/CALLOUT | Quem recebe não guarda para si.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            904,
+            904,
+            953
+          ],
+          "text": "Quem recebe não guarda para si.",
+          "font": "Gotham-Bold",
+          "size_pt": 52,
+          "role": "callout",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 32,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1708,
+          "name": "BODY | João 4:29, 39",
+          "path": "11 Quem recebe compartilha/CONTENT/BODY | João 4:29, 39",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            150,
+            791,
+            332,
+            819
+          ],
+          "text": "João 4:29, 39",
+          "font": "Gotham-Medium",
+          "size_pt": 30,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 14,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1706,
+          "name": "BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher.",
+          "path": "11 Quem recebe compartilha/CONTENT/BODY | Muitos samaritanos creram em Jesus por causa do testemunho daquela mulher.",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            150,
+            638,
+            1019,
+            728
+          ],
+          "text": "Muitos samaritanos creram em Jesus por causa\rdo testemunho daquela mulher.",
+          "font": "Gotham-Book",
+          "size_pt": 42,
+          "role": "body",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 75,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 75,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1704,
+          "name": "QUOTE | “Venham ver...”",
+          "path": "11 Quem recebe compartilha/CONTENT/QUOTE | “Venham ver...”",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            145,
+            448,
+            682,
+            512
+          ],
+          "text": "“Venham ver...”",
+          "font": "Gotham-Light",
+          "size_pt": 86,
+          "role": "quote",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 16,
+              "font": "Gotham-Light",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1702,
+          "name": "H1 | Ela encontrou Jesus e levou outros até Ele",
+          "path": "11 Quem recebe compartilha/CONTENT/H1 | Ela encontrou Jesus e levou outros até Ele",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            140,
+            152,
+            961,
+            314
+          ],
+          "text": "Ela encontrou Jesus\re levou outros até Ele",
+          "font": "Gotham-Book",
+          "size_pt": 87,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 22,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 0,
+              "to": 22,
+              "font": "Gotham-Book",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "from": 22,
+              "to": 43,
+              "font": "Gotham-Bold",
+              "color_rgb": [
+                230.999393463135,
+                166.999503672123,
+                192.999304533005
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1697,
+          "name": "Camada 2 copiar",
+          "path": "11 Quem recebe compartilha/Camada 2 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1029
+          ]
+        },
+        {
+          "id": 1696,
+          "name": "B BELLAS",
+          "path": "11 Quem recebe compartilha/B BELLAS",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1309,
+            -236,
+            1928,
+            617
+          ]
+        },
+        {
+          "id": 1695,
+          "name": "BG copiar",
+          "path": "11 Quem recebe compartilha/BG copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "group": "12 Agradecimento",
+      "layers": [
+        {
+          "id": 1419,
+          "name": "PADRÃO",
+          "path": "12 Agradecimento/PADRÃO",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            -110,
+            54,
+            1862,
+            1029
+          ]
+        },
+        {
+          "id": 1418,
+          "name": "LOGO",
+          "path": "12 Agradecimento/PADRÃO/LOGO",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            55,
+            991,
+            212,
+            1020
+          ]
+        },
+        {
+          "id": 1417,
+          "name": "Retângulo 572 copiar 2",
+          "path": "12 Agradecimento/PADRÃO/Retângulo 572 copiar 2",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1835,
+            54,
+            1862,
+            82
+          ]
+        },
+        {
+          "id": 1416,
+          "name": "Retângulo 572 copiar",
+          "path": "12 Agradecimento/PADRÃO/Retângulo 572 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1797,
+            54,
+            1824,
+            82
+          ]
+        },
+        {
+          "id": 1415,
+          "name": "Retângulo 572",
+          "path": "12 Agradecimento/PADRÃO/Retângulo 572",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1758,
+            54,
+            1785,
+            82
+          ]
+        },
+        {
+          "id": 1414,
+          "name": "ELEMENTOS CORES",
+          "path": "12 Agradecimento/PADRÃO/ELEMENTOS CORES",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": 1412,
+          "name": "01 - LOGO PRINCIPAL KJL",
+          "path": "12 Agradecimento/PADRÃO/01 - LOGO PRINCIPAL KJL",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            1704,
+            981,
+            1859,
+            1029
+          ]
+        },
+        {
+          "id": 1411,
+          "name": "empreendedorismo feminio",
+          "path": "12 Agradecimento/PADRÃO/empreendedorismo feminio",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            -110,
+            58,
+            742,
+            70
+          ]
+        },
+        {
+          "id": 1410,
+          "name": "EMPREENDEDORISMO FEMININO",
+          "path": "12 Agradecimento/PADRÃO/empreendedorismo feminio/EMPREENDEDORISMO FEMININO",
+          "visible": true,
+          "type": "text",
+          "variable": false,
+          "bounds": [
+            96,
+            58,
+            742,
+            70
+          ],
+          "text": "EMPREENDEDORISMO FEMININO",
+          "font": "Gotham-Medium",
+          "size_pt": 25,
+          "role": "fixed",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 26,
+              "font": "Gotham-Medium",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1409,
+          "name": "Retângulo 5 copiar",
+          "path": "12 Agradecimento/PADRÃO/empreendedorismo feminio/Retângulo 5 copiar",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            -110,
+            63,
+            74,
+            65
+          ]
+        },
+        {
+          "id": 1406,
+          "name": "texto",
+          "path": "12 Agradecimento/texto",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            387,
+            243,
+            1532,
+            836
+          ]
+        },
+        {
+          "id": 1405,
+          "name": "H1 | Agradecimento aprovado",
+          "path": "12 Agradecimento/texto/H1 | Agradecimento aprovado",
+          "visible": true,
+          "type": "text",
+          "variable": true,
+          "bounds": [
+            387,
+            243,
+            1532,
+            836
+          ],
+          "text": "obrigada!",
+          "font": "Gotham-Light",
+          "size_pt": 85.6332168579102,
+          "role": "h1",
+          "font_runs": [
+            {
+              "from": 0,
+              "to": 10,
+              "font": "Gotham-Light",
+              "color_rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          ],
+          "missing_font": false
+        },
+        {
+          "id": 1403,
+          "name": "fundo",
+          "path": "12 Agradecimento/fundo",
+          "visible": true,
+          "type": "group",
+          "variable": false,
+          "bounds": [
+            -132,
+            -58,
+            2111,
+            1437
+          ]
+        },
+        {
+          "id": 1402,
+          "name": "LUCI LUCI-443",
+          "path": "12 Agradecimento/fundo/LUCI LUCI-443",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            -132,
+            -58,
+            2111,
+            1437
+          ]
+        },
+        {
+          "id": 1401,
+          "name": "mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+          "path": "12 Agradecimento/fundo/mantem a mesma foto apenas altere a pessoa de costas, coloque uma mulher com uma blusa rosa e calça alfaiataria e cabelos cacheados",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            -102,
+            -39,
+            1920,
+            1098
+          ]
+        },
+        {
+          "id": 1400,
+          "name": "BG",
+          "path": "12 Agradecimento/fundo/BG",
+          "visible": true,
+          "type": "art",
+          "variable": false,
+          "bounds": [
+            0,
+            0,
+            1920,
+            1080
+          ]
+        }
+      ]
+    }
+  ],
+  "template_evidence": {
+    "cover": {
+      "reference_png": "../../exemplos/optima_final/pngs_aprovados/pagina_01.png",
+      "title_masks": [
+        [
+          920,
+          415,
+          1870,
+          735
+        ]
+      ]
+    },
+    "thanks": {
+      "reference_png": "../../exemplos/optima_final/pngs_aprovados/pagina_13.png"
+    }
+  },
+  "visual_review": {
+    "all_pages_inspected": true,
+    "pdf_render_inspected": true,
+    "evidence": [
+      "auditoria/revisao_visual_final.md",
+      "auditoria/analise_critica_visual.md",
+      "auditoria/renderizacao_pdf.json"
+    ],
+    "note": "12 provas individuais inspecionadas pelo agente principal e revisor; PDF renderizado em1920x1080, todas12 páginas pixel iguais às provas; contato e páginas06/09/11 inspecionados na renderização."
+  },
+  "psd_sha256": "b0b5f912c29e4dde6ae65c6008189f5d5056b539fa26c9aa936b70c1ee119f26"
+}

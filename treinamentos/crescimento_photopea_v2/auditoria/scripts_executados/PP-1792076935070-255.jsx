@@ -1,0 +1,1 @@
+var g=app.activeDocument.layerSets.getByName('08 - Pessoas que preparam pessoas');for(var i=0;i<g.artLayers.length;i++)app.echoToOE(g.artLayers[i].name);

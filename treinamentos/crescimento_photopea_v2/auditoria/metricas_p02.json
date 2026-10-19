@@ -1,0 +1,7 @@
+{
+  "id": "PP-1792074955872-92",
+  "echoes": [
+    "METRICS:[{\"name\":\"p02-titulo\",\"text\":\"Todo mundo\\rquer crescer\",\"bounds\":[140,290,585,437],\"font\":\"Gotham-Book\"},{\"name\":\"p02-premissa\",\"text\":\"Mas crescimento\\rexige preparação\",\"bounds\":[145,505,485,589],\"font\":\"Gotham-Book\"},{\"name\":\"p02-01-numero\",\"text\":\"01\",\"bounds\":[920,265,952,292],\"font\":\"Gotham-Light\"},{\"name\":\"p02-01\",\"text\":\"Estar alicerçado\",\"bounds\":[1050,263,1386,302],\"font\":\"Gotham-Book\"},{\"name\":\"p02-02-numero\",\"text\":\"02\",\"bounds\":[920,405,962,432],\"font\":\"Gotham-Light\"},{\"name\":\"p02-02\",\"text\":\"Estar preparado\",\"bounds\":[1050,403,1388,442],\"font\":\"Gotham-Book\"},{\"name\":\"p02-03-numero\",\"text\":\"03\",\"bounds\":[920,545,963,572],\"font\":\"Gotham-Light\"},{\"name\":\"p02-03\",\"text\":\"Estar disposto\\ra aprender\",\"bounds\":[1050,543,1352,633],\"font\":\"Gotham-Book\"},{\"name\":\"p02-04-numero\",\"text\":\"04\",\"bounds\":[920,685,966,712],\"font\":\"Gotham-Light\"},{\"name\":\"p02-04\",\"text\":\"Estar disposto\\ra ensinar\",\"bounds\":[1050,683,1352,767],\"font\":\"Gotham-Book\"}]"
+  ],
+  "files": []
+}

@@ -1,0 +1,160 @@
+{
+  "provenance_historical": "C:\\Users\\Murilo\\Downloads\\Gotham.zip",
+  "zip_sha256": "da7f8e194d5d8109d194d4a7ffad3982a5e43a54f506d7add759644305795752",
+  "fonts": [
+    {
+      "zip_member": "Gotham/Gotham Black/Gotham Black.otf",
+      "size": 137472,
+      "sha256": "99b87c0c6bf6947cd0034d9636fc2b8926dd1007281edf7a108b74e78636c5b0",
+      "names": {
+        "1": "Gotham Black",
+        "2": "Regular",
+        "4": "Gotham-Black",
+        "6": "Gotham-Black"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Bold/Gotham Bold.otf",
+      "size": 127472,
+      "sha256": "88b3795f97ee469c9e30430b54d35c11cdf28c96e3e71d0122e37e6bf025c0b8",
+      "names": {
+        "1": "Gotham Bold",
+        "2": "Regular",
+        "4": "Gotham-Bold",
+        "6": "Gotham-Bold"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Bold Italic/Gotham Bold Italic.ttf",
+      "size": 43928,
+      "sha256": "6662c90fea66cedddffc4ec3743a18caf0d871681371191c60952a20a01c28a9",
+      "names": {
+        "1": "Gotham",
+        "2": "Bold Italic",
+        "4": "Gotham-BoldItalic",
+        "6": "Gotham-BoldItalic"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Book/Gotham Book.otf",
+      "size": 128020,
+      "sha256": "d3c79bd7ec9e3b465f0b821cf931be66542bff3694f7c70e0aeae0f6d7036756",
+      "names": {
+        "1": "Gotham Book",
+        "2": "Regular",
+        "4": "Gotham-Book",
+        "6": "Gotham-Book"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Extra Light/Gotham Extra Light.otf",
+      "size": 132120,
+      "sha256": "af462ba7d9b199fbd0fed5e00cee566fc25f64d8c6d6f0a617f530b6fd7c1a8c",
+      "names": {
+        "1": "Gotham Extra Light",
+        "2": "Regular",
+        "4": "Gotham-ExtraLight",
+        "6": "Gotham-ExtraLight"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Extra Light Italic/Gotham Extra Light Italic.otf",
+      "size": 137592,
+      "sha256": "dd9e8517a04672d3b5e83bf66e702360165e7cbd5661ea2c5da630c0cba16b46",
+      "names": {
+        "1": "Gotham Extra Light",
+        "2": "Italic",
+        "4": "Gotham-ExtraLightItalic",
+        "6": "Gotham-ExtraLightItalic"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Italic/Gotham Italic.otf",
+      "size": 36292,
+      "sha256": "9382b3305531b43a8cce2941627280b55c07814d1b0f16b3667369c1a9f3fdc2",
+      "names": {
+        "1": "Gotham",
+        "2": "Italic",
+        "4": "Gotham-BoldItalic",
+        "6": "Gotham-BoldItalic"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham ItalicBold/Gotham ItalicBold.otf",
+      "size": 22108,
+      "sha256": "afc31df1dde0e15510be6fcff03ca960823bad06f58f9c70a3464af7e377acbb",
+      "names": {
+        "1": "Gotham",
+        "2": "Bold Italic",
+        "4": "Gotham-BoldItalic",
+        "6": "Gotham-BoldItalic"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Light/Gotham Light.otf",
+      "size": 125704,
+      "sha256": "eb5f2c3557023f9aebd1315f78deceb2f5852d3680124fe1e96effc075df3170",
+      "names": {
+        "1": "Gotham Light",
+        "2": "Regular",
+        "4": "Gotham-Light",
+        "6": "Gotham-Light"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Medium/Gotham Medium.otf",
+      "size": 128768,
+      "sha256": "e8183507b37f3df80ea253b144745ed58784f5b4465b5216fbf9e314df592d06",
+      "names": {
+        "1": "Gotham Medium",
+        "2": "Regular",
+        "4": "Gotham-Medium",
+        "6": "Gotham-Medium"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Regular/Gotham Regular.otf",
+      "size": 22200,
+      "sha256": "b525f27e66476e4c748759921adc9558735824036d2a58c2f44d3e9d74b83d98",
+      "names": {
+        "1": "Gotham",
+        "2": "Regular",
+        "4": "Gotham-Black",
+        "6": "Gotham-Black"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Thin/Gotham Thin.otf",
+      "size": 130672,
+      "sha256": "0067c3687ed2ca64869c72a00e3c4654c57426d7d8636caf4466ede4264fc9a8",
+      "names": {
+        "1": "Gotham Thin",
+        "2": "Regular",
+        "4": "Gotham-Thin",
+        "6": "Gotham-Thin"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Thin Italic/Gotham Thin Italic.otf",
+      "size": 135444,
+      "sha256": "1226201433a672b07999423c91930fdacb2a68ae8607cf0dc001f051a2457c64",
+      "names": {
+        "1": "Gotham Thin",
+        "2": "Italic",
+        "4": "Gotham-ThinItalic",
+        "6": "Gotham-ThinItalic"
+      }
+    },
+    {
+      "zip_member": "Gotham/Gotham Ultra/Gotham Ultra.otf",
+      "size": 133680,
+      "sha256": "62e6cfad51a25f7fe79b990792c451aa6001282a63d36f0698428deb8143d721",
+      "names": {
+        "1": "Gotham Ultra",
+        "2": "Regular",
+        "4": "Gotham-Ultra",
+        "6": "Gotham-Ultra"
+      }
+    }
+  ]
+}

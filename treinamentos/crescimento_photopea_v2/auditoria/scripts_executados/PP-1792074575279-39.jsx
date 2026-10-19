@@ -1,0 +1,1 @@
+try{var src=app.activeDocument;var dst=app.documents.getByName('PROVA_NATIVA');src.activeLayer.duplicate(dst,ElementPlacement.PLACEATBEGINNING);src.close(SaveOptions.DONOTSAVECHANGES);app.activeDocument=dst;app.echoToOE('DUPLICATE_OK');}catch(e){app.echoToOE('ERROR:'+e.message+' '+e);}

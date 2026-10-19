@@ -1,0 +1,212 @@
+[
+  {
+    "alias": "financas",
+    "page": 7,
+    "pdf": "referencias/pdfs_15/financas.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/financas_07.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "financas",
+    "page": 15,
+    "pdf": "referencias/pdfs_15/financas.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/financas_15.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "financas",
+    "page": 16,
+    "pdf": "referencias/pdfs_15/financas.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/financas_16.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "namorados",
+    "page": 10,
+    "pdf": "referencias/pdfs_15/namorados.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/namorados_10.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "colageno",
+    "page": 23,
+    "pdf": "referencias/pdfs_15/colageno.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/colageno_23.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "colageno",
+    "page": 24,
+    "pdf": "referencias/pdfs_15/colageno.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/colageno_24.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "oito_passos",
+    "page": 4,
+    "pdf": "referencias/pdfs_15/oito_passos.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_04.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "oito_passos",
+    "page": 10,
+    "pdf": "referencias/pdfs_15/oito_passos.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_10.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "oito_passos",
+    "page": 16,
+    "pdf": "referencias/pdfs_15/oito_passos.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_16.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "oito_passos",
+    "page": 29,
+    "pdf": "referencias/pdfs_15/oito_passos.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_29.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "oito_passos",
+    "page": 31,
+    "pdf": "referencias/pdfs_15/oito_passos.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/oito_passos_31.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "mulheres",
+    "page": 5,
+    "pdf": "referencias/pdfs_15/mulheres.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/mulheres_05.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "mulheres",
+    "page": 8,
+    "pdf": "referencias/pdfs_15/mulheres.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/mulheres_08.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "posicionamento",
+    "page": 2,
+    "pdf": "referencias/pdfs_15/posicionamento.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/posicionamento_02.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "posicionamento",
+    "page": 7,
+    "pdf": "referencias/pdfs_15/posicionamento.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/posicionamento_07.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "posicionamento",
+    "page": 11,
+    "pdf": "referencias/pdfs_15/posicionamento.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/posicionamento_11.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "etiqueta",
+    "page": 3,
+    "pdf": "referencias/pdfs_15/etiqueta.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/etiqueta_03.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "etiqueta",
+    "page": 4,
+    "pdf": "referencias/pdfs_15/etiqueta.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/etiqueta_04.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "base",
+    "page": 10,
+    "pdf": "referencias/pdfs_15/base.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/base_10.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "base",
+    "page": 16,
+    "pdf": "referencias/pdfs_15/base.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/base_16.png",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "alias": "rosangela",
+    "page": 14,
+    "pdf": "referencias/rosangela_original.pdf",
+    "render": "treinamentos/crescimento_photopea_v2/leitura/catalogo_integral/rosangela_14.png",
+    "size": [
+      1920,
+      1080
+    ]
+  }
+]

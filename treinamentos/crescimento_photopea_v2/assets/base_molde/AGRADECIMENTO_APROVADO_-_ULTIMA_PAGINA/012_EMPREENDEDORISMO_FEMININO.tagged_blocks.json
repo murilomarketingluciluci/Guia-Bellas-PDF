@@ -1,0 +1,752 @@
+[
+  {
+    "key": "TySh",
+    "parsed": {
+      "version": 1,
+      "transform": [
+        0.6082037982881617,
+        -8.01759611167474e-17,
+        0.0,
+        0.608203798288151,
+        95.29687500000009,
+        69.45122312265323
+      ],
+      "text_version": 50,
+      "text_data": {
+        "bytes:54787420": "EMPREENDEDORISMO FEMININO\u0000",
+        "bytes:746578744772696464696e67": {
+          "typeID": {
+            "bytes_base64": "dGV4dEdyaWRkaW5n",
+            "length": 12
+          },
+          "enum": {
+            "bytes_base64": "Tm9uZQ==",
+            "length": 4
+          }
+        },
+        "bytes:4f726e74": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        },
+        "bytes:416e7441": {
+          "typeID": {
+            "bytes_base64": "QW5udA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "QW5Dcg==",
+            "length": 4
+          }
+        },
+        "bytes:54784d50": false,
+        "bytes:626f756e6473": {
+          "bytes:4c656674": 0.0,
+          "bytes:546f7020": -21.249771118164062,
+          "bytes:52676874": 1063.4749755859375,
+          "bytes:42746f6d": 6.874847412109375
+        },
+        "bytes:626f756e64696e67426f78": {
+          "bytes:4c656674": 2.2125000953674316,
+          "bytes:546f7020": -17.987503051757812,
+          "bytes:52676874": 1062.0125732421875,
+          "bytes:42746f6d": 0.387503057718277
+        },
+        "bytes:54657874496e646578": 1,
+        "bytes:456e67696e6544617461": {
+          "EngineDict": {
+            "Editor": {
+              "Text": "EMPREENDEDORISMO FEMININO\r"
+            },
+            "ParagraphRun": {
+              "DefaultRunData": {
+                "ParagraphSheet": {
+                  "DefaultStyleSheet": 0,
+                  "Properties": {}
+                },
+                "Adjustments": {
+                  "Axis": [
+                    1.0,
+                    0.0,
+                    1.0
+                  ],
+                  "XY": [
+                    0.0,
+                    0.0
+                  ]
+                }
+              },
+              "RunArray": [
+                {
+                  "ParagraphSheet": {
+                    "DefaultStyleSheet": 0,
+                    "Properties": {
+                      "Justification": 5,
+                      "FirstLineIndent": 0.0,
+                      "StartIndent": 0.0,
+                      "EndIndent": 0.0,
+                      "SpaceBefore": 0.0,
+                      "SpaceAfter": 0.0,
+                      "AutoHyphenate": true,
+                      "HyphenatedWordSize": 6,
+                      "PreHyphen": 2,
+                      "PostHyphen": 2,
+                      "ConsecutiveHyphens": 8,
+                      "Zone": 36.0,
+                      "WordSpacing": [
+                        0.8,
+                        1.0,
+                        1.33
+                      ],
+                      "LetterSpacing": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "GlyphSpacing": [
+                        1.0,
+                        1.0,
+                        1.0
+                      ],
+                      "AutoLeading": 1.2,
+                      "LeadingType": 0,
+                      "Hanging": false,
+                      "Burasagari": false,
+                      "KinsokuOrder": 0,
+                      "EveryLineComposer": false
+                    }
+                  },
+                  "Adjustments": {
+                    "Axis": [
+                      1.0,
+                      0.0,
+                      1.0
+                    ],
+                    "XY": [
+                      0.0,
+                      0.0
+                    ]
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                26
+              ],
+              "IsJoinable": 1
+            },
+            "StyleRun": {
+              "DefaultRunData": {
+                "StyleSheet": {
+                  "StyleSheetData": {}
+                }
+              },
+              "RunArray": [
+                {
+                  "StyleSheet": {
+                    "StyleSheetData": {
+                      "Font": 0,
+                      "FontSize": 25.0,
+                      "FauxBold": false,
+                      "FauxItalic": false,
+                      "AutoLeading": true,
+                      "Leading": 0.01,
+                      "HorizontalScale": 1.0,
+                      "VerticalScale": 1.0,
+                      "Tracking": 1060,
+                      "AutoKerning": true,
+                      "Kerning": 0,
+                      "BaselineShift": 0.0,
+                      "FontCaps": 2,
+                      "FontBaseline": 0,
+                      "Underline": false,
+                      "Strikethrough": false,
+                      "Ligatures": true,
+                      "DLigatures": false,
+                      "BaselineDirection": 1,
+                      "Tsume": 0.0,
+                      "StyleRunAlignment": 2,
+                      "Language": 0,
+                      "NoBreak": false,
+                      "FillColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          1.0,
+                          1.0,
+                          1.0
+                        ]
+                      },
+                      "StrokeColor": {
+                        "Type": 1,
+                        "Values": [
+                          1.0,
+                          0.78306,
+                          0.59619,
+                          0.44362
+                        ]
+                      },
+                      "YUnderline": 1,
+                      "HindiNumbers": false,
+                      "Kashida": 1
+                    }
+                  }
+                }
+              ],
+              "RunLengthArray": [
+                26
+              ],
+              "IsJoinable": 2
+            },
+            "GridInfo": {
+              "GridIsOn": false,
+              "ShowGrid": false,
+              "GridSize": 18.0,
+              "GridLeading": 22.0,
+              "GridColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "GridLeadingFillColor": {
+                "Type": 1,
+                "Values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              "AlignLineHeightToGridFlags": false
+            },
+            "AntiAlias": 1,
+            "UseFractionalGlyphWidths": true,
+            "Rendered": {
+              "Version": 1,
+              "Shapes": {
+                "WritingDirection": 0,
+                "Children": [
+                  {
+                    "ShapeType": 0,
+                    "Procession": 0,
+                    "Lines": {
+                      "WritingDirection": 0,
+                      "Children": []
+                    },
+                    "Cookie": {
+                      "Photoshop": {
+                        "ShapeType": 0,
+                        "PointBase": [
+                          0.0,
+                          0.0
+                        ],
+                        "Base": {
+                          "ShapeType": 0,
+                          "TransformPoint0": [
+                            1.0,
+                            0.0
+                          ],
+                          "TransformPoint1": [
+                            0.0,
+                            1.0
+                          ],
+                          "TransformPoint2": [
+                            0.0,
+                            0.0
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "ResourceDict": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 2,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Medium",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          },
+          "DocumentResources": {
+            "KinsokuSet": [
+              {
+                "Name": "PhotoshopKinsokuHard",
+                "NoStart": "、。，．・：；？！ー―’”）〕］｝〉》」』】ヽヾゝゞ々ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ゛゜?!)]},.:;℃℉¢％‰",
+                "NoEnd": "‘“（〔［｛〈《「『【([{￥＄£＠§〒＃",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              },
+              {
+                "Name": "PhotoshopKinsokuSoft",
+                "NoStart": "、。，．・：；？！’”）〕］｝〉》」』】ヽヾゝゞ々",
+                "NoEnd": "‘“（〔［｛〈《「『【",
+                "Keep": "―‥",
+                "Hanging": "、。.,"
+              }
+            ],
+            "MojiKumiSet": [
+              {
+                "InternalName": "Photoshop6MojiKumiSet1"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet2"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet3"
+              },
+              {
+                "InternalName": "Photoshop6MojiKumiSet4"
+              }
+            ],
+            "TheNormalStyleSheet": 0,
+            "TheNormalParagraphSheet": 0,
+            "ParagraphSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "DefaultStyleSheet": 0,
+                "Properties": {
+                  "Justification": 0,
+                  "FirstLineIndent": 0.0,
+                  "StartIndent": 0.0,
+                  "EndIndent": 0.0,
+                  "SpaceBefore": 0.0,
+                  "SpaceAfter": 0.0,
+                  "AutoHyphenate": true,
+                  "HyphenatedWordSize": 6,
+                  "PreHyphen": 2,
+                  "PostHyphen": 2,
+                  "ConsecutiveHyphens": 8,
+                  "Zone": 36.0,
+                  "WordSpacing": [
+                    0.8,
+                    1.0,
+                    1.33
+                  ],
+                  "LetterSpacing": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "GlyphSpacing": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "AutoLeading": 1.2,
+                  "LeadingType": 0,
+                  "Hanging": false,
+                  "Burasagari": false,
+                  "KinsokuOrder": 0,
+                  "EveryLineComposer": false
+                }
+              }
+            ],
+            "StyleSheetSet": [
+              {
+                "Name": "RGB Normal",
+                "StyleSheetData": {
+                  "Font": 2,
+                  "FontSize": 12.0,
+                  "FauxBold": false,
+                  "FauxItalic": false,
+                  "AutoLeading": true,
+                  "Leading": 0.0,
+                  "HorizontalScale": 1.0,
+                  "VerticalScale": 1.0,
+                  "Tracking": 0,
+                  "AutoKerning": true,
+                  "Kerning": 0,
+                  "BaselineShift": 0.0,
+                  "FontCaps": 0,
+                  "FontBaseline": 0,
+                  "Underline": false,
+                  "Strikethrough": false,
+                  "Ligatures": true,
+                  "DLigatures": false,
+                  "BaselineDirection": 2,
+                  "Tsume": 0.0,
+                  "StyleRunAlignment": 2,
+                  "Language": 0,
+                  "NoBreak": false,
+                  "FillColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "StrokeColor": {
+                    "Type": 1,
+                    "Values": [
+                      1.0,
+                      0.0,
+                      0.0,
+                      0.0
+                    ]
+                  },
+                  "FillFlag": true,
+                  "StrokeFlag": false,
+                  "FillFirst": true,
+                  "YUnderline": 1,
+                  "OutlineWidth": 1.0,
+                  "CharacterDirection": 0,
+                  "HindiNumbers": false,
+                  "Kashida": 1,
+                  "DiacriticPos": 2
+                }
+              }
+            ],
+            "FontSet": [
+              {
+                "Name": "Gotham-Medium",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "AdobeInvisFont",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              },
+              {
+                "Name": "MyriadPro-Regular",
+                "Script": 0,
+                "FontType": 0,
+                "Synthetic": 0
+              }
+            ],
+            "SuperscriptSize": 0.583,
+            "SuperscriptPosition": 0.333,
+            "SubscriptSize": 0.583,
+            "SubscriptPosition": 0.333,
+            "SmallCapSize": 0.7
+          }
+        }
+      },
+      "warp_version": 1,
+      "warp": {
+        "bytes:776172705374796c65": {
+          "typeID": {
+            "bytes_base64": "d2FycFN0eWxl",
+            "length": 9
+          },
+          "enum": {
+            "bytes_base64": "d2FycE5vbmU=",
+            "length": 8
+          }
+        },
+        "bytes:7761727056616c7565": 0.0,
+        "bytes:776172705065727370656374697665": 0.0,
+        "bytes:7761727050657273706563746976654f74686572": 0.0,
+        "bytes:77617270526f74617465": {
+          "typeID": {
+            "bytes_base64": "T3JudA==",
+            "length": 4
+          },
+          "enum": {
+            "bytes_base64": "SHJ6bg==",
+            "length": 4
+          }
+        }
+      },
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_TySh.bin",
+      "bytes": 9512,
+      "sha256": "2999d122c0e520c9b90eba88484394705bafdf1fec1124a16fef64c74a82e5b3",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "luni",
+    "parsed": "EMPREENDEDORISMO FEMININO",
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_luni.bin",
+      "bytes": 54,
+      "sha256": "d81e4d2441bbd7bdbf6795fa5c31d67edb96b09118de612a39f1390598b6b07a",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lnsr",
+    "parsed": {
+      "bytes_base64": "cmVuZA==",
+      "length": 4
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lnsr.bin",
+      "bytes": 4,
+      "sha256": "69bc823df4bd52d72a5988b55ab0f238f5d17b28344132b01b2463e388bb9424",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lyid",
+    "parsed": 1143,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lyid.bin",
+      "bytes": 4,
+      "sha256": "84294f802d8e8b004ebc09473ccce555cc335fb5ac0d00ec9304de70d3c4e6a5",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "clbl",
+    "parsed": 1,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_clbl.bin",
+      "bytes": 4,
+      "sha256": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "infx",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_infx.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "knko",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_knko.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lspf",
+    "parsed": 0,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lspf.bin",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "lclr",
+    "parsed": 10,
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_lclr.bin",
+      "bytes": 8,
+      "sha256": "ece3a8b3f8b3a0d857991f277beec8085837772db66766084799cab7d27c632b",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "shmd",
+    "parsed": {
+      "_items": [
+        {
+          "signature": {
+            "bytes_base64": "OEJJTQ==",
+            "length": 4
+          },
+          "key": {
+            "bytes_base64": "Y3VzdA==",
+            "length": 4
+          },
+          "copy_on_sheet": false,
+          "data": {
+            "bytes:6c6179657254696d65": 1792011480.437724
+          }
+        }
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_shmd.bin",
+      "bytes": 72,
+      "sha256": "155b9d684c0bb4b8b6dd0c3c1b44c7cace271008b0f99d42cc24e66558d96ee1",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  },
+  {
+    "key": "fxrp",
+    "parsed": {
+      "_items": [
+        -744.2484914191332,
+        -586.9955027166395
+      ]
+    },
+    "serialized_semantics": {
+      "path": "assets/base_molde/AGRADECIMENTO_APROVADO_-_ULTIMA_PAGINA/012_EMPREENDEDORISMO_FEMININO.tag_fxrp.bin",
+      "bytes": 16,
+      "sha256": "07a3cac990bd16aba1ac3b7bb73a020396e5f358d632d963b7efbbcbf69de43e",
+      "origin": "psd-tools serialization of parsed layer descriptor; not claimed original raw bytes"
+    }
+  }
+]

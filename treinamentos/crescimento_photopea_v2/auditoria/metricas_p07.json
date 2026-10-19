@@ -1,0 +1,7 @@
+{
+  "id": "PP-1792075632677-95",
+  "echoes": [
+    "METRICS:[{\"name\":\"p05-titulo\",\"text\":\"Ele foi até o fim!\",\"bounds\":[260,345,983,416],\"font\":\"Gotham-Book\"},{\"name\":\"p05-citacao\",\"text\":\"“Está consumado.”\",\"bounds\":[265,525,968,583],\"font\":\"Gotham-Light\"},{\"name\":\"p05-citacao-referencia\",\"text\":\"João 19:30\",\"bounds\":[270,670,437,694],\"font\":\"Gotham-Medium\"}]"
+  ],
+  "files": []
+}
