@@ -1,0 +1,9 @@
+{
+  "pedido_literal": "Pode fazer essas correções, começando pelos validadores, pela organização das instruções e pelo empacotador. Preserve as artes aprovadas e depois atualize o GitHub.",
+  "escopo": "Validadores e regressões, contrato vigente e rotas de leitura, empacotamento sem Git/credenciais e sem sobrescrever histórico; atualização GitHub autorizada após validação.",
+  "agente": "principal",
+  "modelo_esforco": "não informado por fonte verificável",
+  "subagentes": "nenhum",
+  "preservacao": "Não modificar PSDs, PDFs, provas, assets nem manifestos históricos; não incluir o treinamento de empreendedorismo em andamento no commit.",
+  "lacuna_inicial": "Duas chamadas de inspeção e leitura de skill precederam este arquivo. Parâmetros completos no transcript. As mudanças via apply_patch permanecem literais no transcript; o diário arquiva versões dos scripts executados e diff final. Não se declara reprodução literal de toda chamada de ferramenta neste diário."
+}

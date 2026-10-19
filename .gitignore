@@ -19,3 +19,6 @@ Desktop.ini
 ~$*
 *.tmp
 *.temp
+
+# Distribuições geradas por versão
+dist/

@@ -5,10 +5,10 @@ import json
 import math
 import re
 from pathlib import Path
+from contrato_bellas import TEMP_LABEL, validate_contract
 
 ROLES = {"h1", "body", "bullet", "card", "callout", "photo", "line", "quote", "chart"}
 TEXT_ROLES = ROLES - {"photo", "line", "chart"}
-TEMP_LABEL = re.compile(r"(?:^|\n)\s*(?:H1\b|BLOCO\s*\d*\b|ITEM\s*\d*\b|BULLET\s*\d*\b|PLACEHOLDER\b)", re.I)
 APPROVED_TEMPLATE = (Path(__file__).resolve().parents[1] / "referencias" / "molde_bellas_aprovado_capa_temas_agradecimento.psd").resolve()
 
 
@@ -22,7 +22,7 @@ def relative_asset(base: Path, value: object, label: str, problems: list[str]) -
         problems.append(label + ": arquivo ausente: " + value)
 
 
-def validate(path: Path, requested_stage: str | None = None, require_approved_template: bool = False) -> list[str]:
+def _validate_geometry(path: Path, requested_stage: str | None = None, require_approved_template: bool = False, legacy: bool = False) -> list[str]:
     data = json.loads(path.read_text(encoding="utf-8-sig"))
     problems: list[str] = []
     stage = requested_stage or data.get("stage", "planejamento")
@@ -62,6 +62,9 @@ def validate(path: Path, requested_stage: str | None = None, require_approved_te
         else:
             themes.add(theme)
         elements = slide.get("elements")
+        thanks = stage == "final" and not legacy and index == len(slides) and slide.get("fixed") == "thanks"
+        if thanks and elements == []:
+            continue
         if not isinstance(elements, list) or not elements:
             problems.append(prefix + ": elements deve ser lista não vazia")
             continue
@@ -83,10 +86,10 @@ def validate(path: Path, requested_stage: str | None = None, require_approved_te
             if min(x, y) < 0 or w <= 0 or h <= 0 or x + w > 1.000001 or y + h > 1.000001:
                 problems.append(label + ": retângulo fora da tela")
             if role == "photo":
-                if not (abs(y) < 1e-6 and abs(h - 1) < 1e-6 and (abs(x) < 1e-6 or abs(x + w - 1) < 1e-6)):
+                if el.get("photo_kind") != "cutout" and not (abs(y) < 1e-6 and abs(h - 1) < 1e-6 and (abs(x) < 1e-6 or abs(x + w - 1) < 1e-6)):
                     problems.append(label + ": foto deve preencher altura tocando uma lateral")
                 relative_asset(path.parent, el.get("asset"), label + ".asset", problems)
-                if el.get("fit") != "cover":
+                if el.get("fit") not in ({"cover", "contain"} if el.get("photo_kind") == "cutout" else {"cover"}):
                     problems.append(label + ": foto exige fit: cover")
                 if index == 1:
                     problems.append("slide 1: capa não pode conter foto")
@@ -105,22 +108,36 @@ def validate(path: Path, requested_stage: str | None = None, require_approved_te
     return problems
 
 
+def validate(path: Path, requested_stage: str | None = None, require_approved_template: bool = False, legacy: bool = False) -> list[str]:
+    data = json.loads(path.read_text(encoding="utf-8-sig"))
+    try:
+        problems = validate_contract(data, path, requested_stage, legacy)
+    except (KeyError, AttributeError, TypeError, ValueError):
+        problems = ["estrutura inválida no contrato do manifesto"]
+    try:
+        problems += _validate_geometry(path, requested_stage, require_approved_template or (not legacy and requested_stage == "final"), legacy)
+    except (KeyError, AttributeError, TypeError, ValueError) as exc:
+        problems.append(f"estrutura de manifesto inválida: {type(exc).__name__}")
+    return problems
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("manifest", type=Path)
     parser.add_argument("--stage", choices=["planejamento", "final"])
     parser.add_argument("--require-approved-template", action="store_true",
                         help="Para novos treinamentos: recusar PSD de partida/doador diferente do molde consolidado")
+    parser.add_argument("--legacy", action="store_true", help="Inspeção histórica; não homologa final novo")
     args = parser.parse_args()
     try:
-        problems = validate(args.manifest.resolve(), args.stage, args.require_approved_template)
+        problems = validate(args.manifest.resolve(), args.stage, args.require_approved_template, args.legacy)
     except (ValueError, OSError, TypeError) as exc:
         print("Manifest inválido:", exc)
         return 1
     if problems:
         print("Manifest inválido:\n" + "\n".join("- " + p for p in problems))
         return 1
-    print("Manifest válido. A prova visual e a revisão editorial ainda são necessárias.")
+    print("Manifesto histórico conferido (legacy)." if args.legacy else "Manifest válido. A prova visual e a revisão editorial ainda são necessárias.")
     return 0
 
 

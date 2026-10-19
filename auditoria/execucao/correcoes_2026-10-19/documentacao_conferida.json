@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "documents_checked": 9,
+  "broken_links": [],
+  "entrypoint_words_before": 6151,
+  "entrypoint_words_after_including_contract": 2311,
+  "interpretation": "Contagem de palavras mede redução de duplicação, não prova mudança de comportamento criativo."
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "psd": "treinamentos/crescimento_photopea_v2/entrega/Crescimento_Photopea_V2.psd",
+    "text_layers": 88,
+    "fonts": {
+      "Gotham-Light": 19,
+      "Gotham-Medium": 4,
+      "Gotham-Book": 58,
+      "Gotham-Bold": 27
+    },
+    "reader_errors": []
+  },
+  {
+    "psd": "treinamentos/crescimento_luciane/entrega/crescimento_luciane_bellas.psd",
+    "text_layers": 91,
+    "fonts": {
+      "Gotham-Light": 3,
+      "Gotham-Medium": 22,
+      "Gotham-Book": 47,
+      "Gotham-Bold": 29
+    },
+    "reader_errors": []
+  }
+]

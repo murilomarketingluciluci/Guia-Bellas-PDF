@@ -10,6 +10,7 @@ from psd_tools import PSDImage
 
 ROOT = Path(__file__).resolve().parents[1]
 APPROVED = ROOT / "referencias" / "molde_bellas_aprovado_capa_temas_agradecimento.psd"
+APPROVED_SHA256 = "357e5af012e7077c074f843f3809daf4978cf51bb794f692efe3da276d90271a"
 GROUPS = {
     "CAPA APROVADA - ALTERAR SOMENTE TITULO",
     "TEMA CLARO VAZIO - DUPLICAR",
@@ -29,6 +30,10 @@ def validate(path: Path) -> list[str]:
     problems: list[str] = []
     if not path.is_file():
         return [f"molde ausente: {path}"]
+    with path.open("rb") as handle:
+        digest = hashlib.file_digest(handle, "sha256").hexdigest()
+    if digest != APPROVED_SHA256:
+        problems.append("SHA-256 difere do molde aprovado; estrutura semelhante não comprova identidade")
     psd = PSDImage.open(path)
     if (psd.width, psd.height) != (1920, 1080):
         problems.append(f"canvas inesperado: {psd.width}x{psd.height}")

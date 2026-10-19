@@ -1,0 +1,22 @@
+{
+  "command_exact": [
+    "C:\\Users\\Murilo\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Guia_Bellas_IA\\Guia_Bellas_IA\\Criador de PDF Agente\\scripts\\validar_artefatos_bellas.py",
+    "--manifest",
+    "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Guia_Bellas_IA\\Guia_Bellas_IA\\Criador de PDF Agente\\auditoria\\execucao\\correcoes_2026-10-19\\fixture_manifesto_sem_paginas.json",
+    "--psd",
+    "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Guia_Bellas_IA\\Guia_Bellas_IA\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\entrega\\Crescimento_Photopea_V2.psd",
+    "--png-dir",
+    "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Guia_Bellas_IA\\Guia_Bellas_IA\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\entrega\\pngs",
+    "--pdf",
+    "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Guia_Bellas_IA\\Guia_Bellas_IA\\Criador de PDF Agente\\treinamentos\\crescimento_photopea_v2\\entrega\\Crescimento_Photopea_V2.pdf",
+    "--report",
+    "C:\\Users\\Murilo\\Documents\\Projetos\\Bellas\\Lives\\Guia_Bellas_IA\\Guia_Bellas_IA\\Criador de PDF Agente\\auditoria\\execucao\\correcoes_2026-10-19\\qa_integrado_negativo.json"
+  ],
+  "exit_code": 1,
+  "expected_rejection": true,
+  "technical_problem_count": 31,
+  "stdout": "Artefatos inválidos:\n- manifesto: sources: registre id, file, page e text dos trechos de origem\n- manifesto: final novo exige lista de slides com capa e agradecimento distintos\n- manifesto: manifesto final deve declarar stage: final\n- manifesto: slides deve ser lista não vazia\n- pagina_01.png: perfil ICC ausente\n- pagina_02.png: perfil ICC ausente\n- pagina_03.png: perfil ICC ausente\n- pagina_04.png: perfil ICC ausente\n- pagina_05.png: perfil ICC ausente\n- pagina_06.png: perfil ICC ausente\n- pagina_07.png: perfil ICC ausente\n- pagina_08.png: perfil ICC ausente\n- pagina_09.png: perfil ICC ausente\n- pagina_10.png: perfil ICC ausente\n- pagina_11.png: perfil ICC ausente\n- pagina_12.png: perfil ICC ausente\n- reabertura: informe --reopen-report e --reopen-png-dir para vincular PSD atual às provas\n- capa diverge da referência fora da área do título\n- agradecimento diverge da referência aprovada\n- PDF p01: ICC incorporado difere do PNG\n- PDF p02: ICC incorporado difere do PNG\n- PDF p03: ICC incorporado difere do PNG\n- PDF p04: ICC incorporado difere do PNG\n- PDF p05: ICC incorporado difere do PNG\n- PDF p06: ICC incorporado difere do PNG\n- PDF p07: ICC incorporado difere do PNG\n- PDF p08: ICC incorporado difere do PNG\n- PDF p09: ICC incorporado difere do PNG\n- PDF p10: ICC incorporado difere do PNG\n- PDF p11: ICC incorporado difere do PNG\n- PDF p12: ICC incorporado difere do PNG\n",
+  "stderr": "",
+  "scope": "Reprovação esperada de manifesto artificial; diferenças históricas de ICC/capa/agradecimento continuam reportadas. Não homologa a arte V2."
+}

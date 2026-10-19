@@ -16,6 +16,10 @@ from pathlib import Path
 import pymupdf
 from PIL import Image, ImageChops, ImageCms
 from psd_tools import PSDImage
+from validar_manifest import validate as validate_manifest
+from contrato_bellas import normalized
+from verificar_textos_psd import compare_pages, descendants as visible_descendants, verify_reopen
+from verificar_molde import validate as validate_template
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -72,12 +76,20 @@ def main() -> int:
     parser.add_argument("--require-srgb-icc", action="store_true",
                         help="Exigir ICC sRGB nos PNGs novos e no PDF; provas Optima históricas não têm ICC")
     parser.add_argument("--report", type=Path)
+    parser.add_argument("--legacy", action="store_true", help="Diagnóstico de arte histórica, sem homologar contrato novo")
+    parser.add_argument("--reopen-report", type=Path)
+    parser.add_argument("--reopen-png-dir", type=Path)
     args = parser.parse_args()
+    args.require_srgb_icc = args.require_srgb_icc or not args.legacy
     problems: list[str] = []
     details: dict[str, object] = {}
     try:
         manifest_path = args.manifest.resolve()
         manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
+        manifest_problems = validate_manifest(manifest_path, "final", True, args.legacy)
+        problems.extend("manifesto: " + p for p in manifest_problems)
+        if not isinstance(manifest, dict):
+            raise ValueError("manifesto deve ser objeto")
         template = manifest.get("template", {})
         value = template.get("psd")
         actual_template = (manifest_path.parent / value).resolve() if isinstance(value, str) else None
@@ -88,20 +100,37 @@ def main() -> int:
         psd = PSDImage.open(args.psd)
         if (psd.width, psd.height) != (1920, 1080):
             problems.append(f"PSD: canvas {psd.width}x{psd.height}; esperado 1920x1080")
-        groups = [layer for layer in psd if layer.is_group() and re.match(r"^\d+\b", layer.name)]
+        groups = sorted([layer for layer in psd if layer.is_group() and re.match(r"^\d+\b", layer.name)], key=lambda layer: int(re.match(r"^(\d+)", layer.name).group(1)))
         nums = sorted(int(re.match(r"^(\d+)", group.name).group(1)) for group in groups)
         if nums != list(range(1, len(nums) + 1)):
             problems.append(f"PSD: grupos de página fora da sequência 1..N: {nums}")
+        if not groups:
+            problems.append("PSD: nenhuma pasta de página numerada")
         hidden = []
         for group in groups:
-            for layer, path in descendants(group, (group.name,)):
+            for layer, path, visible in visible_descendants(group):
                 # Visibilidade local, não a do grupo da página atualmente oculto.
-                if layer.kind == "type" and not layer.visible:
-                    hidden.append("/".join(path))
+                if layer.kind == "type" and not visible:
+                    hidden.append(group.name + "/" + path)
         if hidden:
             problems.append("PSD: camadas de texto ocultas dentro de páginas finais: " + "; ".join(hidden))
         details["psd_page_groups"] = len(groups)
         details["hidden_text_layers"] = hidden
+        if not args.legacy:
+            problems.extend("molde: " + p for p in validate_template(APPROVED))
+        fixed_texts = {}
+        if not args.legacy:
+            template_psd = PSDImage.open(APPROVED)
+            for original in template_psd:
+                if not original.is_group():
+                    continue
+                key = "cover" if original.name.startswith("CAPA APROVADA") else "thanks" if original.name.startswith("AGRADECIMENTO") else None
+                if key:
+                    fixed_texts[key] = [normalized(l.text) for l,p,v in visible_descendants(original) if l.kind == "type" and (key != "cover" or "Desodorante" not in str(l.text))]
+        # Não executar comparações de estilos com dados malformados.
+        if not manifest_problems:
+            problems.extend(compare_pages(manifest, groups, fixed_texts, args.legacy))
+        details["manifest_page_count"] = len(manifest.get("slides", [])) if isinstance(manifest.get("slides"), list) else None
 
         pngs = numbered_pngs(args.png_dir, problems)
         details["png_count"] = len(pngs)
@@ -121,6 +150,8 @@ def main() -> int:
                         name = ImageCms.getProfileName(ImageCms.ImageCmsProfile(BytesIO(icc)))
                         if "srgb" not in name.casefold():
                             problems.append(f"{path.name}: perfil ICC não identificado como sRGB: {name}")
+        if not args.legacy or args.reopen_report or args.reopen_png_dir:
+            problems.extend(verify_reopen(args.psd, args.reopen_report, pngs, args.reopen_png_dir, same_rgb, Image.open))
 
         if pngs:
             with Image.open(pngs[0]) as final, Image.open(COVER) as ref:
@@ -140,7 +171,7 @@ def main() -> int:
                     problems.append(f"PDF p{number:02}: esperada exatamente uma imagem de página")
                 elif args.require_srgb_icc:
                     kind, value = pdf.xref_get_key(images[0][0], "ColorSpace")
-                    color_object = pdf.xref_object(int(value.split()[0])) if kind == "xref" else ""
+                    color_object = pdf.xref_object(int(value.split()[0])) if kind == "xref" else value
                     match = re.search(r"/ICCBased\s+(\d+)\s+0\s+R", color_object)
                     if not match:
                         problems.append(f"PDF p{number:02}: imagem sem espaço de cor ICCBased")
@@ -157,6 +188,8 @@ def main() -> int:
         problems.append(f"erro de leitura/validação: {type(exc).__name__}: {exc}")
 
     report = {"status": "passed" if not problems else "failed",
+              "validation_mode": "legacy" if args.legacy else "final_2.0",
+              "visual_approval": False,
               "problems": problems, "details": details}
     if args.report:
         args.report.parent.mkdir(parents=True, exist_ok=True)
@@ -164,7 +197,7 @@ def main() -> int:
     if problems:
         print("Artefatos inválidos:\n" + "\n".join("- " + p for p in problems))
         return 1
-    print(f"Artefatos conferidos: {details['psd_page_groups']} páginas, sem texto oculto, PDF idêntico aos PNGs.")
+    print(f"Integridade técnica conferida: {details['psd_page_groups']} páginas; modo {report['validation_mode']}. Parecer visual/editorial separado obrigatório.")
     return 0
 
 

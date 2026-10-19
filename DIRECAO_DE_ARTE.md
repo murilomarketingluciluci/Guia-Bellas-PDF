@@ -1,5 +1,7 @@
 # Direção de arte antes do layout
 
+Aplicação do `CONTRATO_ATUAL.md`. As justificativas do mapa devem ser comprovadas nas provas: nomear um objetivo não demonstra que a composição o atingiu. Classifique procedimento, condição/restrição, benefício, evidência, atribuição e fecho antes de diagramar; preserve essas funções. Compare a alternativa escolhida à descartada por foco, clareza e leitura, sem exigir variedade por contagem.
+
 Este guia resolve uma falha observada em Crescimento/Luciane: uma apresentação pode passar em cor, fonte, editabilidade e cobertura, mas ainda parecer uma sequência de páginas geradas pela mesma fórmula. O molde fixa a identidade Bellas; ele **não** decide o desenho de cada página. Os 26 arquétipos e as 13 provas Optima são repertório de soluções, não um menu a preencher em ordem.
 
 ## 1. Descubra o gesto de cada página

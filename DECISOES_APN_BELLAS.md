@@ -1,6 +1,6 @@
 # Decisões de produção Bellas — após a APN Optima
 
-Este é o contrato editorial e visual atual para novas APNs. As correções explícitas do usuário nesta primeira produção prevalecem sobre o mockup Optima v2, o catálogo histórico e os prompts antigos. Os **13 PNGs aprovados**, o PDF e o PSD em `exemplos/optima_final/` são o exemplo executado; `exemplos/planejamento/` e `optima_provas/*.jpg` são históricos.
+Este é o registro de decisões editoriais/visuais e sua proveniência. As regras vigentes estão consolidadas em `CONTRATO_ATUAL.md`; os casos abaixo mantêm seu escopo original. As correções explícitas do usuário nesta primeira produção prevalecem sobre o mockup Optima v2, o catálogo histórico e os prompts antigos. Os **13 PNGs aprovados**, o PDF e o PSD em `exemplos/optima_final/` são o exemplo executado; `exemplos/planejamento/` e `optima_provas/*.jpg` são históricos.
 
 ## 1. Conteúdo e edição
 
